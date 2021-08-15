@@ -1,0 +1,17 @@
+<footer>
+  <p>
+  [
+  {{ with .Site.GetPage "/książka/Spis_treści.md" }}
+  <a href="{{ .RelPermalink }}">{{ .Title | lower }}</a>
+  {{ end }}
+  |
+  {{ with .Site.GetPage "/o-autorze/index.md" }}
+  <a href="{{ .RelPermalink }}">{{ .Title | lower }}</a>
+  {{ end }}
+  ]
+  </p>
+  {{ with .Site.Params.description -}}
+  <p><i>{{ $.Site.Title }} to {{ . }}.</i></p>
+  {{- end }}
+  <p>&copy; 2005-2021 Maciej Bliziński</p>
+</footer>

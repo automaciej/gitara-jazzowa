@@ -1,0 +1,10 @@
+<!-- Pick the article title, or the site title otherwise -->
+<h1>
+  {{- with .Title }}
+  {{ . }}
+  {{ else }}
+  {{ .Site.Title }}
+  {{ end -}}
+</h1>
+<header>
+</header>
