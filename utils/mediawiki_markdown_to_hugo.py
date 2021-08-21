@@ -26,7 +26,7 @@ The reason is quite funny: What `find` gets in argv is `mv -f {} {}` because the
 "$( ... )" block gets executed by shell before `find` has a chance to see it.
 """
 
-from typing import List
+from typing import List, Set
 from dataclasses import dataclass, field
 
 import argparse
@@ -77,6 +77,56 @@ draft: false
 {wikilinks_text}
 ---
 """
+
+
+@dataclass
+class Document:
+  """Represents a Markdown document."""
+  content: str
+  path: str
+
+  def TryToFixWikilinks(self, existing_paths: Set[str]) -> 'Document':
+    """When the target file does not exist on disk, don't sub."""
+    # Pattern matching the destination.
+    dest_pattern = '[^\s]+'
+    anchor_pat = '\[(?P<anchor>[^\]]+)\]'
+    identify_pat = anchor_pat + '\((?P<dest>[^\s]+) "wikilink"\)'
+    def repl(m) -> str:
+      def annotate_invalid(s: str) -> str:
+        return f"{s}<!-- link nie odnosił się do niczego -->"
+      dest = m['dest']
+      anchor = m['anchor']
+      if (dest in KNOWN_DANGLING_REFS
+          or dest.startswith(":Kat")
+          or dest.startswith(":kat")
+          or dest.startswith("Użytkownik")):
+        # Stripping the link entirely.
+        print(f"{anchor} links to {dest}, a dangling reference")
+        return annotate_invalid(anchor)
+      # We've found a destination, does it exist on disk?
+      # Desperate measures here. I wanted this to not do I/O.
+      # This is also not configured correctly and won't work on anyone else's
+      # setup.
+      doc_dir, _ = os.path.split(self.path)
+      dest_path = os.path.join(doc_dir, dest + ".md")
+      if dest_path not in existing_paths:
+        return annotate_invalid(anchor)
+      return '[%s]({{< relref "%s" >}})' % (anchor, dest + '.md')
+    return Document(re.sub(identify_pat, repl, self.content),
+                    self.path)
+
+  def RemoveCategoryLinks(self) -> 'Document':
+    pattern = '\[:?[Kk]ategoria:[^\]]+\]\([^\)]+\)'
+    return Document(re.sub(pattern, '', self.content), self.path)
+
+
+  def RemoveGraphicsTags(self) -> 'Document':
+    pattern = '\[:?[Gg]rafika:[^\]]+\]\([^\)]+\)'
+    return Document(re.sub(pattern, '', self.content), self.path)
+
+  def RemoveThumbs(self) -> 'Document':
+    pattern = '\[thumb\]\([^\)]+\)'
+    return Document(re.sub(pattern, '', self.content), self.path)
 
 
 def Slugify(s: str) -> str:
@@ -141,61 +191,18 @@ KNOWN_DANGLING_REFS = [
   "akompaniament)](Walking_\\(akompaniament\\)",
 ]
 
-# TODO: Change this to not do I/O.
-def TryToFixWikilinks(content: str) -> str:
-  """When the target file does not exist on disk, don't sub."""
-  # Pattern matching the destination.
-  dest_pattern = '[^\s]+'
-  anchor_pat = '\[(?P<anchor>[^\]]+)\]'
-  identify_pat = anchor_pat + '\((?P<dest>[^\s]+) "wikilink"\)'
-  def repl(m) -> str:
-    def annotate_invalid(s: str) -> str:
-      return f"{s}<!-- link nie odnosił się do niczego -->"
-    dest = m['dest']
-    anchor = m['anchor']
-    if (dest in KNOWN_DANGLING_REFS
-        or dest.startswith(":Kat")
-        or dest.startswith(":kat")
-        or dest.startswith("Użytkownik")):
-      # Stripping the link entirely.
-      print(f"{anchor} links to {dest}, a dangling reference")
-      return annotate_invalid(anchor)
-    # We've found a destination, does it exist on disk?
-    # Desperate measures here. I wanted this to not do I/O.
-    # This is also not configured correctly and won't work on anyone else's
-    # setup.
-    dest_path = os.path.join("content/książka", dest + ".md")
-    if not os.path.exists(dest_path):
-      print(f"Dangling reference to {dest_path}, not replacing")
-      return annotate_invalid(anchor)
-    return '[%s]({{< relref "%s" >}})' % (anchor, dest + '.md')
-  return re.sub(identify_pat, repl, content)
-
-
-def RemoveCategoryLinks(content: str) -> str:
-  pattern = '\[:?[Kk]ategoria:[^\]]+\]\([^\)]+\)'
-  return re.sub(pattern, '', content)
-
-
-def RemoveGraphicsTags(content: str) -> str:
-  pattern = '\[:?[Gg]rafika:[^\]]+\]\([^\)]+\)'
-  return re.sub(pattern, '', content)
-
-
-def RemoveThumbs(content: str) -> str:
-  pattern = '\[thumb\]\([^\)]+\)'
-  return re.sub(pattern, '', content)
-
-
-def AnnotateMarkdown(content: str, title: str) -> str:
+def AnnotateMarkdown(doc: Document, title: str,
+                     existing_paths: Set[str]) -> str:
   """Analyze the content and add front matter."""
-  fm = FrontMatterFromContent(content, title)
-  return fm.ToString() + RemoveThumbs(
-    TryToFixWikilinks(RemoveGraphicsTags(
-      RemoveCategoryLinks(content))))
+  fm = FrontMatterFromContent(doc.content, title)
+  return fm.ToString() + (doc.RemoveCategoryLinks()
+                          .RemoveGraphicsTags()
+                          .TryToFixWikilinks(existing_paths)
+                          .RemoveThumbs()
+                          .content)
 
 
-def ProcessFile(path) -> None:
+def ProcessFile(path: str, existing_paths: Set[str]) -> None:
   # First things first, let's check if we're even going to try.
   backup_path = path + ".orig"
   if os.path.exists(backup_path):
@@ -211,7 +218,8 @@ def ProcessFile(path) -> None:
     print(f"File {path} seems to contain Front Matter already. Skipping.")
     return
   title = TitleFromPath(path)
-  updated_content: str = AnnotateMarkdown(markdown_text, title)
+  doc = Document(markdown_text, path)
+  updated_content: str = AnnotateMarkdown(doc, title, existing_paths)
   # Let's not destroy people's work.
   shutil.copy(path, backup_path)
   with open(path, "wb") as fd:
@@ -241,6 +249,6 @@ if __name__ == '__main__':
       "content_directory", metavar="PATH",
       help="Content directory, usually named 'content'.")
   args = parser.parse_args()
-  markdown_paths = MarkdownPaths(args.content_directory)
+  markdown_paths = set(MarkdownPaths(args.content_directory))
   for path in markdown_paths:
-    ProcessFile(path)
+    ProcessFile(path, markdown_paths)

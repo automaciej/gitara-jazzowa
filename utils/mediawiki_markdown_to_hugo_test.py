@@ -73,22 +73,28 @@ wikilinks: ['Another_article']
     self.assertEqual(expected, fm.ToString())
 
   def testWikilinks(self):
-    src = '3.  [Modulatory i filtry dźwięku](Modulatory_i_filtry_dźwięku "wikilink")'
+    existing_paths = set(['content/książka/Modulatory_i_filtry_dźwięku.md'])
+    doc = m.Document('3.  [Modulatory i filtry dźwięku]'
+                     '(Modulatory_i_filtry_dźwięku "wikilink")',
+                     'content/książka/foo.md')
     dst = ('3.  [Modulatory i filtry dźwięku]'
           '({{< relref "Modulatory_i_filtry_dźwięku.md" >}})')
-    self.assertEqual(dst, m.TryToFixWikilinks(src))
+    self.assertEqual(dst, doc.TryToFixWikilinks(existing_paths).content)
 
-  # This I don't know how to do!
   def testWikilinksParen(self):
-    src = '[Coś tam (akompaniament)](Bossa_Nova_\(akompaniament\) "wikilink")'
-    dst = '[Coś tam (akompaniament)]("Bossa_Nova_\(akompaniament\).md")'
-    self.assertEqual(dst, m.TryToFixWikilinks(src))
+    existing_paths = set(["content/książka/Bossa_Nova_\\(akompaniament\\).md"])
+    doc = m.Document('[Coś tam (akompaniament)](Bossa_Nova_\(akompaniament\) '
+                     '"wikilink")', 'content/książka/foo.md')
+    dst = ('[Coś tam (akompaniament)]'
+           '({{< relref "Bossa_Nova_\(akompaniament\).md" >}})')
+    self.assertEqual(dst, doc.TryToFixWikilinks(existing_paths).content)
 
   def testRemoveCategoryLinks(self):
-    src = ('head[kategoria:technika gry](# "Niestety nic nie ma pod '
-           'tym linkiem")tail')
+    doc = m.Document(
+      'head[kategoria:technika gry](# "Niestety nic nie ma pod '
+      'tym linkiem")tail', 'content/książka/foo.md')
     dst = 'headtail'
-    self.assertEqual(dst, m.RemoveCategoryLinks(src))
+    self.assertEqual(dst, doc.RemoveCategoryLinks().content)
 
 
 if __name__ == '__main__':
