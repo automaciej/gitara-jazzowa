@@ -1,0 +1,1 @@
+1.  REDIRECT [Strojenie gitary](Strojenie_gitary "wikilink")

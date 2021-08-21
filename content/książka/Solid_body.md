@@ -1,0 +1,1 @@
+1.  REDIRECT [Gitara elektryczna](Gitara_elektryczna "wikilink")

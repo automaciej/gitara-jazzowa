@@ -1,0 +1,1 @@
+1.  REDIRECT [Rejestry głosowe](Rejestry_głosowe "wikilink")

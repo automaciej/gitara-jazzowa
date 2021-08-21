@@ -1,0 +1,1 @@
+1.  REDIRECT [Teoria muzyki](Teoria_muzyki "wikilink")

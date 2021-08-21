@@ -1,0 +1,1 @@
+[kategoria:strona główna](kategoria:strona_główna "wikilink")

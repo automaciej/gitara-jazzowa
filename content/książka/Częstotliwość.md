@@ -1,0 +1,1 @@
+1.  REDIRECT [Częstotliwość drgań](Częstotliwość_drgań "wikilink")
