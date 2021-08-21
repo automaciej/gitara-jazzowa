@@ -4,3 +4,5 @@ title = "Gitara Jazzowa Marka Blizińskiego"
 defaultContentLanguage = "pl"
 [taxonomies]
 kategoria = "kategorie"
+[params]
+description = """książka polskiego gitarzysty jazzowego, Marka Blizińskiego"""
