@@ -2,3 +2,5 @@ baseURL = "https://blizinski.pl/"
 languageCode = "pl-pl"
 title = "Gitara Jazzowa Marka Blizińskiego"
 defaultContentLanguage = "pl"
+[taxonomies]
+kategoria = "kategorie"
