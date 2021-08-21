@@ -1,3 +1,11 @@
+---
+title: "Dźwięki tłumione"
+slug: "dzwieki-tlumione"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['technika gry']
+draft: false
+wikilinks: ['prawa_r%C4%99ka']
+---
 W jazzie dźwięki tłumione, jako podstawowa barwa dźwięku używane są
 raczej rzadko. Częściej w muzyce rozrywkowej, soul, funky.
 
@@ -18,8 +26,7 @@ precyzji lewej ręki, ponieważ nawet minimalne przesunięcie palca
 powoduje wyraźną zmianę barwy dźwięku. W skrajnym przypadku może
 niechcący dojść do obijania się struny o wyższy próg, lub dociśnięcia
 struny do niego. Sposób ten ma przewagę nad innymi z uwagi na to, że nie
-wymaga zmiany układu [prawej ręki](prawa_ręka "wikilink"), a więc nie
+wymaga zmiany układu prawej ręki<!-- link nie odnosił się do niczego -->, a więc nie
 zmniejsza sprawności technicznej gitarzysty. Można też błyskawicznie
 wybierać tylko te dźwięki, które chce się stłumić.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

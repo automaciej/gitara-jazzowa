@@ -1,3 +1,11 @@
+---
+title: "Akord o budowie tercjowej"
+slug: "akord-o-budowie-tercjowej"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['teoria muzyki']
+draft: false
+wikilinks: []
+---
 Najpierw zdefiniujmy pojęcie, które oznacza dźwięk, ale w oderwaniu od
 oktawy. Niech będzie to takie \(\omega_\psi\), że
 
@@ -16,4 +24,3 @@ Tercje mogą być dowolne, tzn. dowolnych rozmiarów. Jedyny wymóg - muszą
 to być tercje. Pierwszy element tego ciągu jest nazywany prymą akordu,
 drugi tercją, trzeci kwintą, czwarty septymą, piąty noną, itd.
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

@@ -1,6 +1,13 @@
-  - [Dźwięk (w rozumieniu
-    akustyki)](Dźwięk_\(w_rozumieniu_akustyki\) "wikilink")
-  - [Dźwięk (w rozumieniu
-    harmonii)](Dźwięk_\(w_rozumieniu_harmonii\) "wikilink")
+---
+title: "Dźwięk"
+slug: "dzwiek"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['teoria muzyki']
+draft: false
+wikilinks: ['D%C5%BAwi%C4%99k_(w_rozumieniu_akustyki)', 'D%C5%BAwi%C4%99k_(w_rozumieniu_harmonii)']
+---
+  - Dźwięk (w rozumieniu
+    akustyki)<!-- link nie odnosił się do niczego -->
+  - Dźwięk (w rozumieniu
+    harmonii)<!-- link nie odnosił się do niczego -->
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

@@ -1,19 +1,27 @@
-[thumb](grafika:MarekBlizinski.jpg "wikilink")
+---
+title: "Marek Bliziński"
+slug: "marek-blizinski"
+date: 2005-01-01T00:00:00+01:00
+kategorie: []
+draft: false
+wikilinks: ['grafika:MarekBlizinski.jpg', 'Spis_tre%C5%9Bci', 'Gitara_elektryczna', 'Charlie_Christian', 'Wes_Montgomery', 'Jim_Hall', 'Joe_Pass', 'Pat_Metheny', 'John_Scofield', 'Janusz_Pop%C5%82awski', 'Kategoria:Gitarzy%C5%9Bci_jazzowi']
+---
+thumb<!-- link nie odnosił się do niczego -->
 
 **Marek Bliziński** (ur. 22 marca 1947 w Warszawie, zm. 17 marca 1989 w
-Warszawie) - autor książki *[Gitara Jazzowa](Spis_treści "wikilink")*,
+Warszawie) - autor książki *[Gitara Jazzowa]({{< relref "Spis_treści.md" >}})*,
 wybitny polski gitarzysta jazzowy i kompozytor. Grał m.in. w zespołach
 Michała Urbaniaka, Wojciecha Karolaka i Zbigniewa Namysłowskiego.
 
 Marek Bliziński był pierwszym w Polsce gitarzystą jazzowym klasy
 światowej. Stylistycznie należał do głównego nurtu jazzu, był
 kontynuatorem tradycji [gitary
-elektrycznej](Gitara_elektryczna "wikilink"), wywodzącej się od [Charlie
-Christiana](Charlie_Christian "wikilink") i reprezentowanej potem przez
+elektrycznej]({{< relref "Gitara_elektryczna.md" >}}), wywodzącej się od [Charlie
+Christiana]({{< relref "Charlie_Christian.md" >}}) i reprezentowanej potem przez
 takich muzyków jak Kenny Burrell, Barney Kessel, [Wes
-Montgomery](Wes_Montgomery "wikilink"), [Jim Hall](Jim_Hall "wikilink"),
-[Joe Pass](Joe_Pass "wikilink"), [Pat Metheny](Pat_Metheny "wikilink") i
-[John Scofield](John_Scofield "wikilink").
+Montgomery]({{< relref "Wes_Montgomery.md" >}}), [Jim Hall]({{< relref "Jim_Hall.md" >}}),
+[Joe Pass]({{< relref "Joe_Pass.md" >}}), [Pat Metheny]({{< relref "Pat_Metheny.md" >}}) i
+[John Scofield]({{< relref "John_Scofield.md" >}}).
 
 ## Kariera muzyczna
 
@@ -118,7 +126,7 @@ Potockiej w Warszawie, na sześć dni przed 42 urodzinami.
 
   -
     <small>Pierwotna wersja tekstu pochodzi z notatki *O autorze*,
-    napisanej przez [J. Popławskiego](Janusz_Popławski "wikilink"), w
+    napisanej przez [J. Popławskiego]({{< relref "Janusz_Popławski.md" >}}), w
     książce "Gitara Jazzowa". Publikacja za zgodą autora.</small>
 
 ## Wybrana dyskografia
@@ -142,4 +150,4 @@ Potockiej w Warszawie, na sześć dni przed 42 urodzinami.
   - nuty.pl: książka Marka Blizińskiego p.t. [Gitara
     Jazzowa](http://nuty.pl/autorzy/autor-blizinski_marek.htm)
 
-[Bliziński, Marek](Kategoria:Gitarzyści_jazzowi "wikilink")
+Bliziński, Marek<!-- link nie odnosił się do niczego -->

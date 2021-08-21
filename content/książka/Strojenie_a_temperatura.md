@@ -1,8 +1,16 @@
+---
+title: "Strojenie a temperatura"
+slug: "strojenie-a-temperatura"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['strojenie gitary']
+draft: false
+wikilinks: ['struny', 'Strojenie_gitary']
+---
 Instrument, przed przystąpieniem do strojenia, powinien mieć temperaturę
 pomieszczenia, w jakim będzie używany. W przeciwnym razie struny
 przystosowując swoją temperaturę do temperatury powietrza, będą
 zmieniały siłę naciągu, a co za tym idzie i intonację. Dzieje się tak,
-ponieważ [struny](struny "wikilink") mają duży współczynnik
+ponieważ struny<!-- link nie odnosił się do niczego --> mają duży współczynnik
 rozszerzalności i kurczliwości. Należy pamiętać, że struna zimna jest
 skurczona, a więc bardziej napięta, a co za tym idzie, daje dźwięk
 wyższy. Struna ciepła jest rozszerzona, mniej naciągnięta. a więc daje
@@ -19,6 +27,5 @@ podczas gry, unikniemy rozstrajania się gitary.
 
 **Zobacz też**
 
-  - [Strojenie gitary](Strojenie_gitary "wikilink")
+  - [Strojenie gitary]({{< relref "Strojenie_gitary.md" >}})
 
-[kategoria:strojenie gitary](kategoria:strojenie_gitary "wikilink")

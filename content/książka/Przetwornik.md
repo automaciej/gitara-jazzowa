@@ -1,3 +1,11 @@
+---
+title: "Przetwornik"
+slug: "przetwornik"
+date: 2005-01-01T00:00:00+01:00
+kategorie: []
+draft: false
+wikilinks: []
+---
 Przetwornik gitarowy jest to element w gitarze elektrycznej, przenoszący
 drgania struny na impulsy elektryczne. Dzięki niemu możliwe jest
 nagłośnienie gitary elektrycznej poprzez wzmacniacze gitarowe. Są

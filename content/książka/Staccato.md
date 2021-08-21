@@ -1,8 +1,16 @@
-**Staccato** jest przeciwieństwem [legata](legato "wikilink"), a więc
+---
+title: "Staccato"
+slug: "staccato"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['technika gry']
+draft: false
+wikilinks: ['legato', 'gryf', 'lewa_r%C4%99ka', 'kostka', 'legato']
+---
+**Staccato** jest przeciwieństwem legata<!-- link nie odnosił się do niczego -->, a więc
 wskazuje na wykonywanie dźwięków krótko, z przerwami. Najprostszy i
 najbardziej uniwersalny sposób uzyskiwania staccata, na gitarze
 sprowadza się do skracania brzmienia strun przez odrywanie palców lewej
-ręki od [gryfu](gryf "wikilink") zaraz po uderzeniu kostką w strunę.
+ręki od gryfu<!-- link nie odnosił się do niczego --> zaraz po uderzeniu kostką w strunę.
 Należy przy tym zwrócić uwagę na to, aby palce lewej ręki po zwolnieniu
 docisku struny do progu, nie odrywały się przez chwilę od struny,
 tłumiąc ją tym całkowicie. Nagłe bowiem zdjęcie palca z brzmiącej
@@ -14,12 +22,11 @@ szczególnego ćwiczenia, ponieważ w tym wypadku do uzyskania dźwięku,
 oprócz dwóch omawianych już elementów (skrócenie struny i uderzenie)
 dochodzi trzeci -precyzyjny w czasie i wykonaniu moment oderwania struny
 od progu. Przy niezbyt krótkim staccato i non legato stosowana jest
-czasem odmienna metoda gry: [lewa ręka](lewa_ręka "wikilink") pracuje
+czasem odmienna metoda gry: lewa ręka<!-- link nie odnosił się do niczego --> pracuje
 tak jak przy legato, prawą natomiast operujemy w specyficzny sposób -
-[kostka](kostka "wikilink") po uderzeniu, dotyka brzmiącej struny
+kostka<!-- link nie odnosił się do niczego --> po uderzeniu, dotyka brzmiącej struny
 tłumiąc ją, co w rezultacie daje efekt pauzy między dźwiękami.
 
-Zarówno przy grze [legato](legato "wikilink") jak i staccato niezmiernie
+Zarówno przy grze legato<!-- link nie odnosił się do niczego --> jak i staccato niezmiernie
 ważna jest precyzyjna synchronizacja obu rąk.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

@@ -1,25 +1,33 @@
+---
+title: "John McLaughlin"
+slug: "john-mclaughlin"
+date: 2005-01-01T00:00:00+01:00
+kategorie: []
+draft: false
+wikilinks: ['Mahavishnu_Orchestra', 'jazzrock', 'Al_Di_Meola', 'Paco_de_Lucia', 'gitara_akustyczna', 'Pat_Metheny', 'syntezator_gitarowy', 'gitara_elektryczna', 'blues', 'kategoria:gitarzy%C5%9Bci_jazzowi']
+---
 **John McLaughlin** to centralna postać jazzu lat siedem­dziesiątych,
 wielki improwizator gitary elektrycznej i aku­stycznej.
 
-W jego głośnym zespole [Mahavishnu
-Orchestra](Mahavishnu_Orchestra "wikilink") stopiły się [eksperymenty
-jazzu i witalność rocka](jazzrock "wikilink") lat siedemdziesiątych.
+W jego głośnym zespole Mahavishnu
+Orchestra<!-- link nie odnosił się do niczego --> stopiły się eksperymenty
+jazzu i witalność rocka<!-- link nie odnosił się do niczego --> lat siedemdziesiątych.
 Łączy cechy błyskotliwego improwizatora z rzetelnością i
 perfekcyjnością muzyka studyj­nego. Gra równie efektownie na gitarze
 elektrycznej co akustycznej, którą natchnął jazzowym blaskiem i
 inten­sywnością wyrazu jak nikt przedtem. Jego występy i na­grania w
-trio z [Al Di Meolą](Al_Di_Meola "wikilink") i [Paco de
-Lucią](Paco_de_Lucia "wikilink"), to nowy rozdział w historii jazzowej
-[gitary akustycznej](gitara_akustyczna "wikilink").
+trio z Al Di Meolą<!-- link nie odnosił się do niczego --> i [Paco de
+Lucią]({{< relref "Paco_de_Lucia.md" >}}), to nowy rozdział w historii jazzowej
+gitary akustycznej<!-- link nie odnosił się do niczego -->.
 
-Obok [Pata Metheny'ego](Pat_Metheny "wikilink"), John wprowadził do
-jazzu [syntezator gitarowy](syntezator_gitarowy "wikilink"), znacznie
-rozszerzając paletę barw i możliwości artykulacyjne [gitary
-elektrycznej](gitara_elektryczna "wikilink").
+Obok [Pata Metheny'ego]({{< relref "Pat_Metheny.md" >}}), John wprowadził do
+jazzu syntezator gitarowy<!-- link nie odnosił się do niczego -->, znacznie
+rozszerzając paletę barw i możliwości artykulacyjne gitary
+elektrycznej<!-- link nie odnosił się do niczego -->.
 
 W technice gry wykorzystuje wszelkie zdobycze tech­niki gitarowej, np.
-[bluesowe](blues "wikilink") podciąganie strun pół i całotonowe oraz
+bluesowe<!-- link nie odnosił się do niczego --> podciąganie strun pół i całotonowe oraz
 wiele efektów zaczerpniętych z techniki hinduskich instrumentów
 strunowych.
 
-[McLaughlin, John](kategoria:gitarzyści_jazzowi "wikilink")
+McLaughlin, John<!-- link nie odnosił się do niczego -->

@@ -1,7 +1,15 @@
-Pojęcie [funkcji harmonicznej](Funkcja_harmoniczna "wikilink") ma sens
-tylko w kontekście [tonacji](tonacja "wikilink"). Zakładając, że
+---
+title: "Funkcje harmoniczne"
+slug: "funkcje-harmoniczne"
+date: 2005-01-01T00:00:00+01:00
+kategorie: []
+draft: false
+wikilinks: ['Funkcja_harmoniczna', 'tonacja', 'akord', 'Funkcje_poboczne', 'Wtr%C4%85cenia', 'II-V-I_(dwa_pi%C4%99%C4%87_jeden)']
+---
+Pojęcie [funkcji harmonicznej]({{< relref "Funkcja_harmoniczna.md" >}}) ma sens
+tylko w kontekście tonacji<!-- link nie odnosił się do niczego -->. Zakładając, że
 poruszamy się w określonej tonacji, możemy wskazać pewne
-[akordy](akord "wikilink") jako funkcje harmoniczne. Na przykład, weźmy
+akordy<!-- link nie odnosił się do niczego --> jako funkcje harmoniczne. Na przykład, weźmy
 tonację F-dur. Możemy zapytać, jaką funkcją harmoniczną w F-dur jest
 akord C7. Dowiemy się, że dominantą. Jest więcej akordów, które są
 funkcjami harmonicznymi w F-dur, jednak nie wszystkie nimi są.
@@ -41,6 +49,6 @@ kadencji, ale żadna inna nie jest nazywana kadencją wielką doskonałą.
 
 ## Zobacz też
 
-  - [Funkcje poboczne](Funkcje_poboczne "wikilink")
-  - [Wtrącenia](Wtrącenia "wikilink")
-  - [II-V-I (dwa pięć jeden)](II-V-I_\(dwa_pięć_jeden\) "wikilink")
+  - [Funkcje poboczne]({{< relref "Funkcje_poboczne.md" >}})
+  - [Wtrącenia]({{< relref "Wtrącenia.md" >}})
+  - II-V-I (dwa pięć jeden)<!-- link nie odnosił się do niczego -->

@@ -1,6 +1,14 @@
-C-sus (suspended, bez tercji) z [septymą małą](septyma_mała "wikilink")
-i [noną wielką](nona_wielka "wikilink"). Inaczej można oznaczyć ten
-akord jako [B♭/C](B♭/C "wikilink"), czyli [B♭](B♭ "wikilink")-dur z C w
+---
+title: "C9sus"
+slug: "c9sus"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['tabele chwytów']
+draft: false
+wikilinks: ['septyma_ma%C5%82a', 'nona_wielka', 'B%E2%99%AD/C', 'B%E2%99%AD']
+---
+C-sus (suspended, bez tercji) z septymą małą<!-- link nie odnosił się do niczego -->
+i noną wielką<!-- link nie odnosił się do niczego -->. Inaczej można oznaczyć ten
+akord jako [B♭/C]({{< relref "B♭/C.md" >}}), czyli [B♭]({{< relref "B♭.md" >}})-dur z C w
 basie.
 
 ## F7/C w III pozycji
@@ -21,4 +29,3 @@ basie.
 `A |---|---|---|---|---|---|---|---|---`
 `E |---|---|---|---|---|---|---|---C---`
 
-[kategoria:tabele chwytów](kategoria:tabele_chwytów "wikilink")

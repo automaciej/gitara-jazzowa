@@ -1,4 +1,12 @@
-[thumb](Grafika:autotuner.jpg "wikilink")
+---
+title: "Strojniki elektroniczne"
+slug: "strojniki-elektroniczne"
+date: 2005-01-01T00:00:00+01:00
+kategorie: []
+draft: false
+wikilinks: ['Grafika:autotuner.jpg', 'Strojenie_gitary', 'Kategoria:Akcesoria_gitarzysty']
+---
+thumb<!-- link nie odnosił się do niczego -->
 
 Istnieją specjalne aparaty, dzięki którym można nastroić instrument
 obserwując wskaźniki reagujące na wysokość dźwięków. Są to bardzo
@@ -7,7 +15,5 @@ słyszalności (np. podczas rozgrywania się big-bandu).
 
 **Zobacz też:**
 
-  - [Strojenie gitary](Strojenie_gitary "wikilink")
+  - [Strojenie gitary]({{< relref "Strojenie_gitary.md" >}})
 
-[Kategoria:Akcesoria
-gitarzysty](Kategoria:Akcesoria_gitarzysty "wikilink")

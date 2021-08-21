@@ -1,6 +1,14 @@
+---
+title: "Ułożenie lewej ręki"
+slug: "ulozenie-lewej-reki"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['technika gry']
+draft: false
+wikilinks: ['Grafika:UkladLewejRekiW1Pozycji.jpg', 'Grafika:UkladLewejRekiW5Pozycji.jpg', 'Grafika:UkladLewejRekiW12Pozycji.jpg', 'Lewa_r%C4%99ka']
+---
 |                                                         |                                                         |                                                          |
 | ------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
-| [thumb](Grafika:UkladLewejRekiW1Pozycji.jpg "wikilink") | [thumb](Grafika:UkladLewejRekiW5Pozycji.jpg "wikilink") | [thumb](Grafika:UkladLewejRekiW12Pozycji.jpg "wikilink") |
+| thumb<!-- link nie odnosił się do niczego --> | thumb<!-- link nie odnosił się do niczego --> | thumb<!-- link nie odnosił się do niczego --> |
 
 Lewa ręka nie bierze udziału w utrzymywaniu gitary we właściwej pozycji.
 Ustawienie jej jest jeszcze bardziej zbliżone do pozycji klasycznej.
@@ -22,8 +30,8 @@ ręki. Przeszkoda w tym są chwyty, w których kciuk naciska z góry struny
 basowej. Powoduje to bowiem znaczne ograniczenie zasięgu i ruchliwość
 pozostałych palców.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")
+
 
 **Zobacz też**
 
-  - [Lewa ręka](Lewa_ręka "wikilink")
+  - [Lewa ręka]({{< relref "Lewa_ręka.md" >}})

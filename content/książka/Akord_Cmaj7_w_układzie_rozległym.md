@@ -1,3 +1,11 @@
+---
+title: "Akord Cmaj7 w układzie rozległym"
+slug: "akord-cmaj7-w-ukladzie-rozleglym"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['układ rozległy']
+draft: false
+wikilinks: []
+---
 Diagram ten wygląda bardzo sympatycznie...
 
 `E ---|---|---G---|---|---|---`
@@ -47,4 +55,3 @@ Ostatni, z E w sopranie (C, E, B, E):
 
 To jest też bardzo ładnie brzmiący przewrót.
 
-[kategoria:układ rozległy](kategoria:układ_rozległy "wikilink")

@@ -1,3 +1,11 @@
+---
+title: "Łączenie najbliższą drogą"
+slug: "laczenie-najblizsza-droga"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['technika gry', 'harmonia jazzowa']
+draft: false
+wikilinks: ['Dm7', 'G7', 'Cmaj7']
+---
 Grając sekwencje następujących po sobie akordów powinniśmy starać się
 łączyć je w taki sposób, żeby minimalizować ruch głosów. Z grubsza
 oznacza to tyle, że jeżeli mamy dwa akordy, jeden po drugim, to
@@ -25,7 +33,7 @@ najmniejszy.
 
 Najbardziej typowym zestawieniem akordów jest w jazzie tzw. II-V-I
 (dwa-pięć-jeden), na przykład
-[Dm7](Dm7 "wikilink")-[G7](G7 "wikilink")-[Cmaj7](Cmaj7 "wikilink").
+[Dm7]({{< relref "Dm7.md" >}})-[G7]({{< relref "G7.md" >}})-[Cmaj7]({{< relref "Cmaj7.md" >}}).
 
 `E |---|---|---|---|---A---|---|---`
 `B |---|---|---D---|---|---|---|---`
@@ -52,5 +60,4 @@ Rozwiązanie G7 na Cmaj7 wymaga przesunięcia dwóch pozostałych.
 `A |---|---|---|---|---|---|---|---`
 `E |---|---|---|---|---|---|---|---`
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")
-[kategoria:harmonia jazzowa](kategoria:harmonia_jazzowa "wikilink")
+

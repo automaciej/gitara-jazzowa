@@ -1,4 +1,12 @@
-[Grafika:NutyPalcowanie.png](Grafika:NutyPalcowanie.png "wikilink")
+---
+title: "Palcowanie"
+slug: "palcowanie"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['technika gry']
+draft: false
+wikilinks: ['Grafika:NutyPalcowanie.png', 'staccato', 'non_legato', 'Grafika:NutyPracaLewejReki02.png']
+---
+
 
 Przejdźmy teraz do problemów **palcowania**, które myślącemu gitarzyście
 spędzają nieraz sen z powiek, a bezmyślnemu przeszkadzają całe życie.
@@ -14,8 +22,8 @@ problemów palcowania.
 
 ## Staccato
 
-Przy grze [staccato](staccato "wikilink") lub [non
-legato](non_legato "wikilink") należałoby pamiętać jedynie o tym, aby
+Przy grze staccato<!-- link nie odnosił się do niczego --> lub non
+legato<!-- link nie odnosił się do niczego --> należałoby pamiętać jedynie o tym, aby
 lewa ręka umieszczana była w wygodnych dla danych fraz pozycjach.
 Wygodnych, tj. takich, które umożliwiają dostęp do określonej grupy
 dźwięków. Zmiana pozycji uzasadniona jest wówczas, gdy w nowej zagramy
@@ -59,7 +67,7 @@ efektu glis-sanda oraz zakłócenia frazy lewej ręki.
 Sprawdzianem dobrze wykonanej zmiany pozycji jest ćwiczenie, w którym
 porównujemy tę samą frazę zagraną w jednej pozycji i w dwóch, np.
 
-[Grafika:NutyPracaLewejReki02.png](Grafika:NutyPracaLewejReki02.png "wikilink")
+
 
 ## Puste struny
 
@@ -87,4 +95,3 @@ Ogólnie należy pamiętać, że muzyk jazzowy powinien traktować zasady
 palcowania w sposób elastyczny, bo bezmyślne trzymanie się ich prowadzi
 do skostnienia jego warsztatu gry.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

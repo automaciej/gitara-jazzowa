@@ -1,9 +1,16 @@
-**Septyma mała** może być [składnikiem
-akordu](składniki_akordów "wikilink") lub
-[interwałem](interwał "wikilink").
+---
+title: "Septyma mała"
+slug: "septyma-mala"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['harmonia jazzowa']
+draft: false
+wikilinks: ['sk%C5%82adniki_akord%C3%B3w', 'interwa%C5%82', 'dominanta']
+---
+**Septyma mała** może być składnikiem
+akordu<!-- link nie odnosił się do niczego --> lub
+interwałem<!-- link nie odnosił się do niczego -->.
 
 Septyma mała jest składnikiem, który dodaje się do akordów o charaterze
-[dominantowym](dominanta "wikilink"). Dodaje się ją też do akordów
+dominantowym<!-- link nie odnosił się do niczego -->. Dodaje się ją też do akordów
 mollowych o charakterze tonicznym.
 
-[kategoria:harmonia jazzowa](kategoria:harmonia_jazzowa "wikilink")

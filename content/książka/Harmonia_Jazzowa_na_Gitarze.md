@@ -1,3 +1,11 @@
+---
+title: "Harmonia Jazzowa na Gitarze"
+slug: "harmonia-jazzowa-na-gitarze"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['Harmonia jazzowa']
+draft: false
+wikilinks: ['Czym_jest,_a_czym_nie_jest_teoria_muzyki', 'Po_co_jest_teoria_muzyki', 'Podstawy_teorii_muzyki', 'Wprowadzenie_do_budowania_akord%C3%B3w', 'Oznaczenia_akord%C3%B3w', 'Funkcje_harmoniczne', 'Chwytanie_i_%C5%82%C4%85czenie_akord%C3%B3w', 'Sztuczki_harmoniczne', 'Barwa_akordu', 'Przyk%C5%82ady_chwyt%C3%B3w']
+---
 **Harmonia Jazzowa na Gitarze** to artykuł Macieja Blizińskiego.
 Poprzednia wersja jest dostępna pod tym adresem:
 <http://info.wsisiz.edu.pl/~blizinsk/harmonia.html>
@@ -6,18 +14,18 @@ Poprzednia wersja jest dostępna pod tym adresem:
 
 1.  Teoria muzyki
     1.  [Czym jest, a czym nie jest teoria
-        muzyki](Czym_jest,_a_czym_nie_jest_teoria_muzyki "wikilink")
-    2.  [Po co jest teoria muzyki](Po_co_jest_teoria_muzyki "wikilink")
-    3.  [Podstawy teorii muzyki](Podstawy_teorii_muzyki "wikilink")
+        muzyki]({{< relref "Czym_jest,_a_czym_nie_jest_teoria_muzyki.md" >}})
+    2.  [Po co jest teoria muzyki]({{< relref "Po_co_jest_teoria_muzyki.md" >}})
+    3.  [Podstawy teorii muzyki]({{< relref "Podstawy_teorii_muzyki.md" >}})
 2.  [Wprowadzenie do budowania
-    akordów](Wprowadzenie_do_budowania_akordów "wikilink")
-3.  [Oznaczenia akordów](Oznaczenia_akordów "wikilink")
-4.  [Funkcje harmoniczne](Funkcje_harmoniczne "wikilink")
+    akordów]({{< relref "Wprowadzenie_do_budowania_akordów.md" >}})
+3.  [Oznaczenia akordów]({{< relref "Oznaczenia_akordów.md" >}})
+4.  [Funkcje harmoniczne]({{< relref "Funkcje_harmoniczne.md" >}})
 5.  [Chwytanie i łączenie
-    akordów](Chwytanie_i_łączenie_akordów "wikilink")
-6.  [Sztuczki harmoniczne](Sztuczki_harmoniczne "wikilink")
-7.  [Barwa akordu](Barwa_akordu "wikilink")
-8.  [Przykłady chwytów](Przykłady_chwytów "wikilink")
+    akordów]({{< relref "Chwytanie_i_łączenie_akordów.md" >}})
+6.  [Sztuczki harmoniczne]({{< relref "Sztuczki_harmoniczne.md" >}})
+7.  [Barwa akordu]({{< relref "Barwa_akordu.md" >}})
+8.  [Przykłady chwytów]({{< relref "Przykłady_chwytów.md" >}})
 
 ## Spis literatury
 
@@ -34,4 +42,3 @@ Poprzednia wersja jest dostępna pod tym adresem:
     Cz. I: Kombinatoryka*, Wyższa Szkoła Informatyki Stosowanej i
     Zarządzania, Warszawa 2002
 
-[kategoria:Harmonia jazzowa](kategoria:Harmonia_jazzowa "wikilink")

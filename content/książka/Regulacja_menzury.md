@@ -1,14 +1,22 @@
-[right](Grafika:RegulacjaMenzurySrubokretem.png "wikilink")
+---
+title: "Regulacja menzury"
+slug: "regulacja-menzury"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['konserwacja gitary']
+draft: false
+wikilinks: ['Grafika:RegulacjaMenzurySrubokretem.png', 'gitara_akustyczna', 'mostek', 'gitara_elektryczna', 'gitara_elektryczno-akustyczna', 'gitara_elektryczna', 'gitara_elektryczno-akustyczna', 'wzmacniacz', 'fla%C5%BColet', 'fla%C5%BColet', 'fla%C5%BColet']
+---
+right<!-- link nie odnosił się do niczego -->
 
 Aby gitara stroiła dobrze we wszystkich pozycjach, należy przeprowadzić
-regulację menzury strun. W [gitarach
-akustycznych](gitara_akustyczna "wikilink") jest to niemożliwe z uwagi
-na nieruchomy [mostek](mostek "wikilink"), związany z przyklejonym do
+regulację menzury strun. W gitarach
+akustycznych<!-- link nie odnosił się do niczego --> jest to niemożliwe z uwagi
+na nieruchomy mostek<!-- link nie odnosił się do niczego -->, związany z przyklejonym do
 płyty rezonansowej strunnikiem. Tu można sobie radzić tylko doborem
 odpowiednich strun.
 
-W [gitarach elektrycznych](gitara_elektryczna "wikilink") i
-[elektryczno-akustycznych](gitara_elektryczno-akustyczna "wikilink") z
+W gitarach elektrycznych<!-- link nie odnosił się do niczego --> i
+elektryczno-akustycznych<!-- link nie odnosił się do niczego --> z
 reguły dysponujemy mostkiem regulowanym bądź ruchomym. Aby regulacja
 odniosła pożądany skutek, trzeba mieć do dyspozycji komplet strun nowych
 lub takich, które jeszcze w miarę stroją. Teoretycznie idealnym
@@ -34,10 +42,10 @@ dla wszystkich strun.
 
 Dysponując jednak mostkiem z niezależnie regulowaną menzura
 poszczególnych strun, powinniśmy przeprowadzić regulację dokładniejszą,
-a ponieważ będzie to [gitara elektryczna](gitara_elektryczna "wikilink")
-lub [elektryczno-akustyczna](gitara_elektryczno-akustyczna "wikilink"),
+a ponieważ będzie to gitara elektryczna<!-- link nie odnosił się do niczego -->
+lub elektryczno-akustyczna<!-- link nie odnosił się do niczego -->,
 należy kontrolować dźwięki za pośrednictwem
-[wzmacniacza](wzmacniacz "wikilink").
+wzmacniacza<!-- link nie odnosił się do niczego -->.
 
 Różne są sposoby na ustawianie właściwej menzury. Można stroić oktawę
 graną na tej samej strunie, dla przykładu G-3.
@@ -47,11 +55,11 @@ pod nią klocek (za pomocą specjalnego wkrętu) w stronę gryfu. I
 odwrotnie, jeżeli oktawa jest za mała, to powiększamy menzurę
 przesuwając klocek w stronę tyłu gitary.
 
-Można również porównywać [flażolet](flażolet "wikilink") oktawowy pustej
+Można również porównywać flażolet<!-- link nie odnosił się do niczego --> oktawowy pustej
 struny z dźwiękiem granym w XII-tej pozycji. Jeżeli
-[flażolet](flażolet "wikilink") jest niższy, musimy powiększyć
+flażolet<!-- link nie odnosił się do niczego --> jest niższy, musimy powiększyć
 menzurę, a jeżeli jest wyższy, zmniejszamy ją. Na tej samej zasadzie
-możemy porównywać również [flażolet](flażolet "wikilink") kwintowy w
+możemy porównywać również flażolet<!-- link nie odnosił się do niczego --> kwintowy w
 XIX pozycji.
 
 Jeżeli wymagana korekcja menzury nie mieści się w obrębie tolerancji
@@ -64,4 +72,3 @@ jakości strun oraz zawsze po założeniu nowego kompletu. Trzeba
 pamiętać, że struny nowe wymagają ponownej regulacji nieraz już po
 tygodniu.
 
-[kategoria:konserwacja gitary](kategoria:konserwacja_gitary "wikilink")

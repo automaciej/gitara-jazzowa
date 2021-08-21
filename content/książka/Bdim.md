@@ -1,4 +1,12 @@
-Akord Bdim jest [akordem zmniejszonym](akord_zmniejszony "wikilink").
+---
+title: "Bdim"
+slug: "bdim"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['Tabele chwytów', 'Akordy zmniejszone']
+draft: false
+wikilinks: ['akord_zmniejszony']
+---
+Akord Bdim jest akordem zmniejszonym<!-- link nie odnosił się do niczego -->.
 
 ## Bdim w I pozycji
 
@@ -18,5 +26,4 @@ Akord Bdim jest [akordem zmniejszonym](akord_zmniejszony "wikilink").
 `A |---|---|---|---|---|---|---|---`
 `E |---|---|---|---|---|---|---O---`
 
-[kategoria:Tabele chwytów](kategoria:Tabele_chwytów "wikilink")
-[kategoria:Akordy zmniejszone](kategoria:Akordy_zmniejszone "wikilink")
+

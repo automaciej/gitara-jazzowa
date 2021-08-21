@@ -1,3 +1,11 @@
+---
+title: "Zapis amerykański i niemiecki (europejski)"
+slug: "zapis-amerykanski-i-niemiecki-(europejski)"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['teoria muzyki']
+draft: false
+wikilinks: ['Alfabety_muzyczne']
+---
 Historia polskiej muzyki jest ściśle związana z historią muzyki
 europejskiej i właśnie z tych historycznych względów zwyczajowo stosuje
 się w naszym kraju notację niemiecką. Taka też jest uczona w polskich
@@ -15,6 +23,5 @@ nie da, tak jest przyjęte w środowisku polskich muzyków.
 
 **Zobacz też**
 
-  - [Alfabety muzyczne](Alfabety_muzyczne "wikilink")
+  - [Alfabety muzyczne]({{< relref "Alfabety_muzyczne.md" >}})
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

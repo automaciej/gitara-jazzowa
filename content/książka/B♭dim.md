@@ -1,3 +1,11 @@
+---
+title: "B♭dim"
+slug: "bdim"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['tabele chwytów', 'Akordy zmniejszone']
+draft: false
+wikilinks: []
+---
 B♭-zmniejszony.
 
 ## B♭dim w VI pozycji
@@ -9,5 +17,4 @@ B♭-zmniejszony.
 `A |---|---|---|---|---|---|---`
 `E |---|---|---|---|---|---B♭--`
 
-[kategoria:tabele chwytów](kategoria:tabele_chwytów "wikilink")
-[kategoria:Akordy zmniejszone](kategoria:Akordy_zmniejszone "wikilink")
+

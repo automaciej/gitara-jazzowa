@@ -1,20 +1,28 @@
+---
+title: "Blues w F-dur"
+slug: "blues-w-f-dur"
+date: 2005-01-01T00:00:00+01:00
+kategorie: []
+draft: false
+wikilinks: ['F', 'B%E2%99%AD', 'F', 'C', 'F', 'blues', 'F7', 'B%E2%99%AD7', 'F7', 'C7', 'B%E2%99%AD7', 'F7']
+---
 Schemat najprostszego bluesa w F-dur.
 
 |   |                     |  |   |    |  |   |                   |  |   |   |  |   |
 | - | ------------------- |  | - | -- |  | - | ----------------- |  | - | - |  | - |
-| | | [F](F "wikilink")   |  | | | F  |  | | | F                 |  | | | F |  | | |
-| | | [B♭](B♭ "wikilink") |  | | | B♭ |  | | | [F](F "wikilink") |  | | | F |  | | |
-| | | [C](C "wikilink")   |  | | | C  |  | | | [F](F "wikilink") |  | | | F |  | | |
+| | | F<!-- link nie odnosił się do niczego -->   |  | | | F  |  | | | F                 |  | | | F |  | | |
+| | | [B♭]({{< relref "B♭.md" >}}) |  | | | B♭ |  | | | F<!-- link nie odnosił się do niczego --> |  | | | F |  | | |
+| | | C<!-- link nie odnosił się do niczego -->   |  | | | C  |  | | | F<!-- link nie odnosił się do niczego --> |  | | | F |  | | |
 
 Na tym schemacie widać wyraźnie podstawową strukturę
-[bluesa](blues "wikilink").
+bluesa<!-- link nie odnosił się do niczego -->.
 
 Nieco inny, szerzej znany schemat bluesa wygląda następująco:
 
 |   |                       |  |   |                       |  |   |                     |  |   |    |  |   |
 | - | --------------------- |  | - | --------------------- |  | - | ------------------- |  | - | -- |  | - |
-| | | [F7](F7 "wikilink")   |  | | | F7                    |  | | | F7                  |  | | | F7 |  | | |
-| | | [B♭7](B♭7 "wikilink") |  | | | B♭7                   |  | | | [F7](F7 "wikilink") |  | | | F7 |  | | |
-| | | [C7](C7 "wikilink")   |  | | | [B♭7](B♭7 "wikilink") |  | | | [F7](F7 "wikilink") |  | | | F7 |  | | |
+| | | [F7]({{< relref "F7.md" >}})   |  | | | F7                    |  | | | F7                  |  | | | F7 |  | | |
+| | | [B♭7]({{< relref "B♭7.md" >}}) |  | | | B♭7                   |  | | | [F7]({{< relref "F7.md" >}}) |  | | | F7 |  | | |
+| | | [C7]({{< relref "C7.md" >}})   |  | | | [B♭7]({{< relref "B♭7.md" >}}) |  | | | [F7]({{< relref "F7.md" >}}) |  | | | F7 |  | | |
 
 **Zobacz też**

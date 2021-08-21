@@ -1,12 +1,19 @@
+---
+title: "Praca rąk"
+slug: "praca-rak"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['technika gry']
+draft: false
+wikilinks: [':Kategoria:gitarzy%C5%9Bci_jazzowi', 'Prawa_r%C4%99ka', 'Lewa_r%C4%99ka', 'Palcowanie']
+---
 Jak już pisałem, sławni
-[gitarzyści](:Kategoria:gitarzyści_jazzowi "wikilink") stosują bardzo
+gitarzyści<!-- link nie odnosił się do niczego --> stosują bardzo
 różne postawy z instrumentem. Ponieważ postawa ma wpływ na wszystkie
 elementy techniki, różne są szkoły gry na gitarze jazzowej. Ja będę
 kontynuował opis metody, która opiera się na proponowanej przeze mnie w
 poprzednim rozdziale pozycji z instrumentem.
 
-  - [Prawa ręka](Prawa_ręka "wikilink")
-  - [Lewa ręka](Lewa_ręka "wikilink")
-  - [Palcowanie](Palcowanie "wikilink")
+  - [Prawa ręka]({{< relref "Prawa_ręka.md" >}})
+  - [Lewa ręka]({{< relref "Lewa_ręka.md" >}})
+  - [Palcowanie]({{< relref "Palcowanie.md" >}})
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

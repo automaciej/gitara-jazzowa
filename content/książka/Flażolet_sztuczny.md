@@ -1,5 +1,13 @@
-[thumb](grafika:PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg "wikilink")
-[thumb](grafika:WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg "wikilink")
+---
+title: "Flażolet sztuczny"
+slug: "flazolet-sztuczny"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['technika gry']
+draft: false
+wikilinks: ['grafika:PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg', 'grafika:WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg']
+---
+thumb<!-- link nie odnosił się do niczego -->
+thumb<!-- link nie odnosił się do niczego -->
 
 Przy flażoletach naturalnych dysponujemy jednak dość ograniczonym
 zbiorem dźwięków. Tych ograniczeń nie ma stosując grę flażoletami
@@ -40,4 +48,3 @@ alikwotu. Oprócz flażoletu, słychać wówczas dźwięk pustej struny. Jest
 to dość ciekawy efekt, stosowany jednak sporadycznie lub wręcz
 przypadkowo, ze względu na trudności wykonania.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

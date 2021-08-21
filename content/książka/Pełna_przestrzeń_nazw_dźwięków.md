@@ -1,3 +1,11 @@
+---
+title: "Pełna przestrzeń nazw dźwięków"
+slug: "pelna-przestrzen-nazw-dzwiekow"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['teoria muzyki']
+draft: false
+wikilinks: []
+---
 Pełna przestrzeń nazw dźwięków to zbiór wszystkich możliwych nazw
 dźwięków.
 
@@ -10,4 +18,3 @@ literowych (\(\Psi\)), we wszystkich oktawach (\(\mathbb{Z}\)), z
 wszystkimi możliwymi liczbami (\(\mathbb{N} \cup \{0\}\)) wszystkich
 znaków chromatycznych (\(\Delta\)).
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

@@ -1,4 +1,12 @@
-G-dur z [septyma wielką](septyma_wielka "wikilink").
+---
+title: "Gmaj7"
+slug: "gmaj7"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['tabele chwytów', 'akordy mollowe']
+draft: false
+wikilinks: ['septyma_wielka']
+---
+G-dur z septyma wielką<!-- link nie odnosił się do niczego -->.
 
 `E |---|---|---|---|---|---|---`
 `B |---|---|---D---|---|---|---`
@@ -7,5 +15,4 @@ G-dur z [septyma wielką](septyma_wielka "wikilink").
 `A |---|---|---|---|---|---|---`
 `E |---|---|---G---|---|---|---`
 
-[kategoria:tabele chwytów](kategoria:tabele_chwytów "wikilink")
-[kategoria:akordy mollowe](kategoria:akordy_mollowe "wikilink")
+

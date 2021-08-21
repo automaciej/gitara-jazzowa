@@ -1,9 +1,17 @@
+---
+title: "Małe nutki"
+slug: "male-nutki"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['technika gry']
+draft: false
+wikilinks: ['grafika:NutyMaleNutki.png']
+---
 ...to dwie lub więcej przednutek umieszczonych przed dźwiękiem
 właściwym. Mogą mieć kierunek wstępujący lub zstępujący. Na ogół
 spotykane są w interwałach sekund, a sposób wykonania na gitarze jest
 taki sam jak przy przednutce.
 
-[grafika:NutyMaleNutki.png](grafika:NutyMaleNutki.png "wikilink")
+
 
 Przednutki w zasadzie nie mają własnej, określonej wartości rytmicznej.
 Wykonuje się je jak najszybciej, w praktyce mają jednak jakąś wartość
@@ -12,4 +20,3 @@ właściwemu, który po nim następuje. Bywa jednak też, że skraca dźwięk
 poprzedzający ozdobnik. Muzyk jazzowy nie powinien myśleć o tym, ważne
 jest, aby zagrał jak najbardziej naturalnie.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

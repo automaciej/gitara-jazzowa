@@ -1,4 +1,12 @@
-**D-moll** z [septymą małą](septyma_mała "wikilink").
+---
+title: "Dm7"
+slug: "dm7"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['tabele chwytów', 'akordy mollowe']
+draft: false
+wikilinks: ['septyma_ma%C5%82a']
+---
+**D-moll** z septymą małą<!-- link nie odnosił się do niczego -->.
 
 ## Dm7 w V pozycji
 
@@ -9,5 +17,4 @@
 `A |---|---|---|---|---D---|---|---|---|---`
 `E |---|---|---|---|---|---|---|---|---|---`
 
-[kategoria:tabele chwytów](kategoria:tabele_chwytów "wikilink")
-[kategoria:akordy mollowe](kategoria:akordy_mollowe "wikilink")
+

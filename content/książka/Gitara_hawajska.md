@@ -1,3 +1,11 @@
+---
+title: "Gitara hawajska"
+slug: "gitara-hawajska"
+date: 2005-01-01T00:00:00+01:00
+kategorie: []
+draft: false
+wikilinks: ['A', 'pud%C5%82o_rezonansowe', 'technika', 'kategoria:rodzaje_gitar']
+---
 Bardzo specyficzną odmianą jest **gitara hawajska**, tzw. steelguitar. Z
 jazzem ma ona niewiele wspólnego, wykorzystywana jest na ogół w
 zespołach rozrywkowych i country. Elektryczna gitara hawajska jest
@@ -7,7 +15,7 @@ przed grającym na specjalnym stoliku lub też wyposażona jest w nóżki.
 Grający w lewej ręce trzyma metalowy suwak, którym skraca struny lekko
 je dociskając. Na prawą ma założone specjalne pierścienie zakończone
 piórkami, którymi zarywa struny. Strój gitary hawajskiej jest oparty na
-akordzie durowym e, cis, a, e, A, E ([A](A "wikilink")-dur). Dla
+akordzie durowym e, cis, a, e, A, E (A<!-- link nie odnosił się do niczego -->-dur). Dla
 ułatwienia gry i rozszerzenia możliwości produkowane są też całe
 zestawy gitar hawajskich, które można nastroić na różne tonacje i akordy
 oraz używać równolegle, przerzucając się tylko z gryfu na gryf.
@@ -16,12 +24,12 @@ budowie - rozszerzającej zakres ich możliwości.
 
 Zwykłą gitarę można zaadoptować do gry na sposób hawajski, podwyższając
 siodełko na tyle, aby operując suwakiem, nic dociskać strun do progów.
-Grający kładzie wówczas [pudło
-rezonansowe](pudło_rezonansowe "wikilink") na prawym udzie, a szyjkę na
+Grający kładzie wówczas pudło
+rezonansowe<!-- link nie odnosił się do niczego --> na prawym udzie, a szyjkę na
 lewym.
 
-Zupełnie odmienna [technika](technika "wikilink") gry, jak i strój
+Zupełnie odmienna technika<!-- link nie odnosił się do niczego --> gry, jak i strój
 gitary hawajskiej tworzy specjalistów w tej dziedzinie, bowiem
 umiejętność gry na gitarze konwencjonalnej jest tu mało przydatna.
 
-[Hawajska, gitara](kategoria:rodzaje_gitar "wikilink")
+Hawajska, gitara<!-- link nie odnosił się do niczego -->

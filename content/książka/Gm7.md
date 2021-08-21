@@ -1,4 +1,12 @@
-G-moll z [septymą małą](septyma_mała "wikilink").
+---
+title: "Gm7"
+slug: "gm7"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['tabele chwytów', 'akordy mollowe']
+draft: false
+wikilinks: ['septyma_ma%C5%82a']
+---
+G-moll z septymą małą<!-- link nie odnosił się do niczego -->.
 
 `E |---|---|---|---|---|---|---`
 `B |---|---|---D---|---|---|---`
@@ -7,5 +15,4 @@ G-moll z [septymą małą](septyma_mała "wikilink").
 `A |---|---|---|---|---|---|---`
 `E |---|---|---G---|---|---|---`
 
-[kategoria:tabele chwytów](kategoria:tabele_chwytów "wikilink")
-[kategoria:akordy mollowe](kategoria:akordy_mollowe "wikilink")
+

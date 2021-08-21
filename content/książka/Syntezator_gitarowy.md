@@ -1,14 +1,21 @@
-**Syntezator gitarowy** lub **Gitara [MIDI](MIDI "wikilink")** to
-instrument elektroniczny, który tak jak [gitara](gitara "wikilink")
-posiada [struny](struna "wikilink"), [gryf](gryf "wikilink") i
-[progi](próg "wikilink"), natomiast umożliwia grane różnymi barwami, tak
+---
+title: "Syntezator gitarowy"
+slug: "syntezator-gitarowy"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['Rodzaje gitar']
+draft: false
+wikilinks: ['MIDI', 'gitara', 'struna', 'gryf', 'pr%C3%B3g', 'kontroler_MIDI', 'Pat_Metheny', 'John_McLaughlin']
+---
+**Syntezator gitarowy** lub **Gitara [MIDI]({{< relref "MIDI.md" >}})** to
+instrument elektroniczny, który tak jak gitara<!-- link nie odnosił się do niczego -->
+posiada struny<!-- link nie odnosił się do niczego -->, gryf<!-- link nie odnosił się do niczego --> i
+progi<!-- link nie odnosił się do niczego -->, natomiast umożliwia grane różnymi barwami, tak
 jak w syntezatorach klawiszowych.
 
-Technicznie rzecz biorąc, gitara taka jest [kontrolerem
-MIDI](kontroler_MIDI "wikilink").
+Technicznie rzecz biorąc, gitara taka jest kontrolerem
+MIDI<!-- link nie odnosił się do niczego -->.
 
 Syntezatorów gitarowych używają m.in. [Pat
-Metheny](Pat_Metheny "wikilink"), [John
-McLaughlin](John_McLaughlin "wikilink").
+Metheny]({{< relref "Pat_Metheny.md" >}}), [John
+McLaughlin]({{< relref "John_McLaughlin.md" >}}).
 
-[kategoria:Rodzaje gitar](kategoria:Rodzaje_gitar "wikilink")

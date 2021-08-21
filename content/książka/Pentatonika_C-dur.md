@@ -1,3 +1,11 @@
+---
+title: "Pentatonika C-dur"
+slug: "pentatonika-c-dur"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['tabele chwytów']
+draft: false
+wikilinks: []
+---
 **Pentatonika C-dur** jest tożsama z pentatoniką a-moll i składa się z
 dźwięków C, D, E, G, A.
 
@@ -54,4 +62,3 @@ pozostaje w X pozycji.
 `A |---|---|---|---|---|---|---|---|---|---|---|-A-|---|---|-C-|`
 `E |---|---|---|---|---|---|---|---|---|---|---|-E-|---|---|-G-|`
 
-[kategoria:tabele chwytów](kategoria:tabele_chwytów "wikilink")

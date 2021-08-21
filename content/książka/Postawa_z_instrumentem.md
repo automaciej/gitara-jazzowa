@@ -1,4 +1,12 @@
-[thumb](Grafika:MarekBlizinskiPozycja.jpg "wikilink") - postawa z
+---
+title: "Postawa z instrumentem"
+slug: "postawa-z-instrumentem"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['technika gry']
+draft: false
+wikilinks: ['Grafika:MarekBlizinskiPozycja.jpg', 'd%C5%BAwi%C4%99k', 'blues', 'gitara_klasyczna', 'pud%C5%82o_rezonansowe', 'gryf', 'struny', 'pasek_do_gitary', 'gitara_akustyczna', 'pud%C5%82o_rezonansowe', 'U%C5%82o%C5%BCenie_prawej_r%C4%99ki', 'U%C5%82o%C5%BCenie_lewej_r%C4%99ki']
+---
+thumb<!-- link nie odnosił się do niczego --> - postawa z
 instrumentem\]\]
 
 Istotą dobrej **postawy z instrumentem** jest umożliwienie właściwego
@@ -9,24 +17,24 @@ gitary. dłoni i palców, bez czego nie osiągnie się perfekcji w grze.
 
 Dobry gitarzysta jest zespolony ze swoim instrumentem, a każdy ruch rąk
 związany jest z dźwiękiem. Grający nie powinien myśleć manualnie lecz
-[dźwiękowo](dźwięk "wikilink").
+dźwiękowo<!-- link nie odnosił się do niczego -->.
 
 ### Muzycy bluesowi
 
 Wśród gitarzystów jazzowych istnieje wiele różnych metod gry i wiele
 różnych postaw z instrumentem. Nie wszystkie jednak, moim zdaniem,
 godne są polecenia. Zwłaszcza niektórzy muzycy
-[bluesowi](blues "wikilink") traktują instrument bardzo specyficznie,
+bluesowi<!-- link nie odnosił się do niczego --> traktują instrument bardzo specyficznie,
 zgodnie może z wymogami tego gatunku muzycznego, ale zawężają tym
 potencjalne możliwości wykonywania innych gatunków jazzu.
 
 ### Pozycja klasyczna
 
-Na ogół gitarzyści jazzowi nie przybierają pozycji właściwej dla [gitary
-klasycznej](gitara_klasyczna "wikilink"). Jak wiadomo, zakłada ona
+Na ogół gitarzyści jazzowi nie przybierają pozycji właściwej dla gitary
+klasycznej<!-- link nie odnosił się do niczego -->. Jak wiadomo, zakłada ona
 lekkie skręcenie tułowia w lewo. Stosując tę pozycję z gitarami
-jazzowymi, które z reguły posiadają większe [pudła
-rezonansowe](pudło_rezonansowe "wikilink"), skręcenie tułowia musiałoby
+jazzowymi, które z reguły posiadają większe pudła
+rezonansowe<!-- link nie odnosił się do niczego -->, skręcenie tułowia musiałoby
 być znaczniejsze, a to usztywnia i powoduje zmęczenie.
 
 ### Cechy dobrej postawy
@@ -36,8 +44,8 @@ być znaczniejsze, a to usztywnia i powoduje zmęczenie.
 | Niewymuszona, naturalna pozycja ciała, rozluźnione mięśnie, swoboda ruchów to najważniejsze cechy właściwej postawy. |
 
 Instrument powinien być umieszczony tak, aby grający miał dobry dostęp
-do wszystkich pozycji na [gryfie](gryf "wikilink") i do wszystkich
-[strun](struny "wikilink") bez zasadniczych zmian w postawie. Gitara nie
+do wszystkich pozycji na gryfie<!-- link nie odnosił się do niczego --> i do wszystkich
+strun<!-- link nie odnosił się do niczego --> bez zasadniczych zmian w postawie. Gitara nie
 powinna uciskać grającego, gdyż może to spowodować drętwienie
 przylegających części ciała lub ograniczenie oddechu.
 
@@ -74,7 +82,7 @@ temu, że gitarzysta siedzi na tyle wysoko, aby było możliwe cofnięcie
 jego prawej nogi. Powoduje to pewne obniżenie korpusu gitary bez zmiany
 jej kąta nachylenia w pionie, a więc tak jak wtedy, gdy gitarzysta stoi.
 
-Bez [paska](pasek_do_gitary "wikilink") możliwa jest pozycja z założoną
+Bez paska<!-- link nie odnosił się do niczego --> możliwa jest pozycja z założoną
 nogą na nogę, tak jak Herb Ellis. Można również oprzeć gitarę na prawej
 nodze. Jest to chyba jedna z najpopularniejszych pozycji, mimo że
 powoduje lekkie skręcenie tułowia w prawo.
@@ -92,18 +100,18 @@ gitary.
 
 ### Postawa z gitara akustyczną
 
-Przy grze na [gitarach akustycznych](gitara_akustyczna "wikilink")
+Przy grze na gitarach akustycznych<!-- link nie odnosił się do niczego -->
 należy zwrócić szczególną uwagę na to, aby instrument nie opierał się
 powierzchnią tylnej deki o grającego, lecz spoczywał tylną krawędzią
-[pudła rezonansowego](pudło_rezonansowe "wikilink") na udach. Górna
+pudła rezonansowego<!-- link nie odnosił się do niczego --> na udach. Górna
 krawędź pudła powinna lekko opierać się o klatkę piersiową gitarzysty.
 W omawianej pozycji kąt nachylenia szyjki od poziomu powinien wahać się
 w granicach 20-40 stopni.
 
 ### Ułożenie rąk
 
-  - [Ułożenie prawej ręki](Ułożenie_prawej_ręki "wikilink")
-  - [Ułożenie lewej ręki](Ułożenie_lewej_ręki "wikilink")
+  - [Ułożenie prawej ręki]({{< relref "Ułożenie_prawej_ręki.md" >}})
+  - [Ułożenie lewej ręki]({{< relref "Ułożenie_lewej_ręki.md" >}})
 
 ### Ruch
 
@@ -114,4 +122,3 @@ ruchem i praktycznie rozpatrywanie jej w bezruchu mija się z celem.
 Muzyk dopiero podczas gry może korygować swoją postawę zgodnie z
 indywidualnymi wymaganiami.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

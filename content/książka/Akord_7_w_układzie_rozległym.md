@@ -1,4 +1,12 @@
-Akord durowy z [septymą małą](septyma_mała "wikilink").
+---
+title: "Akord 7 w układzie rozległym"
+slug: "akord-7-w-ukladzie-rozleglym"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['układ rozległy']
+draft: false
+wikilinks: ['septyma_ma%C5%82a']
+---
+Akord durowy z septymą małą<!-- link nie odnosił się do niczego -->.
 
 `E ---|---|---5---|---|---|---`
 `B ---1---|---|---|---|---|---`
@@ -28,4 +36,3 @@ Akord durowy z [septymą małą](septyma_mała "wikilink").
 `A ---|---|---|---|---|---|---|---|---|---|---|---|--`
 `E ---|---|---|---|---|---|---|---|---|---|---|---|--`
 
-[kategoria:układ rozległy](kategoria:układ_rozległy "wikilink")

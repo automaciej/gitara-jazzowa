@@ -1,12 +1,19 @@
+---
+title: "Tercja akordu"
+slug: "tercja-akordu"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['teoria muzyki']
+draft: false
+wikilinks: ['akord', 'tryb', 'Septyma_akordu', 'Tercja_i_septyma']
+---
 **Tercja akordu** jest jednym z dwóch najważniejszych dźwięków w
-[akordzie](akord "wikilink"). Tercja określa [tryb](tryb "wikilink")
+akordzie<!-- link nie odnosił się do niczego -->. Tercja określa tryb<!-- link nie odnosił się do niczego -->
 akordu (dur lub moll).
 
 Na przykład w akordzie C (c-dur) tercją jest dźwięk E.
 
 **Zobacz też**
 
-  - [Septyma akordu](Septyma_akordu "wikilink")
-  - [Tercja i septyma](Tercja_i_septyma "wikilink")
+  - [Septyma akordu]({{< relref "Septyma_akordu.md" >}})
+  - [Tercja i septyma]({{< relref "Tercja_i_septyma.md" >}})
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

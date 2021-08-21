@@ -1,3 +1,11 @@
+---
+title: "Akord m7♭5 w układzie rozległym"
+slug: "akord-m75-w-ukladzie-rozleglym"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['układ rozległy']
+draft: false
+wikilinks: []
+---
 Akord mollowy z septymą małą i kwintą obniżoną.
 
 `E ---|---♭5--|---|---|---|---`
@@ -28,4 +36,3 @@ Akord mollowy z septymą małą i kwintą obniżoną.
 `A ---|---|---|---|---|---|---|---|---|---|---|---|--`
 `E ---|---|---|---|---|---|---|---|---|---|---|---|--`
 
-[kategoria:układ rozległy](kategoria:układ_rozległy "wikilink")

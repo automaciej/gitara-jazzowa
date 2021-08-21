@@ -1,4 +1,12 @@
-**Tryb** odnosi się do [akordu](akord "wikilink"). Akord może mieć tryb
+---
+title: "Tryb"
+slug: "tryb"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['teoria muzyki']
+draft: false
+wikilinks: ['akord']
+---
+**Tryb** odnosi się do akordu<!-- link nie odnosił się do niczego -->. Akord może mieć tryb
 durowy lub mollowy.
 
 Akord jest w trybie durowym, kiedy składa się z tercji wielkiej i tercji
@@ -11,4 +19,3 @@ dany obiekt nie posiada tercji.
 
 \(\Lambda = \{\mathrm{dur}, \mathrm{moll}\}\)
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

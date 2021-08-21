@@ -1,25 +1,33 @@
+---
+title: "Walking (akompaniament)"
+slug: "walking-(akompaniament)"
+date: 2005-01-01T00:00:00+01:00
+kategorie: []
+draft: false
+wikilinks: ['walking', 'akord', 'Marek_Blizi%C5%84ski', 'ograniczenia_gitary', 'blues', 'tercja', 'septyma', 'F7', 'walking', 'legato', 'F7']
+---
 Akompaniament do utworów o charakterze swingowym polega na graniu
-[walkingu](walking "wikilink") i [akordów](akord "wikilink")
+walkingu<!-- link nie odnosił się do niczego --> i akordów<!-- link nie odnosił się do niczego -->
 jednocześnie. Z początku może się to wydawać trudno lub nawet
 niemożliwe, ale dokładniejszym przyjrzeniu się możliwościom gitary
 można stwierdzić że nie stanowi to większej trudności technicznej.
 
 O ile akompaniament mistrzowski, taki jak np. na płycie [Marka
-Blizińskiego](Marek_Bliziński "wikilink") i Ewy Bem "Dla Ciebie Jestem
+Blizińskiego]({{< relref "Marek_Bliziński.md" >}}) i Ewy Bem "Dla Ciebie Jestem
 Sobą" jest bardzo trudno do wykonania, to podstawowa technika walkingu
 jest o wiele mniej wymagająca. Należy jednak zaznaczyć że jest to
 **schemat** z wszystkimi zaletami i wadami schematów.
 
 ### Uproszczone akordy
 
-Wszycy wiemy o [ograniczeniach gitary](ograniczenia_gitary "wikilink").
+Wszycy wiemy o ograniczeniach gitary<!-- link nie odnosił się do niczego -->.
 Aby zagrać walking i akordy jednocześnie, należy pójść na pewien
 kompromis.
 
 1.  linia basowa musi być uproszczona
 2.  akordy muszą zawierać tylko podstawowe składniki
 
-Przykładowo, pierwszy akord [bluesa](blues "wikilink") w F-dur, będzie
+Przykładowo, pierwszy akord bluesa<!-- link nie odnosił się do niczego --> w F-dur, będzie
 wyglądał następująco:
 
 `E |---|---|---|---|---|---|---|---`
@@ -30,8 +38,8 @@ wyglądał następująco:
 `E |---F---|---|---|---|---|---|---`
 
 Tak, ten chwyt składa się jedynie z 3 dźwięków. Są to dobrze wybrane
-dźwięki: pryma w basie, [tercja](tercja "wikilink") i
-[septyma](septyma "wikilink"). Teraz palcowanie. Akord ten chwytamy
+dźwięki: pryma w basie, tercja<!-- link nie odnosił się do niczego --> i
+septyma<!-- link nie odnosił się do niczego -->. Teraz palcowanie. Akord ten chwytamy
 następująco:
 
 `E |---|---|---|---|---|---|---|---`
@@ -46,11 +54,11 @@ grane są palcami 3 i 4 skoro palcami 2 i 3 byłoby wygodniej? Odpowiedź
 brzmi: dlatego, że za chwilę chcemy zagrać dźwięk G w linii basowej i
 potrzebujemy na to wolnego palca (2).
 
-Omawiając dalej akord [F7](F7 "wikilink"), musimy znaleźć podobne chwyty
+Omawiając dalej akord [F7]({{< relref "F7.md" >}}), musimy znaleźć podobne chwyty
 z tercją, kwintą i septymą w basie. Wszystkie powinny składać się z 3
 dźwięków, ponieważ jeden palec jest zazwyczaj potrzebny do zagrania
-następnego dźwięku w basie ([walking](walking "wikilink") musi być grany
-[legato](legato "wikilink")).
+następnego dźwięku w basie (walking<!-- link nie odnosił się do niczego --> musi być grany
+legato<!-- link nie odnosił się do niczego -->).
 
 ### Bas na strunie E
 
@@ -146,7 +154,7 @@ Brak tercji.
 
 ### Cwiczenie walkingu
 
-Ćwiczenia można zacząć od ogrywania akordu [F7](F7 "wikilink"),
+Ćwiczenia można zacząć od ogrywania akordu [F7]({{< relref "F7.md" >}}),
 zaczynając w basie od dźwięku F na strunie E i chodząc w górę i w dół,
 przechodząc z basem ze struny E na A i odwrotnie. Celem takiego
 ćwiczenia jest nauczenie nie tylko samych chwytów, ale **przejść**

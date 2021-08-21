@@ -1,4 +1,12 @@
-W rozdziale pt, „[Kostka](Kostka "wikilink")" wyjaśniłem zależności
+---
+title: "Kostka a barwa dźwięku"
+slug: "kostka-a-barwa-dzwieku"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['technika gry']
+draft: false
+wikilinks: ['Kostka', 'Artykulacja']
+---
+W rozdziale pt, „[Kostka]({{< relref "Kostka.md" >}})" wyjaśniłem zależności
 pomiędzy rodzajem kostki a barwą dźwięku. Zanim przejdziemy do innych
 problemów, zależność tę usystematyzuję za pomocą tabeli:
 
@@ -36,6 +44,5 @@ nieco ciemniejszy i będzie sprawiał wrażenie niższego.
 Są jeszcze inne sposoby naturalnego „ubarwiania" dźwięku. Gitarzysta
 powinien umieć sam je znaleźć i wykorzystywać. O zastosowaniu powyższych
 efektów mowa będzie w rozdziale pt.
-„[Artykulacja](Artykulacja "wikilink")".
+„[Artykulacja]({{< relref "Artykulacja.md" >}})".
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

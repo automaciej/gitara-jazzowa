@@ -1,8 +1,16 @@
+---
+title: "Odchylenia od stroju"
+slug: "odchylenia-od-stroju"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['konserwacja gitary', 'strojenie gitary']
+draft: false
+wikilinks: ['menzura', 'regulacja_menzury', 'Strojenie_gitary']
+---
 Gitara, mimo właściwej pielęgnacji i okresowej korekty
-[menzury](menzura "wikilink"), cierpi na pewne minimalne odchylenia w
+menzury<!-- link nie odnosił się do niczego -->, cierpi na pewne minimalne odchylenia w
 stroju. Odchylenia te wzrastają pod koniec eksploatacji kompletu strun.
 Gitarzysta powinien reagować, nim będą one zauważalne dla słuchacza. Gdy
-zawodzi już [regulacja menzury](regulacja_menzury "wikilink"), można
+zawodzi już regulacja menzury<!-- link nie odnosił się do niczego -->, można
 ratować się. stosując specjalną metodę strojenia, uwzględniającą
 szczególnie te pozycje, które najczęściej będą używane. Tak więc, jeśli
 gramy akurat przede wszystkim w pozycjach III, IV i V, stroimy tak, by
@@ -25,7 +33,6 @@ ograniczona jest do kilku pozycji.
 
 **Zobacz też**
 
-  - [Strojenie gitary](Strojenie_gitary "wikilink")
+  - [Strojenie gitary]({{< relref "Strojenie_gitary.md" >}})
 
-[kategoria:konserwacja gitary](kategoria:konserwacja_gitary "wikilink")
-[kategoria:strojenie gitary](kategoria:strojenie_gitary "wikilink")
+

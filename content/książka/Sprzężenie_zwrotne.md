@@ -1,5 +1,13 @@
-Jest to efekt, który w praktyce pozwala na osiąganie dowolnie [długo
-brzmiących](wybrzmienie "wikilink") dźwięków.
+---
+title: "Sprzężenie zwrotne"
+slug: "sprzezenie-zwrotne"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['technika gry']
+draft: false
+wikilinks: ['wybrzmienie', 'solid_body', 'pud%C5%82o_rezonansowe', 'fla%C5%BColet', 'alikwot']
+---
+Jest to efekt, który w praktyce pozwala na osiąganie dowolnie długo
+brzmiących<!-- link nie odnosił się do niczego --> dźwięków.
 
 Mechanizm tego zjawiska jest następujący: nastawiając siłę głosu we
 wzmacniaczu odpowiednio głośno oraz ustawiając się z gitarą blisko
@@ -7,8 +15,8 @@ głośników, powodujemy nakładanie się fali dźwiękowej na drgania
 struny. Fala ta pobudza strunę do dalszych drgań i nie pozwala na ich
 ustanie, skutkiem czego z głośników nieustannie wydobywa się dźwięk,
 który pobudza strunę... itd. Sprzężenia stosuje się raczej na gitarach
-[solid body](solid_body "wikilink"). Gitary z [pudłem
-rezonansowym](pudło_rezonansowe "wikilink") wzbudzają niektóre dźwięki
+solid body<!-- link nie odnosił się do niczego -->. Gitary z pudłem
+rezonansowym<!-- link nie odnosił się do niczego --> wzbudzają niektóre dźwięki
 same i trudno je opanować.
 
 Różne dźwięki mają różne predyspozycje do wzbudzania. Bywa tak, że
@@ -43,10 +51,9 @@ gitary i jeśli gitarzysta nie będzie ich specjalnie tłumił, spowoduje
 niezamierzoną kakofonię.
 
 Przy niektórych dźwiękach w pewnym ustawieniu, można osiągnąć ciekawe
-[flażolety](flażolet "wikilink"), gdyż podczas trwania dźwięku ze
-sprzężeniem, niektóre [alikwoty](alikwot "wikilink") stają się
+flażolety<!-- link nie odnosił się do niczego -->, gdyż podczas trwania dźwięku ze
+sprzężeniem, niektóre alikwoty<!-- link nie odnosił się do niczego --> stają się
 głośniejsze od dźwięku podstawowego. Wykorzystywanie wszystkich
 możliwości sprzężenia zwrotnego da pozytywny efekt muzyczny tylko pod
 warunkiem dużej wrażliwości i poczucia muzycznego smaku gitarzysty.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

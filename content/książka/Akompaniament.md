@@ -1,7 +1,14 @@
+---
+title: "Akompaniament"
+slug: "akompaniament"
+date: 2005-01-01T00:00:00+01:00
+kategorie: []
+draft: false
+wikilinks: ['Walking_(akompaniament)', 'Bossa_Nova_(akompaniament)']
+---
 Jednym z wygodnych składów jest duet gitary i instrumentu melodycznego
 lub gitary i głosu. Wtedy do gitary należy **akompaniament**, czyli
 granie podkładu dla instrumentu melodycznego lub głosu.
 
-  - [Walking (akompaniament)](Walking_\(akompaniament\) "wikilink")
-  - [Bossa Nova
-    (akompaniament)](Bossa_Nova_\(akompaniament\) "wikilink")
+  - Walking (akompaniament)<!-- link nie odnosił się do niczego -->
+  - Bossa Nova (akompaniament)<!-- link nie odnosił się do niczego -->

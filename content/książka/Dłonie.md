@@ -1,3 +1,11 @@
+---
+title: "Dłonie"
+slug: "dlonie"
+date: 2005-01-01T00:00:00+01:00
+kategorie: []
+draft: false
+wikilinks: ['struna']
+---
 Każdy muzyk powinien dbać o swoje ręce. Nie tylko utrzymywać je w
 czystości, zachowywać estetyczny wygląd, ale i chronić przed
 przemęczeniem i skaleczeniem. Konieczne jest również pielęgnowanie
@@ -9,6 +17,6 @@ skórze nie wymaga on żadnych zabiegów, przy suchej - należy smarować
 kremem, tak jak i całe ręce.
 
 Ręce należy myć przed każdym graniem. Niezabrudzone
-[struny](struna "wikilink") będą wtedy lepiej stroiły, lepiej będzie się
+struny<!-- link nie odnosił się do niczego --> będą wtedy lepiej stroiły, lepiej będzie się
 prezentował lakier na instrumencie, a gitarzysta będzie miał lepsze
 samopoczucie.

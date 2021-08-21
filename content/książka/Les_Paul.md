@@ -1,1 +1,9 @@
-[frame](grafika:GitaraLesPaulCustom.jpg "wikilink")
+---
+title: "Les Paul"
+slug: "les-paul"
+date: 2005-01-01T00:00:00+01:00
+kategorie: []
+draft: false
+wikilinks: ['grafika:GitaraLesPaulCustom.jpg']
+---
+frame<!-- link nie odnosił się do niczego -->

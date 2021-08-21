@@ -1,9 +1,17 @@
-**Tonika** jest jedną z trzech najważniejszych [funkcja
-harmoniczna](funkcja_harmoniczna "wikilink"). Tonika jest funkcją
+---
+title: "Tonika"
+slug: "tonika"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['teoria muzyki']
+draft: false
+wikilinks: ['funkcja_harmoniczna', 'harmonia_klasyczna', 'Funkcja_harmoniczna', 'Subdominanta', 'Dominanta']
+---
+**Tonika** jest jedną z trzech najważniejszych funkcja
+harmoniczna<!-- link nie odnosił się do niczego -->. Tonika jest funkcją
 centralną dla tonacji. Na przykład, w tonacji C-dur toniką jest akord
 C-dur.
 
-Według [harmonii klasycznej](harmonia_klasyczna "wikilink") można
+Według harmonii klasycznej<!-- link nie odnosił się do niczego --> można
 zbudować tonikę na trzech stopniach:
 
   - T<sub>I</sub> tonika pierwszego stopnia
@@ -31,8 +39,7 @@ tonik w tonacji C-dur.
 
 **Zobacz też**
 
-  - [Funkcja harmoniczna](Funkcja_harmoniczna "wikilink")
-  - [Subdominanta](Subdominanta "wikilink")
-  - [Dominanta](Dominanta "wikilink")
+  - [Funkcja harmoniczna]({{< relref "Funkcja_harmoniczna.md" >}})
+  - [Subdominanta]({{< relref "Subdominanta.md" >}})
+  - [Dominanta]({{< relref "Dominanta.md" >}})
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

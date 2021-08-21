@@ -1,10 +1,18 @@
+---
+title: "Modulatory i filtry dźwięku"
+slug: "modulatory-i-filtry-dzwieku"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['akcesoria']
+draft: false
+wikilinks: ['gitara_elektryczna', 'wzmacniacz', 'Fuzz', 'Sustainer', 'Wahwah', 'Phaser', 'Envelope_filter', 'wzmacniacz', 'Ring_modulator', 'Octaver', 'Chorus', 'Flanger', 'Delay', 'Tape_echo', 'bramka_szum%C3%B3w', 'sygna%C5%82', 'wzmacniacz', 'Grafika:Multiprocesor.jpg', 'MIDI', 'syntezator_gitarowy', 'John_McLaughlin', 'Pat_Metheny']
+---
 Służą one do zmiany barwy i właściwości dźwięków uzyskanych na
-instrumentach wytwarzających impulsy elektryczne, a więc i na [gitarze
-elektrycznej](gitara_elektryczna "wikilink"). Na ogół, urządzenia te
+instrumentach wytwarzających impulsy elektryczne, a więc i na gitarze
+elektrycznej<!-- link nie odnosił się do niczego -->. Na ogół, urządzenia te
 pobierają prąd z baterii 9 V, czasem wyposażone są w zasilacz sieciowy.
 Mają dwa gniazda - wejście (in), w które włącza się kabel niosący sygnał
 z instrumentu oraz wyjście (out), przez które możemy wyprowadzić
-przetworzony już sygnał do wejścia [wzmacniacza](wzmacniacz "wikilink").
+przetworzony już sygnał do wejścia wzmacniacza<!-- link nie odnosił się do niczego -->.
 Posiadają również nożny (na ogół) przełącznik do włączania oraz
 regulatory do ustawiania urządzenia na określony typ pracy. Większość
 urządzeń przetwarzających dźwięk podłącza się między gitarą a
@@ -24,11 +32,11 @@ inaczej):
 
 ## Urządzenia
 
-  - [Fuzz](Fuzz "wikilink")
-  - [Sustainer](Sustainer "wikilink")
-  - [Wahwah](Wahwah "wikilink")
-  - [Phaser](Phaser "wikilink")
-  - [Envelope filter](Envelope_filter "wikilink")
+  - [Fuzz]({{< relref "Fuzz.md" >}})
+  - [Sustainer]({{< relref "Sustainer.md" >}})
+  - [Wahwah]({{< relref "Wahwah.md" >}})
+  - [Phaser]({{< relref "Phaser.md" >}})
+  - [Envelope filter]({{< relref "Envelope_filter.md" >}})
 
 ## Inne odmiany urządzeń
 
@@ -37,7 +45,7 @@ wymienionych urządzeń. Niektóre z nich łączone są parami lub nawet w
 większej ilości, np.:
 
 Wah-swell, Wah-fuzz-swell itp., niektóre montowane są we
-[wzmacniaczach](wzmacniacz "wikilink"). Są też odmiany w formie małych
+wzmacniaczach<!-- link nie odnosił się do niczego -->. Są też odmiany w formie małych
 pudełek, które włącza się bezpośrednio w gniazdo gitary.
 
 Wszystkie wyżej wymienione urządzenia kształtują dźwięki z instrumentu.
@@ -45,12 +53,12 @@ Oprócz nich są jeszcze takie, które tworzą zupełnie „obce" dźwięki,
 będące jednak w ścisłej zależności z impulsami wytwarzanymi przez
 instrument:
 
-  - [Ring modulator](Ring_modulator "wikilink")
-  - [Octaver](Octaver "wikilink")
-  - [Chorus](Chorus "wikilink")
-  - [Flanger](Flanger "wikilink")
-  - [Delay](Delay "wikilink")
-  - [Tape echo](Tape_echo "wikilink")
+  - [Ring modulator]({{< relref "Ring_modulator.md" >}})
+  - [Octaver]({{< relref "Octaver.md" >}})
+  - [Chorus]({{< relref "Chorus.md" >}})
+  - Flanger<!-- link nie odnosił się do niczego -->
+  - [Delay]({{< relref "Delay.md" >}})
+  - [Tape echo]({{< relref "Tape_echo.md" >}})
 
 ## Uwagi
 
@@ -58,15 +66,15 @@ instrument:
 
 Stosowanie urządzeń elektronicznych przetwarzających dźwięk powoduje
 niekiedy kłopoty związane ze wzrostem szumów w głośnikach. Te i inne
-niepożądane zakłócenia likwidowane są przez - [bramkę
-szumów](bramka_szumów "wikilink"), Noise Limiter - które w momentach
+niepożądane zakłócenia likwidowane są przez - bramkę
+szumów<!-- link nie odnosił się do niczego -->, Noise Limiter - które w momentach
 gdy instrument nie gra (a wtedy najbardziej słyszalne są wszelkie
 zakłócenia), odcinają dopływ sygnałów (a więc i szumów) do
 wzmacniacza. Gdy zaczyna się grać, urządzenie automatycznie przepuszcza
-[sygnał](sygnał "wikilink") z instrumentu.
+sygnał<!-- link nie odnosił się do niczego --> z instrumentu.
 
 Noise Gate należy instalować zawsze między inne urządzenia a
-[wzmacniacz](wzmacniacz "wikilink"). Nietóre przetworniki dźwięku mają
+wzmacniacz<!-- link nie odnosił się do niczego -->. Nietóre przetworniki dźwięku mają
 wbudowaną „bramkę szumów".
 
 ### Miksowanie
@@ -90,7 +98,7 @@ muzyczne.
 
 ## Multiprocesory
 
-[thumb](Grafika:Multiprocesor.jpg "wikilink")
+thumb<!-- link nie odnosił się do niczego -->
 
 Szybki rozwój elektroniki przyczynił się do udoskonalenia dotychczas
 używanych efektów i skonstruowania nowych. Dla łatwiejszego operowania
@@ -100,12 +108,10 @@ kilkanaście efektów, łączonych w dowolnych kombinacjach. Setki takich
 kombinacji zapamiętane są w postaci programów i przywoływane
 naciśnięciem różnych przycisków.
 
-Wiele gitar wyposażonych jest w system [MIDI](MIDI "wikilink")
+Wiele gitar wyposażonych jest w system [MIDI]({{< relref "MIDI.md" >}})
 pozwalający gitarą sterować dowolnie podłączony syntezator. Po
-mistrzowsku wykorzystali [syntezatory
-gitarowe](syntezator_gitarowy "wikilink") m. in. [John
-McLaughlin](John_McLaughlin "wikilink") i [Pat
-Metheny](Pat_Metheny "wikilink").
+mistrzowsku wykorzystali syntezatory
+gitarowe<!-- link nie odnosił się do niczego --> m. in. [John
+McLaughlin]({{< relref "John_McLaughlin.md" >}}) i [Pat
+Metheny]({{< relref "Pat_Metheny.md" >}}).
 
-[kategoria:akcesoria
-gitarzysty](kategoria:akcesoria_gitarzysty "wikilink")

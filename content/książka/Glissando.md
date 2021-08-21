@@ -1,3 +1,11 @@
+---
+title: "Glissando"
+slug: "glissando"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['technika gry']
+draft: false
+wikilinks: ['grafika:NutyGlissando.png']
+---
 *Glissando*, *portamento*
 
 Glissandem nazywamy płynne przejście z jednego dźwięku do drugiego.
@@ -42,6 +50,5 @@ jazzowej częściej mamy do czynienia z fragmentami tych efektów, niż z
 pełnym ich wykonaniem. Np. fragmentem glissanda w dół lub w górę muzyk
 jazzowy niekiedy kończy dźwięk:
 
-[grafika:NutyGlissando.png](grafika:NutyGlissando.png "wikilink")
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")
+

@@ -1,6 +1,14 @@
+---
+title: "Wprowadzenie do budowania akordów"
+slug: "wprowadzenie-do-budowania-akordow"
+date: 2005-01-01T00:00:00+01:00
+kategorie: []
+draft: false
+wikilinks: ['ograniczenia_gitary', 'Grafika:Chord-eb-major.png', 'Gmaj7', 'G7', 'G6', 'Gm7', 'II-V-I', 'Cmaj7', 'C7', 'C6', 'Cm7', 'Cm6']
+---
 Nauka harmonii jest trudniejsza na gitarze niż na klawiaturze
-fortepianu. Jest tak głównie dlatego, że gryf [nie daje
-swobody](ograniczenia_gitary "wikilink") w budowaniu i łączeniu akordów.
+fortepianu. Jest tak głównie dlatego, że gryf nie daje
+swobody<!-- link nie odnosił się do niczego --> w budowaniu i łączeniu akordów.
 Początkujący gitarzyści uczą się *chwytów*, zapamiętując każdy z nich
 jako coś osobnego. Rzeczywiście, nie jest łatwo połączyć w spójną całość
 wiedzę na temat harmonii z chwytami gitarowymi.
@@ -60,10 +68,10 @@ strukturę.
 Budowanie nowych akordów można zacząć od modyfikacji powyższej
 struktury. W pierwszym kroku uprościmy ją, zostawiając cztery dźwięki.
 
-[240px](Grafika:Chord-eb-major.png "wikilink")
+240px<!-- link nie odnosił się do niczego -->
 
 Tak uproszczony akord można dość prosto modyfikować. Najprostsza
-modyfikacja to przejście z G-dur na [Gmaj7](Gmaj7 "wikilink"), poprzez
+modyfikacja to przejście z G-dur na [Gmaj7]({{< relref "Gmaj7.md" >}}), poprzez
 przesunięcie prymy na septymę wielką.
 
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
@@ -73,7 +81,7 @@ przesunięcie prymy na septymę wielką.
 `A |―――|―――|―――|―――|―――|―――|―――|―――`
 `E |―――|―――|―――1―――|―――|―――|―――|―――`
 
-Akord z septymą małą, czyli [G7](G7 "wikilink"), można uzyskać w podobny
+Akord z septymą małą, czyli [G7]({{< relref "G7.md" >}}), można uzyskać w podobny
 sposób.
 
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
@@ -84,7 +92,7 @@ sposób.
 `E |―――|―――|―――1―――|―――|―――|―――|―――`
 
 Pół tonu pod septymą małą znajduje się seksta akordu, więc
-[G6](G6 "wikilink") można zagrać tak:
+G6<!-- link nie odnosił się do niczego --> można zagrać tak:
 
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 `B |―――|―――|―――5―――|―――|―――|―――|―――`
@@ -94,7 +102,7 @@ Pół tonu pod septymą małą znajduje się seksta akordu, więc
 `E |―――|―――|―――1―――|―――|―――|―――|―――`
 
 Inny przydatny akord to akord mollowy z septymą małą. W tym przypadku
-będzie to [Gm7](Gm7 "wikilink").
+będzie to [Gm7]({{< relref "Gm7.md" >}}).
 
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 `B |―――|―――|―――5―――|―――|―――|―――|―――`
@@ -105,7 +113,7 @@ będzie to [Gm7](Gm7 "wikilink").
 
 W muzyce w stylu bossa nova często mamy do czynienia z akordem mollowym
 z obniżoną kwintą. W tonacji mollowej jest to subdominanta drugiego
-stopnia, z mollowego [II-V-I](II-V-I "wikilink").
+stopnia, z mollowego II-V-I<!-- link nie odnosił się do niczego -->.
 
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 `B |―――|――♭5―――|―――|―――|―――|―――|―――`
@@ -153,7 +161,7 @@ Dla uproszczenia akordu, zostawiamy 4 dźwięki.
 `A |―――|―――|―――1―――|―――|―――|―――|―――`
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 
-Zamiana C-dur na [Cmaj7](Cmaj7 "wikilink") polega zmianie prymy na
+Zamiana C-dur na [Cmaj7]({{< relref "Cmaj7.md" >}}) polega zmianie prymy na
 septymę wielką.
 
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
@@ -163,7 +171,7 @@ septymę wielką.
 `A |―――|―――|―――1―――|―――|―――|―――|―――`
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 
-[C7](C7 "wikilink") z kolei będzie miał septymę małą.
+[C7]({{< relref "C7.md" >}}) z kolei będzie miał septymę małą.
 
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 `B |―――|―――|―――|―――|―――3―――|―――|―――`
@@ -172,7 +180,7 @@ septymę wielką.
 `A |―――|―――|―――1―――|―――|―――|―――|―――`
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 
-A dość niewygodny do chwycenia [C6](C6 "wikilink") będzie wyglądać tak:
+A dość niewygodny do chwycenia C6<!-- link nie odnosił się do niczego --> będzie wyglądać tak:
 
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 `B |―――|―――|―――|―――|―――3―――|―――|―――`
@@ -182,7 +190,7 @@ A dość niewygodny do chwycenia [C6](C6 "wikilink") będzie wyglądać tak:
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 
 Z grupy akordów z prymą na strunie A warto pokazać
-[Cm7](Cm7 "wikilink"):
+[Cm7]({{< relref "Cm7.md" >}}):
 
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 `B |―――|―――|―――|――♭3―――|―――|―――|―――`
@@ -191,5 +199,5 @@ Z grupy akordów z prymą na strunie A warto pokazać
 `A |―――|―――|―――1―――|―――|―――|―――|―――`
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 
-Jak chwycić [Cm6](Cm6 "wikilink") (akord z tercją małą i sekstą wielką),
+Jak chwycić Cm6<!-- link nie odnosił się do niczego --> (akord z tercją małą i sekstą wielką),
 pozostawiam Czytelnikowi jako ćwiczenie.

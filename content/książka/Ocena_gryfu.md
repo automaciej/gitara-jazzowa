@@ -1,8 +1,16 @@
+---
+title: "Ocena gryfu"
+slug: "ocena-gryfu"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['budowa gitary']
+draft: false
+wikilinks: ['Grafika:MarekPatrzyNaGryfOdStronyGlowki.jpg', 'pr%C4%99t_regulacyjny', 'Gibson', 'Les_Paul']
+---
 Podczas oceny instrumentu uwaga powinna być skupiona w pierwszym rzędzie
 na gryfie gitary, który powinien być prosty. Sprawdzamy to po uprzednim
 naciągnięciu strun do właściwego stroju w sposób podany na zdjęciu.
 
-[thumb](Grafika:MarekPatrzyNaGryfOdStronyGlowki.jpg "wikilink") patrzy
+thumb<!-- link nie odnosił się do niczego --> patrzy
 na gryf od strony główki\]\]
 
 Drugi sposób sprawdzania szyjki jest następujący: dociskamy jedną ze
@@ -11,7 +19,7 @@ gryfu dociśnięta struna oddalona jest od niego o więcej niż 0,3 mm,
 trzeba uznać, że szyjka jest wypaczona. Należy pamiętać o tym, że nowy
 instrument jest jeszcze nie ułożony i szyjka z czasem może się nieco
 poddać siłom naciągu strun. Problemu tego nic ma, gdy szyjka wyposażona
-jest w [pręt regulacyjny](pręt_regulacyjny "wikilink"), wówczas należy
+jest w pręt regulacyjny<!-- link nie odnosił się do niczego -->, wówczas należy
 tylko zwrócić uwagę na ewentualne wypaczenia boczne gryfu. Jeżeli struny
 przylegają do progów na całej długości gryfu należy dokonać korekty
 prętem regulacyjnym gryfu.
@@ -21,10 +29,9 @@ mm również dyskwalifikuje gryf. Jedynym ratunkiem w tym wypadku może
 okazać się używanie tylko grubych zestawów strun. Oczywiście szyjka
 powinna być wygodna dla lewej ręki, lekko spłaszczona - łącznie z gryfem
 nie powinna przekraczać 25 mm w połowie długości. Jej szerokość, to
-sprawa wyboru. Np. firma [Gibson](Gibson "wikilink") montuje w różnych
+sprawa wyboru. Np. firma [Gibson]({{< relref "Gibson.md" >}}) montuje w różnych
 modelach różne szyjki: mocno zwężające się, mierzącą w siodełku 40 mm
 (np. modele L-5 CES, ES-345 TD) i szerszą, mającą w siodełku 43 mm (np.
-[Les Paul](Les_Paul "wikilink"), ES-175). Gryf powinien być wypukły na
+[Les Paul]({{< relref "Les_Paul.md" >}}), ES-175). Gryf powinien być wypukły na
 tyle, by chwyty barre nie sprawiały trudności.
 
-[kategoria:budowa gitary](kategoria:budowa_gitary "wikilink")

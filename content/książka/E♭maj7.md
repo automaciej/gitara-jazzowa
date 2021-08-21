@@ -1,4 +1,12 @@
-**E♭-dur** z [septymą wielką](septyma_wielka "wikilink").
+---
+title: "E♭maj7"
+slug: "emaj7"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['tabele chwytów', 'akordy durowe']
+draft: false
+wikilinks: ['septyma_wielka']
+---
+**E♭-dur** z septymą wielką<!-- link nie odnosił się do niczego -->.
 
 ## E♭maj7 w VI pozycji
 
@@ -9,5 +17,4 @@
 `A |---|---|---|---|---|---E♭--|---|---|---|---`
 `E |---|---|---|---|---|---|---|---|---|---|---`
 
-[kategoria:tabele chwytów](kategoria:tabele_chwytów "wikilink")
-[kategoria:akordy durowe](kategoria:akordy_durowe "wikilink")
+

@@ -1,6 +1,14 @@
+---
+title: "Notacja harmoniczna"
+slug: "notacja-harmoniczna"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['harmonia jazzowa']
+draft: false
+wikilinks: ['akord', 'sk%C5%82adniki_akordu', 'interwa%C5%82', 'akord', 'nona']
+---
 Notacja harmoniczna w jazzie opiera się na systemie symboli literowych.
-Oznaczają one podstawę [akordu](akord "wikilink"). Dodatkowe cyfry i
-znaki określają bliżej jego [składniki](składniki_akordu "wikilink").
+Oznaczają one podstawę akordu<!-- link nie odnosił się do niczego -->. Dodatkowe cyfry i
+znaki określają bliżej jego składniki<!-- link nie odnosił się do niczego -->.
 Np. symbol F6 wskazuje, że podstawą akordu durowego jest dźwięk F. Akord
 F składa się z dźwięków: f, a, c - cyfra 6 przy literze oznacza, że do
 akordu dodany jest dźwięk oddalony od podstawy o sekstę wielką w górę, a
@@ -32,16 +40,16 @@ I tak:
     wielką
 
 Biorąc pod uwagę możliwość łączenia różnych
-[interwałów](interwał "wikilink") (nie tylko w szeregu tercjowym),
+interwałów<!-- link nie odnosił się do niczego --> (nie tylko w szeregu tercjowym),
 praktycznie za pomocą tych oznaczeń można określić każdy
-[akord](akord "wikilink").
+akord<!-- link nie odnosił się do niczego -->.
 
 Należy pamiętać, że znaki przykluczowe określające daną tonację, nie
 mają wpływu na system pisowni akordów. Np. jeśli mamy tonację F-dur i
 będzie tam symbol akordu A9, to pomimo że nuta h jest obniżona bemolem
 przy kluczu, gramy akord z noną wielką, tj. a, cis, e, g, h, ponieważ
 nonę małą oznaczamy zawsze za pomocą osobnego znaku chromatycznego.
-Należy zwrócić uwagę, że w odróżnieniu od [nony](nona "wikilink"),
+Należy zwrócić uwagę, że w odróżnieniu od nony<!-- link nie odnosił się do niczego -->,
 septyma bez znaku oznacza interwał mały.
 
 Rozróżnienie akordu durowego i molowego następuje zazwyczaj przez
@@ -95,4 +103,3 @@ zagrania na gitarze i dlatego tworzy się układy bardziej rozległe np.:
 Przy omawianiu symboli akordów, trzeba zaznaczyć, że istnieje wiele ich
 rodzajów. Akord E♭ można spotkać także pod postacią Es, C♯ pod Cis itp.
 
-[kategoria:harmonia jazzowa](kategoria:harmonia_jazzowa "wikilink")

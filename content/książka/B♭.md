@@ -1,3 +1,11 @@
+---
+title: "B♭"
+slug: "b"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['tabele chwytów', 'Akordy durowe']
+draft: false
+wikilinks: []
+---
 **B♭-dur**, nazywany też *czysty* B♭-dur.
 
 `E |---|---|---|---|---|---|---`
@@ -7,5 +15,4 @@
 `A |---B♭--|---|---|---|---|---`
 `E |---|---|---|---|---|---|---`
 
-[kategoria:tabele chwytów](kategoria:tabele_chwytów "wikilink")
-[kategoria:Akordy durowe](kategoria:Akordy_durowe "wikilink")
+

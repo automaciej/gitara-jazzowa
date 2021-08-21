@@ -1,4 +1,12 @@
-Akord durowy z [septymą wielką](septyma_wielka "wikilink") w układzie
+---
+title: "Akord maj7 w układzie rozległym"
+slug: "akord-maj7-w-ukladzie-rozleglym"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['układ rozległy']
+draft: false
+wikilinks: ['septyma_wielka']
+---
+Akord durowy z septymą wielką<!-- link nie odnosił się do niczego --> w układzie
 rozległym.
 
 `E ---|---|---5---|---|---|---|---|---|---|---`
@@ -29,4 +37,3 @@ rozległym.
 `A ---|---|---|---|---|---|---|---|---|---|---|---|--`
 `E ---|---|---|---|---|---|---|---|---|---|---|---|--`
 
-[kategoria:układ rozległy](kategoria:układ_rozległy "wikilink")

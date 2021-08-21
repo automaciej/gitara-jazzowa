@@ -1,26 +1,34 @@
+---
+title: "John Scofield"
+slug: "john-scofield"
+date: 2005-01-01T00:00:00+01:00
+kategorie: []
+draft: false
+wikilinks: ['jazz', 'bebop', 'rock', 'swingowanie', 'Improwizacja', 'd%C5%BAwi%C4%99k', 'schemat_harmoniczny', 'B%E2%99%ADm7', 'D%E2%99%AD7', 'staccato', 'gitara_basowa', 'sekcja_rytmiczna', 'kategoria:gitarzy%C5%9Bci_jazzowi']
+---
 Wielki talent **Johna Scofielda** jako kompozytora i gita­rzysty czyni
 go jednym z najwybitniejszych twórców nowoczesnego
-[jazzu](jazz "wikilink").
+jazzu<!-- link nie odnosił się do niczego -->.
 
 W jego grze zawarta jest synteza stylistyczna osiągnięta w lalach
 siedemdziesiątych przez muzyków jazzowych. Pozornie gra klasyczny
-[bebop](bebop "wikilink"), jednak z potężną [rockową](rock "wikilink")
+bebop<!-- link nie odnosił się do niczego -->, jednak z potężną rockową<!-- link nie odnosił się do niczego -->
 energią.
 
-Uchodzi za najintensywniej [swingującego](swingowanie "wikilink")
-gitarzystę. [Improwizuje](Improwizacja "wikilink") swobodnie i
+Uchodzi za najintensywniej swingującego<!-- link nie odnosił się do niczego -->
+gitarzystę. Improwizuje<!-- link nie odnosił się do niczego --> swobodnie i
 żywiołowo, a z drugiej strony jego świadomość miejsca każdego
-[dźwięku](dźwięk "wikilink") w [strukturze
-harmonicznej](schemat_harmoniczny "wikilink") utworu jest imponująca.
+dźwięku<!-- link nie odnosił się do niczego --> w strukturze
+harmonicznej<!-- link nie odnosił się do niczego --> utworu jest imponująca.
 
 Charakterystycznym przykładem może być temat z utworu „Techno" z płyty
-„Still Warm". Oparty jest na dwóch akordach: [B♭m7](B♭m7 "wikilink") i
-[D♭7](D♭7 "wikilink"). Zbudowany jest z krótkich, gęstych rytmicznie
-fraz wykonanych [staccato](staccato "wikilink"). Motyw gi­tary ściśle
-koresponduje z szesnastkowym podziałem [gi­tary
-basowej](gitara_basowa "wikilink"). Jednotaktowe frazy gitary i basu
-przedzielane są „oddechem" [sekcji
-rytmicznej](sekcja_rytmiczna "wikilink").
+„Still Warm". Oparty jest na dwóch akordach: [B♭m7]({{< relref "B♭m7.md" >}}) i
+D♭7<!-- link nie odnosił się do niczego -->. Zbudowany jest z krótkich, gęstych rytmicznie
+fraz wykonanych staccato<!-- link nie odnosił się do niczego -->. Motyw gi­tary ściśle
+koresponduje z szesnastkowym podziałem gi­tary
+basowej<!-- link nie odnosił się do niczego -->. Jednotaktowe frazy gitary i basu
+przedzielane są „oddechem" sekcji
+rytmicznej<!-- link nie odnosił się do niczego -->.
 
 ## Mówią o Scofieldzie
 
@@ -34,4 +42,4 @@ People** czy **You under arrest**. Polecam nowsze albumy **Uberjam** czy
 pozdrawiam
 [Arkady](http://www.arkadymichalik.republika.pl)
 
-[Scofield, John](kategoria:gitarzyści_jazzowi "wikilink")
+Scofield, John<!-- link nie odnosił się do niczego -->

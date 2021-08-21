@@ -1,3 +1,11 @@
+---
+title: "Cmaj9"
+slug: "cmaj9"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['tabele chwytów', 'akordy durowe']
+draft: false
+wikilinks: ['bez_prymy']
+---
 ## Cmaj9 w II pozycji
 
 `E |---|---|---|---|---|---|---|---`
@@ -9,7 +17,7 @@
 
 ## Cmaj9 w VIII pozycji
 
-[bez prymy](bez_prymy "wikilink")
+bez prymy<!-- link nie odnosił się do niczego -->
 
 `E |---|---|---|---|---|---|---|---|---|---|---|---`
 `B |---|---|---|---|---|---|---|---G---|---|---|---`
@@ -18,5 +26,4 @@
 `A |---|---|---|---|---|---|---E---|---|---|---|---`
 `E |---|---|---|---|---|---|---|---|---|---|---|---`
 
-[kategoria:tabele chwytów](kategoria:tabele_chwytów "wikilink")
-[kategoria:akordy durowe](kategoria:akordy_durowe "wikilink")
+

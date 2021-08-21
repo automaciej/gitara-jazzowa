@@ -1,11 +1,18 @@
-**Gitara jest instrumentem transponującym o [oktawę](oktawa "wikilink")
+---
+title: "Instrument transponujący"
+slug: "instrument-transponujacy"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['teoria muzyki', 'strojenie gitary']
+draft: false
+wikilinks: ['oktawa', 'zapis_nutowy', 'Strojenie_gitary']
+---
+**Gitara jest instrumentem transponującym o oktawę<!-- link nie odnosił się do niczego -->
 w dół**. Znaczy to, że nuty napisane np. na fortepian - na gitarze będą
-brzmiały o oktawę niżej. Dlatego [zapis nutowy](zapis_nutowy "wikilink")
+brzmiały o oktawę niżej. Dlatego zapis nutowy<!-- link nie odnosił się do niczego -->
 przeznaczony na gitarę jest o oktawę wyższy.
 
 **Zobacz też**
 
-  - [Strojenie gitary](Strojenie_gitary "wikilink")
+  - [Strojenie gitary]({{< relref "Strojenie_gitary.md" >}})
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")
-[kategoria:strojenie gitary](kategoria:strojenie_gitary "wikilink")
+

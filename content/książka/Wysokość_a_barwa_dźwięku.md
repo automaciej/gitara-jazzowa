@@ -1,3 +1,11 @@
+---
+title: "Wysokość a barwa dźwięku"
+slug: "wysokosc-a-barwa-dzwieku"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['strojenie gitary']
+draft: false
+wikilinks: ['Strojenie_gitary', 'Barwa_d%C5%BAwi%C4%99ku']
+---
 Przystępując do strojenia, należy pamiętać o tym, że dźwięki o barwie
 ciemnej sprawiają wrażenie niższych niż w rzeczywistości, a dźwięki o
 barwie jasnej - wyższych. Dlatego lepiej stroić gitarę z ustawioną taką
@@ -7,7 +15,6 @@ Muszę dodać, że struny powinny być jak zwykle czyste i wolne od osadu.
 
 **Zobacz też**
 
-  - [Strojenie gitary](Strojenie_gitary "wikilink")
-  - [Barwa dźwięku](Barwa_dźwięku "wikilink")
+  - [Strojenie gitary]({{< relref "Strojenie_gitary.md" >}})
+  - [Barwa dźwięku]({{< relref "Barwa_dźwięku.md" >}})
 
-[kategoria:strojenie gitary](kategoria:strojenie_gitary "wikilink")

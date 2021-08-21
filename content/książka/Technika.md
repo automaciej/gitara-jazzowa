@@ -1,22 +1,29 @@
+---
+title: "Technika"
+slug: "technika"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['technika gry']
+draft: false
+wikilinks: ['technika_klasyczna', 'Charlie_Christian', 'Joe_Pass', 'Kenny_Burrell', 'Jim_Hall', 'George_Benson', 'John_McLaughlin', 'Pat_Metheny', 'John_Scofield', 'Metody_trzymania_kostki']
+---
 Określony rodzaj techniki gry kojarzy się na ogół z konkretnym
 wykonawcą, tym który wprowadził lub doprowadził ją do szczytowych
 możliwości. Aby również Czytelnik, nie wprowadzony w zagadnienia gitary
 jazzowej, miał jakiś punkt odniesienia, powinien zapoznać się z zarysami
-[techniki klasycznej](technika_klasyczna "wikilink").
+techniki klasycznej<!-- link nie odnosił się do niczego -->.
 
 # Gitarzyści jazzowi
 
-  - [Charlie Christian](Charlie_Christian "wikilink")
-  - [Joe Pass](Joe_Pass "wikilink")
-  - [Kenny Burrell](Kenny_Burrell "wikilink")
-  - [Jim Hall](Jim_Hall "wikilink")
-  - [George Benson](George_Benson "wikilink")
-  - [John McLaughlin](John_McLaughlin "wikilink")
-  - [Pat Metheny](Pat_Metheny "wikilink")
-  - [John Scofield](John_Scofield "wikilink")
+  - [Charlie Christian]({{< relref "Charlie_Christian.md" >}})
+  - [Joe Pass]({{< relref "Joe_Pass.md" >}})
+  - [Kenny Burrell]({{< relref "Kenny_Burrell.md" >}})
+  - [Jim Hall]({{< relref "Jim_Hall.md" >}})
+  - [George Benson]({{< relref "George_Benson.md" >}})
+  - [John McLaughlin]({{< relref "John_McLaughlin.md" >}})
+  - [Pat Metheny]({{< relref "Pat_Metheny.md" >}})
+  - [John Scofield]({{< relref "John_Scofield.md" >}})
 
 **Zobacz też**
 
-  - [Metody trzymania kostki](Metody_trzymania_kostki "wikilink")
+  - [Metody trzymania kostki]({{< relref "Metody_trzymania_kostki.md" >}})
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

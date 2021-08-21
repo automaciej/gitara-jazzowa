@@ -1,5 +1,13 @@
-F-dur z [septymą małą](septyma_mała "wikilink") i
-[tercją](tercja "wikilink") w basie.
+---
+title: "A"
+slug: "a"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['tabele chwytów', 'Akordy durowe']
+draft: false
+wikilinks: ['septyma_ma%C5%82a', 'tercja']
+---
+F-dur z septymą małą<!-- link nie odnosił się do niczego --> i
+tercją<!-- link nie odnosił się do niczego --> w basie.
 
 `E |---|---|---|---|---|---|---`
 `B |---|---|---C---|---|---|---`
@@ -8,5 +16,4 @@ F-dur z [septymą małą](septyma_mała "wikilink") i
 `A |---|---|---|---|---|---|---`
 `E |---|---|---|---|---A---|---`
 
-[kategoria:tabele chwytów](kategoria:tabele_chwytów "wikilink")
-[kategoria:Akordy durowe](kategoria:Akordy_durowe "wikilink")
+
