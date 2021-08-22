@@ -42,8 +42,10 @@ W tym rozdziale umieszczę trzy bardzo ważne elementy artykulacji:
 
 class ConversionTest(unittest.TestCase):
 
-  def testFrontMatter(self):
-    fm = m.FrontMatterFromContent(TEST_ARTICLE_1, "Test Article 1")
+  def testBasicStuff(self):
+    doc = m.Document(TEST_ARTICLE_1, "content/bar/Test_Article_1.md")
+    self.assertEqual("bar/test-article-1", doc.URLPath())
+    fm = doc.fm
     self.assertEqual(fm.title, "Test Article 1")
     self.assertEqual(fm.slug, "test-article-1")
 
@@ -51,6 +53,9 @@ class ConversionTest(unittest.TestCase):
     self.assertEqual(
       "Szła dzieweczka do laseczka",
       m.TitleFromPath("content/książka/Szła_dzieweczka_do_laseczka.md"))
+
+  def testTitleFromPathWithSlash(self):
+    self.assertEqual("F7/C", m.TitleFromPath("content/książka/F7/C.md"))
 
   def testSlugify(self):
     self.assertEqual(
@@ -68,26 +73,32 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['test-category']
 draft: false
 wikilinks: ['Another_article']
+aliases: []
 ---
 """
     self.assertEqual(expected, fm.ToString())
 
   def testWikilinks(self):
-    existing_paths = set(['content/książka/Modulatory_i_filtry_dźwięku.md'])
+    redirects = {}
+    dest_doc = m.Document("", "content/książka/Modulatory_i_filtry_dźwięku.md")
     doc = m.Document('3.  [Modulatory i filtry dźwięku]'
                      '(Modulatory_i_filtry_dźwięku "wikilink")',
                      'content/książka/foo.md')
+    by_path = {m.path: m for m in (dest_doc, doc)}
     dst = ('3.  [Modulatory i filtry dźwięku]'
           '({{< relref "Modulatory_i_filtry_dźwięku.md" >}})')
-    self.assertEqual(dst, doc.TryToFixWikilinks(existing_paths).content)
+    self.assertEqual(dst, doc.TryToFixWikilinks(by_path, redirects).content)
 
   def testWikilinksParen(self):
-    existing_paths = set(["content/książka/Bossa_Nova_\\(akompaniament\\).md"])
+    redirects = {}
+    dest_doc = m.Document(
+      "", "content/książka/Bossa_Nova_\\(akompaniament\\).md")
     doc = m.Document('[Coś tam (akompaniament)](Bossa_Nova_\(akompaniament\) '
                      '"wikilink")', 'content/książka/foo.md')
+    by_path = {m.path: m for m in (dest_doc, doc)}
     dst = ('[Coś tam (akompaniament)]'
            '({{< relref "Bossa_Nova_\(akompaniament\).md" >}})')
-    self.assertEqual(dst, doc.TryToFixWikilinks(existing_paths).content)
+    self.assertEqual(dst, doc.TryToFixWikilinks(by_path, redirects).content)
 
   def testRemoveCategoryLinks(self):
     doc = m.Document(
@@ -96,6 +107,25 @@ wikilinks: ['Another_article']
     dst = 'headtail'
     self.assertEqual(dst, doc.RemoveCategoryLinks().content)
 
+  def testRedirection(self):
+    doc = m.Document(
+      '1.  REDIRECT [Regulacja gryfu](Regulacja_gryfu "wikilink")',
+      'foo/bar.md')
+    self.assertEqual("Regulacja_gryfu" , doc.GetRedirect())
+
+  def testRedirectionStruna(self):
+    doc = m.Document(
+      '1.  REDIRECT [Struna](Struna "wikilink")',
+      'foo/bar.md')
+    self.assertEqual("Struna", doc.GetRedirect())
+
+  def testURLPathWithSlash(self):
+    doc = m.Document(
+      '1.  REDIRECT [C9sus](C9sus "wikilink")',
+      'content/książka/B♭/C.md')
+    self.assertEqual("C9sus", doc.GetRedirect())
+    self.assertEqual("b/c", doc.fm.slug)
+    self.assertEqual("książka/b/c", doc.URLPath())
 
 if __name__ == '__main__':
   unittest.main()
