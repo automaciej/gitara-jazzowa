@@ -28,7 +28,7 @@ nic tłumić sąsiedniej palcami lewej ręki<!-- link nie odnosił się do nicze
 jazzie ma to mniejsze znaczenie, natomiast ważniejsza jest wygoda w
 palcowaniu i stosowaniu różnych chwytów. Grając piórkiem, tłumi się
 niekiedy celowo palcami lewej ręki sąsiednie struny.
-[Szyjka]({{< relref "Szyjka.md" >}}) z gryfem<!-- link nie odnosił się do niczego --> jest więc nieco
+[Szyjka]({{< relref "Gryf" >}}) z gryfem<!-- link nie odnosił się do niczego --> jest więc nieco
 węższa. Posiada wewnątrz wzmocnienie, zapobiegające odkształceniom jej
 przez siłę naciągu metalowych strun. Gryf z niższymi progami jest lekko
 zaokrąglony, co daje lepsze dopasowanie do dłoni szczególnie przy

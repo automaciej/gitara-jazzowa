@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry']
 draft: false
 wikilinks: ['barwa_d%C5%BAwi%C4%99ku', 'mostek', 'prawa_r%C4%99ka', 'gitara_akustyczna', 'wzmacniacz']
+aliases: ['książka/rejestr-glosowy']
 ---
 W zasadzie na gitarze jazzowej gra się za pomocą uderzenia w jedno
 określone miejsce strun: w pobliżu przystawki bliższej gryfu. Są też

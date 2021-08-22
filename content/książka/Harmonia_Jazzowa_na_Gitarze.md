@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['Czym_jest,_a_czym_nie_jest_teoria_muzyki', 'Po_co_jest_teoria_muzyki', 'Podstawy_teorii_muzyki', 'Wprowadzenie_do_budowania_akord%C3%B3w', 'Oznaczenia_akord%C3%B3w', 'Funkcje_harmoniczne', 'Chwytanie_i_%C5%82%C4%85czenie_akord%C3%B3w', 'Sztuczki_harmoniczne', 'Barwa_akordu', 'Przyk%C5%82ady_chwyt%C3%B3w']
+aliases: ['książka/harmonia-jazzowa-na-gitarze']
 ---
 **Harmonia Jazzowa na Gitarze** to artykuł Macieja Blizińskiego.
 Poprzednia wersja jest dostępna pod tym adresem:
@@ -14,7 +15,7 @@ Poprzednia wersja jest dostępna pod tym adresem:
 
 1.  Teoria muzyki
     1.  [Czym jest, a czym nie jest teoria
-        muzyki]({{< relref "Czym_jest,_a_czym_nie_jest_teoria_muzyki.md" >}})
+        muzyki]({{< relref "Teoria_muzyki" >}})
     2.  [Po co jest teoria muzyki]({{< relref "Po_co_jest_teoria_muzyki.md" >}})
     3.  [Podstawy teorii muzyki]({{< relref "Podstawy_teorii_muzyki.md" >}})
 2.  [Wprowadzenie do budowania

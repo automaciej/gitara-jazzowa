@@ -12,5 +12,5 @@ bluesie<!-- link nie odnosił się do niczego --> akord Bdim to dźwięki: B, D,
 
 **Zobacz też**
 
-  - [Akord Bdim]({{< relref "Akord_Bdim.md" >}})
+  - [Akord Bdim]({{< relref "Bdim" >}})
 

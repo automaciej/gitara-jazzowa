@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry']
 draft: false
 wikilinks: ['wybrzmienie', 'solid_body', 'pud%C5%82o_rezonansowe', 'fla%C5%BColet', 'alikwot']
+aliases: ['książka/sprzezenia']
 ---
 Jest to efekt, który w praktyce pozwala na osiąganie dowolnie długo
 brzmiących<!-- link nie odnosił się do niczego --> dźwięków.

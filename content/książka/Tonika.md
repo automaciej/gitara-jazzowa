@@ -40,6 +40,6 @@ tonik w tonacji C-dur.
 **Zobacz też**
 
   - [Funkcja harmoniczna]({{< relref "Funkcja_harmoniczna.md" >}})
-  - [Subdominanta]({{< relref "Subdominanta.md" >}})
-  - [Dominanta]({{< relref "Dominanta.md" >}})
+  - [Subdominanta]({{< relref "Funkcje_harmoniczne" >}})
+  - [Dominanta]({{< relref "Funkcje_harmoniczne" >}})
 

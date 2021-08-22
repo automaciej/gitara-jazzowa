@@ -12,20 +12,20 @@ wikilinks: ['Od_autora', ':Kategoria:Rodzaje_gitar', 'Kryteria_oceny_przy_wyborz
 
 1.  Budowa gitar<!-- link nie odnosił się do niczego -->
 2.  [Kryteria oceny przy wyborze instrumentu i
-    akcesoriów]({{< relref "Kryteria_oceny_przy_wyborze_instrumentu_i_akcesoriów.md" >}})
+    akcesoriów]({{< relref "Wybieranie_instrumentu_i_akcesoriów" >}})
     1.  [Gitara]({{< relref "Gitara.md" >}})
     2.  [Wzmacniacz]({{< relref "Wzmacniacz.md" >}})
-    3.  [Struny]({{< relref "Struny.md" >}})
+    3.  [Struny]({{< relref "Struna" >}})
     4.  [Kostka]({{< relref "Kostka.md" >}})
     5.  [Pasek do gitary]({{< relref "Pasek_do_gitary.md" >}})
     6.  [Futerał]({{< relref "Futerał.md" >}})
 3.  [Przygotowanie instrumentu do
     gry]({{< relref "Przygotowanie_instrumentu_do_gry.md" >}})
     1.  [Regulacja szyjki
-        instrumentu]({{< relref "Regulacja_szyjki_instrumentu.md" >}})
+        instrumentu]({{< relref "Regulacja_gryfu" >}})
     2.  [Ustawianie wysokości strun nad
         gryfem]({{< relref "Ustawianie_wysokości_strun_nad_gryfem.md" >}})
-    3.  [Regulacja menzury strun]({{< relref "Regulacja_menzury_strun.md" >}})
+    3.  [Regulacja menzury strun]({{< relref "Regulacja_menzury" >}})
     4.  [Korekcja siły brzmienia
         strun]({{< relref "Korekcja_siły_brzmienia_strun.md" >}})
 4.  [Postawa z instrumentem]({{< relref "Postawa_z_instrumentem.md" >}})
@@ -46,15 +46,16 @@ wikilinks: ['Od_autora', ':Kategoria:Rodzaje_gitar', 'Kryteria_oceny_przy_wyborz
     2.  [Pogłos]({{< relref "Pogłos.md" >}})
     3.  [Modulatory i filtry
         dźwięku]({{< relref "Modulatory_i_filtry_dźwięku.md" >}})
-    4.  [Sprzężenia]({{< relref "Sprzężenia.md" >}})
+    4.  [Sprzężenia]({{< relref "Sprzężenie_zwrotne" >}})
 9.  [Artykulacja]({{< relref "Artykulacja.md" >}})
     1.  [Legato]({{< relref "Legato.md" >}})
     2.  [Akcentowanie]({{< relref "Akcentowanie.md" >}})
     3.  [Ozdobniki]({{< relref "Ozdobniki.md" >}})
     4.  [Flażolety]({{< relref "Flażolet.md" >}})
 10. [Różne techniki gry na
-    gitarze]({{< relref "Różne_techniki_gry_na_gitarze.md" >}})
+    gitarze]({{< relref "Technika" >}})
 11. [Wprowadzenie do harmonii
     jazzowej]({{< relref "Wprowadzenie_do_harmonii_jazzowej.md" >}})
 12. [Ćwiczenia techniczne]({{< relref "Ćwiczenia_techniczne.md" >}})
+
 

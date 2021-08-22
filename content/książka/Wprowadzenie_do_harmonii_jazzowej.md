@@ -32,5 +32,5 @@ papierowego.
 **Zobacz też**
 
   - [Harmonia jazzowa na
-    gitarze]({{< relref "Harmonia_jazzowa_na_gitarze.md" >}})
+    gitarze]({{< relref "Harmonia_Jazzowa_na_Gitarze" >}})
 

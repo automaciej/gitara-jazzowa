@@ -6,7 +6,7 @@ kategorie: ['konserwacja gitary', 'strojenie gitary']
 draft: false
 wikilinks: ['Str%C3%B3j_gitary', '%C4%87wiczenie', 'Strojenie_gitary']
 ---
-[Strój gitary]({{< relref "Strój_gitary.md" >}}) należy sprawdzać przed każdym
+[Strój gitary]({{< relref "Strojenie_gitary" >}}) należy sprawdzać przed każdym
 użyciem instrumentu; również jeśli zabieramy się do
 ćwiczenia<!-- link nie odnosił się do niczego -->. Stałe pilnowanie precyzji stroju
 instrumentu ma wpływ nie tylko na jakość wykonywanej przez nas muzyki.

@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['Funkcja_harmoniczna', 'tonacja', 'akord', 'Funkcje_poboczne', 'Wtr%C4%85cenia', 'II-V-I_(dwa_pi%C4%99%C4%87_jeden)']
+aliases: ['książka/dominanta', 'książka/subdominanta']
 ---
 Pojęcie [funkcji harmonicznej]({{< relref "Funkcja_harmoniczna.md" >}}) ma sens
 tylko w kontekście tonacji<!-- link nie odnosił się do niczego -->. Zakładając, że
@@ -50,5 +51,5 @@ kadencji, ale żadna inna nie jest nazywana kadencją wielką doskonałą.
 ## Zobacz też
 
   - [Funkcje poboczne]({{< relref "Funkcje_poboczne.md" >}})
-  - [Wtrącenia]({{< relref "Wtrącenia.md" >}})
+  - [Wtrącenia]({{< relref "Wtrącenie" >}})
   - II-V-I (dwa pięć jeden)<!-- link nie odnosił się do niczego -->

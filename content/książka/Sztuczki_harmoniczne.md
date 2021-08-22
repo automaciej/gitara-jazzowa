@@ -8,4 +8,4 @@ wikilinks: ['Substytut_dominanty', 'Te_same_d%C5%BAwi%C4%99ki,_r%C3%B3%C5%BCne_a
 ---
   - [Substytut dominanty]({{< relref "Substytut_dominanty.md" >}})
   - [Te same dźwięki, różne
-    akordy]({{< relref "Te_same_dźwięki,_różne_akordy.md" >}})
+    akordy]({{< relref "Akordy_bez_prymy" >}})

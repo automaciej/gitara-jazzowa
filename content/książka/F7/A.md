@@ -1,6 +1,6 @@
 ---
-title: "A"
-slug: "a"
+title: "F7/A"
+slug: "f7/a"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['tabele chwytów', 'Akordy durowe']
 draft: false

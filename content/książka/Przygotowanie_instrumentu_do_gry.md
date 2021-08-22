@@ -7,10 +7,10 @@ draft: false
 wikilinks: ['Regulacja_szyjki_instrumentu', 'Ustawianie_wysoko%C5%9Bci_strun_nad_gryfem', 'Regulacja_menzury_strun', 'Korekcja_si%C5%82y_brzmienia_strun', 'Jak_obchodzi%C4%87_si%C4%99_z_instrumentem', 'D%C5%82onie', 'Regularne_%C4%87wiczenie', 'Najcz%C4%99stsze_usterki_i_b%C5%82%C4%99dy']
 ---
   - [Regulacja szyjki
-    instrumentu]({{< relref "Regulacja_szyjki_instrumentu.md" >}})
+    instrumentu]({{< relref "Regulacja_gryfu" >}})
   - [Ustawianie wysokości strun nad
     gryfem]({{< relref "Ustawianie_wysokości_strun_nad_gryfem.md" >}})
-  - [Regulacja menzury strun]({{< relref "Regulacja_menzury_strun.md" >}})
+  - [Regulacja menzury strun]({{< relref "Regulacja_menzury" >}})
   - [Korekcja siły brzmienia
     strun]({{< relref "Korekcja_siły_brzmienia_strun.md" >}})
 

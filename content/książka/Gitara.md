@@ -23,7 +23,7 @@ oczywistą.
 
 ## Szyjka
 
-Zobacz artykuł: [Szyjka]({{< relref "Szyjka.md" >}})
+Zobacz artykuł: [Szyjka]({{< relref "Gryf" >}})
 
 ## Progi
 

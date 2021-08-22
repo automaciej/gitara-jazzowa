@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['grafika:GitaraElektrycznaBudowa.png', 'pud%C5%82o_rezonansowe', 'Szyjka', 'gitara_akustyczna', 'gryf', 'pr%C3%B3g', 'gitara_elektryczno-akustyczna', 'wybrzmienie', 'Gibson', 'Les_Paul', 'Fender_Stratocaster', 'gryf', 'mostek', 'Leo_Fender', 'wibrato', 'akord', 'grafika:MostekFloydRose.jpg', 'Floyd_Rose', 'mikrostrojnik', 'menzura', 'gryf', 'struna', 'przetwornik', 'potencjometr', 'wzmacniacz', 'pud%C5%82o_rezonansowe', 'przesterowanie', 'sprz%C4%99%C5%BCenie_zwrotne', 'wzmacniacz', 'wahwah', 'fuzz', 'flanger', 'chorus', 'kategoria:rodzaje_gitar']
+aliases: ['książka/solid-body']
 ---
 **Gitara elektryczna** *(Solid-body)*
 
@@ -17,7 +18,7 @@ elektrycznej - „deska". Ponieważ problem akustyczności w tym wypadku
 jest mało istotny, konstrukcja gitary elektrycznej uwzględnia przede
 wszystkim: mocny korpus, przykręconą do niego szyjkę, wzmocnioną prętem,
 a czasem i wstawkę z twardego drewna zapobiegającą skręcaniu się.
-[Szyjka]({{< relref "Szyjka.md" >}}), podobnie jak w gitarach
+[Szyjka]({{< relref "Gryf" >}}), podobnie jak w gitarach
 akustycznych<!-- link nie odnosił się do niczego -->, jest wąska, a
 gryf<!-- link nie odnosił się do niczego --> zaokrąglony, ale na ogół ilość
 progów<!-- link nie odnosił się do niczego --> jest nie mniejsza niż 22, choć zdarza się
