@@ -11,10 +11,12 @@
 
   <hr>
 
-  {{ with .Site.GetPage "/blog/powrot-strony.md" }}
+  {{ with .Site.GetPage "section" "blog" }}
+  {{ range first 1 .Pages }}
   <h2>{{ .Title }}</h2>
   <a href="{{ .RelPermalink }}">{{ .Date.Format "2006-01-02" }}</a>
   {{ .Content }}
+  {{ end }}
   {{ end }}
 
   <hr>
