@@ -66,6 +66,7 @@ class ConversionTest(unittest.TestCase):
     fm = m.FrontMatter(title="Test title 1", slug="test-title-1")
     fm.wikilinks.append(m.Wikilink("Another article", "Another_article"))
     fm.categories.append("test-category")
+    fm.aliases.append("alias")
     expected = """---
 title: "Test title 1"
 slug: "test-title-1"
@@ -73,7 +74,22 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['test-category']
 draft: false
 wikilinks: ['Another_article']
-aliases: []
+aliases: ['alias']
+---
+"""
+    self.assertEqual(expected, fm.ToString())
+
+  def testRenderFrontMatterNoAliases(self):
+    fm = m.FrontMatter(title="Test title 1", slug="test-title-1")
+    fm.wikilinks.append(m.Wikilink("Another article", "Another_article"))
+    fm.categories.append("test-category")
+    expected = """---
+title: "Test title 1"
+slug: "test-title-1"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['test-category']
+draft: false
+wikilinks: ['Another_article']
 ---
 """
     self.assertEqual(expected, fm.ToString())

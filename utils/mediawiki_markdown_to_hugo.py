@@ -71,7 +71,10 @@ class FrontMatter:
   def ToString(self) -> str:
     wiki_destinations = [f"{wl.destination}" for wl in self.wikilinks]
     wikilinks_text = f"wikilinks: {wiki_destinations}"
-    aliases_text = f"aliases: {self.aliases}"
+    if self.aliases:
+      aliases_text = f"aliases: {self.aliases}\n"
+    else:
+      aliases_text = ""
     return f"""---
 title: "{self.title}"
 slug: "{self.slug}"
@@ -79,8 +82,7 @@ date: {self.date}
 kategorie: {self.categories}
 draft: false
 {wikilinks_text}
-{aliases_text}
----
+{aliases_text}---
 """
 
 
