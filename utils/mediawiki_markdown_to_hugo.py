@@ -191,6 +191,9 @@ class Document:
     fm = FrontMatter(title=title, slug=Slugify(title))
     # ast.walker seems to visit some nodes more than once.
     # This is surprising.
+    bald_slug = NoDiacriticsSlugify(title)
+    if bald_slug != fm.slug:
+      fm.aliases.append(bald_slug)
     already_seen = set()
     for node, unused_entering in ast.walker():
       if node in already_seen:
@@ -219,10 +222,13 @@ class Document:
 
 
 def Slugify(s: str) -> str:
-  shaven = unidecode.unidecode(s)
-  lowercased = shaven.lower()
+  lowercased = s.lower()
   segments = re.split("\s+", lowercased)
   return "-".join(segments)
+
+
+def NoDiacriticsSlugify(s: str) -> str:
+  return Slugify(unidecode.unidecode(s))
 
 
 def DocumentFromPath(path: str, existing_paths: Set[str]) -> Optional[Document]:
