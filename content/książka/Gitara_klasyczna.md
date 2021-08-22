@@ -6,7 +6,7 @@ kategorie: []
 draft: false
 wikilinks: ['grafika:GitaraKlasyczna.png', 'Antonio_Torres', 'Grafika:GitaraKlasycznaWymiary.png', 'pud%C5%82o_rezonansowe', 'maszynka', 'Charlie_Byrd', 'Laurindo_Almeida', 'Django_Reinhardt', 'Joe_Pass', 'R%C3%B3%C5%BCne_techniki_gry_na_gitarze', 'kategoria:rodzaje_gitar']
 ---
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/GitaraKlasyczna.png" >}}
 
 **Gitara klasyczna** jest instrumentem będącym pierwowzorem wszystkich
 późniejszych rozwiązań. Lutnikiem, który w połowie XIX w. wypracował
@@ -16,7 +16,7 @@ konstrukcyjne gitary klasycznej nie jest już zmieniane, a wszystkie jej
 parametry są ściśle określone. Większe odchylenia od nich prowadzą do
 straty jakości tonu. Oto typowe wymiary:
 
-frame<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/GitaraKlasycznaWymiary.png" >}}
 
 Boczki gitary mają wysokość od 8 do 10 cm. Wyższe boczki powodują
 głębsze, ciemniejsze brzmienie, a niższe – jaśniejsze. Grubość szyjki
@@ -26,8 +26,8 @@ dziewiętnaście, a menzura waha się w granicach 63-66 cm. Płyta
 rezonansowa i spód są płaskie.
 
 Bardzo ważny dla jakości brzmienia jest materiał, z którego został
-wykonany instrument. Dolna płyta pudła
-rezonansowego<!-- link nie odnosił się do niczego --> oraz boczki zrobione są z
+wykonany instrument. Dolna płyta [pudła
+rezonansowego]({{< relref "Pudło_rezonansowe.md" >}}) oraz boczki zrobione są z
 wyschniętego drewna drzew liściastych, najczęściej klonu lub palisandru.
 Najważniejsza dla brzmienia górna płyta rezonansowa wykonana jest z
 dobrze wysuszonego drewna świerkowego, które musi się odznaczać drobnymi

@@ -2,19 +2,19 @@
 title: "Proste strojenie"
 slug: "proste-strojenie"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['strojenie gitary']
+kategorie: ['Strojenie gitary']
 draft: false
 wikilinks: ['Grafika:StrojenieGitary.png', 'metody_strojenia', 'struna', 'struna', 'oktawa', 'strojnik', 'maszynka']
 ---
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/StrojenieGitary.png" >}}
 
-Elementarną i niezbyt dokładną metodę
-strojenia<!-- link nie odnosił się do niczego --> podają niemal wszystkie
+Elementarną i niezbyt dokładną [metodę
+strojenia]({{< relref "Strojenie_gitary.md" >}}) podają niemal wszystkie
 podręczniki do nauki gry. Polega ona na nastrojeniu struny E-1 na
 właściwy ton (do *a* wydobytego z kamertonu lub z innego instrumentu
 dostrajamy strunę E-1 dociśniętą w V pozycji), a następnie na
 porównywaniu i dostrajaniu dźwięków sąsiednich, niższych
-strun<!-- link nie odnosił się do niczego --> odpowiadających dźwiękom pustych strun
+[strun]({{< relref "Struna.md" >}}) odpowiadających dźwiękom pustych strun
 wyższych. Tak więc porównujemy dźwięk pustej struny E-1 z dźwiękiem e
 zagranym na strunie H-2 w pozycji V i dostrajamy strunę H-2.
 
@@ -49,7 +49,7 @@ Stroimy następnie gitarę poczynając od struny A-5, a więc:
     powtórzyć.
 
 Jak widać, sposób ten różni się od podanego poprzednio odwróconą
-kolejnością strojenia strun<!-- link nie odnosił się do niczego -->. Na tym właśnie polega
+kolejnością strojenia [strun]({{< relref "Struna.md" >}}). Na tym właśnie polega
 ułatwienie, bo dzięki temu dostrajamy strunę pustą, która może brzmieć w
 trakcie podwyższania lub obniżania jej stroju. Jest to ważne, ponieważ
 nie robiąc tego „na ślepo", możemy bez wielokrotnych prób wyrównać
@@ -71,7 +71,7 @@ możemy to zrobić nie używając strun pustych. Porównujemy np.:
     wydobytym na strunie E-6 w pozycji VIII
 
 i na koniec sprawdzamy struny skrajne - E-1 i E-6, czy podwójna
-oktawa<!-- link nie odnosił się do niczego --> jest czysta. W nawiasie należy dodać, że w
+[oktawa]({{< relref "Oktawa.md" >}}) jest czysta. W nawiasie należy dodać, że w
 tym wypadku numer pozycji nie określa położenia dłoni, a jedynie miejsce
 dociśnięcia struny. Tutaj w wyższych pozycjach wygodniej jest operować
 palcem 4.

@@ -2,7 +2,7 @@
 title: "Ustawianie barwy dźwięku w gitarze"
 slug: "ustawianie-barwy-dźwięku-w-gitarze"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['t%C5%82umik', 'Jim_Hall', 'Gibson', 'wzmacniacz', 'dynamika']
 aliases: ['ustawianie-barwy-dzwieku-w-gitarze']
@@ -28,8 +28,8 @@ Trzeba wiedzieć, że połączenie przystawek powoduje minimalne osłabienie
 sygnału z gitary. Zjawisko to nie występuje tylko w gitarach o
 oddzielnych kanałach dla każdej przystawki, np.
 [Gibson]({{< relref "Gibson.md" >}}) ES-345 TD - stereo. Grając wówczas na
-niezależnych wejściach wzmacniacza<!-- link nie odnosił się do niczego -->, podczas
-włączenia dwóch przystawek, dynamika<!-- link nie odnosił się do niczego --> dźwięku
+niezależnych wejściach [wzmacniacza]({{< relref "Wzmacniacz.md" >}}), podczas
+włączenia dwóch przystawek, [dynamika]({{< relref "Dynamika.md" >}}) dźwięku
 pozostaje taka sama jak przy grze na jednej przystawce, a zmienia się
 tylko barwa dźwięku. Przystawka umieszczona przy mostku daje dźwięk
 ostry i płaski. Sama używana jest rzadko, najczęściej przez gitarzystów

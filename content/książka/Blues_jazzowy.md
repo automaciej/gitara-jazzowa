@@ -8,9 +8,9 @@ wikilinks: ['ogrywanie', 'dwa_pi%C4%99%C4%87_jeden', 'pentatonika', 'F7', 'B%E2%
 ---
 **Blues jazzowy** jest grany na niemal każdym jazzowym jam sesion. Jest
 podstawą do wspólnych improwizacji oraz do nauki
-ogrywania<!-- link nie odnosił się do niczego --> kadencji dwa pięć
+[ogrywania]({{< relref "Ogrywanie_akordu.md" >}}) kadencji dwa pięć
 jeden<!-- link nie odnosił się do niczego -->. Improwizacje w bluesie gra się
-często po pentatonice<!-- link nie odnosił się do niczego -->.
+często po [pentatonice]({{< relref "Pentatonika.md" >}}).
 
 |   |                       |  |   |                         |                         |   |                     |                     |   |                       |                     |   |
 | - | --------------------- |  | - | ----------------------- | ----------------------- | - | ------------------- | ------------------- | - | --------------------- | ------------------- | - |

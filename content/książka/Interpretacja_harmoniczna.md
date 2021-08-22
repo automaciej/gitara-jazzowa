@@ -2,15 +2,15 @@
 title: "Interpretacja harmoniczna"
 slug: "interpretacja-harmoniczna"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['harmonia jazzowa']
+kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['schemat_harmoniczny', 'd%C5%BAwi%C4%99k', 'akord', 'funkcja_harmoniczna', 'dominanta', 'septyma_akordu', 'tonika', 'dominanta']
 ---
 Często schemat harmoniczny<!-- link nie odnosił się do niczego --> utworu
 podawany jest w formie uproszczonej, aby wykonawca mógł się wykazać
-inwencją. Trzeba wtedy wiedzieć, jakie dźwięki<!-- link nie odnosił się do niczego --> i do
-jakich akordów<!-- link nie odnosił się do niczego --> można dodawać. Zależy to przede
-wszystkim od funkcji harmonicznej<!-- link nie odnosił się do niczego -->,
+inwencją. Trzeba wtedy wiedzieć, jakie [dźwięki]({{< relref "Dźwięk.md" >}}) i do
+jakich [akordów]({{< relref "Akord.md" >}}) można dodawać. Zależy to przede
+wszystkim od [funkcji harmonicznej]({{< relref "Funkcja_harmoniczna.md" >}}),
 jaką pełni dany akord, ale zależy też od kontekstu, od linii
 melodycznej i ogólnie od charakteru muzyki. Dlatego poniższych uwag i
 przykładu wyrwanego z kontekstu nie należy traktować w sposób sztywny.
@@ -19,13 +19,13 @@ Dany schemat harmoniczny | Dm G | C | ma swój odpowiednik w funkcjach
 harmonicznych S<sub>II</sub> D T, które oznaczają subdominantę drugiego
 stopnia, dominantę i tonikę. Do S<sub>II</sub> powinniśmy dodać septymę
 małą, możemy dodać też nonę wielką, kwartę czystą, w pewnych wypadkach
-możemy obniżyć kwintę akordu. Do D (dominanty<!-- link nie odnosił się do niczego -->)
-powinniśmy dodać septymę małą<!-- link nie odnosił się do niczego -->, możemy dodać
+możemy obniżyć kwintę akordu. Do D ([dominanty]({{< relref "Funkcje_harmoniczne.md" >}}))
+powinniśmy dodać [septymę małą]({{< relref "Septyma_akordu.md" >}}), możemy dodać
 nonę wielką, małą lub zwiększona, sekstę wielką lub małą (inaczej kwintę
 zwiększoną), kwintę zmniejszoną lub zwiększoną, kwartę czystą. Do T
-(toniki<!-- link nie odnosił się do niczego -->) możemy dodać sekstę wielka, septymę
+([toniki]({{< relref "Tonika.md" >}})) możemy dodać sekstę wielka, septymę
 wielką, nonę wielką, w szczególnych przypadkach można stosować niektóre
-składniki podane przy dominancie<!-- link nie odnosił się do niczego -->.
+składniki podane przy [dominancie]({{< relref "Funkcje_harmoniczne.md" >}}).
 
 A więc podana tu uproszczona notacja:
 

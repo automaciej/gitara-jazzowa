@@ -2,14 +2,14 @@
 title: "Pasek do gitary"
 slug: "pasek-do-gitary"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Akcesoria']
 draft: false
-wikilinks: ['postawa_z_instrumentem', 'gitara_akustyczna', 'Wes_Montgomery', 'Kategoria:Akcesoria_gitarzysty']
+wikilinks: ['postawa_z_instrumentem', 'gitara_akustyczna', 'Wes_Montgomery']
 ---
 Ma on duże znaczenie dla właściwej
-postawy<!-- link nie odnosił się do niczego -->. Zaczepia się go o
+[postawy]({{< relref "Postawa_z_instrumentem.md" >}}). Zaczepia się go o
 specjalne uchwyty znajdujące się na tylnym boczku gitary i na grzbiecie
-szyjki. W gitarach akustycznych<!-- link nie odnosił się do niczego --> i wielu
+szyjki. W [gitarach akustycznych]({{< relref "Gitara_akustyczna.md" >}}) i wielu
 elektryczno-akustycznych tego drugiego uchwytu nie ma. Wówczas
 gitarzyści zaczepiają pasek o główkę gitary (jak to czynił [Wes
 Montgomery]({{< relref "Wes_Montgomery.md" >}})). Nie każdemu to jednak

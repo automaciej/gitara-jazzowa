@@ -2,7 +2,7 @@
 title: "Oktawowa miara odległości między częstotliwościami"
 slug: "oktawowa-miara-odległości-między-częstotliwościami"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['oktawa', 'cz%C4%99stotliwo%C5%9B%C4%87', 'struna']
 aliases: ['oktawowa-miara-odleglosci-miedzy-czestotliwosciami']
@@ -19,11 +19,11 @@ Dzięki temu każdy następny odcinek jest równy długości poprzedniego
 odcinka, pomnożonej przez pewną stałą. Stała ta wynosi
 \(2^{\frac{1}{12}} \approx 1.05946309\). Wynika to z prostej przyczyny -
 oktawa została podzielona na odcinki o długości \(\frac{1}{12}\)
-oktawy<!-- link nie odnosił się do niczego -->.
+[oktawy]({{< relref "Oktawa.md" >}}).
 
 Próbując wytłumaczyć oktawę w inny sposób, można powiedzieć tak: oktawa
 to coś jak *dwa-razy-wyższość*
-(częstotliwości<!-- link nie odnosił się do niczego -->). Jeżeli dźwięk Y jest
+([częstotliwości]({{< relref "Częstotliwość_drgań.md" >}})). Jeżeli dźwięk Y jest
 dwa razy wyższy od dźwięku X , to innymi słowy *Y jest wyższy o jedną
 dwa-razy-wyższość od X*. Jeżeli Z jest cztery razy wyższy od X, to
 powiedzielibyśmy, że *Z jest wyższy o dwie dwa-razy-wyższości od X*.
@@ -34,7 +34,7 @@ X. Natomiast będą to dwie *dwa-razy-wyższości*, jedna od X do Y, i druga
 od Y do Z.
 
 Podaję tutaj tabelę która pokazuje zależność pomiędzy częstotliwością a
-oktawą. Dodałem jeszcze kolumnę *struna<!-- link nie odnosił się do niczego -->*, która
+oktawą. Dodałem jeszcze kolumnę *[struna]({{< relref "Struna.md" >}})*, która
 pokazuje jak zależności wyglądają np. na strunie gitary. Należy tutaj
 pamiętać, że połowa struny drga dwa razy szybciej niż cała struna, a
 więc daje dźwięk o oktawę wyższy niż dźwięk całej struny.

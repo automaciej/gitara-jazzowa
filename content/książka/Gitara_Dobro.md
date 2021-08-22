@@ -6,15 +6,15 @@ kategorie: []
 draft: false
 wikilinks: ['grafika:GitaraDobro.jpg', 'Gitara_hawajska', 'Gitara_elektryczna', 'gitara_akustyczna', 'pud%C5%82o_rezonansowe', 'kategoria:rodzaje_gitar']
 ---
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/GitaraDobro.jpg" >}}
 
 [Gitara hawajska]({{< relref "Gitara_hawajska.md" >}}) istniała już wtedy, gdy
 nie było jeszcze [gitar elektrycznych]({{< relref "Gitara_elektryczna.md" >}}).
-Ponieważ gitara akustyczna<!-- link nie odnosił się do niczego --> traktowana na
+Ponieważ [gitara akustyczna]({{< relref "Gitara_akustyczna.md" >}}) traktowana na
 sposób hawajski miała zbyt małą nośność dźwięku, stworzona została około
 1924 roku przez braci Doperów tzw. gitara rezofoniczna, tj. gitara,
-której dźwięk nie jest wzmacniany przez pudło
-rezonansowe<!-- link nie odnosił się do niczego -->, lecz przez specjalne
+której dźwięk nie jest wzmacniany przez [pudło
+rezonansowe]({{< relref "Pudło_rezonansowe.md" >}}), lecz przez specjalne
 aluminiowe membrany (rezonatory), działając na zasadzie głośnika
 radiowego, ale pobudzane mechanicznie. To rozwiązanie stopniowo
 udoskonalane stworzyło **gitarę Dobro**. Kształtem przypomina ona gitarę

@@ -2,9 +2,9 @@
 title: "Wzmacniacz"
 slug: "wzmacniacz"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Akcesoria']
 draft: false
-wikilinks: ['bebop', 'gitara_elektryczno-akustyczna', 'Grafika:EqualizerWzmacniacza.png', 'wibrato', 'pokrowiec_na_wzmacniacz', 'sprz%C4%99%C5%BCenie_zwrotne', 'mainstream', 'Wzmacniacz_a_kszta%C5%82towanie_d%C5%BAwi%C4%99ku', 'Kategoria:Akcesoria_gitarzysty']
+wikilinks: ['bebop', 'gitara_elektryczno-akustyczna', 'Grafika:EqualizerWzmacniacza.png', 'wibrato', 'pokrowiec_na_wzmacniacz', 'sprz%C4%99%C5%BCenie_zwrotne', 'mainstream', 'Wzmacniacz_a_kszta%C5%82towanie_d%C5%BAwi%C4%99ku']
 ---
 W rozdziale tym chciałbym zwrócić uwagę na znaczenie właściwego doboru
 **wzmacniacza** do gitary.
@@ -13,8 +13,8 @@ To, że należy dopasowywać wzmacniacz do gitary, a nie odwrotnie, jest
 rzeczą oczywistą. Gitara jako właściwy instrument determinuje rodzaj
 wykonywanej muzyki. Wiadomo, że gitarzysta rockowy zaopatrzy się w
 gitarę elektryczną, gitarzysta grający bebop<!-- link nie odnosił się do niczego --> - kupi
-sobie gitarę
-elektryczno-akustyczną<!-- link nie odnosił się do niczego --> itd.
+sobie [gitarę
+elektryczno-akustyczną]({{< relref "Gitara_elektryczno-akustyczna.md" >}}) itd.
 
 ## Rola wzmacniacza
 
@@ -68,10 +68,10 @@ jest, aby wzmacniacz przekazywał wyraźnie nasz „osobisty ton".
 
 ## Efekty dodatkowe
 
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/EqualizerWzmacniacza.png" >}}
 
 Trzeba się zastanowić, czy potrzebne są nam takie efekty jak pogłos czy
-wibrato<!-- link nie odnosił się do niczego -->. Jeżeli nastawiamy się na pracę w studiach
+[wibrato]({{< relref "Wibracja.md" >}}). Jeżeli nastawiamy się na pracę w studiach
 nagrań, to należy pamiętać, że używa się tam lepszych technicznie
 urządzeń pogłosowych. Do gry na scenie i w klubach pogłos sprężynowy
 przydaje się. Vibrato natomiast używane jest raczej w muzyce
@@ -101,8 +101,8 @@ pod uwagę sprawa dobrego słyszenia własnego instrumentu przez gitarzystę
 oraz wzajemnego słyszenia się z pozostałymi muzykami. Również gitarzysta
 powinien stać lub siedzieć w takim miejscu, aby dobrze słyszał resztę
 zespołu. Poza tym wzmacniacz ustawia się w zależności od sposobu
-traktowania dźwięku. Jeśli chce się uzyskiwać sprzężenia
-zwrotne<!-- link nie odnosił się do niczego -->, gitara musi być dość blisko
+traktowania dźwięku. Jeśli chce się uzyskiwać [sprzężenia
+zwrotne]({{< relref "Sprzężenie_zwrotne.md" >}}), gitara musi być dość blisko
 głośników. Przy graniu mainstreamowym<!-- link nie odnosił się do niczego --> dobrze
 sprawdza się ustawienie wzmacniacza 2-4 m od gitarzysty, tak by głośniki
 skierowane były w jego stronę lub nieco z boku. Daje to dobrą kontrolę

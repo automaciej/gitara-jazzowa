@@ -2,11 +2,11 @@
 title: "Palcowanie"
 slug: "palcowanie"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:NutyPalcowanie.png', 'staccato', 'non_legato', 'Grafika:NutyPracaLewejReki02.png']
 ---
-
+{{< figure src="/images/NutyPalcowanie.png" >}}
 
 Przejdźmy teraz do problemów **palcowania**, które myślącemu gitarzyście
 spędzają nieraz sen z powiek, a bezmyślnemu przeszkadzają całe życie.
@@ -22,7 +22,7 @@ problemów palcowania.
 
 ## Staccato
 
-Przy grze staccato<!-- link nie odnosił się do niczego --> lub non
+Przy grze [staccato]({{< relref "Staccato.md" >}}) lub non
 legato<!-- link nie odnosił się do niczego --> należałoby pamiętać jedynie o tym, aby
 lewa ręka umieszczana była w wygodnych dla danych fraz pozycjach.
 Wygodnych, tj. takich, które umożliwiają dostęp do określonej grupy
@@ -67,7 +67,7 @@ efektu glis-sanda oraz zakłócenia frazy lewej ręki.
 Sprawdzianem dobrze wykonanej zmiany pozycji jest ćwiczenie, w którym
 porównujemy tę samą frazę zagraną w jednej pozycji i w dwóch, np.
 
-
+{{< figure src="/images/NutyPracaLewejReki02.png" >}}
 
 ## Puste struny
 

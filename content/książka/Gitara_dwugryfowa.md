@@ -6,21 +6,21 @@ kategorie: []
 draft: false
 wikilinks: ['grafika:GitaraDwugryfowa.jpg', 'Gitara_dwunastostrunowa', 'gitara_elektryczna', 'Jimmy_Page', 'Seweryn_Krajewski', 'tapping', 'kategoria:rodzaje_gitar']
 ---
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/GitaraDwugryfowa.jpg" >}}
 
 **Gitara dwugryfowa** - jest instrumentem, w którym jest wykorzystywany
 system dwunastostrunowy. Są to instrumenty, do których korpusu („deski")
 dołączono obok siebie dwie szyjki z gryfami. Z reguły jedna z nich jest
 [dwunastostrunowa]({{< relref "Gitara_dwunastostrunowa.md" >}}), druga
-sześciostrunowa. Są to prawie zawsze gitary
-elektryczne<!-- link nie odnosił się do niczego -->, a stosuje się je wtedy, gdy
+sześciostrunowa. Są to prawie zawsze [gitary
+elektryczne]({{< relref "Gitara_elektryczna.md" >}}), a stosuje się je wtedy, gdy
 gitarzysta musi często zmieniać instrument na estradzie. Na takiej
 gitarze grał m.in. Jimmy Page<!-- link nie odnosił się do niczego --> oraz Seweryn
 Krajewski<!-- link nie odnosił się do niczego -->.
 
 Gitarę dwugryfową można wykorzystywać także jako instrument służący do
 grania specjalną techniką gitarową: tappingiem oburęcznym (zob. technika
-tapping<!-- link nie odnosił się do niczego -->). Gitarzysta może wtedy wykorzystać w
+[tapping]({{< relref "Tapping.md" >}})). Gitarzysta może wtedy wykorzystać w
 czasie gry oba gryfy jednocześnie. W ten sposób gra m. in Adam Fulara.
 
 **Zobacz też**: [www.fulara.com](http://www.fulara.com)

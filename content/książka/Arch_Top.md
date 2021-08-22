@@ -2,13 +2,13 @@
 title: "Arch Top"
 slug: "arch-top"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['rodzaje gitar']
+kategorie: ['Rodzaje gitar']
 draft: false
 wikilinks: ['grafika:GitaraTypuArchTop.jpg', 'gitara_akustyczna', 'Arch_Top', 'Pud%C5%82o_rezonansowe', 'pud%C5%82o_rezonansowe', 'gitara_klasyczna', 'Grafika:MostekZRegulacjaWysokosci.jpg', 'swing', 'Count_Basie', 'Freddie_Green']
 ---
-frame<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/GitaraTypuArchTop.jpg" >}}
 
-Druga odmiana gitary akustycznej<!-- link nie odnosił się do niczego -->, tzw.
+Druga odmiana [gitary akustycznej]({{< relref "Gitara_akustyczna.md" >}}), tzw.
 [Arch Top]({{< relref "Arch_Top.md" >}}) lub Hollow body jest u nas nazywana
 gitarą orkiestrową lub popularnie „gibsonką". Jest to instrument o
 odmiennym kształcie i przeznaczeniu. Spód i płytę rezonansową ma nieco
@@ -17,9 +17,9 @@ wypukłą, a zamiast jednego okrągłego otworu rezonansowego posiada dwa
 rezonansowe]({{< relref "Pudło_rezonansowe.md" >}}) jest większe niż w gitarze
 klasycznej. Niekiedy pod gryfem ma wycięcie, które ułatwia grę w
 wysokich pozycjach. W tym też celu gryf umieszczony jest tak, aby
-pozycja oktawy (próg XII) nie znajdowała się w miejscu krawędzi pudła
-rezonansowego<!-- link nie odnosił się do niczego --> (tak jak to występuje w
-gitarach klasycznych<!-- link nie odnosił się do niczego -->), ale aby wysunięta
+pozycja oktawy (próg XII) nie znajdowała się w miejscu krawędzi [pudła
+rezonansowego]({{< relref "Pudło_rezonansowe.md" >}}) (tak jak to występuje w
+[gitarach klasycznych]({{< relref "Gitara_klasyczna.md" >}})), ale aby wysunięta
 o dwie-trzy pozycje ułatwiała do niej dostęp.
 
 Szyjka i chwytnia są podobne jak w gitarach typu „Flattop", z tym że
@@ -29,7 +29,7 @@ rezonansowego (znów podobnie jak w instrumentach smyczkowych), a struny
 opierają się na stojącym na płycie mostku. Wysokość mostka na ogół jest
 regulowana.
 
-frame<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/MostekZRegulacjaWysokosci.jpg" >}}
 
 Gitara posiada również kołnierz ochronny. Instrument ten ma dźwięk mniej
 donośny niż gitary typu „Flattop" z uwagi na dość luźny kontakt strun z

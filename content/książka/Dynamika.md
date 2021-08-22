@@ -2,7 +2,7 @@
 title: "Dynamika"
 slug: "dynamika"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['sekcja_rytmiczna', 'kostka', 'grafika:NutyKsztaltowanieDzwieku01.png']
 ---
@@ -17,15 +17,15 @@ instrumenty mają różne możliwości. Pewne jest, że na gitarze można i
 trzeba operować dynamiką. W tym celu gitarzysta powinien poznać zakres
 funkcjonalnej dynamiki swojego instrumentu. Zakres ten będzie większy
 podczas gry solo i w małym zespole, mniejszy w big-bandzie, przy czym
-uzależnione to jest jeszcze od charakteru gry sekcji
-rytmicznej<!-- link nie odnosił się do niczego -->.
+uzależnione to jest jeszcze od charakteru gry [sekcji
+rytmicznej]({{< relref "Sekcja_rytmiczna.md" >}}).
 
 # Techniczne sposoby uzyskiwania dynamiki
 
 ## Różnicowanie głębokości wchodzenia kostką w płaszczyznę strun
 
 Pierwszym sposobem można się posługiwać grając
-kostką<!-- link nie odnosił się do niczego --> elastyczną. Gra jest głośniejsza przy
+[kostką]({{< relref "Kostka.md" >}}) elastyczną. Gra jest głośniejsza przy
 głębszym operowaniu kostką, potrzebna jest wtedy jednak większa siła
 uderzenia. Umiejętnie operując bezwładnością dłoni, można wzmóc siłę
 uderzenia bez gwałtownego napinania mięśni. Nie polecam tego sposobu
@@ -65,7 +65,7 @@ gry, jest sztuczne. Można natomiast uzyskiwać nim specjalne efekty,
 przedłużanie dźwięku lub stosowanie artykulacji, niemożliwej do zagrania
 bez jego pomocy, np.:
 
-
+{{< figure src="/images/NutyKsztaltowanieDzwieku01.png" >}}
 
 Pedał ten można po prostu też używać zamiast trudniejszego w operowaniu
 potencjometru siły głosu w gitarze.

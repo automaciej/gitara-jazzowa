@@ -6,12 +6,12 @@ kategorie: ['Rodzaje gitar']
 draft: false
 wikilinks: ['grafika:GitaraOvation.jpg', 'Ovation', 'gitara_akustyczna', 'pud%C5%82o_rezonansowe', 'John_McLaughlin', 'Gibson']
 ---
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/GitaraOvation.jpg" >}}
 
 Wśród wielu doskonałych firm duże powodzenie ma firma
-[Ovation]({{< relref "Ovation.md" >}}), która zrewolucjonizowała budowę gitar
-akustycznych<!-- link nie odnosił się do niczego -->. Mianowicie: pudło
-rezonansowe<!-- link nie odnosił się do niczego --> o zaokrąglonych brzegach ma
+[Ovation]({{< relref "Ovation.md" >}}), która zrewolucjonizowała budowę [gitar
+akustycznych]({{< relref "Gitara_akustyczna.md" >}}). Mianowicie: [pudło
+rezonansowe]({{< relref "Pudło_rezonansowe.md" >}}) o zaokrąglonych brzegach ma
 kształt gruszki i jest wykonane ze specjalnego materiału pochodzenia
 syntetycznego. Drewniana jest tylko płyta rezonansowa lub też cały
 instrument za wyjątkiem gryfu i mostka wykonany jest z laminatów

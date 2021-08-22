@@ -2,7 +2,7 @@
 title: "Korekcja siły brzmienia strun"
 slug: "korekcja-siły-brzmienia-strun"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['konserwacja gitary']
+kategorie: ['Konserwacja gitary']
 draft: false
 wikilinks: ['gitara_elektryczna', 'gitara_elektryczno-akustyczna', 'struna', 'barwa_d%C5%BAwi%C4%99ku', 'wzmacniacz', 'wzmacniacz', 'fuzz', 'sustainer', 'Najcz%C4%99stsze_usterki_i_b%C5%82%C4%99dy']
 aliases: ['korekcja-sily-brzmienia-strun']
@@ -17,13 +17,13 @@ dźwięku. Jedyną gwarancją wyrównanego brzmienia jest jakość strun.
 
 # Przystawki i struny
 
-W gitarze elektrycznej<!-- link nie odnosił się do niczego --> lub
-elektryczno-akustycznej<!-- link nie odnosił się do niczego -->
+W [gitarze elektrycznej]({{< relref "Gitara_elektryczna.md" >}}) lub
+[elektryczno-akustycznej]({{< relref "Gitara_elektryczno-akustyczna.md" >}})
 korekcja siły głosu poszczególnych strun jest możliwa pod warunkiem, że
 gitara jest zaopatrzona w odpowiednie przystawki. Nie znaczy to wcale,
-że nie musimy już dbać o dobór strun<!-- link nie odnosił się do niczego -->. Zbyt duża
+że nie musimy już dbać o dobór [strun]({{< relref "Struna.md" >}}). Zbyt duża
 korekcja siły głosu robiona za pomocą ustawienia przystawek, powoduje
-niepotrzebne zróżnicowanie barwy<!-- link nie odnosił się do niczego --> i
+niepotrzebne zróżnicowanie [barwy]({{< relref "Barwa_dźwięku.md" >}}) i
 właściwości dynamicznych poszczególnych strun, a do tego gitary
 elektryczne uwypuklają nierówności brzmieniowe.
 
@@ -31,7 +31,7 @@ elektryczne uwypuklają nierówności brzmieniowe.
 
 Ze względu na jakość dźwięku ważne jest ustawienie przystawek na
 odpowiedniej wysokości. Trzeba wiedzieć, że przystawka umieszczona
-blisko strun daje mocne impulsy do wzmacniacza<!-- link nie odnosił się do niczego -->,
+blisko strun daje mocne impulsy do [wzmacniacza]({{< relref "Wzmacniacz.md" >}}),
 a więc w efekcie mamy dźwięk głośniejszy, przystawka umieszczona daleko
 od strun -dźwięk cichszy (oczywiście przy jednakowo ustawionej sile
 głosu w obu przypadkach). Nie sugeruję tu żadnej określonej wysokości
@@ -41,10 +41,10 @@ dobrać sobie sam.
 
 Przy zbyt dużej odległości przystawek od strun, tzw. sygnał z gitary
 może być na tyle słaby, że odpowiednio rekompensujące ustawienie siły
-głosu we wzmacniaczu<!-- link nie odnosił się do niczego --> - spowoduje zakłócenia.
+głosu we [wzmacniaczu]({{< relref "Wzmacniacz.md" >}}) - spowoduje zakłócenia.
 Może się również zdarzyć, że zbyt słaby sygnał z gitary nie pobudzi do
-pracy urządzeń typu fuzz<!-- link nie odnosił się do niczego -->,
-sustainer<!-- link nie odnosił się do niczego --> itp. Przy ustawieniu przystawek bardzo
+pracy urządzeń typu [fuzz]({{< relref "Fuzz.md" >}}),
+[sustainer]({{< relref "Sustainer.md" >}}) itp. Przy ustawieniu przystawek bardzo
 blisko strun, trzeba zwrócić uwagę na to, aby struny podczas drgań nie
 obijały się o obudowę przystawek. Istnieje również niebezpieczeństwo, że
 zbyt mocny sygnał powodować będzie zniekształcenia dźwięku, a także

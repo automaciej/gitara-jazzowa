@@ -2,7 +2,7 @@
 title: "Gitara"
 slug: "gitara"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['strona główna']
+kategorie: ['Strona główna']
 draft: false
 wikilinks: ['Szyjka', 'gama_chromatyczna', 'strojenie_gitary', 'grafika:PudloGitaryZPunktamiDoOpukiwania.png', 'pud%C5%82o_rezonansowe', 'Pud%C5%82o_rezonansowe', 'gitara_dwunastostrunowa', 'gitara_elektryczno-akustyczna', 'Gibson']
 ---
@@ -28,14 +28,14 @@ Zobacz artykuł: [Szyjka]({{< relref "Gryf" >}})
 ## Progi
 
 Progi pozbawione ostrych kantów, powinny być nabite precyzyjnie, co
-sprawdzamy, grając gamę chromatyczną<!-- link nie odnosił się do niczego --> na
+sprawdzamy, grając [gamę chromatyczną]({{< relref "Gama_chromatyczna.md" >}}) na
 każdej strunie przez wszystkie pozycje. Brzęczenie niektórych dźwięków
 będzie świadczyło o nierównym nabiciu progów (wadę te przy pewnych
 zdolnościach technicznych można usunąć samemu, podpiłowując odpowiednie
 progi). O ile poprzednią usterkę można zlikwidować samemu, o tyle
 nieprecyzyjne rozmieszczenie progów na długości gryfu dyskwalifikuje
 instrument. Rozmieszczenie progów decyduje o tym, czy gitara będzie
-stroiła<!-- link nie odnosił się do niczego -->, czy nie.
+[stroiła]({{< relref "Strojenie_gitary.md" >}}), czy nie.
 
 ## Maszynki
 
@@ -44,12 +44,12 @@ obracać się lekko, ale też nie mieć zbyt dużego luzu.
 
 ## Pudło rezonansowe
 
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/PudloGitaryZPunktamiDoOpukiwania.png" >}}
 
 W gitarach akustycznych przecie wszystkim należy sprawdzić, czy pudło
 rezonansowe nie ma pęknięć, rozklejeń lub innych uszkodzeń. Trzeba
-pamiętać, że nawet drobna usterka pudła
-rezonansowego<!-- link nie odnosił się do niczego --> wymaga naprawy przez
+pamiętać, że nawet drobna usterka [pudła
+rezonansowego]({{< relref "Pudło_rezonansowe.md" >}}) wymaga naprawy przez
 kwalifikowanego lutnika. Należy sprawdzić uważnie je oglądając oraz
 opukując. Opukiwać należy symetrycznie, np. według następującego wzoru
 podanego na rysunku. Dźwięki wydawane podczas opukiwania powinny być
@@ -92,8 +92,8 @@ nabywcy.
 
 Jeśli gitara zaopatrzona jest w uchwyty do paska, należy sprawdzić, czy
 jest dobrze wyważona i nie ma tendencji do przechylania się. Szczególną
-uwagę należy zwrócić na gitary
-dwunastostrunowe<!-- link nie odnosił się do niczego --> ze względu na ich
+uwagę należy zwrócić na [gitary
+dwunastostrunowe]({{< relref "Gitara_dwunastostrunowa.md" >}}) ze względu na ich
 szerszą szyjkę, większą główkę i liczbę maszynek, co może powodować zbyt
 duży ciężar z lewej strony.
 
@@ -104,8 +104,8 @@ elektryczne, gdyż w innym przypadku będzie wrażliwa na różne zakłócenia
 elektryczne i elektromagnetyczne. Zakłócenia te nie powinny występować
 niezależnie od pozycji gitary względem wzmacniacza. Przystawki i inne
 elementy elektryczne nie mogą reagować na ewentualne zakłócenia ze
-strony korpusu. Np. gitary
-elektryczno-akustyczne<!-- link nie odnosił się do niczego --> firmy
+strony korpusu. Np. [gitary
+elektryczno-akustyczne]({{< relref "Gitara_elektryczno-akustyczna.md" >}}) firmy
 [Gibson]({{< relref "Gibson.md" >}}) mają przełącznik przystawek osadzony w
 gumie, aby stuk kontaktu, powstający przy przełączaniu, nie był słyszany
 w głośnikach.

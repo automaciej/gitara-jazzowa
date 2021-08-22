@@ -10,7 +10,7 @@ wikilinks: ['grafika:GitaraGibsonES-3451D.jpg', 'pud%C5%82o_rezonansowe', 'pud%C
 *(Electric acoustic guitar, Acoustic electric hollow-body, Acoustic
 electric arch top)*
 
-right<!-- link nie odnosił się do niczego --> Jest to gitara
+{{< figure src="/images/GitaraGibsonES-3451D.jpg" >}} Jest to gitara
 akustyczna typu „gibsonka" wyposażona w przetworniki elektromagnetyczne.
 
 Jak pamiętamy, już w samej budowie gitar,,orkiestrowych" nie kładziono
@@ -18,21 +18,21 @@ nacisku na brzmienie głośne, ale na klarowność, wyrównany dźwięk oraz
 wygodę gry. W przypadku gitary elektryczno-akustycznej płyta rezonansowa
 obciążona jest najczęściej dwiema przystawkami, czterema
 potencjometrami, przełącznikiem przystawek, nieraz gniazdem wyjściowym,
-a na dodatek elementami elektronicznymi wewnątrz pudła
-rezonansowego<!-- link nie odnosił się do niczego -->. Osłabienie brzmienia
+a na dodatek elementami elektronicznymi wewnątrz [pudła
+rezonansowego]({{< relref "Pudło_rezonansowe.md" >}}). Osłabienie brzmienia
 akustycznego nie ma tu jednak takiego znaczenia, bowiem wzmacniany
 elektrycznie jest jedynie dźwięk strun gitary.
 
 ## Pudło rezonansowe
 
-Wydawałoby się, że pudło rezonansowe<!-- link nie odnosił się do niczego -->
+Wydawałoby się, że [pudło rezonansowe]({{< relref "Pudło_rezonansowe.md" >}})
 jest zbędne, skoro przystawka<!-- link nie odnosił się do niczego --> elektryczna
 odbiera tylko drgania strun, a rezonans płyty nie ma żadnego wpływu na
 przystawki (w droższych modelach przystawki umieszczane są nawet na
 specjalnych izolujących je od drgań płyty rezonansowej amortyzatorach).
 Bezpośredniego wpływu drgań płyty na przystawki rzeczywiście nie ma, ale
-za to jest pośredni. Inaczej drga struna mająca pod sobą pudło
-rezonansowe<!-- link nie odnosił się do niczego -->, a inaczej gdy go nie ma.
+za to jest pośredni. Inaczej drga struna mająca pod sobą [pudło
+rezonansowe]({{< relref "Pudło_rezonansowe.md" >}}), a inaczej gdy go nie ma.
 Różnica charakterystyki drgań jest wystarczająca, aby odróżnić barwę
 gitary elektryczno-akustycznej od tzw. „deski", słysząc dźwięki jedynie
 za pośrednictwem przystawki elektrycznej i wzmacniacza z głośnikiem.
@@ -71,7 +71,7 @@ krawędzi, są nieraz poszerzone do 3 mm, a ich ilość zwiększona do 20 lub
 22. Z reguły oprócz wysunięcia gryfu co najmniej do XIV pozycji, stosuje
 się wycięcie pudła rezonansowego pod gryfem, co razem znakomicie ułatwia
 praktyczne rozszerzenie skali gitary w górę. Zaokrąglony
-gryf<!-- link nie odnosił się do niczego -->, węższa szyjka ułatwia pracę lewej ręki i
+[gryf]({{< relref "Gryf.md" >}}), węższa szyjka ułatwia pracę lewej ręki i
 stwarza większe możliwości techniczne. Wewnątrz szyjki instrumentu
 umieszcza się zazwyczaj stalowy pręt, który za pomocą specjalnej
 nakrętki można skracać lub wydłużać, przez co w mniejszym lub większym
@@ -111,7 +111,7 @@ wzbogacenia barwy gitary elektrycznej, tym bardziej, że często stosuje
 się wzmocnienia płyty wierzchniej grubymi, drewnianymi blokami. Wielu
 gitarzystów jednak grywa na tego typu gitarach, a jednym z powodów jest
 dość duża uniwersalność tych instrumentów. Półpudło jest to forma
-przejściowa do następnego typu gitary - gitary
-elektrycznej<!-- link nie odnosił się do niczego -->.
+przejściowa do następnego typu gitary - [gitary
+elektrycznej]({{< relref "Gitara_elektryczna.md" >}}).
 
 Elektryczno-akustyczna, gitara<!-- link nie odnosił się do niczego -->

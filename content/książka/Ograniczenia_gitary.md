@@ -8,10 +8,10 @@ wikilinks: ['d%C5%BAwi%C4%99k', 'artykulacja', 'akord']
 ---
 Gitara stawia przed muzykami pewne ograniczenia. Z tymi ograniczeniami
 musimy się pogodzić. Fortepian ma tu zdecydowaną przewagę i może grać
-układy dźwięków<!-- link nie odnosił się do niczego -->, o których gitara może tylko
+układy [dźwięków]({{< relref "Dźwięk.md" >}}), o których gitara może tylko
 pomarzyć. Jednak nie martwiłbym sie tym zbytnio, ponieważ i on ma swoje
 ograniczenia, głównie na polu barwy dźwięku i
-artykulacji<!-- link nie odnosił się do niczego -->.
+[artykulacji]({{< relref "Artykulacja.md" >}}).
 
 ### Liczba strun
 
@@ -21,7 +21,7 @@ wspominając o sześciodźwiękach. Czterodźwięk jest standardem.
 
 ### Liczba palców
 
-Czasami nie można zagrać jakiegoś akordu<!-- link nie odnosił się do niczego -->, ponieważ
+Czasami nie można zagrać jakiegoś [akordu]({{< relref "Akord.md" >}}), ponieważ
 brakuje palca, którym można by przycisnąć strunę do progu.
 
 ### Odległości między strunami

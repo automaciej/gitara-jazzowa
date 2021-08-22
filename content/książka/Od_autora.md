@@ -2,11 +2,11 @@
 title: "Od autora"
 slug: "od-autora"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['strona główna']
+kategorie: ['Strona główna']
 draft: false
 wikilinks: ['Grafika:MarekBlizinski.jpg', 'technika', 'snakes', 'Jim_Hall', 'Joe_Pass', 'Charlie_Christian', 'technika', 'Gitara_Jazzowa_(wydanie_papierowe)']
 ---
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/MarekBlizinski.jpg" >}}
 
 Książkę adresuję do wszystkich zainteresowanych gitarą jazzową, a
 szczególnie do muzyków amatorów, instru­ktorów zespołów muzycznych,
@@ -18,7 +18,7 @@ własnej drogi do jazzu. uzmysłowienie i pokonanie trudności w pracy nad
 sobą.
 
 Celowo więcej miejsca poświęcam tu problemom
-technicznym<!-- link nie odnosił się do niczego --> niż muzycznym, ale nie dlatego bym
+[technicznym]({{< relref "Technika.md" >}}) niż muzycznym, ale nie dlatego bym
 lekceważył te drugie. Przeciwnie, uważam, że jest to istotna i trudna
 sprawa, lecz niemożliwa do przekazania w książce. Np. nie wyobrażam
 sobie, jak można wytłumaczyć, na czym pole­gają takie elementy jazzu jak
@@ -29,7 +29,7 @@ osobowości muzycznej. Dlatego ważne jest, aby robić to w sposób
 właściwy. Nie o to bowiem chodzi, aby wyuczywszy się na pamięć
 spisanych z nagrań improwizacji, odtwarzać je w całości lub we
 fragmentach. Nie o to również chodzi, aby tworzyć solów­kę, układając
-wyuczone frazy zwane snakes<!-- link nie odnosił się do niczego --> (ang. *węże* -
+wyuczone frazy zwane [snakes]({{< relref "Snakes.md" >}}) (ang. *węże* -
 pogardliwe określenie dla wyeksploatowanych i powta­rzanych stale tak
 samo fraz w improwizacjach). Trzeba starać się zrozumieć dlaczego dana
 fraza przybrała taką a nie inną formę, jaki to ma związek z podkładem
@@ -66,7 +66,7 @@ znajomość nut ogranicza wyobraźnię jazzmana. Ja mam nieco inne zdanie.
 Otóż bardzo ważne jest to, aby muzyk nie myślał nutami, a dźwiękami i
 znajo­mość tak nut jak i w ogóle teorii traktował jako sprawy
 pomocnicze. Granie z nut poza wyrabianiem biegłości w czytaniu á vista,
-ma kolosalne znaczenie w szlifowaniu techniki<!-- link nie odnosił się do niczego -->.
+ma kolosalne znaczenie w szlifowaniu [techniki]({{< relref "Technika.md" >}}).
 Znajdowanie automatycznie właściwej pozycji dla odpowiedniego zwrotu
 melodycznego, płynne zmiany pozycji, wyrabianie ogólnej orientacji jest
 przydatne za­równo w pracy nad sobą, jak i w kontaktach z innymi

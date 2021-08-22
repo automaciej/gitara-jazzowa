@@ -2,13 +2,13 @@
 title: "Sprzężenie zwrotne"
 slug: "sprzężenie-zwrotne"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['wybrzmienie', 'solid_body', 'pud%C5%82o_rezonansowe', 'fla%C5%BColet', 'alikwot']
 aliases: ['sprzezenie-zwrotne', 'książka/sprzężenia']
 ---
-Jest to efekt, który w praktyce pozwala na osiąganie dowolnie długo
-brzmiących<!-- link nie odnosił się do niczego --> dźwięków.
+Jest to efekt, który w praktyce pozwala na osiąganie dowolnie [długo
+brzmiących]({{< relref "Wybrzmienie.md" >}}) dźwięków.
 
 Mechanizm tego zjawiska jest następujący: nastawiając siłę głosu we
 wzmacniaczu odpowiednio głośno oraz ustawiając się z gitarą blisko
@@ -16,8 +16,8 @@ głośników, powodujemy nakładanie się fali dźwiękowej na drgania
 struny. Fala ta pobudza strunę do dalszych drgań i nie pozwala na ich
 ustanie, skutkiem czego z głośników nieustannie wydobywa się dźwięk,
 który pobudza strunę... itd. Sprzężenia stosuje się raczej na gitarach
-solid body<!-- link nie odnosił się do niczego -->. Gitary z pudłem
-rezonansowym<!-- link nie odnosił się do niczego --> wzbudzają niektóre dźwięki
+[solid body]({{< relref "Gitara_elektryczna.md" >}}). Gitary z [pudłem
+rezonansowym]({{< relref "Pudło_rezonansowe.md" >}}) wzbudzają niektóre dźwięki
 same i trudno je opanować.
 
 Różne dźwięki mają różne predyspozycje do wzbudzania. Bywa tak, że
@@ -52,7 +52,7 @@ gitary i jeśli gitarzysta nie będzie ich specjalnie tłumił, spowoduje
 niezamierzoną kakofonię.
 
 Przy niektórych dźwiękach w pewnym ustawieniu, można osiągnąć ciekawe
-flażolety<!-- link nie odnosił się do niczego -->, gdyż podczas trwania dźwięku ze
+[flażolety]({{< relref "Flażolet.md" >}}), gdyż podczas trwania dźwięku ze
 sprzężeniem, niektóre alikwoty<!-- link nie odnosił się do niczego --> stają się
 głośniejsze od dźwięku podstawowego. Wykorzystywanie wszystkich
 możliwości sprzężenia zwrotnego da pozytywny efekt muzyczny tylko pod

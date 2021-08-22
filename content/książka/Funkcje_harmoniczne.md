@@ -5,12 +5,12 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['Funkcja_harmoniczna', 'tonacja', 'akord', 'Funkcje_poboczne', 'Wtr%C4%85cenia', 'II-V-I_(dwa_pi%C4%99%C4%87_jeden)']
-aliases: ['książka/subdominanta', 'książka/dominanta']
+aliases: ['książka/dominanta', 'książka/subdominanta']
 ---
 Pojęcie [funkcji harmonicznej]({{< relref "Funkcja_harmoniczna.md" >}}) ma sens
-tylko w kontekście tonacji<!-- link nie odnosił się do niczego -->. Zakładając, że
+tylko w kontekście [tonacji]({{< relref "Tonacja.md" >}}). Zakładając, że
 poruszamy się w określonej tonacji, możemy wskazać pewne
-akordy<!-- link nie odnosił się do niczego --> jako funkcje harmoniczne. Na przykład, weźmy
+[akordy]({{< relref "Akord.md" >}}) jako funkcje harmoniczne. Na przykład, weźmy
 tonację F-dur. Możemy zapytać, jaką funkcją harmoniczną w F-dur jest
 akord C7. Dowiemy się, że dominantą. Jest więcej akordów, które są
 funkcjami harmonicznymi w F-dur, jednak nie wszystkie nimi są.

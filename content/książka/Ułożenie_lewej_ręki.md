@@ -2,14 +2,14 @@
 title: "Ułożenie lewej ręki"
 slug: "ułożenie-lewej-ręki"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:UkladLewejRekiW1Pozycji.jpg', 'Grafika:UkladLewejRekiW5Pozycji.jpg', 'Grafika:UkladLewejRekiW12Pozycji.jpg', 'Lewa_r%C4%99ka']
 aliases: ['ulozenie-lewej-reki']
 ---
 |                                                         |                                                         |                                                          |
 | ------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
-| thumb<!-- link nie odnosił się do niczego --> | thumb<!-- link nie odnosił się do niczego --> | thumb<!-- link nie odnosił się do niczego --> |
+| {{< figure src="/images/UkladLewejRekiW1Pozycji.jpg" >}} | {{< figure src="/images/UkladLewejRekiW5Pozycji.jpg" >}} | {{< figure src="/images/UkladLewejRekiW12Pozycji.jpg" >}} |
 
 Lewa ręka nie bierze udziału w utrzymywaniu gitary we właściwej pozycji.
 Ustawienie jej jest jeszcze bardziej zbliżone do pozycji klasycznej.

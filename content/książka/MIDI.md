@@ -11,6 +11,6 @@ instrumentów muzycznych.
 
 Technologia ta umożliwia przesyłanie pomiędzy elektronicznymi
 instrumentami muzycznymi informacji, np. o tym które dźwięki należy
-zagrać. MIDI jest używane do podłączenia syntezatora
-gitarowego<!-- link nie odnosił się do niczego --> do modułu
+zagrać. MIDI jest używane do podłączenia [syntezatora
+gitarowego]({{< relref "Syntezator_gitarowy.md" >}}) do modułu
 MIDI<!-- link nie odnosił się do niczego -->.

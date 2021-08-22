@@ -2,12 +2,12 @@
 title: "Kostka"
 slug: "kostka"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Akcesoria']
 draft: false
-wikilinks: ['Grafika:plectrum1.jpg', 'Grafika:plectrum2.jpg', 'gitara_akustyczna', 'Barwa_d%C5%BAwi%C4%99ku', 'Kszta%C5%82towanie_d%C5%BAwi%C4%99ku', 'legato', 'technika', 'Metody_trzymania_kostki', 'Barwa_d%C5%BAwi%C4%99ku', 'Kostka_a_barwa_d%C5%BAwi%C4%99ku', 'Chwyt_kostki', 'Kategoria:Akcesoria_gitarzysty']
+wikilinks: ['Grafika:plectrum1.jpg', 'Grafika:plectrum2.jpg', 'gitara_akustyczna', 'Barwa_d%C5%BAwi%C4%99ku', 'Kszta%C5%82towanie_d%C5%BAwi%C4%99ku', 'legato', 'technika', 'Metody_trzymania_kostki', 'Barwa_d%C5%BAwi%C4%99ku', 'Kostka_a_barwa_d%C5%BAwi%C4%99ku', 'Chwyt_kostki']
 ---
-thumb<!-- link nie odnosił się do niczego -->\]\]
-thumb<!-- link nie odnosił się do niczego -->\]\]
+{{< figure src="/images/Plectrum1.jpg" >}}\]\]
+{{< figure src="/images/Plectrum2.jpg" >}}\]\]
 
 Plectrum, inaczej piórko lub popularnie - kostka, służy do zarywania lub
 uderzania w struny. Od plectrum pochodzi dość nieprecyzyjna nazwa
@@ -25,8 +25,8 @@ sztucznych, chociaż wykorzystuje się też róg, szylkret, kość słoniową,
 twarde drewno - np. heban, skórę, a nawet metal, czy tworzywa na bazie
 węgla-graphite. Kształty są także bardzo różnorodne. Piórka z
 pierścieniami przeznaczone są do gry na gitarze hawajskiej, ale
-niekiedy wykorzystuje się je do gitary
-akustycznej<!-- link nie odnosił się do niczego -->. Kostki różnią się też
+niekiedy wykorzystuje się je do [gitary
+akustycznej]({{< relref "Gitara_akustyczna.md" >}}). Kostki różnią się też
 grubością, a co za tym idzie stopniem elastyczności.
 
 # Barwa dźwięku
@@ -51,7 +51,7 @@ Gładka daje atak suchy, bardziej szorstka - ostrzejszy. Stosując
 materiały zbyt twarde narażamy się na spotęgowanie dość nieprzyjemnego
 efektu.
 
-Podczas gry legato<!-- link nie odnosił się do niczego -->, w momencie uderzenia kostką w
+Podczas gry [legato]({{< relref "Legato.md" >}}), w momencie uderzenia kostką w
 brzmiącą jeszcze strunę, zanim wprowadzimy ją znów w drgania, zostaje
 ona głośno stłumiona, obijając się o twardą powierzchnię kostki. Podczas
 gry daje to wrażenie jakby trzasków, które nie wpływają korzystnie na
@@ -65,7 +65,7 @@ zapobiegają wyślizgiwaniu się kostki z palców.
 # Kostka a technika gry
 
 Gitarzyści wybierają rodzaj kostki również pod kątem swojej
-techniki<!-- link nie odnosił się do niczego --> gry. Są też tacy, którzy mimo mnogości
+[techniki]({{< relref "Technika.md" >}}) gry. Są też tacy, którzy mimo mnogości
 rodzajów oferowanych kostek nie znajdują odpowiedniej dla siebie i
 wykonują je wówczas sami.
 

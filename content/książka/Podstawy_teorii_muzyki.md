@@ -10,7 +10,7 @@ Niniejsza część jest próbą możliwie ścisłego zdefiniowania pojęć
 muzycznych i opisania ich językiem matematyki. Nie jest to wiedza
 konieczna muzykowi do grania, więc niezainteresowanych zapraszam do
 przejścia do Rozdziału 2. Jeżeli natomiast zastanawiasz się nad tym,
-czymże *u diabła* jest ten interwał<!-- link nie odnosił się do niczego -->, a przy
+czymże *u diabła* jest ten [interwał]({{< relref "Interwał.md" >}}), a przy
 okazji znasz odrobinę działania na zbiorach, to jest to część dla
 Ciebie.
 

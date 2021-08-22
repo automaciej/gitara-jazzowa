@@ -2,11 +2,11 @@
 title: "Em7"
 slug: "em7"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['tabele chwytów', 'akordy mollowe']
+kategorie: ['Tabele chwytów', 'Akordy mollowe']
 draft: false
 wikilinks: ['septyma_ma%C5%82a']
 ---
-**E-moll** z septymą małą<!-- link nie odnosił się do niczego -->.
+**E-moll** z [septymą małą]({{< relref "Septyma_mała.md" >}}).
 
 ## Em7 w VII pozycji
 

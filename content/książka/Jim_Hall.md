@@ -21,6 +21,6 @@ harmonicznym<!-- link nie odnosił się do niczego -->. Zarówno Jim Hall jak i
 
 Solo Jim Halla w temacie „The Way You Look Tonight":
 
-
+{{< figure src="/images/NutySoloJimaHallaTheWayYouLookTonight.png" >}}
 
 Hall, Jim<!-- link nie odnosił się do niczego -->

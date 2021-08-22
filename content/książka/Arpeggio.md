@@ -2,7 +2,7 @@
 title: "Arpeggio"
 slug: "arpeggio"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:NutyArpeggio.png']
 ---
@@ -10,7 +10,7 @@ wikilinks: ['Grafika:NutyArpeggio.png']
 poszczególnych dźwięków akordu nie jednocześnie, lecz po kolei w dół
 lub w górę.
 
-
+{{< figure src="/images/NutyArpeggio.png" >}}
 
 W muzyce jazzowej nie występuje zbyt często.a wykonanie różni się
 całkowicie od arpeggia w technice gitary klasycznej, gdzie jest jednym

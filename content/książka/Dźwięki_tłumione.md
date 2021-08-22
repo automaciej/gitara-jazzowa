@@ -2,7 +2,7 @@
 title: "Dźwięki tłumione"
 slug: "dźwięki-tłumione"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['prawa_r%C4%99ka']
 aliases: ['dzwieki-tlumione']
@@ -27,7 +27,7 @@ precyzji lewej ręki, ponieważ nawet minimalne przesunięcie palca
 powoduje wyraźną zmianę barwy dźwięku. W skrajnym przypadku może
 niechcący dojść do obijania się struny o wyższy próg, lub dociśnięcia
 struny do niego. Sposób ten ma przewagę nad innymi z uwagi na to, że nie
-wymaga zmiany układu prawej ręki<!-- link nie odnosił się do niczego -->, a więc nie
+wymaga zmiany układu [prawej ręki]({{< relref "Prawa_ręka.md" >}}), a więc nie
 zmniejsza sprawności technicznej gitarzysty. Można też błyskawicznie
 wybierać tylko te dźwięki, które chce się stłumić.
 

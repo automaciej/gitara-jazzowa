@@ -2,7 +2,7 @@
 title: "Tonacja"
 slug: "tonacja"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['tryb']
 ---
@@ -15,7 +15,7 @@ i skupić się na podstawowym, potrzebnym tutaj ze względów praktycznych.
 
 Tonacja jest punktem odniesienia, centrum do którego odnosi się harmonia
 utworu. Tonację określa się poprzez nazwę literową oraz
-tryb<!-- link nie odnosił się do niczego -->. Na przykład można mówić o tonacji C-dur albo
+[tryb]({{< relref "Tryb.md" >}}). Na przykład można mówić o tonacji C-dur albo
 F-moll.
 
 Zdefiniujmy następujący zbiór

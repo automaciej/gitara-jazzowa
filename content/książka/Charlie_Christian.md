@@ -11,12 +11,12 @@ jazzowej. On to w ciągu zaledwie dwóch lat (działał między 1939 a 1942
 rokiem) sprawił, że gitara spełniająca dotychczas rolę
 harmoniczno-akompaniującą, stała się instrumentem również melodycznym.
 Nie bez wpływu był tu fakt, że Christian jako jeden z pierwszych
-zastosował gitarę elektryczną<!-- link nie odnosił się do niczego --> i dzięki
+zastosował [gitarę elektryczną]({{< relref "Gitara_elektryczna.md" >}}) i dzięki
 temu przekonał jazz fanów, że instrument ten może spełniać wiele funkcji
 w zespole jazzowym. W technice gry zasługą Christiana było
 upowszechnienie, poprzez swoje występy i nagrania, gry melodycznej
-wykonywanej kostką<!-- link nie odnosił się do niczego --> - „single
-note<!-- link nie odnosił się do niczego -->".
+wykonywanej [kostką]({{< relref "Kostka.md" >}}) - „[single
+note]({{< relref "Single_note.md" >}})".
 
 Prawie wszyscy gitarzyści po Charlie Christianie stosowa­li tę technikę
 gry i doskonalili ją. Spadkobiercami tej metody są między innymi [Kenny

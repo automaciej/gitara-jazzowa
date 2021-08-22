@@ -2,15 +2,15 @@
 title: "System równomiernie temperowany"
 slug: "system-równomiernie-temperowany"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['oktawa', 'p%C3%B3%C5%82ton']
 aliases: ['system-rownomiernie-temperowany']
 ---
 System równomiernie temperowany to przyjęty w muzyce europejskiej
 podział oktawy na dwanaście odcinków równych w mierze oktawowej. Jeden
-taki odcinek, równy \(\frac{1}{12}\) oktawy<!-- link nie odnosił się do niczego -->,
-nazywamy półtonem<!-- link nie odnosił się do niczego -->.
+taki odcinek, równy \(\frac{1}{12}\) [oktawy]({{< relref "Oktawa.md" >}}),
+nazywamy [półtonem]({{< relref "Półton.md" >}}).
 
 System równomiernie temperowany został stworzony przez J. Neidhardta
 (1706 i 1724) w oparciu o prace Werckmeistra \[8, str. 897\].

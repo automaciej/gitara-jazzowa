@@ -2,7 +2,7 @@
 title: "Przestrzeń nazw dźwięków bez oktawy"
 slug: "przestrzeń-nazw-dźwięków-bez-oktawy"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: []
 aliases: ['przestrzen-nazw-dzwiekow-bez-oktawy']

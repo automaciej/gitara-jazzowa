@@ -7,7 +7,7 @@ draft: false
 wikilinks: ['grafika:MarekBlizinski.jpg', 'Spis_tre%C5%9Bci', 'Gitara_elektryczna', 'Charlie_Christian', 'Wes_Montgomery', 'Jim_Hall', 'Joe_Pass', 'Pat_Metheny', 'John_Scofield', 'Janusz_Pop%C5%82awski', 'Kategoria:Gitarzy%C5%9Bci_jazzowi']
 aliases: ['marek-blizinski']
 ---
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/MarekBlizinski.jpg" >}}
 
 **Marek Bliziński** (ur. 22 marca 1947 w Warszawie, zm. 17 marca 1989 w
 Warszawie) - autor książki *[Gitara Jazzowa]({{< relref "Spis_treści.md" >}})*,

@@ -2,7 +2,7 @@
 title: "Nazwy literowe dźwięków"
 slug: "nazwy-literowe-dźwięków"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: []
 aliases: ['nazwy-literowe-dzwiekow']

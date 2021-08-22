@@ -2,7 +2,7 @@
 title: "Glissando"
 slug: "glissando"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['grafika:NutyGlissando.png']
 ---
@@ -50,5 +50,5 @@ jazzowej częściej mamy do czynienia z fragmentami tych efektów, niż z
 pełnym ich wykonaniem. Np. fragmentem glissanda w dół lub w górę muzyk
 jazzowy niekiedy kończy dźwięk:
 
-
+{{< figure src="/images/NutyGlissando.png" >}}
 

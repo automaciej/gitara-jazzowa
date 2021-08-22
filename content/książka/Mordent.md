@@ -2,7 +2,7 @@
 title: "Mordent"
 slug: "mordent"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:NutyMordent.png', 'kostka']
 ---
@@ -14,10 +14,10 @@ następnie metodą ścisłego legata zmieniamy wysokość dźwięków brzmiącej
 już struny. Rzadziej występuje konieczność zagrania mordentu na dwóch
 strunach. Trzeba wówczas prawą ręką atakować każdy dźwięk.
 
-
+{{< figure src="/images/NutyMordent.png" >}}
 
 Ułatwiając sobie, można stosować uderzenie w struny w kolejności:
-kostka<!-- link nie odnosił się do niczego --> - palec - kostka, przy mordencie górnym.
+[kostka]({{< relref "Kostka.md" >}}) - palec - kostka, przy mordencie górnym.
 Przy dolnym nie stosuje się tego ze względu na nieuniknioną wówczas
 zmianę barwy dźwięku głównego. Należy wtedy „opakować" daną frazę lak,
 aby ów mordent mógł być zagrany na jednej strunie. Wykonanie mordentu na

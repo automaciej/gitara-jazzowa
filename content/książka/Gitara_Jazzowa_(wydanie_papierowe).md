@@ -2,12 +2,12 @@
 title: "Gitara Jazzowa (wydanie papierowe)"
 slug: "gitara-jazzowa-(wydanie-papierowe)"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['strona główna']
+kategorie: ['Strona główna']
 draft: false
 wikilinks: ['grafika:GitaraJazzowaPierwszeWydanie.jpg', 'grafika:GitaraJazzowaDrugieWydanie.gif', 'Janusz_Pop%C5%82awski']
 ---
-framed<!-- link nie odnosił się do niczego -->
-framed<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/GitaraJazzowaPierwszeWydanie.jpg" >}}
+{{< figure src="/images/GitaraJazzowaDrugieWydanie.gif" >}}
 
 Książka *Gitara Jazzowa* była wydana na papierze dwukrotnie. Drugie
 wydanie książki, obecnie dostępne w sprzedaży, zostało wydane przez

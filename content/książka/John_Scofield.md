@@ -18,17 +18,17 @@ energią.
 Uchodzi za najintensywniej swingującego<!-- link nie odnosił się do niczego -->
 gitarzystę. Improwizuje<!-- link nie odnosił się do niczego --> swobodnie i
 żywiołowo, a z drugiej strony jego świadomość miejsca każdego
-dźwięku<!-- link nie odnosił się do niczego --> w strukturze
+[dźwięku]({{< relref "Dźwięk.md" >}}) w strukturze
 harmonicznej<!-- link nie odnosił się do niczego --> utworu jest imponująca.
 
 Charakterystycznym przykładem może być temat z utworu „Techno" z płyty
 „Still Warm". Oparty jest na dwóch akordach: [B♭m7]({{< relref "B♭m7.md" >}}) i
 D♭7<!-- link nie odnosił się do niczego -->. Zbudowany jest z krótkich, gęstych rytmicznie
-fraz wykonanych staccato<!-- link nie odnosił się do niczego -->. Motyw gi­tary ściśle
-koresponduje z szesnastkowym podziałem gi­tary
-basowej<!-- link nie odnosił się do niczego -->. Jednotaktowe frazy gitary i basu
-przedzielane są „oddechem" sekcji
-rytmicznej<!-- link nie odnosił się do niczego -->.
+fraz wykonanych [staccato]({{< relref "Staccato.md" >}}). Motyw gi­tary ściśle
+koresponduje z szesnastkowym podziałem [gi­tary
+basowej]({{< relref "Gitara_basowa.md" >}}). Jednotaktowe frazy gitary i basu
+przedzielane są „oddechem" [sekcji
+rytmicznej]({{< relref "Sekcja_rytmiczna.md" >}}).
 
 ## Mówią o Scofieldzie
 

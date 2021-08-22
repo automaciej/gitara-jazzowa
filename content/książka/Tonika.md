@@ -2,12 +2,12 @@
 title: "Tonika"
 slug: "tonika"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['funkcja_harmoniczna', 'harmonia_klasyczna', 'Funkcja_harmoniczna', 'Subdominanta', 'Dominanta']
 ---
-**Tonika** jest jedną z trzech najważniejszych funkcja
-harmoniczna<!-- link nie odnosił się do niczego -->. Tonika jest funkcją
+**Tonika** jest jedną z trzech najważniejszych [funkcja
+harmoniczna]({{< relref "Funkcja_harmoniczna.md" >}}). Tonika jest funkcją
 centralną dla tonacji. Na przykład, w tonacji C-dur toniką jest akord
 C-dur.
 

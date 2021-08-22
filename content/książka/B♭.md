@@ -2,7 +2,7 @@
 title: "B♭"
 slug: "b♭"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['tabele chwytów', 'Akordy durowe']
+kategorie: ['Tabele chwytów', 'Akordy durowe']
 draft: false
 wikilinks: []
 aliases: ['b']

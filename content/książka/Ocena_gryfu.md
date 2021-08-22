@@ -2,7 +2,7 @@
 title: "Ocena gryfu"
 slug: "ocena-gryfu"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['budowa gitary']
+kategorie: ['Budowa gitary']
 draft: false
 wikilinks: ['Grafika:MarekPatrzyNaGryfOdStronyGlowki.jpg', 'pr%C4%99t_regulacyjny', 'Gibson', 'Les_Paul']
 ---
@@ -10,7 +10,7 @@ Podczas oceny instrumentu uwaga powinna być skupiona w pierwszym rzędzie
 na gryfie gitary, który powinien być prosty. Sprawdzamy to po uprzednim
 naciągnięciu strun do właściwego stroju w sposób podany na zdjęciu.
 
-thumb<!-- link nie odnosił się do niczego --> patrzy
+{{< figure src="/images/MarekPatrzyNaGryfOdStronyGlowki.jpg" >}} patrzy
 na gryf od strony główki\]\]
 
 Drugi sposób sprawdzania szyjki jest następujący: dociskamy jedną ze
@@ -19,7 +19,7 @@ gryfu dociśnięta struna oddalona jest od niego o więcej niż 0,3 mm,
 trzeba uznać, że szyjka jest wypaczona. Należy pamiętać o tym, że nowy
 instrument jest jeszcze nie ułożony i szyjka z czasem może się nieco
 poddać siłom naciągu strun. Problemu tego nic ma, gdy szyjka wyposażona
-jest w pręt regulacyjny<!-- link nie odnosił się do niczego -->, wówczas należy
+jest w [pręt regulacyjny]({{< relref "Pręt_regulacyjny.md" >}}), wówczas należy
 tylko zwrócić uwagę na ewentualne wypaczenia boczne gryfu. Jeżeli struny
 przylegają do progów na całej długości gryfu należy dokonać korekty
 prętem regulacyjnym gryfu.

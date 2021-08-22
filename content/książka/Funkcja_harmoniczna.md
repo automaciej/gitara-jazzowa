@@ -2,15 +2,15 @@
 title: "Funkcja harmoniczna"
 slug: "funkcja-harmoniczna"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['akord', 'tonacja', 'tonika', 'dominanta', 'subdominanta']
 ---
-Funkcja harmoniczna jest akordem<!-- link nie odnosił się do niczego -->, zbudowanym na
-określonym stopniu tonacji<!-- link nie odnosił się do niczego -->. Podstawowe funkcje
-harmoniczne to tonika<!-- link nie odnosił się do niczego -->,
-dominanta<!-- link nie odnosił się do niczego --> i
-subdominanta<!-- link nie odnosił się do niczego -->.
+Funkcja harmoniczna jest [akordem]({{< relref "Akord.md" >}}), zbudowanym na
+określonym stopniu [tonacji]({{< relref "Tonacja.md" >}}). Podstawowe funkcje
+harmoniczne to [tonika]({{< relref "Tonika.md" >}}),
+[dominanta]({{< relref "Funkcje_harmoniczne.md" >}}) i
+[subdominanta]({{< relref "Funkcje_harmoniczne.md" >}}).
 
 Funkcja składa się z pary uporządkowanej
 

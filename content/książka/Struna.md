@@ -2,15 +2,15 @@
 title: "Struna"
 slug: "struna"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Budowa gitary']
 draft: false
-wikilinks: ['gitara_klasyczna', 'Fender', 'Gibson', 'gitara_dwunastostrunowa', 'dynamika', 'gitara_akustyczna', 'gitara_akustyczna', 'Kenny_Burrell', 'grafika:StrunaNaKolku.jpg', 'Kategoria:Budowa_gitary']
+wikilinks: ['gitara_klasyczna', 'Fender', 'Gibson', 'gitara_dwunastostrunowa', 'dynamika', 'gitara_akustyczna', 'gitara_akustyczna', 'Kenny_Burrell', 'grafika:StrunaNaKolku.jpg']
 aliases: ['książka/struny']
 ---
 Niezmiernie ważny jest dobór odpowiednich strun. Różne ich rodzaje są
 używane do różnych gatunków muzyki. Pierwszy podział wyłania struny
 nylonowe i metalowe. Jak wiadomo, struny nylonowe używane są tylko w
-gitarach klasycznych<!-- link nie odnosił się do niczego -->, nie będziemy się
+[gitarach klasycznych]({{< relref "Gitara_klasyczna.md" >}}), nie będziemy się
 więc nimi zajmować.
 
 Struny metalowe możemy podzielić na ich grubość, materiał oraz sposób
@@ -28,7 +28,7 @@ się następująco: E-.013. H-.016, G-.024, D-.028, A-.046, E-.058. Trzeba
 zaznaczyć, że w kompletach miękkich struny G-3 nie mają owijki, a w
 twardych są owijane.
 
-Dla gitar dwunastostrunowych<!-- link nie odnosił się do niczego --> firma
+Dla [gitar dwunastostrunowych]({{< relref "Gitara_dwunastostrunowa.md" >}}) firma
 Fender proponuje między innymi taki komplet (F-1450 set Light & bright):
 E-.010/.010, H-.013/.013, G-.022/.010, D-.026/.013,
 A-.034/.016,E-.044/.022.
@@ -46,12 +46,12 @@ struny kompletują sobie sami.
 Struny miękkie - podatne na wibrację i lekkie w grze - nadają się
 najlepiej do muzyki, w której stosuje się technikę bluesową. Brzmieniowo
 ustępują jednak strunom twardszym, gorzej oddają
-dynamikę<!-- link nie odnosił się do niczego -->, a przy mocnym uderzeniu wydają dźwięk
+[dynamikę]({{< relref "Dynamika.md" >}}), a przy mocnym uderzeniu wydają dźwięk
 zduszony. Zjawisko to jest spotęgowane, gdy założymy struny zbyt miękkie
-na gitarę akustyczną<!-- link nie odnosił się do niczego -->. Trzeba pamiętać,
+na [gitarę akustyczną]({{< relref "Gitara_akustyczna.md" >}}). Trzeba pamiętać,
 że o ile w gitarze elektrycznej można używać komplety miękkie, z
-powodzeniem wykorzystując ich zalety, o tyle gitara
-akustyczna<!-- link nie odnosił się do niczego -->, dla dobra brzmienia, wymaga
+powodzeniem wykorzystując ich zalety, o tyle [gitara
+akustyczna]({{< relref "Gitara_akustyczna.md" >}}), dla dobra brzmienia, wymaga
 strun twardszych, które swoją masą są w stanie pobudzić rezonans pudła.
 Na ogół gitarzyści jazz-rockowi preferują raczej struny małej lub
 średniej grubości. Gitarzyści jazzowi używają strun średnich i
@@ -111,7 +111,7 @@ odpowiednią długość. Wprawdzie menzura wszystkich gitar jest zbliżona,
 ale różne są odległości strunnika od mostka i siodełka od kołków. Struna
 właściwie nawinięta na kołek ma kilka zwojów, tak jak pokazuje zdjęcie.
 
-right<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/StrunaNaKolku.jpg" >}}
 
 Np. struna E-6 powinna być nawinięta na kołek dwa-trzy razy: struny
 cieńsze mogą mieć większą ilość zwojów, ale nie więcej niż kilka (np. 3

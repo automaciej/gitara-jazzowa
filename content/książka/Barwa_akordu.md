@@ -2,7 +2,7 @@
 title: "Barwa akordu"
 slug: "barwa-akordu"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['akord_mollowy', 'akord_durowy', 'd%C5%BAwi%C4%99k', 's%C5%82uch_absolutny', 'interwa%C5%82', 'tercja', 'kwinta', 'nona_ma%C5%82a', 'mamy', 'C', 'd%C5%BAwi%C4%99k', 'akord', 'G9', 'interwa%C5%82', 'd%C5%BAwi%C4%99k', 'interwa%C5%82', 'Grafika:GrafAkorduG9.png', 'interwa%C5%82', 'd%C5%BAwi%C4%99k', 'akord', 'Cmaj96']
 ---
@@ -20,7 +20,7 @@ Barwa akordu to coś trochę innego niż barwa instrumentu. Barwa akordu
 jest to coś co pozwala na przykład odróżnić akord
 mollowy<!-- link nie odnosił się do niczego --> od
 durowego<!-- link nie odnosił się do niczego -->, nawet jeżeli nie wiemy dokładnie,
-jakie dźwięki<!-- link nie odnosił się do niczego --> są grane. Jest to coś co jest
+jakie [dźwięki]({{< relref "Dźwięk.md" >}}) są grane. Jest to coś co jest
 charakterystyczne w brzmieniu jakiegoś danego akordu, a co jest
 odbierane raczej intuicyjnie niż analitycznie i świadomie.
 
@@ -35,9 +35,9 @@ musi iść w parze z dobrym słuchem harmonicznym.
 
 ### Barwa interwału
 
-Wiemy, czym są interwały<!-- link nie odnosił się do niczego -->. Każdy interwał ma swoją
-barwę: inną barwę ma tercja<!-- link nie odnosił się do niczego -->, inną
-kwinta<!-- link nie odnosił się do niczego -->, jeszcze inną nona
+Wiemy, czym są [interwały]({{< relref "Interwał.md" >}}). Każdy interwał ma swoją
+barwę: inną barwę ma [tercja]({{< relref "Tercja.md" >}}), inną
+[kwinta]({{< relref "Kwinta.md" >}}), jeszcze inną nona
 mała<!-- link nie odnosił się do niczego -->. W momencie kiedy brzmi (wybrzmiewa) akord
 mamy<!-- link nie odnosił się do niczego --> do czynienia ze współbrzmieniem wszystkich
 interwałów które wchodzą w jego skład.
@@ -50,7 +50,7 @@ brzmienia akordu. Inne znów są "mocniejsze", ale za to często chropawe,
 ### Współbrzmienia interwałów w akordzie
 
 Powiedzmy, że gramy C<!-- link nie odnosił się do niczego -->-dur w postaci zasadniczej, czyli
-dźwięki<!-- link nie odnosił się do niczego --> (C, E, G). Słyszymy wtedy następujące
+[dźwięki]({{< relref "Dźwięk.md" >}}) (C, E, G). Słyszymy wtedy następujące
 interwały:
 
   - C-E tercja wielka
@@ -61,15 +61,15 @@ Są to wszystko dość *zwykłe* interwały, to znaczy wszystkie brzmią
 konsonansowo. Dlatego też cały akord C-dur, zagrany w ten sposób brzmi
 prosto i konsonansowo.
 
-Weźmy inny akord<!-- link nie odnosił się do niczego -->, na przykład [G9]({{< relref "G9.md" >}}).
+Weźmy inny [akord]({{< relref "Akord.md" >}}), na przykład [G9]({{< relref "G9.md" >}}).
 Składa się on z dźwięków (G, B, D, F, A) . Wszystkie
-interwały<!-- link nie odnosił się do niczego -->, jakie występują w takim układzie
+[interwały]({{< relref "Interwał.md" >}}), jakie występują w takim układzie
 dźwięków, czyli wszystkie możliwe pary dźwięków w tym akordzie
 doskonale obrazuje graf akordu, przedstawiony na rysunku. Wierzchołki
-grafu to dźwięki<!-- link nie odnosił się do niczego -->, natomiast krawędzie to
-interwały<!-- link nie odnosił się do niczego --> pomiędzy nimi.
+grafu to [dźwięki]({{< relref "Dźwięk.md" >}}), natomiast krawędzie to
+[interwały]({{< relref "Interwał.md" >}}) pomiędzy nimi.
 
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/GrafAkorduG9.png" >}}
 
 Na przedstawionym rysunku krawędzie grafu krawędzie grafu mają różne
 grubości. Przedstawiłem w ten sposób "wagę" interwałów dla brzmienia
@@ -77,9 +77,9 @@ całego akordu. Grube krawędzie to interwały o silnym brzmieniu,
 cienkie-o słabym. Widać wyraźniej, że najsilniejszy wpływ na brzmienie
 ma para B-F, natomiast najmniejszy wkład do brzmienia akordu ma dźwięk
 D, który nie jest związany właściwie żadnym silniejszym współbrzmieniem
-interwałowym<!-- link nie odnosił się do niczego -->. Można wysnuć stąd wniosek, że skoro
-wkład tego dźwięku<!-- link nie odnosił się do niczego --> do brzmienia
-akordu<!-- link nie odnosił się do niczego --> jest tak niewielki, to można ten dźwięk
+[interwałowym]({{< relref "Interwał.md" >}}). Można wysnuć stąd wniosek, że skoro
+wkład tego [dźwięku]({{< relref "Dźwięk.md" >}}) do brzmienia
+[akordu]({{< relref "Akord.md" >}}) jest tak niewielki, to można ten dźwięk
 opuścić. Tak jest istotnie.
 
 ## Akordy o budowie kwartowej

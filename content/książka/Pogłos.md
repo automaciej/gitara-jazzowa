@@ -2,7 +2,7 @@
 title: "Pogłos"
 slug: "pogłos"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['akcesoria']
+kategorie: ['Akcesoria']
 draft: false
 wikilinks: ['wzmacniacz']
 aliases: ['poglos']
@@ -10,7 +10,7 @@ aliases: ['poglos']
 ## Pogłos sprężynowy
 
 Pogłos można uzyskać sztucznie za pomocą specjalnego urządzenia. Jest
-ono umieszczane przy wzmacniaczach<!-- link nie odnosił się do niczego --> gitarowych
+ono umieszczane przy [wzmacniaczach]({{< relref "Wzmacniacz.md" >}}) gitarowych
 jako pogłos tzw. „sprężynowy" (nazwa wzięta od konstrukcji urządzenia).
 Pogłosu tego nie należy mylić z efektem, jaki można uzyskać przy pomocy
 taśmowej echo-kamery oraz echa elektronicznego, które daje wielokrotne

@@ -8,14 +8,14 @@ wikilinks: ['oktawa', 'unison', 'pud%C5%82o_rezonansowe', 'Gitara_akustyczna', '
 ---
 **Gitara dwunastostrunowa** ma podwójny naciąg strun, które tak jak w
 mandolinie połączone są w pary. Cztery dolne struny są zdwojone w
-oktawie<!-- link nie odnosił się do niczego -->, a dwie górne w
+[oktawie]({{< relref "Oktawa.md" >}}), a dwie górne w
 unisonie<!-- link nie odnosił się do niczego -->. Strój instrumentu w zasadzie jest taki
 sam jak w gitarze sześciostrunowej, z tym że czasami ze względu na
 zwiększoną siłę naciągu stosuje się obniżenie stroju o cały ton. Z
 uwagi na liczbę strun, szyjka z gryfem jest nieco szersza. Na
 powiększonej główce znajduje się oczywiście dwanaście maszynek.
-Strunnik i mostek są mocniejsze, a konstrukcja pudła
-rezonansowego<!-- link nie odnosił się do niczego --> uwzględnia większy naciąg
+Strunnik i mostek są mocniejsze, a konstrukcja [pudła
+rezonansowego]({{< relref "Pudło_rezonansowe.md" >}}) uwzględnia większy naciąg
 strun.
 
 Gitary dwunastostrunowe bywają

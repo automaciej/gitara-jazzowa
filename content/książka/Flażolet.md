@@ -2,7 +2,7 @@
 title: "Flażolet"
 slug: "flażolet"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:Flazolety.png', 'grafika:NutyFlazolety01.png', 'grafika:NutyFlazolety02.png', 'Strojenie_fla%C5%BColetami', 'Fla%C5%BColet_sztuczny']
 aliases: ['flazolet']
@@ -49,7 +49,7 @@ Trzeba dodać, że flażolet oktawy ma jeden węzeł, a poczynając od
 flaźoletu kwinty, węzłów tych jest więcej. Wyjaśnia to schematyczny
 rysunek drgającej struny.
 
-
+{{< figure src="/images/Flazolety.png" >}}
 
 Można to też zaobserwować, patrząc uważnie na strunę drgającą z
 określonym podziałem. Punkt nieruchomy na drgającej strunie to węzeł
@@ -77,7 +77,7 @@ praktyce. Podaję, nie według kolejności, występowania węzłów, ale według
 wysokości dźwięku flażoletów. Znając zasadę powstawania flażoletów, bez
 trudu można znaleźć zwielokrotnienia węzłów.
 
-
+{{< figure src="/images/NutyFlazolety01.png" >}}
 
 Flażolety w III pozycji używane są rzadziej, ze względu na dość słabe
 brzmienie. Każdy gitarzysta może sprawdzić, że istnieją flażolety
@@ -88,7 +88,7 @@ ze względu na fałszywe brzmienie niektórych z nich.
 Flażoletami naturalnymi można wykonywać niektóre proste akordy
 wynikające ze stroju gitary, np.
 
-
+{{< figure src="/images/NutyFlazolety02.png" >}}
 
 **Zobacz też**
 

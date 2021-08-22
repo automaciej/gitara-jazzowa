@@ -12,8 +12,8 @@ wywarł znaczący wpływ na jazz.
 
 Czarnoskóry saksofonista altowy, uznawany za geniusza, aktywny w latach
 czterdziestych. Czołowa postać dla stylu bebop<!-- link nie odnosił się do niczego -->. Jego
-ulubionym interwałem była kwinta
-zmniejszona<!-- link nie odnosił się do niczego -->
+ulubionym interwałem była [kwinta
+zmniejszona]({{< relref "Kwinta_zmniejszona.md" >}})
 (tryton<!-- link nie odnosił się do niczego -->). Znane standardy skomponowane przez
 Charliego Parkera to między innymi *Billie's Bounce*, *Ornithology* i
 *Yardbird Suite*.

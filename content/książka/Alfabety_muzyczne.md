@@ -2,7 +2,7 @@
 title: "Alfabety muzyczne"
 slug: "alfabety-muzyczne"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['harmonia jazzowa']
+kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['bemol', 'akord', 'Solmizacja', 'D%C5%BAwi%C4%99ki_alterowane']
 ---
@@ -11,9 +11,9 @@ tym:
 
   - europejskie oznaczenie akordu H = amerykańskiemu B
   - europejskie oznaczenie akordu B = amerykańskiemu B♭ (B z
-    bemolem<!-- link nie odnosił się do niczego -->)
+    [bemolem]({{< relref "Bemol.md" >}}))
 
-We Włoszech można znaleźć w roli symboli akordów<!-- link nie odnosił się do niczego -->
+We Włoszech można znaleźć w roli symboli [akordów]({{< relref "Akord.md" >}})
 nazwy solmizacyjne<!-- link nie odnosił się do niczego -->. Jeśli chodzi o oznaczenia
 dźwięków obcych i alteracji<!-- link nie odnosił się do niczego --> również
 istnieje wiele systemów. Zamiast "+" i "-" można spotkać odpowiednio ♯ i

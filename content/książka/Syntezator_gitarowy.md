@@ -7,8 +7,8 @@ draft: false
 wikilinks: ['MIDI', 'gitara', 'struna', 'gryf', 'pr%C3%B3g', 'kontroler_MIDI', 'Pat_Metheny', 'John_McLaughlin']
 ---
 **Syntezator gitarowy** lub **Gitara [MIDI]({{< relref "MIDI.md" >}})** to
-instrument elektroniczny, który tak jak gitara<!-- link nie odnosił się do niczego -->
-posiada struny<!-- link nie odnosił się do niczego -->, gryf<!-- link nie odnosił się do niczego --> i
+instrument elektroniczny, który tak jak [gitara]({{< relref "Gitara.md" >}})
+posiada [struny]({{< relref "Struna.md" >}}), [gryf]({{< relref "Gryf.md" >}}) i
 progi<!-- link nie odnosił się do niczego -->, natomiast umożliwia grane różnymi barwami, tak
 jak w syntezatorach klawiszowych.
 

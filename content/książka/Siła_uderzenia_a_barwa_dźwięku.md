@@ -2,7 +2,7 @@
 title: "Siła uderzenia a barwa dźwięku"
 slug: "siła-uderzenia-a-barwa-dźwięku"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['artykulacja', 'dynamika', 'kostka', 'wzmacniacz']
 aliases: ['sila-uderzenia-a-barwa-dzwieku']
@@ -24,16 +24,16 @@ spadek jej dynamiki - wybrzmiewania.
 
 Dłuższy dźwięk nie jest jedyną zaletą takiego ustawienia. Następuje
 wówczas większa podatność dźwięku na
-artykulację<!-- link nie odnosił się do niczego --> oraz
-dynamikę<!-- link nie odnosił się do niczego -->. Dla gitarzysty jazzowego jest to na
+[artykulację]({{< relref "Artykulacja.md" >}}) oraz
+[dynamikę]({{< relref "Dynamika.md" >}}). Dla gitarzysty jazzowego jest to na
 tyle ważne, że nie powinny go zrazić pewne niedogodności wynikające z
 omawianego ustawienia. A więc gra piano będzie nieco utrudniona,
 ponieważ do dźwięku dołączają się nazbyt wzmocnione efekty
-towarzyszące, jak tarcie kostki<!-- link nie odnosił się do niczego --> o strunę, rozmaite
+towarzyszące, jak tarcie [kostki]({{< relref "Kostka.md" >}}) o strunę, rozmaite
 przypadkowe stuki i przede wszystkim słychać wówczas pracę lewej ręki, a
 więc zdejmowanie palca ze struny, przesuwanie przy zmianie pozycji itp.
 Przy nienajlepszym sprzęcie wzmaga się również „brum" i szumy własne
-wzmacniacza<!-- link nie odnosił się do niczego -->. Dlatego każdy gitarzysta powinien
+[wzmacniacza]({{< relref "Wzmacniacz.md" >}}). Dlatego każdy gitarzysta powinien
 znaleźć indywidualny starannie wypośrodkowany stosunek siły uderzenia w
 strunę do ustawienia siły głosu we wzmacniaczu, mając na uwadze
 zależności, o których mówiłem i które przypominam w tabelce.

@@ -2,7 +2,7 @@
 title: "Łączenie najbliższą drogą"
 slug: "łączenie-najbliższą-drogą"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry', 'harmonia jazzowa']
+kategorie: ['Technika gry', 'Harmonia jazzowa']
 draft: false
 wikilinks: ['Dm7', 'G7', 'Cmaj7']
 aliases: ['laczenie-najblizsza-droga']

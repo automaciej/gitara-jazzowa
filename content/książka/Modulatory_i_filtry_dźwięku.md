@@ -2,18 +2,18 @@
 title: "Modulatory i filtry dźwięku"
 slug: "modulatory-i-filtry-dźwięku"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['akcesoria']
+kategorie: ['Akcesoria']
 draft: false
 wikilinks: ['gitara_elektryczna', 'wzmacniacz', 'Fuzz', 'Sustainer', 'Wahwah', 'Phaser', 'Envelope_filter', 'wzmacniacz', 'Ring_modulator', 'Octaver', 'Chorus', 'Flanger', 'Delay', 'Tape_echo', 'bramka_szum%C3%B3w', 'sygna%C5%82', 'wzmacniacz', 'Grafika:Multiprocesor.jpg', 'MIDI', 'syntezator_gitarowy', 'John_McLaughlin', 'Pat_Metheny']
 aliases: ['modulatory-i-filtry-dzwieku']
 ---
 Służą one do zmiany barwy i właściwości dźwięków uzyskanych na
-instrumentach wytwarzających impulsy elektryczne, a więc i na gitarze
-elektrycznej<!-- link nie odnosił się do niczego -->. Na ogół, urządzenia te
+instrumentach wytwarzających impulsy elektryczne, a więc i na [gitarze
+elektrycznej]({{< relref "Gitara_elektryczna.md" >}}). Na ogół, urządzenia te
 pobierają prąd z baterii 9 V, czasem wyposażone są w zasilacz sieciowy.
 Mają dwa gniazda - wejście (in), w które włącza się kabel niosący sygnał
 z instrumentu oraz wyjście (out), przez które możemy wyprowadzić
-przetworzony już sygnał do wejścia wzmacniacza<!-- link nie odnosił się do niczego -->.
+przetworzony już sygnał do wejścia [wzmacniacza]({{< relref "Wzmacniacz.md" >}}).
 Posiadają również nożny (na ogół) przełącznik do włączania oraz
 regulatory do ustawiania urządzenia na określony typ pracy. Większość
 urządzeń przetwarzających dźwięk podłącza się między gitarą a
@@ -46,7 +46,7 @@ wymienionych urządzeń. Niektóre z nich łączone są parami lub nawet w
 większej ilości, np.:
 
 Wah-swell, Wah-fuzz-swell itp., niektóre montowane są we
-wzmacniaczach<!-- link nie odnosił się do niczego -->. Są też odmiany w formie małych
+[wzmacniaczach]({{< relref "Wzmacniacz.md" >}}). Są też odmiany w formie małych
 pudełek, które włącza się bezpośrednio w gniazdo gitary.
 
 Wszystkie wyżej wymienione urządzenia kształtują dźwięki z instrumentu.
@@ -72,10 +72,10 @@ szumów<!-- link nie odnosił się do niczego -->, Noise Limiter - które w mome
 gdy instrument nie gra (a wtedy najbardziej słyszalne są wszelkie
 zakłócenia), odcinają dopływ sygnałów (a więc i szumów) do
 wzmacniacza. Gdy zaczyna się grać, urządzenie automatycznie przepuszcza
-sygnał<!-- link nie odnosił się do niczego --> z instrumentu.
+[sygnał]({{< relref "Sygnał.md" >}}) z instrumentu.
 
 Noise Gate należy instalować zawsze między inne urządzenia a
-wzmacniacz<!-- link nie odnosił się do niczego -->. Nietóre przetworniki dźwięku mają
+[wzmacniacz]({{< relref "Wzmacniacz.md" >}}). Nietóre przetworniki dźwięku mają
 wbudowaną „bramkę szumów".
 
 ### Miksowanie
@@ -99,7 +99,7 @@ muzyczne.
 
 ## Multiprocesory
 
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/Multiprocesor.jpg" >}}
 
 Szybki rozwój elektroniki przyczynił się do udoskonalenia dotychczas
 używanych efektów i skonstruowania nowych. Dla łatwiejszego operowania
@@ -111,8 +111,8 @@ naciśnięciem różnych przycisków.
 
 Wiele gitar wyposażonych jest w system [MIDI]({{< relref "MIDI.md" >}})
 pozwalający gitarą sterować dowolnie podłączony syntezator. Po
-mistrzowsku wykorzystali syntezatory
-gitarowe<!-- link nie odnosił się do niczego --> m. in. [John
+mistrzowsku wykorzystali [syntezatory
+gitarowe]({{< relref "Syntezator_gitarowy.md" >}}) m. in. [John
 McLaughlin]({{< relref "John_McLaughlin.md" >}}) i [Pat
 Metheny]({{< relref "Pat_Metheny.md" >}}).
 

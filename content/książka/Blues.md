@@ -2,7 +2,7 @@
 title: "Blues"
 slug: "blues"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['style muzyczne']
+kategorie: ['Style muzyczne']
 draft: false
 wikilinks: ['tonika', 'subdominanta', 'dominanta']
 ---
@@ -19,10 +19,10 @@ dobrze pokazuje następujący schemat harmoniczny:
 
 Gdzie:
 
-  - I oznacza tonikę<!-- link nie odnosił się do niczego --> (akord na pierwszym stopniu
+  - I oznacza [tonikę]({{< relref "Tonika.md" >}}) (akord na pierwszym stopniu
     gamy)
-  - IV oznacza subdominantę<!-- link nie odnosił się do niczego --> (akord na
+  - IV oznacza [subdominantę]({{< relref "Funkcje_harmoniczne.md" >}}) (akord na
     czwartym stopniu gamy)
-  - V oznacza dominantę<!-- link nie odnosił się do niczego --> (akord na piątym stopniu
+  - V oznacza [dominantę]({{< relref "Funkcje_harmoniczne.md" >}}) (akord na piątym stopniu
     gamy)
 

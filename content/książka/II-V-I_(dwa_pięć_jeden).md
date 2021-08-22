@@ -2,7 +2,7 @@
 title: "II-V-I (dwa pięć jeden)"
 slug: "ii-v-i-(dwa-pięć-jeden)"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['harmonia jazzowa']
+kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['subdominanta']
 aliases: ['ii-v-i-(dwa-piec-jeden)']
@@ -10,7 +10,7 @@ aliases: ['ii-v-i-(dwa-piec-jeden)']
 Dwa-pięć-jeden jest bodaj najczęstszym następstwem akordów spotykanym w
 standardach jazzowych. Upraszczając sprawę, można powiedzieć, że jest to
 jazzowa wersja kadencji wielkiej doskonałej, w której
-subdominanta<!-- link nie odnosił się do niczego --> została zastąpiona subdominantą
+[subdominanta]({{< relref "Funkcje_harmoniczne.md" >}}) została zastąpiona subdominantą
 drugiego stopnia.
 
 Umiejętność improwizowania po pochodach II-V-I we wszystkich tonacjach

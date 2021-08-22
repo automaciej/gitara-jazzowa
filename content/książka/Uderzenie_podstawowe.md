@@ -2,20 +2,20 @@
 title: "Uderzenie podstawowe"
 slug: "uderzenie-podstawowe"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['kostka', 'Ruch_kostki', 'Grafika:PrawaDlonPrzedUderzeniemWstruneD.jpg', 'Grafika:PrawaDlonWtrakcieUderzaniaWstruneD.jpg', 'Grafika:PrawaDlonPoUderzeniuWstruneD.jpg', 'Grafika:RuchKostki.png', 'Praca_prawej_r%C4%99ki']
 ---
 **Uderzenie podstawowe** (ponieważ w proponowanej przeze mnie technice
 gry mogą mieć miejsce i inne uderzenia) polega na ruchu całej dłoni.
-Palce trzymające kostkę<!-- link nie odnosił się do niczego -->, nie zmieniają pozycji
+Palce trzymające [kostkę]({{< relref "Kostka.md" >}}), nie zmieniają pozycji
 względem dłoni. [Ruch kostki]({{< relref "Ruch_kostki.md" >}}) powinien
 wyznaczać łuk, którego wierzchołek zachodzi na jedną lub jeśli tego
 chcemy, więcej strun.
 
 |                                                                  |                                                                    |                                                              |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------ |
-| thumb<!-- link nie odnosił się do niczego --> | thumb<!-- link nie odnosił się do niczego --> | thumb<!-- link nie odnosił się do niczego --> |
+| {{< figure src="/images/PrawaDlonPrzedUderzeniemWstruneD.jpg" >}} | {{< figure src="/images/PrawaDlonWtrakcieUderzaniaWstruneD.jpg" >}} | {{< figure src="/images/PrawaDlonPoUderzeniuWstruneD.jpg" >}} |
 
 Mimo, że większe wartości rytmiczne pozwalają na dłuższą drogę kostki, a
 mniejsze na krótszą, długość tego łuku nie może być uzależniona od
@@ -25,7 +25,7 @@ odległości do sąsiednich strun, czyli około 2 cm. Podczas gry akrodowej
 droga kostki jest dłuższa. Wymagany jest tu większy „rozbieg" dłoni dla
 uzyskania koniecznej prędkości uderzenia.
 
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/RuchKostki.png" >}}
 
 **Zobacz też:**
 

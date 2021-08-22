@@ -2,7 +2,7 @@
 title: "Artykulacja"
 slug: "artykulacja"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['legato', 'staccato', 'akcentowanie', 'Legato', 'Akcentowanie', 'Ozdobniki', 'Fla%C5%BColet']
 ---
@@ -21,8 +21,8 @@ metod, jakimi posługuje się muzyk wychowany w tradycji muzyki
 europejskiej.
 
 W tym rozdziale umieszczę trzy bardzo ważne elementy artykulacji:
-legato<!-- link nie odnosił się do niczego -->, staccato<!-- link nie odnosił się do niczego --> i
-akcentowanie<!-- link nie odnosił się do niczego -->.
+[legato]({{< relref "Legato.md" >}}), [staccato]({{< relref "Staccato.md" >}}) i
+[akcentowanie]({{< relref "Akcentowanie.md" >}}).
 
   - [Legato]({{< relref "Legato.md" >}})
   - [Akcentowanie]({{< relref "Akcentowanie.md" >}})

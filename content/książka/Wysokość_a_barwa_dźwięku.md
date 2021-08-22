@@ -2,7 +2,7 @@
 title: "Wysokość a barwa dźwięku"
 slug: "wysokość-a-barwa-dźwięku"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['strojenie gitary']
+kategorie: ['Strojenie gitary']
 draft: false
 wikilinks: ['Strojenie_gitary', 'Barwa_d%C5%BAwi%C4%99ku']
 aliases: ['wysokosc-a-barwa-dzwieku']

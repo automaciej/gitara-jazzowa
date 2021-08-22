@@ -2,12 +2,12 @@
 title: "Skale kościelne"
 slug: "skale-kościelne"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['skala']
 aliases: ['skale-koscielne']
 ---
-**Skale kościelne** to grupa skal<!-- link nie odnosił się do niczego -->, która powstaje w
+**Skale kościelne** to grupa [skal]({{< relref "Skala.md" >}}), która powstaje w
 następujący sposób. Podstawową skalą kościelną jest skala jońska. Nie
 wdając się w przyczyny, powiemy że wygląda ona następująco: (2, 2, 1, 2,
 2, 2, 1). Następnie możemy wziąć pierwszy element tej skali i przenieść

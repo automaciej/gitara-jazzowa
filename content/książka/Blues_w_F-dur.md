@@ -15,7 +15,7 @@ Schemat najprostszego bluesa w F-dur.
 | | | C<!-- link nie odnosił się do niczego -->   |  | | | C  |  | | | F<!-- link nie odnosił się do niczego --> |  | | | F |  | | |
 
 Na tym schemacie widać wyraźnie podstawową strukturę
-bluesa<!-- link nie odnosił się do niczego -->.
+[bluesa]({{< relref "Blues.md" >}}).
 
 Nieco inny, szerzej znany schemat bluesa wygląda następująco:
 

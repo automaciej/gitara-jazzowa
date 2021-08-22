@@ -2,11 +2,11 @@
 title: "Strojniki elektroniczne"
 slug: "strojniki-elektroniczne"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Akcesoria']
 draft: false
-wikilinks: ['Grafika:autotuner.jpg', 'Strojenie_gitary', 'Kategoria:Akcesoria_gitarzysty']
+wikilinks: ['Grafika:autotuner.jpg', 'Strojenie_gitary']
 ---
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/Autotuner.jpg" >}}
 
 Istnieją specjalne aparaty, dzięki którym można nastroić instrument
 obserwując wskaźniki reagujące na wysokość dźwięków. Są to bardzo

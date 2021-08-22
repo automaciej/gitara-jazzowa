@@ -55,8 +55,8 @@ takich jak Billie's Bounce, Route 66, Tenor Madness i wielu innych.
 Nawet bardziej skomplikowane bluesy, takie jak Blues For Alice, zostały
 wyprowadzone z tego schematu.
 
-Weźmy teraz jedną z możliwych mutacji bluesa
-jazzowego<!-- link nie odnosił się do niczego -->.
+Weźmy teraz jedną z możliwych mutacji [bluesa
+jazzowego]({{< relref "Blues_jazzowy.md" >}}).
 
 |   |                       |  |   |                         |                         |   |                     |                     |   |                       |                     |   |
 | - | --------------------- |  | - | ----------------------- | ----------------------- | - | ------------------- | ------------------- | - | --------------------- | ------------------- | - |
@@ -129,5 +129,5 @@ wie, co robi.
 | **mol siedem**     | zawsze czysta         | zawsze czysta     | zawsze wielka         |
 | **mol siedem, ♭5** | nie dodaje się        | zawsze czysta     | raczej obniżona       |
 
-Zobacz też: interpretacja
-harmoniczna<!-- link nie odnosił się do niczego -->
+Zobacz też: [interpretacja
+harmoniczna]({{< relref "Interpretacja_harmoniczna.md" >}})

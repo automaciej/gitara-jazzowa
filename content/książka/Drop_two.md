@@ -2,7 +2,7 @@
 title: "Drop two"
 slug: "drop-two"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['układ rozległy']
+kategorie: ['Układ rozległy']
 draft: false
 wikilinks: ['uk%C5%82ad_skupiony']
 ---

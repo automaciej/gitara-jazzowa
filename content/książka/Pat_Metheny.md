@@ -23,9 +23,9 @@ podstawowe metrum, nie stanowi wyznaczników początku myśli muzycznej.
 Motyw rozpoczyna się przed beatem, czasem po, nadając dużą płynność i
 lekkość frazie muzycznej.
 
-Stosując zróżnicowaną artykulację<!-- link nie odnosił się do niczego --> - grając
+Stosując zróżnicowaną [artykulację]({{< relref "Artykulacja.md" >}}) - grając
 głównie legato długie frazy<!-- link nie odnosił się do niczego -->, wykonuje krótkie,
-półtonowe<!-- link nie odnosił się do niczego --> glissanda<!-- link nie odnosił się do niczego -->,
+[półtonowe]({{< relref "Półton.md" >}}) [glissanda]({{< relref "Glissando.md" >}}),
 portamenta<!-- link nie odnosił się do niczego -->, oplatając nimi linię
 melodyczną<!-- link nie odnosił się do niczego -->.
 

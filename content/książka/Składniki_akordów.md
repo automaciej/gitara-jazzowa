@@ -2,13 +2,13 @@
 title: "Składniki akordów"
 slug: "składniki-akordów"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['harmonia jazzowa']
+kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['akord', 'znaki_chromatyczne', 'Wikipedysta:MaciejBlizinski']
 aliases: ['skladniki-akordow']
 ---
 Jeśli nie chcemy aby brzmiał określony składnik
-akordu<!-- link nie odnosił się do niczego --> oznaczamy to za pomocą skreślenia, np.:
+[akordu]({{< relref "Akord.md" >}}) oznaczamy to za pomocą skreślenia, np.:
 
 (...)
 
@@ -36,8 +36,8 @@ jako:
 
 (......)
 
-Nie jest też regułą, że znaki
-chromatyczne<!-- link nie odnosił się do niczego --> umieszcza się za cyfrą,
+Nie jest też regułą, że [znaki
+chromatyczne]({{< relref "Znaki_chromatyczne.md" >}}) umieszcza się za cyfrą,
 oznaczającą dany składnik akordu. Można spotkać znaki chromatyczne
 umieszczone przed cyframi, np.
 

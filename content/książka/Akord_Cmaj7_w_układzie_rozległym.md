@@ -2,7 +2,7 @@
 title: "Akord Cmaj7 w układzie rozległym"
 slug: "akord-cmaj7-w-układzie-rozległym"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['układ rozległy']
+kategorie: ['Układ rozległy']
 draft: false
 wikilinks: []
 aliases: ['akord-cmaj7-w-ukladzie-rozleglym']

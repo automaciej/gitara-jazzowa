@@ -2,15 +2,15 @@
 title: "Akordy bez prymy"
 slug: "akordy-bez-prymy"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['harmonia jazzowa']
+kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['C7', 'G%E2%99%AD7', 'akord', 'Em', 'Cmaj7', 'Em', 'Em', 'Em7', 'Em7', 'akord', 'Cmaj9', 'gryf', 'czterod%C5%BAwi%C4%99k', 'tr%C3%B3jd%C5%BAwi%C4%99k', 'pi%C4%99ciod%C5%BAwi%C4%99k', 'czterod%C5%BAwi%C4%99k', 'Cmaj9', 'Em7', 'G9', 'Bm7%E2%99%AD5', 'Am9', 'Cmaj7', 'F13', 'Am7%E2%99%AD5(add11)', 'F13', 'dominanta', 'F13%E2%99%AF11', 'Fmaj9']
-aliases: ['książka/te-same-dźwięki,-różne-akordy', 'książka/bez-prymy']
+aliases: ['książka/bez-prymy', 'książka/te-same-dźwięki,-różne-akordy']
 ---
 To, że [C7]({{< relref "C7.md" >}}) i G♭7<!-- link nie odnosił się do niczego --> mają te same dźwięki
 jako tercję i septymę, jest pewnym szczególnym przypadkiem bardziej
 powszechnego zjawiska. Bardzo często zdarza się, że różne
-akordy<!-- link nie odnosił się do niczego --> mają bardzo wiele wspólnych dźwięków.
+[akordy]({{< relref "Akord.md" >}}) mają bardzo wiele wspólnych dźwięków.
 Przyjrzyjmy się akordowi Cmaj7. Składa się on z dźwięków C, E, G, B .
 Powiedzmy że jako oszczędni gitarzyści, opuścimy prymę (od grania prymy
 jest basista). Wtedy zostajemy z dźwiękami E, G, B. Jest to nic innego,
@@ -21,13 +21,13 @@ Em<!-- link nie odnosił się do niczego --> i będzie to brzmiało dobrze.
 Możemy uzupełnić Em<!-- link nie odnosił się do niczego --> o septymę i zagrać
 [Em7]({{< relref "Em7.md" >}}). Basista wtedy gra C, my gramy
 [Em7]({{< relref "Em7.md" >}}). Co się wtedy dzieje? Cały
-akord<!-- link nie odnosił się do niczego --> składa się wtedy z dźwięków C, E, G, B, D ,
+[akord]({{< relref "Akord.md" >}}) składa się wtedy z dźwięków C, E, G, B, D ,
 czyli jest to [Cmaj9]({{< relref "Cmaj9.md" >}}).
 
 W ten sposób dostajemy do ręki proste narzędzie: chcąc zagrać akord
 major 9 bez prymy, możemy zagrać akord moll-siedem oparty na tercji
 żądanego akordu major. Brzmi skomplikowanie? Na
-gryfie<!-- link nie odnosił się do niczego --> będzie prostsze.
+[gryfie]({{< relref "Gryf.md" >}}) będzie prostsze.
 
 ## Zamiana czterodźwięku na trójdźwięk
 
@@ -60,7 +60,7 @@ przykłady kilku stosowanych podmian:
 | F13<!-- link nie odnosił się do niczego -->     | Am7♭5(add11)<!-- link nie odnosił się do niczego --> bez tercji |
 
 Słowo komentarza na temat F13<!-- link nie odnosił się do niczego -->. Zwyczajowo, w akordach
-dominantowych<!-- link nie odnosił się do niczego --> typu 13 omija się składnik ♯11.
+[dominantowych]({{< relref "Funkcje_harmoniczne.md" >}}) typu 13 omija się składnik ♯11.
 Jeżeli autor *kwitu* chce, aby zagrano ♯11, musi to wyszczególnić, na
 przykład w ten sposób: F13♯11<!-- link nie odnosił się do niczego -->.
 

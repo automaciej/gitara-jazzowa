@@ -7,13 +7,13 @@ draft: false
 wikilinks: ['struna', 'regulacja_menzury', 'grafika:MostekZRegulacjaMenzuryStrun.jpg', 'grafika:MostekZRegulacjaWysokosci.jpg', 'grafika:MostekPrzyklejony.jpg', 'grafika:MostekSkosny.jpg']
 ---
 Mostek jest częścią instrumentu, do której przymocowane są
-struny<!-- link nie odnosił się do niczego -->. Przy pomocy mostka można wykonać regulację
-menzury<!-- link nie odnosił się do niczego -->.
+[struny]({{< relref "Struna.md" >}}). Przy pomocy mostka można wykonać [regulację
+menzury]({{< relref "Regulacja_menzury.md" >}}).
 
-300px<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/MostekZRegulacjaMenzuryStrun.jpg" >}}
 
-300px<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/MostekZRegulacjaWysokosci.jpg" >}}
 
-300px<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/MostekPrzyklejony.jpg" >}}
 
-100px<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/MostekSkosny.jpg" >}}

@@ -2,12 +2,12 @@
 title: "D♭maj7"
 slug: "d♭maj7"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['tabele chwytów', 'akordy durowe']
+kategorie: ['Tabele chwytów', 'Akordy durowe']
 draft: false
 wikilinks: ['septyma_wielka']
 aliases: ['dmaj7']
 ---
-**D♭-dur** z septymą wielką<!-- link nie odnosił się do niczego -->.
+**D♭-dur** z [septymą wielką]({{< relref "Septyma_wielka.md" >}}).
 
 ## D♭maj7 w IV pozycji
 

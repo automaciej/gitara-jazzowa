@@ -2,7 +2,7 @@
 title: "Ćwiczenia techniczne"
 slug: "ćwiczenia-techniczne"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Akcentowanie', 'Palcowanie', 'artykulacja']
 aliases: ['cwiczenia-techniczne']
@@ -90,6 +90,6 @@ muzycznych. Podaję je, ponieważ z ich pomocą można pokazać podstawowe
 problemy techniczne i palcowanie, na które należy zwrócić uwagę.
 Ćwiczenia te są też uzupełnieniem do rozdziału pt.
 „[Palcowanie]({{< relref "Palcowanie.md" >}})". Pragnę również podkreślić, że
-muzyk jazzowy za pomocą artykulacji<!-- link nie odnosił się do niczego --> potrafi
+muzyk jazzowy za pomocą [artykulacji]({{< relref "Artykulacja.md" >}}) potrafi
 ożywić każdą gamę.
 

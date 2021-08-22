@@ -10,7 +10,7 @@ Amerykanin Emmet Chapman<!-- link nie odnosił się do niczego --> skonstruował
 wprowadził do sprzedaży w 1974 roku specjalny instrument
 dziesięciostrunowy o nazwie **Stick**, na którym gra się z dwóch stron
 gryfu, a obie ręce samodzielnie skracają i pobudzają struny do drgań
-(technika tapping<!-- link nie odnosił się do niczego -->).
+(technika [tapping]({{< relref "Tapping.md" >}})).
 
 Stick rożni się od gitary przede wszystkim brakiem klasycznego korpusu
 (ang. body<!-- link nie odnosił się do niczego -->) - jak nazwa wskazuje jest to deska która
@@ -21,7 +21,7 @@ Generalną zasadą w tym instrumencie jest podział strun na dwie sekcje -
 basową i wiolinową/gitarową. Każda z sekcji ma oddzielny zestaw
 pickupów<!-- link nie odnosił się do niczego -->, a co za tym idzie oddzielną elektronikę
 i wyjście. Z jednego instrumentu można napędzać 2
-wzmacniacze<!-- link nie odnosił się do niczego --> - gitarowy i basowy, przepuszczając
+[wzmacniacze]({{< relref "Wzmacniacz.md" >}}) - gitarowy i basowy, przepuszczając
 każdą sekcję z osobna przez zestawy efektów. Możliwe jest również
 zamontowanie pickupów [MIDI]({{< relref "MIDI.md" >}}).
 

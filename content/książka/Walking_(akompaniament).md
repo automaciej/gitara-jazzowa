@@ -7,7 +7,7 @@ draft: false
 wikilinks: ['walking', 'akord', 'Marek_Blizi%C5%84ski', 'ograniczenia_gitary', 'blues', 'tercja', 'septyma', 'F7', 'walking', 'legato', 'F7']
 ---
 Akompaniament do utworów o charakterze swingowym polega na graniu
-walkingu<!-- link nie odnosił się do niczego --> i akordów<!-- link nie odnosił się do niczego -->
+[walkingu]({{< relref "Walking.md" >}}) i [akordów]({{< relref "Akord.md" >}})
 jednocześnie. Z początku może się to wydawać trudno lub nawet
 niemożliwe, ale dokładniejszym przyjrzeniu się możliwościom gitary
 można stwierdzić że nie stanowi to większej trudności technicznej.
@@ -20,14 +20,14 @@ jest o wiele mniej wymagająca. Należy jednak zaznaczyć że jest to
 
 ### Uproszczone akordy
 
-Wszycy wiemy o ograniczeniach gitary<!-- link nie odnosił się do niczego -->.
+Wszycy wiemy o [ograniczeniach gitary]({{< relref "Ograniczenia_gitary.md" >}}).
 Aby zagrać walking i akordy jednocześnie, należy pójść na pewien
 kompromis.
 
 1.  linia basowa musi być uproszczona
 2.  akordy muszą zawierać tylko podstawowe składniki
 
-Przykładowo, pierwszy akord bluesa<!-- link nie odnosił się do niczego --> w F-dur, będzie
+Przykładowo, pierwszy akord [bluesa]({{< relref "Blues.md" >}}) w F-dur, będzie
 wyglądał następująco:
 
 `E |---|---|---|---|---|---|---|---`
@@ -38,8 +38,8 @@ wyglądał następująco:
 `E |---F---|---|---|---|---|---|---`
 
 Tak, ten chwyt składa się jedynie z 3 dźwięków. Są to dobrze wybrane
-dźwięki: pryma w basie, tercja<!-- link nie odnosił się do niczego --> i
-septyma<!-- link nie odnosił się do niczego -->. Teraz palcowanie. Akord ten chwytamy
+dźwięki: pryma w basie, [tercja]({{< relref "Tercja.md" >}}) i
+[septyma]({{< relref "Septyma.md" >}}). Teraz palcowanie. Akord ten chwytamy
 następująco:
 
 `E |---|---|---|---|---|---|---|---`
@@ -57,8 +57,8 @@ potrzebujemy na to wolnego palca (2).
 Omawiając dalej akord [F7]({{< relref "F7.md" >}}), musimy znaleźć podobne chwyty
 z tercją, kwintą i septymą w basie. Wszystkie powinny składać się z 3
 dźwięków, ponieważ jeden palec jest zazwyczaj potrzebny do zagrania
-następnego dźwięku w basie (walking<!-- link nie odnosił się do niczego --> musi być grany
-legato<!-- link nie odnosił się do niczego -->).
+następnego dźwięku w basie ([walking]({{< relref "Walking.md" >}}) musi być grany
+[legato]({{< relref "Legato.md" >}})).
 
 ### Bas na strunie E
 

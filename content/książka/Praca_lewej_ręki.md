@@ -2,16 +2,16 @@
 title: "Praca lewej ręki"
 slug: "praca-lewej-ręki"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['artykulacja', 'wibracja', 'technika', 'd%C5%BAwi%C4%99k', 'Grafika:NutyPracaLewejReki01.png', 'gra_akordowa']
 aliases: ['praca-lewej-reki']
 ---
-Praca lewej ręki ma wpływ na artykulację<!-- link nie odnosił się do niczego -->,
-wibrację<!-- link nie odnosił się do niczego --> i wiele innych elementów łącznie z
+Praca lewej ręki ma wpływ na [artykulację]({{< relref "Artykulacja.md" >}}),
+[wibrację]({{< relref "Wibracja.md" >}}) i wiele innych elementów łącznie z
 indywidualnymi cechami tonu gitarzysty, a nawet i intonacją. Oczywiście,
 tylko właściwa współpraca obu rąk i ich precyzyjna synchronizacja
-zapewniają dobrą technikę<!-- link nie odnosił się do niczego -->. Na razie jednak
+zapewniają dobrą [technikę]({{< relref "Technika.md" >}}). Na razie jednak
 zajmiemy się tylko ręką lewą. Umowna numeracja palców jest następująca:
 
   - palec wskazujący - 1
@@ -22,7 +22,7 @@ zajmiemy się tylko ręką lewą. Umowna numeracja palców jest następująca:
 Palce trzeba ustawiać jak najbliżej progu, który skraca strunę. Aby
 docisnąć strunę palcem postawionym dalej, szczególnie w niskich
 pozycjach, byłoby trzeba użyć dużej siły. Palec stawiany zbyt blisko lub
-na samym progu, tłumiłby dźwięk<!-- link nie odnosił się do niczego -->.
+na samym progu, tłumiłby [dźwięk]({{< relref "Dźwięk.md" >}}).
 
 Zarówno w niskich, jak i w wysokich pozycjach - wszystkie palce powinny
 być ustawione w pobliżu sąsiednich progów. Tak więc, przesuwając rękę do
@@ -48,9 +48,9 @@ więc w chromalyce: grając w górę nie podnosimy palców, które już
 zagrały. Dopiero grając w dół, przy dźwięku „d" podnosimy palec 4, przy
 dźwięku „cis" - 3, przy „c" - 2.
 
+{{< figure src="/images/NutyPracaLewejReki01.png" >}}
 
-
-Zarówno w grze akordowej<!-- link nie odnosił się do niczego -->, jak i melodycznej,
+Zarówno w [grze akordowej]({{< relref "Gra_akordowa.md" >}}), jak i melodycznej,
 kurczowe zaciskanie lewej ręki uniemożliwia swobodne poruszanie się jej
 po gryfie. Aby tego uniknąć, należy przede wszystkim starać się
 uświadomić sobie, które mięśnie pracują podczas palcowania, a wszystkie

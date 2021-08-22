@@ -2,12 +2,12 @@
 title: "Notacja harmoniczna"
 slug: "notacja-harmoniczna"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['harmonia jazzowa']
+kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['akord', 'sk%C5%82adniki_akordu', 'interwa%C5%82', 'akord', 'nona']
 ---
 Notacja harmoniczna w jazzie opiera się na systemie symboli literowych.
-Oznaczają one podstawę akordu<!-- link nie odnosił się do niczego -->. Dodatkowe cyfry i
+Oznaczają one podstawę [akordu]({{< relref "Akord.md" >}}). Dodatkowe cyfry i
 znaki określają bliżej jego składniki<!-- link nie odnosił się do niczego -->.
 Np. symbol F6 wskazuje, że podstawą akordu durowego jest dźwięk F. Akord
 F składa się z dźwięków: f, a, c - cyfra 6 przy literze oznacza, że do
@@ -40,9 +40,9 @@ I tak:
     wielką
 
 Biorąc pod uwagę możliwość łączenia różnych
-interwałów<!-- link nie odnosił się do niczego --> (nie tylko w szeregu tercjowym),
+[interwałów]({{< relref "Interwał.md" >}}) (nie tylko w szeregu tercjowym),
 praktycznie za pomocą tych oznaczeń można określić każdy
-akord<!-- link nie odnosił się do niczego -->.
+[akord]({{< relref "Akord.md" >}}).
 
 Należy pamiętać, że znaki przykluczowe określające daną tonację, nie
 mają wpływu na system pisowni akordów. Np. jeśli mamy tonację F-dur i

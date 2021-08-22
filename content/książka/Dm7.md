@@ -2,11 +2,11 @@
 title: "Dm7"
 slug: "dm7"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['tabele chwytów', 'akordy mollowe']
+kategorie: ['Tabele chwytów', 'Akordy mollowe']
 draft: false
 wikilinks: ['septyma_ma%C5%82a']
 ---
-**D-moll** z septymą małą<!-- link nie odnosił się do niczego -->.
+**D-moll** z [septymą małą]({{< relref "Septyma_mała.md" >}}).
 
 ## Dm7 w V pozycji
 

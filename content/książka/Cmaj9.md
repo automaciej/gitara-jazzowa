@@ -2,7 +2,7 @@
 title: "Cmaj9"
 slug: "cmaj9"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['tabele chwytów', 'akordy durowe']
+kategorie: ['Tabele chwytów', 'Akordy durowe']
 draft: false
 wikilinks: ['bez_prymy']
 ---
@@ -17,7 +17,7 @@ wikilinks: ['bez_prymy']
 
 ## Cmaj9 w VIII pozycji
 
-bez prymy<!-- link nie odnosił się do niczego -->
+[bez prymy]({{< relref "Akordy_bez_prymy.md" >}})
 
 `E |---|---|---|---|---|---|---|---|---|---|---|---`
 `B |---|---|---|---|---|---|---|---G---|---|---|---`

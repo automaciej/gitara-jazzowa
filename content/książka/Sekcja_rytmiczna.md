@@ -6,5 +6,5 @@ kategorie: []
 draft: false
 wikilinks: ['gitara_basowa']
 ---
-**Sekcja rytmiczna** w zespole składa się z perkusji i gitary
-basowej<!-- link nie odnosił się do niczego --> lub perkusji i kontrabasu.
+**Sekcja rytmiczna** w zespole składa się z perkusji i [gitary
+basowej]({{< relref "Gitara_basowa.md" >}}) lub perkusji i kontrabasu.

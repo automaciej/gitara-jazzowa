@@ -2,7 +2,7 @@
 title: "Legato"
 slug: "legato"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['gryf', 'technika', 'lewa_r%C4%99ka', 'gryf', 'rejestr_g%C5%82osowy', 'kostka', 'barwa_d%C5%BAwi%C4%99ku', 'kostka', 'mostek', 'ozdobniki', 'gitara_klasyczna', 'Emmet_Chapman', 'Stick', 'Tapping', 'Stick', 'Allan_Holdsworth']
 ---
@@ -14,7 +14,7 @@ dźwięków**, tak aby nie robić między nimi nawet najkrótszej przerwy.
 Można to realizować techniką podstawową - grając pochód dźwięków w górę
 na jednej strunie; należy zwrócić uwagę na:
 
-  - szybkie ruchy palców lewej ręki do i od gryfu<!-- link nie odnosił się do niczego -->
+  - szybkie ruchy palców lewej ręki do i od [gryfu]({{< relref "Gryf.md" >}})
     (aby skrócić czas tłumienia struny w momencie, gdy palec dotyka
     struny, ale struna nie dotyka progu).
   - szybkie ruchy kostki (aby wyeliminować możliwość stłumienia struny
@@ -24,8 +24,8 @@ na jednej strunie; należy zwrócić uwagę na:
     strunę do drgania.
 
 Grając pochód dźwięków w dół na jednej strunie, trzeba mieć na uwadze te
-same elementy techniki<!-- link nie odnosił się do niczego -->, z tym że następny palec
-lewej ręki<!-- link nie odnosił się do niczego --> powinien dociskać strunę na moment
+same elementy [techniki]({{< relref "Technika.md" >}}), z tym że następny palec
+[lewej ręki]({{< relref "Lewa_ręka.md" >}}) powinien dociskać strunę na moment
 wcześniej, a palec poprzedni musi precyzyjnie w czasie i szybko oderwać
 się od struny. Przechodząc ze struny na strunę należy uważać, aby nie
 stłumić poprzedniego dźwięku wcześniej, nim zabrzmi następny na innej
@@ -49,19 +49,19 @@ struny palcem lewej ręki. Jest to konieczne, ponieważ grając dźwięki
 niższe, zwiększamy czynną długość struny, co powoduje zmniejszanie jej
 amplitudy drgań, a więc osłabienie siły brzmienia. Zarywanie struny
 realizujemy następująco: podczas zdejmowania palca ze struny odchylamy
-go szybko w poprzek gryfu<!-- link nie odnosił się do niczego --> w dół razem ze struną,
+go szybko w poprzek [gryfu]({{< relref "Gryf.md" >}}) w dół razem ze struną,
 pobudzając ją tym do drgań, a raczej utrzymując amplitudę drgań na
 poprzednim poziomie. Niestety zmiana barwy dźwięku jest tu jeszcze
 wyraźniejsza niż przy grze w górę. Dzieje się tak przede wszystkim
-dlatego, że struna pobudzona jest do drgań w innym rejestrze
-głosowym<!-- link nie odnosił się do niczego --> przez
-kostkę<!-- link nie odnosił się do niczego -->, a w innym, ostrzejszym, przez palec lewej
-ręki. Można wprawdzie nieco wyrównać barwę
-dźwięków<!-- link nie odnosił się do niczego --> poprzez grę
-kostką<!-- link nie odnosił się do niczego --> w rejestrze przy
-mostku<!-- link nie odnosił się do niczego -->, ale i tak różnica leź będzie wyczuwalna.
+dlatego, że struna pobudzona jest do drgań w innym [rejestrze
+głosowym]({{< relref "Rejestry_głosowe.md" >}}) przez
+[kostkę]({{< relref "Kostka.md" >}}), a w innym, ostrzejszym, przez palec lewej
+ręki. Można wprawdzie nieco wyrównać [barwę
+dźwięków]({{< relref "Barwa_dźwięku.md" >}}) poprzez grę
+[kostką]({{< relref "Kostka.md" >}}) w rejestrze przy
+[mostku]({{< relref "Mostek.md" >}}), ale i tak różnica leź będzie wyczuwalna.
 Dlatego w jazzie metoda ta stosowana jest najczęściej przy wykonywaniu
-ozdobników<!-- link nie odnosił się do niczego -->.
+[ozdobników]({{< relref "Ozdobniki.md" >}}).
 
 Aby prawidłowo grać legato tylko lewą ręką, należy wyćwiczyć palec tak,
 aby każdy z nich miał odpowiednią siłę uderzenia oraz możliwość
@@ -74,8 +74,8 @@ brzmienia.
 
 Trzeba zaznaczyć, że ten sposób gry sporadycznie wykorzystywany był też
 jako samodzielny - w ogóle bez udziału prawej ręki. Utwory takie
-spotykane są w literaturze na gitarę
-klasyczną<!-- link nie odnosił się do niczego -->. Inspirowany tą metodą
+spotykane są w literaturze na [gitarę
+klasyczną]({{< relref "Gitara_klasyczna.md" >}}). Inspirowany tą metodą
 Amerykanin Emmet Chapman<!-- link nie odnosił się do niczego --> skonstruował
 specjalny instrument dziesięciostrunowy o nazwie
 [Stick]({{< relref "Stick.md" >}}), na którym gra się z dwóch stron gryfu, a obie

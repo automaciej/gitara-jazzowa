@@ -2,7 +2,7 @@
 title: "Akcentowanie"
 slug: "akcentowanie"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Dynamika', 'Grafika:NutyAkcenty01.png']
 ---
@@ -27,7 +27,7 @@ dowolne pochody melodyczne (w tym ćwiczenia z rozdziału pt. Ćwiczenia
 techniczne), które gra się stosując różną artykulację za pomocą
 rozmieszczania akcentów.
 
-
+{{< figure src="/images/NutyAkcenty01.png" >}}
 
 Powyższe przykłady, po opanowaniu akcentów dynamicznych jako stosunkowo
 najłatwiejszych, można stosować również do ćwiczeń innych rodzajów

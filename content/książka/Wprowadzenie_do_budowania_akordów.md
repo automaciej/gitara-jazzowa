@@ -8,8 +8,8 @@ wikilinks: ['ograniczenia_gitary', 'Grafika:Chord-eb-major.png', 'Gmaj7', 'G7', 
 aliases: ['wprowadzenie-do-budowania-akordow']
 ---
 Nauka harmonii jest trudniejsza na gitarze niż na klawiaturze
-fortepianu. Jest tak głównie dlatego, że gryf nie daje
-swobody<!-- link nie odnosił się do niczego --> w budowaniu i łączeniu akordów.
+fortepianu. Jest tak głównie dlatego, że gryf [nie daje
+swobody]({{< relref "Ograniczenia_gitary.md" >}}) w budowaniu i łączeniu akordów.
 Początkujący gitarzyści uczą się *chwytów*, zapamiętując każdy z nich
 jako coś osobnego. Rzeczywiście, nie jest łatwo połączyć w spójną całość
 wiedzę na temat harmonii z chwytami gitarowymi.
@@ -69,7 +69,7 @@ strukturę.
 Budowanie nowych akordów można zacząć od modyfikacji powyższej
 struktury. W pierwszym kroku uprościmy ją, zostawiając cztery dźwięki.
 
-240px<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/Chord-eb-major.png" >}}
 
 Tak uproszczony akord można dość prosto modyfikować. Najprostsza
 modyfikacja to przejście z G-dur na [Gmaj7]({{< relref "Gmaj7.md" >}}), poprzez

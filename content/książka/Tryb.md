@@ -2,11 +2,11 @@
 title: "Tryb"
 slug: "tryb"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['akord']
 ---
-**Tryb** odnosi się do akordu<!-- link nie odnosił się do niczego -->. Akord może mieć tryb
+**Tryb** odnosi się do [akordu]({{< relref "Akord.md" >}}). Akord może mieć tryb
 durowy lub mollowy.
 
 Akord jest w trybie durowym, kiedy składa się z tercji wielkiej i tercji

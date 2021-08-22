@@ -2,7 +2,7 @@
 title: "Dźwięk (w rozumieniu akustyki)"
 slug: "dźwięk-(w-rozumieniu-akustyki)"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: []
 aliases: ['dzwiek-(w-rozumieniu-akustyki)']

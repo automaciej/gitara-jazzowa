@@ -2,12 +2,12 @@
 title: "Znaki chromatyczne"
 slug: "znaki-chromatyczne"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['d%C5%BAwi%C4%99k']
 ---
 Znaki chromatyczne są to oznaczenia wskazujące na zmianę wysokości
-dźwięku<!-- link nie odnosił się do niczego -->.
+[dźwięku]({{< relref "Dźwięk.md" >}}).
 
 1.  Krzyżyk \(\sharp\) wskazuje na podwyższenie dźwięku o jeden półton.
 2.  Bemol \(\flat\) wskazuje na obniżenie dźwięku o jeden półton.

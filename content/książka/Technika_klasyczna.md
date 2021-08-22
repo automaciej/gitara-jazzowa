@@ -2,7 +2,7 @@
 title: "Technika klasyczna"
 slug: "technika-klasyczna"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Francisco_Tarrega', 'arpeggio', 'tremolo', 'Charlie_Byrd', 'Laurindo_Almeida', 'Earl_Klugh', 'George_Benson', 'gitara_klasyczna', 'Artykulacja', 'jazz']
 ---
@@ -21,7 +21,7 @@ jest doskonała, ale tylko dla utworów skomponowanych na gitarę
 klasyczną. W literaturze na ten instrument znakomita większość to
 kompozycje, w których główny nacisk położony jest na pracę prawej ręki,
 bowiem najczęściej spotykane elementy techniki gry to
-arpeggio<!-- link nie odnosił się do niczego --> i tremolo<!-- link nie odnosił się do niczego -->. Często
+[arpeggio]({{< relref "Arpeggio.md" >}}) i [tremolo]({{< relref "Tremolo.md" >}}). Często
 całe utwory pisane są na zastosowanie jednego z tych efektów.
 
 Nie trzeba chyba wyjaśniać, że w jazzie umiejętność ta jest zupełnie
@@ -51,8 +51,8 @@ Trzeba tu rozróżnić dwie sprawy.
 2.  **kształtowanie osobowości i smaku muzycznego młodego gitarzysty** -
     kwestia znacznie ważniejsza
 
-Wiadomym jest, że ucząc się gry na gitarze
-klasycznej<!-- link nie odnosił się do niczego -->, ma się do czynienia z
+Wiadomym jest, że ucząc się gry na [gitarze
+klasycznej]({{< relref "Gitara_klasyczna.md" >}}), ma się do czynienia z
 literaturą stylistycznie związaną z muzyką klasyczną i romantyczną,
 która zmusza do ścisłego przestrzegania zasad określonej konwencji
 wykonawczej. Powoduje to wytwarzanie się nawyków

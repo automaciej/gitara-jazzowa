@@ -2,7 +2,7 @@
 title: "Wysokość stroju"
 slug: "wysokość-stroju"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['strojenie gitary']
+kategorie: ['Strojenie gitary']
 draft: false
 wikilinks: ['struna', 'Strojenie_gitary']
 aliases: ['wysokosc-stroju']
@@ -25,7 +25,7 @@ zwiększy się naciąg pozostałych. Jest na to jedna rada: musimy najpierw
 prowizorycznie wyrównać strój wszystkich strun do wymaganej wysokości i
 dopiero wtedy dokładnie dostroić gitarę według opracowanej metody.
 
-Ta sama zasada obowiązuje po zmianie strun<!-- link nie odnosił się do niczego -->. Wówczas
+Ta sama zasada obowiązuje po zmianie [strun]({{< relref "Struna.md" >}}). Wówczas
 przez kilka dni dopasowują one swoje ułożenie i obniżają strój. Należy
 go podciągać zawsze do właściwej wysokości. Jeśli będziemy pamiętać o
 powyższych uwagach, gitara nasza będzie stroić precyzyjnie nie tylko ,,w

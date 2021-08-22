@@ -2,7 +2,7 @@
 title: "Praca rąk"
 slug: "praca-rąk"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: [':Kategoria:gitarzy%C5%9Bci_jazzowi', 'Prawa_r%C4%99ka', 'Lewa_r%C4%99ka', 'Palcowanie']
 aliases: ['praca-rak']

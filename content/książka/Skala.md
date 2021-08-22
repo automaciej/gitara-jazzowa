@@ -2,7 +2,7 @@
 title: "Skala"
 slug: "skala"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['d%C5%BAwi%C4%99k']
 ---
@@ -21,7 +21,7 @@ skali.
 Skale mają swoje nazwy. Na przykład skala *dwa-jeden* nazywana też *cały
 ton-półton* to lista: {2, 1, 2, 1, 2, 1, 2, 1}.
 
-Chcąc zagrać jakąś skalę, wybieramy dźwięk<!-- link nie odnosił się do niczego -->, od
+Chcąc zagrać jakąś skalę, wybieramy [dźwięk]({{< relref "Dźwięk.md" >}}), od
 którego będziemy grać (\(\psi_0\)), po czym gramy ten dźwięk. Następnie
 gramy dźwięk wyższy od niego o \(\alpha_1\) półtonów. Kolejny będzie
 wyższy o \(\alpha_1 + \alpha_2\) półtonów. I tak aż do n , gdzie n

@@ -24,11 +24,11 @@ budowie - rozszerzającej zakres ich możliwości.
 
 Zwykłą gitarę można zaadoptować do gry na sposób hawajski, podwyższając
 siodełko na tyle, aby operując suwakiem, nic dociskać strun do progów.
-Grający kładzie wówczas pudło
-rezonansowe<!-- link nie odnosił się do niczego --> na prawym udzie, a szyjkę na
+Grający kładzie wówczas [pudło
+rezonansowe]({{< relref "Pudło_rezonansowe.md" >}}) na prawym udzie, a szyjkę na
 lewym.
 
-Zupełnie odmienna technika<!-- link nie odnosił się do niczego --> gry, jak i strój
+Zupełnie odmienna [technika]({{< relref "Technika.md" >}}) gry, jak i strój
 gitary hawajskiej tworzy specjalistów w tej dziedzinie, bowiem
 umiejętność gry na gitarze konwencjonalnej jest tu mało przydatna.
 

@@ -2,7 +2,7 @@
 title: "Dźwięk (w rozumieniu harmonii)"
 slug: "dźwięk-(w-rozumieniu-harmonii)"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['A_razkre%C5%9Blne', 'cz%C4%99stotliwo%C5%9B%C4%87', 'oktawa']
 aliases: ['dzwiek-(w-rozumieniu-harmonii)']
@@ -51,10 +51,10 @@ Istnieją znaki którymi można oznaczyć dwa krzyżyki lub dwa bemole, ale
 nie są tutaj dla nas istotne.
 
 Dla każdego dźwięku można określić jego
-częstotliwość<!-- link nie odnosił się do niczego -->. Może się przy tym
+[częstotliwość]({{< relref "Częstotliwość_drgań.md" >}}). Może się przy tym
 zdarzyć tak, że dwa różne dźwięki będą miały tą samą częstotliwość, na
 przykład C\# i Db.
 
-Mówi się też o dźwiękach bez specyfikowania oktawy<!-- link nie odnosił się do niczego -->,
+Mówi się też o dźwiękach bez specyfikowania [oktawy]({{< relref "Oktawa.md" >}}),
 wtedy przez na przykład \(A\) możemy rozumieć \(A\) z dowolnej oktawy.
 

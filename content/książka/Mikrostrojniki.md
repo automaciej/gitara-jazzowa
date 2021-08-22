@@ -2,12 +2,12 @@
 title: "Mikrostrojniki"
 slug: "mikrostrojniki"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['budowa gitary', 'strojenie gitary']
+kategorie: ['Budowa gitary', 'Strojenie gitary']
 draft: false
 wikilinks: ['gitara_elektryczno-akustyczna', 'Floyd_Rose', 'Grafika:NutyStrojenieMikrostrojnikami.png', 'Grafika:MostekZMikrostrojnikami.jpg', 'Strojenie_gitary']
 ---
-Przy omawianiu gitary
-elektryczno-akustycznej<!-- link nie odnosił się do niczego -->
+Przy omawianiu [gitary
+elektryczno-akustycznej]({{< relref "Gitara_elektryczno-akustyczna.md" >}})
 wspomniałem o tzw. mikrostrojnikach, znacznie ułatwiających strojenie.
 Zakłada sieje na strunnik, a struny na strojniki, tak jak w
 instrumentach smyczkowych.
@@ -33,13 +33,13 @@ stroić ją. Można również porównywać wysokość dźwięków strun brzmiąc
 jednocześnie i w trakcie trwania współbrzmienia stroić jedną ze strun,
 np.:
 
-
+{{< figure src="/images/NutyStrojenieMikrostrojnikami.png" >}}
 
 Na zakończenie dodam, że pomijając wszystkie omówione dotychczas zalety,
 mikrostrojniki mają o wiele większą dokładność dzięki innemu przełożeniu
 ruchu obrotowego na naciąg strun.
 
-
+{{< figure src="/images/MostekZMikrostrojnikami.jpg" >}}
 
 **Zobacz też**
 

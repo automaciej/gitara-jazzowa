@@ -6,4 +6,4 @@ kategorie: []
 draft: false
 wikilinks: ['grafika:GitaraLesPaulCustom.jpg']
 ---
-frame<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/GitaraLesPaulCustom.jpg" >}}

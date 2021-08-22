@@ -2,7 +2,7 @@
 title: "Przygotowanie instrumentu do gry"
 slug: "przygotowanie-instrumentu-do-gry"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['konserwacja gitary']
+kategorie: ['Konserwacja gitary']
 draft: false
 wikilinks: ['Regulacja_szyjki_instrumentu', 'Ustawianie_wysoko%C5%9Bci_strun_nad_gryfem', 'Regulacja_menzury_strun', 'Korekcja_si%C5%82y_brzmienia_strun', 'Jak_obchodzi%C4%87_si%C4%99_z_instrumentem', 'D%C5%82onie', 'Regularne_%C4%87wiczenie', 'Najcz%C4%99stsze_usterki_i_b%C5%82%C4%99dy']
 ---

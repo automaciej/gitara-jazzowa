@@ -2,7 +2,7 @@
 title: "Metody trzymania kostki"
 slug: "metody-trzymania-kostki"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Herb_Ellis', 'Postawa_z_instrumentem', 'dynamika', 'frazowanie', 'Kostka']
 ---
@@ -29,7 +29,7 @@ drugiego może być powodem niesprawności technicznej. Każda metoda gry
 kostką jest dobra, jeśli spełnia następujące warunki: możliwość
 rozluźnienia dłoni w trakcie gry, jednakowa sprawność techniczna na
 wszystkich strunach, szybkie przejścia ze struny na strunę (nie tylko na
-sąsiednie), różnicowanie dynamiki<!-- link nie odnosił się do niczego --> oraz
+sąsiednie), różnicowanie [dynamiki]({{< relref "Dynamika.md" >}}) oraz
 frazowanie<!-- link nie odnosił się do niczego -->.
 
 **Zobacz też**

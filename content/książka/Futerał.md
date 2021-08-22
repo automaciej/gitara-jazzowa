@@ -2,12 +2,12 @@
 title: "Futerał"
 slug: "futerał"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Akcesoria']
 draft: false
-wikilinks: ['grafika:Futeraly.jpg', 'gitara_elektryczna', 'pud%C5%82o_rezonansowe', 'struna', 'Szyjka', 'gryf', 'Kategoria:Akcesoria_gitarzysty']
+wikilinks: ['grafika:Futeraly.jpg', 'gitara_elektryczna', 'pud%C5%82o_rezonansowe', 'struna', 'Szyjka', 'gryf']
 aliases: ['futeral']
 ---
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/Futeraly.jpg" >}}
 
 **Futerał** służy do ochrony instrumentu przed wpływami atmosferycznymi
 oraz ewentualnymi uszkodzeniami mechanicznymi, np. podczas transportu.
@@ -15,8 +15,8 @@ oraz ewentualnymi uszkodzeniami mechanicznymi, np. podczas transportu.
 Futerały dzielimy na twarde, usztywnione i miękkie. Te ostatnie to
 pokrowce wykonane na ogół z dermy, które połowicznie tylko spełniają
 swoje zadanie. W ostateczności można je stosować do przenoszenia tanich
-gitar elektrycznych<!-- link nie odnosił się do niczego --> na małe odległości.
-Do gitar mających pudło rezonansowe<!-- link nie odnosił się do niczego -->
+[gitar elektrycznych]({{< relref "Gitara_elektryczna.md" >}}) na małe odległości.
+Do gitar mających [pudło rezonansowe]({{< relref "Pudło_rezonansowe.md" >}})
 konieczne są futerały sztywne, które zabezpieczają instrument nie tylko
 przed deszczem i kurzem. Futerały te najczęściej wykonywane są pod
 względem materiału i kształtu tradycyjnie, tak jak dla innych
@@ -31,7 +31,7 @@ Futerały są wewnątrz wyłożone aksamitem lub pluszem, a w miejscach styku
 z instrumentem, dodatkowo miękką wykładziną, np. gąbką. Miejsca
 podparcia gitary powinny być tak rozplanowane, aby jej ciężar lub
 ewentualne wstrząsy nie współdziałały z siłą naciągu
-strun<!-- link nie odnosił się do niczego --> i nie mogły spowodować uszkodzenia szyjki.
+[strun]({{< relref "Struna.md" >}}) i nie mogły spowodować uszkodzenia szyjki.
 
 Futerał powinien trzymać korpus instrumentu dość ciasno, nie
 dopuszczając do przesunięć. [Szyjka]({{< relref "Gryf" >}}) natomiast nie
@@ -47,6 +47,6 @@ futerału.
 Należy też pamiętać o całkowitym spuszczeniu naciągu strun przed dłuższą
 podróżą samolotem, gdyż w pomieszczeniu bagażowym, gdzie zazwyczaj
 znajduje się instrument panuje nawet latem niska temperatura, która może
-doprowadzić nawet do wyłamania gryfu<!-- link nie odnosił się do niczego --> z korpusu
+doprowadzić nawet do wyłamania [gryfu]({{< relref "Gryf.md" >}}) z korpusu
 instrumentu.
 

@@ -2,15 +2,15 @@
 title: "Ruch kostki"
 slug: "ruch-kostki"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['technika gry']
+kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:RuchKostki.png', 'legato', 'gra_akordowa', 'Grafika:NutyPracaPrawejReki.png', 'kostka', 'Grafika:NutyPrzechodzenieZeStrunyNaStrune.png', 'Grafika:NutyPrawaRekaTriola.png', 'Grafika:NutyPrawaRekaTriolki.png', 'artykulacja', 'Kostka', 'Praca_prawej_r%C4%99ki']
 ---
-thumb<!-- link nie odnosił się do niczego -->
+{{< figure src="/images/RuchKostki.png" >}}
 
 Na ogół **ruch kostki** powinien być jak najszybszy. Szczególnie jeśli
 uderza się w strunę, która jeszcze brzmi, a chce się uzyskać
-legato<!-- link nie odnosił się do niczego --> - ważne jest, aby moment zetknięcia się
+[legato]({{< relref "Legato.md" >}}) - ważne jest, aby moment zetknięcia się
 kostki z drgającą struna był błyskawiczny. Kostka w uderzeniu
 podstawowym nie powinna wchodzić zbyt głęboko w płaszczyznę strun.
 
@@ -32,8 +32,8 @@ nadanie prędkości dłoni powinno być bardziej energiczne, aby pokonać
 ciężar ręki.
 
 Tak więc, żeby właściwie operować prawą ręką gitarzysta powinien
-fizycznie czuć bezwładność swojej dłoni. Zarówno w grze
-akordowej<!-- link nie odnosił się do niczego -->, jak i jednogłosowej pomocą w
+fizycznie czuć bezwładność swojej dłoni. Zarówno w [grze
+akordowej]({{< relref "Gra_akordowa.md" >}}), jak i jednogłosowej pomocą w
 osiągnięciu precyzji rytmicznej może być wprowadzenie prawej dłoni w
 miarowe ruchy właściwe dla najdrobniejszych wartości rytmicznych,
 występujących w utworze lub jego fragmentach. Gdy wśród małych,
@@ -42,27 +42,27 @@ imitujemy te małe. Oczywiście ma to zastosowanie wówczas, gdy wartości
 małe mieszczą się parzyście w większych, n oznacza uderzenie w dół, a V
 w górę:
 
-
+{{< figure src="/images/NutyPracaPrawejReki.png" >}}
 
 Częstym błędem jest łamanie miarowych ruchów dłoni wówczas, gdy
 przejście ze struny na strunę zgodne jest z kierunkiem poruszania się
-kostki<!-- link nie odnosił się do niczego -->.
+[kostki]({{< relref "Kostka.md" >}}).
 
-
+{{< figure src="/images/NutyPrzechodzenieZeStrunyNaStrune.png" >}}
 
 Natomiast, przy takim podziale rytmicznym, trzeba już zrezygnować z
 miarowych ruchów dłoni.
 
-
+{{< figure src="/images/NutyPrawaRekaTriola.png" >}}
 
 Można go zagrać różnie:
 
-
+{{< figure src="/images/NutyPrawaRekaTriolki.png" >}}
 
 Z uwagi na te komplikacje, nie chciałbym zbyt wiele sugerować, ale
 dobrze jest, gdy ustalimy sobie, że np. mocną część taktu gramy
 uderzeniem z góry. Ułatwia to utrwalenie właściwej
-artykulacji<!-- link nie odnosił się do niczego -->, co w jazzie jest sprawą mającą
+[artykulacji]({{< relref "Artykulacja.md" >}}), co w jazzie jest sprawą mającą
 zasadnicze znaczenie, chociaż nie należy jednak trzymać się tego zbyt
 sztywno.
 

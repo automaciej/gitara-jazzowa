@@ -2,12 +2,12 @@
 title: "Akord m7 w układzie rozległym"
 slug: "akord-m7-w-układzie-rozległym"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['układ rozległy']
+kategorie: ['Układ rozległy']
 draft: false
 wikilinks: ['septyma_ma%C5%82a']
 aliases: ['akord-m7-w-ukladzie-rozleglym']
 ---
-Akord mollowy z septymą małą<!-- link nie odnosił się do niczego -->.
+Akord mollowy z [septymą małą]({{< relref "Septyma_mała.md" >}}).
 
 `E ---|---|---5---|---|---|---`
 `B ---1---|---|---|---|---|---`

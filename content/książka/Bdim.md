@@ -7,7 +7,7 @@ draft: false
 wikilinks: ['akord_zmniejszony']
 aliases: ['książka/akord-bdim']
 ---
-Akord Bdim jest akordem zmniejszonym<!-- link nie odnosił się do niczego -->.
+Akord Bdim jest [akordem zmniejszonym]({{< relref "Akord_zmniejszony.md" >}}).
 
 ## Bdim w I pozycji
 
