@@ -27,9 +27,11 @@
   <meta property="og:type"               content="{{ if .IsHome }}website{{ else }}article{{end}}" />
   <meta property="og:title"              content="{{ .Title }}" />
   <meta property="og:description"        content="{{ if .IsHome }}{{ $.Site.Params.description }}{{else if .Description }}{{ .Description}}{{ else }}{{ .Summary | plainify | htmlUnescape | truncate 50 }}{{end}}" />
-  {{ with .Params.image -}}
-  <meta property="og:image"              content="{{ $.Param "image.path" }}" />
-  {{- end }}
+  {{ with .Params.images -}}
+  {{ range $.Param "images" -}}
+  <meta property="og:image"              content="{{ .path }}" />
+  {{ end }}
+  {{ end }}
   {{ with $.Param "image.alt" -}}
   <meta property="og:image:alt"          content="{{ . }}" />
   {{- end }}
