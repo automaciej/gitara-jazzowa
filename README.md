@@ -7,8 +7,8 @@ _Książka Marka Blizińskiego_
 - [x] Spis treści (2021-08-21)
 - [x] Linki pomiędzy stronami (2021-08-21)
 - [x] Usunięcie zepsutych linków (2021-08-21)
-- [x] Przekierowania pomiędzy stronami (zrobione 2021-08-22)
-- [ ] Odtworzenie zdjęć i ilustracji
+- [x] Przekierowania pomiędzy stronami (2021-08-22)
+- [x] Odtworzenie zdjęć i ilustracji (2021-08-22)
 - [ ] Uzupełnienie brakujących danych na podstawie XML z Mediawiki
 - [ ] Ułożenie stron w sekwencję
 - [ ] Nadanie stronie wyglądu
