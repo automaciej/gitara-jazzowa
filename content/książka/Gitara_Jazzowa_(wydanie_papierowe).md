@@ -5,6 +5,9 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strona główna']
 draft: false
 wikilinks: ['grafika:GitaraJazzowaPierwszeWydanie.jpg', 'grafika:GitaraJazzowaDrugieWydanie.gif', 'Janusz_Pop%C5%82awski']
+images:
+  - path: "/images/GitaraJazzowaPierwszeWydanie.jpg"
+  - path: "/images/GitaraJazzowaDrugieWydanie.gif"
 ---
 {{< figure src="/images/GitaraJazzowaPierwszeWydanie.jpg" >}}
 {{< figure src="/images/GitaraJazzowaDrugieWydanie.gif" >}}

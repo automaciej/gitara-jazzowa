@@ -6,6 +6,8 @@ kategorie: ['Technika gry']
 draft: false
 wikilinks: ['grafika:NutyMaleNutki.png']
 aliases: ['male-nutki']
+images:
+  - path: "/images/NutyMaleNutki.png"
 ---
 ...to dwie lub więcej przednutek umieszczonych przed dźwiękiem
 właściwym. Mogą mieć kierunek wstępujący lub zstępujący. Na ogół

@@ -6,6 +6,8 @@ kategorie: ['Technika gry']
 draft: false
 wikilinks: ['artykulacja', 'wibracja', 'technika', 'd%C5%BAwi%C4%99k', 'Grafika:NutyPracaLewejReki01.png', 'gra_akordowa']
 aliases: ['praca-lewej-reki']
+images:
+  - path: "/images/NutyPracaLewejReki01.png"
 ---
 Praca lewej ręki ma wpływ na [artykulację]({{< relref "Artykulacja.md" >}}),
 [wibrację]({{< relref "Wibracja.md" >}}) i wiele innych elementów łącznie z

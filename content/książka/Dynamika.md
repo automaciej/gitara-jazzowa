@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['sekcja_rytmiczna', 'kostka', 'grafika:NutyKsztaltowanieDzwieku01.png']
+images:
+  - path: "/images/NutyKsztaltowanieDzwieku01.png"
 ---
 Operowanie **dynamiką** w grze na gitarze jest niedoceniane i często
 wręcz ignorowane. Dzieje się tak przedewszystkim za sprawą prymitywizmu

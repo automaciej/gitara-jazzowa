@@ -5,6 +5,9 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Akcesoria']
 draft: false
 wikilinks: ['Grafika:plectrum1.jpg', 'Grafika:plectrum2.jpg', 'gitara_akustyczna', 'Barwa_d%C5%BAwi%C4%99ku', 'Kszta%C5%82towanie_d%C5%BAwi%C4%99ku', 'legato', 'technika', 'Metody_trzymania_kostki', 'Barwa_d%C5%BAwi%C4%99ku', 'Kostka_a_barwa_d%C5%BAwi%C4%99ku', 'Chwyt_kostki']
+images:
+  - path: "/images/Plectrum1.jpg"
+  - path: "/images/Plectrum2.jpg"
 ---
 {{< figure src="/images/Plectrum1.jpg" >}}\]\]
 {{< figure src="/images/Plectrum2.jpg" >}}\]\]

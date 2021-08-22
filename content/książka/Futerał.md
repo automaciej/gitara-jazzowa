@@ -6,6 +6,8 @@ kategorie: ['Akcesoria']
 draft: false
 wikilinks: ['grafika:Futeraly.jpg', 'gitara_elektryczna', 'pud%C5%82o_rezonansowe', 'struna', 'Szyjka', 'gryf']
 aliases: ['futeral']
+images:
+  - path: "/images/Futeraly.jpg"
 ---
 {{< figure src="/images/Futeraly.jpg" >}}
 

@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strona główna']
 draft: false
 wikilinks: ['Grafika:MarekBlizinski.jpg', 'technika', 'snakes', 'Jim_Hall', 'Joe_Pass', 'Charlie_Christian', 'technika', 'Gitara_Jazzowa_(wydanie_papierowe)']
+images:
+  - path: "/images/MarekBlizinski.jpg"
 ---
 {{< figure src="/images/MarekBlizinski.jpg" >}}
 

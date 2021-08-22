@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:NutyMordent.png', 'kostka']
+images:
+  - path: "/images/NutyMordent.png"
 ---
 ...jest to szybka zmiana dźwięku na jego dolną lub górną sekundę i
 powrót do dźwięku głównego. Ewentualne znaki chromatyczne umieszczone

@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:NutyPrzednutka.png']
+images:
+  - path: "/images/NutyPrzednutka.png"
 ---
 jest drobną wartością rytmiczną umieszczoną przed właściwym dźwiękiem.
 Może być od niego wyższa lub niższa o dowolny interwał, choć najczęściej

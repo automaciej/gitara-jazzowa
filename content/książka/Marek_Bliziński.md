@@ -6,6 +6,8 @@ kategorie: []
 draft: false
 wikilinks: ['grafika:MarekBlizinski.jpg', 'Spis_tre%C5%9Bci', 'Gitara_elektryczna', 'Charlie_Christian', 'Wes_Montgomery', 'Jim_Hall', 'Joe_Pass', 'Pat_Metheny', 'John_Scofield', 'Janusz_Pop%C5%82awski', 'Kategoria:Gitarzy%C5%9Bci_jazzowi']
 aliases: ['marek-blizinski']
+images:
+  - path: "/images/MarekBlizinski.jpg"
 ---
 {{< figure src="/images/MarekBlizinski.jpg" >}}
 

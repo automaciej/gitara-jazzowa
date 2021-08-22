@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:NutyArpeggio.png']
+images:
+  - path: "/images/NutyArpeggio.png"
 ---
 ...jest sposobem zagrania akordu, polegającym na uderzaniu
 poszczególnych dźwięków akordu nie jednocześnie, lecz po kolei w dół

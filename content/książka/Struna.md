@@ -6,6 +6,8 @@ kategorie: ['Budowa gitary']
 draft: false
 wikilinks: ['gitara_klasyczna', 'Fender', 'Gibson', 'gitara_dwunastostrunowa', 'dynamika', 'gitara_akustyczna', 'gitara_akustyczna', 'Kenny_Burrell', 'grafika:StrunaNaKolku.jpg']
 aliases: ['książka/struny']
+images:
+  - path: "/images/StrunaNaKolku.jpg"
 ---
 Niezmiernie ważny jest dobór odpowiednich strun. Różne ich rodzaje są
 używane do różnych gatunków muzyki. Pierwszy podział wyłania struny

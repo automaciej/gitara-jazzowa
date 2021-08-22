@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['grafika:GitaraDobro.jpg', 'Gitara_hawajska', 'Gitara_elektryczna', 'gitara_akustyczna', 'pud%C5%82o_rezonansowe', 'kategoria:rodzaje_gitar']
+images:
+  - path: "/images/GitaraDobro.jpg"
 ---
 {{< figure src="/images/GitaraDobro.jpg" >}}
 

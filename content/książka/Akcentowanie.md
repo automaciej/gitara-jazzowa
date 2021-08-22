@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Dynamika', 'Grafika:NutyAkcenty01.png']
+images:
+  - path: "/images/NutyAkcenty01.png"
 ---
 Zjawisko akcentowania dźwięków w muzyce jazzowej ma kilka postaci. Ze
 zwględu na sposób wyróżniania dźwięków spotykane są akcenty dynamiczne i

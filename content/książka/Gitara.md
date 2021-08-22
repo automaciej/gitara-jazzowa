@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strona główna']
 draft: false
 wikilinks: ['Szyjka', 'gama_chromatyczna', 'strojenie_gitary', 'grafika:PudloGitaryZPunktamiDoOpukiwania.png', 'pud%C5%82o_rezonansowe', 'Pud%C5%82o_rezonansowe', 'gitara_dwunastostrunowa', 'gitara_elektryczno-akustyczna', 'Gibson']
+images:
+  - path: "/images/PudloGitaryZPunktamiDoOpukiwania.png"
 ---
 Przyszły nabywca instrumentu przede wszystkim powinien umieć precyzyjnie
 określić jaki typ gitary go interesuje i jakie brzmienie określonego

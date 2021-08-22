@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['grafika:NutyTryl.png']
+images:
+  - path: "/images/NutyTryl.png"
 ---
 ...jest szybkim, wielokrotnym powtarzaniem dźwięku głównego na zmianę z
 jego górną sekundą. W muzyce jazzowej tryl może mieć różne formy. Może

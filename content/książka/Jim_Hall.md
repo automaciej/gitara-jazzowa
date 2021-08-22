@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['Joe_Pass', 'improwizacja', 'instrument_harmoniczny', 'Joe_Pass', 'Sekcja_rytmiczna', 'grafika:NutySoloJimaHallaTheWayYouLookTonight.png', 'kategoria:gitarzy%C5%9Bci_jazzowi']
+images:
+  - path: "/images/NutySoloJimaHallaTheWayYouLookTonight.png"
 ---
 Mimo, iż technika **Jima Halla** nie odbiegała od techniki standardowej,
 stosował on zupełnie inną fakturę \[niż [Joe Pass]({{< relref "Joe_Pass.md" >}})

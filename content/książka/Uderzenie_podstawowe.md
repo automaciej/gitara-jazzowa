@@ -5,6 +5,11 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['kostka', 'Ruch_kostki', 'Grafika:PrawaDlonPrzedUderzeniemWstruneD.jpg', 'Grafika:PrawaDlonWtrakcieUderzaniaWstruneD.jpg', 'Grafika:PrawaDlonPoUderzeniuWstruneD.jpg', 'Grafika:RuchKostki.png', 'Praca_prawej_r%C4%99ki']
+images:
+  - path: "/images/PrawaDlonPrzedUderzeniemWstruneD.jpg"
+  - path: "/images/PrawaDlonWtrakcieUderzaniaWstruneD.jpg"
+  - path: "/images/PrawaDlonPoUderzeniuWstruneD.jpg"
+  - path: "/images/RuchKostki.png"
 ---
 **Uderzenie podstawowe** (ponieważ w proponowanej przeze mnie technice
 gry mogą mieć miejsce i inne uderzenia) polega na ruchu całej dłoni.

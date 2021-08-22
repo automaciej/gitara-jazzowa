@@ -6,6 +6,8 @@ kategorie: ['Budowa gitary']
 draft: false
 wikilinks: ['grafika:PretWGryfie.png', 'regulacja_gryfu', 'Regulacja_gryfu', 'Gryf']
 aliases: ['pret-regulacyjny']
+images:
+  - path: "/images/PretWGryfie.png"
 ---
 {{< figure src="/images/PretWGryfie.png" >}}
 

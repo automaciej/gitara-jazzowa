@@ -5,6 +5,9 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:NutyPalcowanie.png', 'staccato', 'non_legato', 'Grafika:NutyPracaLewejReki02.png']
+images:
+  - path: "/images/NutyPalcowanie.png"
+  - path: "/images/NutyPracaLewejReki02.png"
 ---
 {{< figure src="/images/NutyPalcowanie.png" >}}
 

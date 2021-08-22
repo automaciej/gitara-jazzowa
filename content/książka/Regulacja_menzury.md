@@ -6,6 +6,8 @@ kategorie: ['Konserwacja gitary']
 draft: false
 wikilinks: ['Grafika:RegulacjaMenzurySrubokretem.png', 'gitara_akustyczna', 'mostek', 'gitara_elektryczna', 'gitara_elektryczno-akustyczna', 'gitara_elektryczna', 'gitara_elektryczno-akustyczna', 'wzmacniacz', 'fla%C5%BColet', 'fla%C5%BColet', 'fla%C5%BColet']
 aliases: ['książka/regulacja-menzury-strun']
+images:
+  - path: "/images/RegulacjaMenzurySrubokretem.png"
 ---
 {{< figure src="/images/RegulacjaMenzurySrubokretem.png" >}}
 

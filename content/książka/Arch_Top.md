@@ -5,6 +5,9 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Rodzaje gitar']
 draft: false
 wikilinks: ['grafika:GitaraTypuArchTop.jpg', 'gitara_akustyczna', 'Arch_Top', 'Pud%C5%82o_rezonansowe', 'pud%C5%82o_rezonansowe', 'gitara_klasyczna', 'Grafika:MostekZRegulacjaWysokosci.jpg', 'swing', 'Count_Basie', 'Freddie_Green']
+images:
+  - path: "/images/GitaraTypuArchTop.jpg"
+  - path: "/images/MostekZRegulacjaWysokosci.jpg"
 ---
 {{< figure src="/images/GitaraTypuArchTop.jpg" >}}
 

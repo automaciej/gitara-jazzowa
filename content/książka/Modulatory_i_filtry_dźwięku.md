@@ -6,6 +6,8 @@ kategorie: ['Akcesoria']
 draft: false
 wikilinks: ['gitara_elektryczna', 'wzmacniacz', 'Fuzz', 'Sustainer', 'Wahwah', 'Phaser', 'Envelope_filter', 'wzmacniacz', 'Ring_modulator', 'Octaver', 'Chorus', 'Flanger', 'Delay', 'Tape_echo', 'bramka_szum%C3%B3w', 'sygna%C5%82', 'wzmacniacz', 'Grafika:Multiprocesor.jpg', 'MIDI', 'syntezator_gitarowy', 'John_McLaughlin', 'Pat_Metheny']
 aliases: ['modulatory-i-filtry-dzwieku']
+images:
+  - path: "/images/Multiprocesor.jpg"
 ---
 Służą one do zmiany barwy i właściwości dźwięków uzyskanych na
 instrumentach wytwarzających impulsy elektryczne, a więc i na [gitarze

@@ -6,6 +6,8 @@ kategorie: []
 draft: false
 wikilinks: ['ograniczenia_gitary', 'Grafika:Chord-eb-major.png', 'Gmaj7', 'G7', 'G6', 'Gm7', 'II-V-I', 'Cmaj7', 'C7', 'C6', 'Cm7', 'Cm6']
 aliases: ['wprowadzenie-do-budowania-akordow']
+images:
+  - path: "/images/Chord-eb-major.png"
 ---
 Nauka harmonii jest trudniejsza na gitarze niż na klawiaturze
 fortepianu. Jest tak głównie dlatego, że gryf [nie daje

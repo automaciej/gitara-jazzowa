@@ -6,6 +6,8 @@ kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['akord', 'd%C5%BAwi%C4%99k', 'grafika:NutyzmianaRoliDzwiekowBezZmianyWysokosci.png', 'harmonia_klasyczna', 'dominanta', 'G7', 'Cmaj7', 'G9', 'Cmaj7', 'G7%E2%99%AD9', 'Cm7', 'G7%E2%99%AD5%E2%99%AD9', 'Cm7']
 aliases: ['prowadzenie-glosow']
+images:
+  - path: "/images/NutyzmianaRoliDzwiekowBezZmianyWysokosci.png"
 ---
 Metodą, którą powinni znać wszyscy muzycy, jest prowadzenie głosów, tak
 by przechodziły płynnie z jednego akordu do drugiego, zmieniając przy

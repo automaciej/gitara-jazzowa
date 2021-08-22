@@ -6,6 +6,8 @@ kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:UlozeniePrawejReki.jpg', 'gitara_akustyczna', 'gitara_klasyczna', 'kostka', 'Praca_prawej_r%C4%99ki']
 aliases: ['ulozenie-prawej-reki']
+images:
+  - path: "/images/UlozeniePrawejReki.jpg"
 ---
 {{< figure src="/images/UlozeniePrawejReki.jpg" >}}
 

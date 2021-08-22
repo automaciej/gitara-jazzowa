@@ -6,6 +6,8 @@ kategorie: ['Technika gry']
 draft: false
 wikilinks: ['wzmacniacz', 'barwa_d%C5%BAwi%C4%99ku', 'pud%C5%82o_rezonansowe', 'Sprz%C4%99%C5%BCenie_zwrotne', 'dynamika', 'technika', 'dynamika', 'Grafika:EqualizerWzmacniacza.png', 'equalizer', 'wzmacniacz', 'mainstream', 'pasmo_cz%C4%99stotliwo%C5%9Bci', 'Wzmacniacz']
 aliases: ['wzmacniacz-a-ksztaltowanie-dzwieku']
+images:
+  - path: "/images/EqualizerWzmacniacza.png"
 ---
 Każdy [wzmacniacz]({{< relref "Wzmacniacz.md" >}}) zaopatrzony jest w
 potencjometr siły głosu oraz w mniej lub bardziej rozbudowany equalizer,

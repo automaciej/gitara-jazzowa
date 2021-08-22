@@ -6,6 +6,9 @@ kategorie: ['Technika gry']
 draft: false
 wikilinks: ['grafika:PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg', 'grafika:WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg']
 aliases: ['flazolet-sztuczny']
+images:
+  - path: "/images/PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg"
+  - path: "/images/WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg"
 ---
 {{< figure src="/images/PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg" >}}
 {{< figure src="/images/WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg" >}}

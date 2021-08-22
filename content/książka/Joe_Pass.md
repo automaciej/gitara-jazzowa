@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['grafika:NutySoloJoePassaSunny.png', 'mainstream', 'single_note', 'linia_basowa', 'kostka', 'kostka', 'pi%C4%99ciod%C5%BAwi%C4%99k', 'single_note', 'gra_akordowa', 'Joe_Pass', 'sekcja_rytmiczna', 'kategoria:gitarzy%C5%9Bci_jazzowi']
+images:
+  - path: "/images/NutySoloJoePassaSunny.png"
 ---
 {{< figure src="/images/NutySoloJoePassaSunny.png" >}}
 

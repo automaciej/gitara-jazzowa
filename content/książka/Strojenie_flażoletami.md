@@ -6,6 +6,9 @@ kategorie: ['Strojenie gitary']
 draft: false
 wikilinks: ['fla%C5%BColet', 'Grafika:StrojenieFlazoletami.png', 'Grafika:NutyStrojenieFlazoletami.png', 'Fla%C5%BColet']
 aliases: ['strojenie-flazoletami']
+images:
+  - path: "/images/StrojenieFlazoletami.png"
+  - path: "/images/NutyStrojenieFlazoletami.png"
 ---
 Bardzo precyzyjną metodą jest strojenie
 [flażoletami]({{< relref "Flażolet.md" >}}) naturalnymi. Flażolety są zawsze

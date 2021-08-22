@@ -6,6 +6,10 @@ kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:Flazolety.png', 'grafika:NutyFlazolety01.png', 'grafika:NutyFlazolety02.png', 'Strojenie_fla%C5%BColetami', 'Fla%C5%BColet_sztuczny']
 aliases: ['flazolet']
+images:
+  - path: "/images/Flazolety.png"
+  - path: "/images/NutyFlazolety01.png"
+  - path: "/images/NutyFlazolety02.png"
 ---
 **Flażoletem** nazywamy wydobyty za pomocą specjalnej techniki gry jeden
 z alikwotów (tonów harmonicznych) struny.

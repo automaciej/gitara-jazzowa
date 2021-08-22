@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['grafika:NutyTremolo.png']
+images:
+  - path: "/images/NutyTremolo.png"
 ---
 ...jest szybkim powtarzaniem jednego lub więcej dźwięków. Na gitarze
 wykonuje się za pomocą szybkich ruchów kostką.

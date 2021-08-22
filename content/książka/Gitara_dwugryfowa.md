@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['grafika:GitaraDwugryfowa.jpg', 'Gitara_dwunastostrunowa', 'gitara_elektryczna', 'Jimmy_Page', 'Seweryn_Krajewski', 'tapping', 'kategoria:rodzaje_gitar']
+images:
+  - path: "/images/GitaraDwugryfowa.jpg"
 ---
 {{< figure src="/images/GitaraDwugryfowa.jpg" >}}
 

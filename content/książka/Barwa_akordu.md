@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['akord_mollowy', 'akord_durowy', 'd%C5%BAwi%C4%99k', 's%C5%82uch_absolutny', 'interwa%C5%82', 'tercja', 'kwinta', 'nona_ma%C5%82a', 'mamy', 'C', 'd%C5%BAwi%C4%99k', 'akord', 'G9', 'interwa%C5%82', 'd%C5%BAwi%C4%99k', 'interwa%C5%82', 'Grafika:GrafAkorduG9.png', 'interwa%C5%82', 'd%C5%BAwi%C4%99k', 'akord', 'Cmaj96']
+images:
+  - path: "/images/GrafAkorduG9.png"
 ---
 ## Czym jest barwa akordu
 

@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Budowa gitary']
 draft: false
 wikilinks: ['Grafika:MarekPatrzyNaGryfOdStronyGlowki.jpg', 'pr%C4%99t_regulacyjny', 'Gibson', 'Les_Paul']
+images:
+  - path: "/images/MarekPatrzyNaGryfOdStronyGlowki.jpg"
 ---
 Podczas oceny instrumentu uwaga powinna być skupiona w pierwszym rzędzie
 na gryfie gitary, który powinien być prosty. Sprawdzamy to po uprzednim

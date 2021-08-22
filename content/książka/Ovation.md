@@ -5,6 +5,8 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Rodzaje gitar']
 draft: false
 wikilinks: ['grafika:GitaraOvation.jpg', 'Ovation', 'gitara_akustyczna', 'pud%C5%82o_rezonansowe', 'John_McLaughlin', 'Gibson']
+images:
+  - path: "/images/GitaraOvation.jpg"
 ---
 {{< figure src="/images/GitaraOvation.jpg" >}}
 
