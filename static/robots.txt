@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /ulotka
 
-Sitemap: https://blizinski.pl/index.xml
+Sitemap: https://blizinski.pl/sitemap.xml
