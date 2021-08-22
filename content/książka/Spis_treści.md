@@ -11,7 +11,7 @@ aliases: ['spis-tresci']
 
 [Od autora]({{< relref "Od_autora.md" >}})
 
-1.  Budowa gitar<!-- link nie odnosił się do niczego -->
+1.  [Budowa gitar](/kategorie/rodzaje-gitar "Kategoria Rodzaje gitar")
 2.  [Kryteria oceny przy wyborze instrumentu i
     akcesoriów]({{< relref "Wybieranie_instrumentu_i_akcesoriów" >}})
     1.  [Gitara]({{< relref "Gitara.md" >}})

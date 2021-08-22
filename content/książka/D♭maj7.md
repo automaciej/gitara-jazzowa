@@ -1,6 +1,6 @@
 ---
 title: "D♭maj7"
-slug: "d♭maj7"
+slug: "d-maj7"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Tabele chwytów', 'Akordy durowe']
 draft: false

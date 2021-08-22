@@ -10,5 +10,5 @@ aliases: ['chwytanie-i-laczenie-akordow']
   - [Ograniczenia gitary]({{< relref "Ograniczenia_gitary.md" >}})
   - [Łączenie najbliższą drogą]({{< relref "Łączenie_najbliższą_drogą.md" >}})
   - [Układ rozległy]({{< relref "Układ_rozległy.md" >}})
-  - Tabele chwytów<!-- link nie odnosił się do niczego -->
+  - [Tabele chwytów](/kategorie/tabele-chwytów "Kategoria Tabele chwytów")
 

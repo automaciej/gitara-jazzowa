@@ -14,6 +14,6 @@ przede wszystkim mają na uwadze ilość chwytów formalnie zgodnych z danym
 [akordem]({{< relref "Akord.md" >}}). Zachęcam więc do pracy nad poszukiwaniem
 własnych rozwiązań.
 
-Tabele chwytów dostępne są w kategorii **Tabele
-chwytów<!-- link nie odnosił się do niczego -->**.
+Tabele chwytów dostępne są w kategorii **[Tabele
+chwytów](/kategorie/tabele-chwytów "Kategoria Tabele chwytów")**.
 

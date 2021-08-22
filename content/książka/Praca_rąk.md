@@ -8,7 +8,7 @@ wikilinks: [':Kategoria:gitarzy%C5%9Bci_jazzowi', 'Prawa_r%C4%99ka', 'Lewa_r%C4%
 aliases: ['praca-rak']
 ---
 Jak już pisałem, sławni
-gitarzyści<!-- link nie odnosił się do niczego --> stosują bardzo
+[gitarzyści](/kategorie/gitarzyści-jazzowi "Kategoria gitarzyści jazzowi") stosują bardzo
 różne postawy z instrumentem. Ponieważ postawa ma wpływ na wszystkie
 elementy techniki, różne są szkoły gry na gitarze jazzowej. Ja będę
 kontynuował opis metody, która opiera się na proponowanej przeze mnie w

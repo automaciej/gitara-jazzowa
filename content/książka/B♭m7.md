@@ -1,6 +1,6 @@
 ---
 title: "B♭m7"
-slug: "b♭m7"
+slug: "b-m7"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Tabele chwytów', 'Akordy mollowe']
 draft: false

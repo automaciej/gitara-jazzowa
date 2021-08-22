@@ -1,6 +1,6 @@
 ---
 title: "Akord m7♭5 w układzie rozległym"
-slug: "akord-m7♭5-w-układzie-rozległym"
+slug: "akord-m7-5-w-układzie-rozległym"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Układ rozległy']
 draft: false
