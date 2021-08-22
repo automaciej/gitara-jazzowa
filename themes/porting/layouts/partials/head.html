@@ -1,9 +1,13 @@
 <head>
   <title>
+    {{- if .IsHome }}
+    {{ .Title }} - Strona główna
+    {{ else }}
     {{- with .Title }}
     {{ . }} – {{ $.Site.Title }}
     {{ else }}
     {{ .Site.Title }}
+    {{ end }}
     {{ end -}}
   </title>
 
