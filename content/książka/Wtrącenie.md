@@ -1,11 +1,11 @@
 ---
 title: "Wtrącenie"
-slug: "wtracenie"
+slug: "wtrącenie"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['harmonia jazzowa']
 draft: false
 wikilinks: ['dominanta', 'akord', 'Cmaj7', 'Dm7', 'G7', 'Dm7', 'dominanta', 'Dm7', 'A7', 'A7', 'tonacja', 'A7', 'Dm7', 'Cmaj7', 'A7', 'Dm7', 'G7', 'A7', 'Dm7']
-aliases: ['książka/wtracenia']
+aliases: ['wtracenie', 'książka/wtrącenia']
 ---
 Harmonię utworu, oprócz funkcji pobocznych, można uzupełniać o tzw.
 wtrącenia. Wtrącenie polega, najprościej to ujmując, na dodaniu

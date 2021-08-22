@@ -1,10 +1,11 @@
 ---
 title: "Flażolet sztuczny"
-slug: "flazolet-sztuczny"
+slug: "flażolet-sztuczny"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry']
 draft: false
 wikilinks: ['grafika:PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg', 'grafika:WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg']
+aliases: ['flazolet-sztuczny']
 ---
 thumb<!-- link nie odnosił się do niczego -->
 thumb<!-- link nie odnosił się do niczego -->

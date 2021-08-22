@@ -1,10 +1,11 @@
 ---
 title: "Regularne ćwiczenie"
-slug: "regularne-cwiczenie"
+slug: "regularne-ćwiczenie"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry']
 draft: false
 wikilinks: []
+aliases: ['regularne-cwiczenie']
 ---
 Ważne jest, aby gitarzyści mieli stały kontakt z instrumentem i ćwiczyli
 regularnie, niezależnie od terminów występów i nagrań. Nawet krótkie

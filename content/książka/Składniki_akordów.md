@@ -1,10 +1,11 @@
 ---
 title: "Składniki akordów"
-slug: "skladniki-akordow"
+slug: "składniki-akordów"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['harmonia jazzowa']
 draft: false
 wikilinks: ['akord', 'znaki_chromatyczne', 'Wikipedysta:MaciejBlizinski']
+aliases: ['skladniki-akordow']
 ---
 Jeśli nie chcemy aby brzmiał określony składnik
 akordu<!-- link nie odnosił się do niczego --> oznaczamy to za pomocą skreślenia, np.:

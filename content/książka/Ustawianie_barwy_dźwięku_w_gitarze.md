@@ -1,10 +1,11 @@
 ---
 title: "Ustawianie barwy dźwięku w gitarze"
-slug: "ustawianie-barwy-dzwieku-w-gitarze"
+slug: "ustawianie-barwy-dźwięku-w-gitarze"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry']
 draft: false
 wikilinks: ['t%C5%82umik', 'Jim_Hall', 'Gibson', 'wzmacniacz', 'dynamika']
+aliases: ['ustawianie-barwy-dzwieku-w-gitarze']
 ---
 Ustawienie barwy dźwięku w samej gitarze uzależnione jest od jej układu
 elektrycznego. Najbardziej typowe i chyba najlepsze rozwiązanie dają

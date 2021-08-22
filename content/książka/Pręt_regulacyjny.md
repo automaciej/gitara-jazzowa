@@ -1,10 +1,11 @@
 ---
 title: "Pręt regulacyjny"
-slug: "pret-regulacyjny"
+slug: "pręt-regulacyjny"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['budowa gitary']
 draft: false
 wikilinks: ['grafika:PretWGryfie.png', 'regulacja_gryfu', 'Regulacja_gryfu', 'Gryf']
+aliases: ['pret-regulacyjny']
 ---
 125px<!-- link nie odnosił się do niczego -->
 

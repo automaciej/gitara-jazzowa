@@ -1,10 +1,11 @@
 ---
 title: "Marek Bliziński"
-slug: "marek-blizinski"
+slug: "marek-bliziński"
 date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['grafika:MarekBlizinski.jpg', 'Spis_tre%C5%9Bci', 'Gitara_elektryczna', 'Charlie_Christian', 'Wes_Montgomery', 'Jim_Hall', 'Joe_Pass', 'Pat_Metheny', 'John_Scofield', 'Janusz_Pop%C5%82awski', 'Kategoria:Gitarzy%C5%9Bci_jazzowi']
+aliases: ['marek-blizinski']
 ---
 thumb<!-- link nie odnosił się do niczego -->
 

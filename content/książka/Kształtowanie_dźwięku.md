@@ -1,10 +1,11 @@
 ---
 title: "Kształtowanie dźwięku"
-slug: "ksztaltowanie-dzwieku"
+slug: "kształtowanie-dźwięku"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry']
 draft: false
 wikilinks: ['gitara_akustyczna', 'barwa_d%C5%BAwi%C4%99ku', 'technika']
+aliases: ['ksztaltowanie-dzwieku']
 ---
 W muzyce jazzowej estetyka dźwięku polega na jego wyrazistości,
 indywidualnym charakterze pojętym jednak inaczej niż w muzyce

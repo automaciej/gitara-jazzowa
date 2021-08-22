@@ -1,10 +1,11 @@
 ---
 title: "Akord maj7 w układzie rozległym"
-slug: "akord-maj7-w-ukladzie-rozleglym"
+slug: "akord-maj7-w-układzie-rozległym"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['układ rozległy']
 draft: false
 wikilinks: ['septyma_wielka']
+aliases: ['akord-maj7-w-ukladzie-rozleglym']
 ---
 Akord durowy z septymą wielką<!-- link nie odnosił się do niczego --> w układzie
 rozległym.

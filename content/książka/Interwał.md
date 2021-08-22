@@ -1,10 +1,11 @@
 ---
 title: "Interwał"
-slug: "interwal"
+slug: "interwał"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['teoria muzyki']
 draft: false
 wikilinks: ['d%C5%BAwi%C4%99k', 'd%C5%BAwi%C4%99k', 'p%C3%B3%C5%82ton', 'znaki_chromatyczne', 'przestrze%C5%84_naturalnych_nazw_d%C5%BAwi%C4%99k%C3%B3w', 'stopie%C5%84', 'gama_diatoniczna', 'pryma', 'sekunda', 'tercja', 'kwarta', 'kwinta', 'seksta', 'septyma', 'oktawa', 'd%C5%BAwi%C4%99k', 'tercja_ma%C5%82a']
+aliases: ['interwal']
 ---
 Interwał to odległość pomiędzy dwoma dźwiękami<!-- link nie odnosił się do niczego -->,
 wyrażona nazwą.

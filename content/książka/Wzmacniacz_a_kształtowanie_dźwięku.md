@@ -1,10 +1,11 @@
 ---
 title: "Wzmacniacz a kształtowanie dźwięku"
-slug: "wzmacniacz-a-ksztaltowanie-dzwieku"
+slug: "wzmacniacz-a-kształtowanie-dźwięku"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry']
 draft: false
 wikilinks: ['wzmacniacz', 'barwa_d%C5%BAwi%C4%99ku', 'pud%C5%82o_rezonansowe', 'Sprz%C4%99%C5%BCenie_zwrotne', 'dynamika', 'technika', 'dynamika', 'Grafika:EqualizerWzmacniacza.png', 'equalizer', 'wzmacniacz', 'mainstream', 'pasmo_cz%C4%99stotliwo%C5%9Bci', 'Wzmacniacz']
+aliases: ['wzmacniacz-a-ksztaltowanie-dzwieku']
 ---
 Każdy wzmacniacz<!-- link nie odnosił się do niczego --> zaopatrzony jest w
 potencjometr siły głosu oraz w mniej lub bardziej rozbudowany equalizer,

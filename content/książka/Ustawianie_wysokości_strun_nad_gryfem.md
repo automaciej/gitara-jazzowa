@@ -1,10 +1,11 @@
 ---
 title: "Ustawianie wysokości strun nad gryfem"
-slug: "ustawianie-wysokosci-strun-nad-gryfem"
+slug: "ustawianie-wysokości-strun-nad-gryfem"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['konserwacja gitary']
 draft: false
 wikilinks: ['struny', 'gryf', 'gryf', 'mostek', 'gitara_akustyczna', 'gitara_elektryczna', 'gitara_akustyczna']
+aliases: ['ustawianie-wysokosci-strun-nad-gryfem']
 ---
 Ustawianie wysokości strun<!-- link nie odnosił się do niczego --> nad
 gryfem<!-- link nie odnosił się do niczego --> jest sprawą indywidualną. Oczywiście nie

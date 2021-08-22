@@ -1,10 +1,11 @@
 ---
 title: "Jak obchodzić się z instrumentem"
-slug: "jak-obchodzic-sie-z-instrumentem"
+slug: "jak-obchodzić-się-z-instrumentem"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['konserwacja gitary']
 draft: false
 wikilinks: ['szyjka']
+aliases: ['jak-obchodzic-sie-z-instrumentem']
 ---
 Jak obchodzić się z instrumentem? Wiadomo, że delikatnie, tak aby go nie
 uszkodzić. Podnosić zawsze i tylko za szyjkę<!-- link nie odnosił się do niczego -->. Kłaść

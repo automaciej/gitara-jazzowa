@@ -1,10 +1,11 @@
 ---
 title: "Dźwięki tłumione"
-slug: "dzwieki-tlumione"
+slug: "dźwięki-tłumione"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry']
 draft: false
 wikilinks: ['prawa_r%C4%99ka']
+aliases: ['dzwieki-tlumione']
 ---
 W jazzie dźwięki tłumione, jako podstawowa barwa dźwięku używane są
 raczej rzadko. Częściej w muzyce rozrywkowej, soul, funky.

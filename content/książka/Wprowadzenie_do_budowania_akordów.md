@@ -1,10 +1,11 @@
 ---
 title: "Wprowadzenie do budowania akordów"
-slug: "wprowadzenie-do-budowania-akordow"
+slug: "wprowadzenie-do-budowania-akordów"
 date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['ograniczenia_gitary', 'Grafika:Chord-eb-major.png', 'Gmaj7', 'G7', 'G6', 'Gm7', 'II-V-I', 'Cmaj7', 'C7', 'C6', 'Cm7', 'Cm6']
+aliases: ['wprowadzenie-do-budowania-akordow']
 ---
 Nauka harmonii jest trudniejsza na gitarze niż na klawiaturze
 fortepianu. Jest tak głównie dlatego, że gryf nie daje

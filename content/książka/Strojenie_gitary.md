@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['strojenie gitary']
 draft: false
 wikilinks: ['Przygotowanie_instrumentu_do_gry', 'struna', 'Proste_strojenie', 'Strojenie_fla%C5%BColetami', 'Strojniki_elektroniczne', 'Mikrostrojniki', 'Strojenie_a_temperatura', 'Wysoko%C5%9B%C4%87_a_barwa_d%C5%BAwi%C4%99ku', 'Wysoko%C5%9B%C4%87_stroju', 'Odchylenia_od_stroju', 'Jak_cz%C4%99sto_stroi%C4%87_gitar%C4%99', 'Instrument_transponuj%C4%85cy']
-aliases: ['książka/stroj-gitary', 'książka/metody-strojenia']
+aliases: ['książka/strój-gitary', 'książka/metody-strojenia']
 ---
 Każdy wie, jak ważna jest precyzja nastrojenia gitary. Dlatego sporo
 uwagi należy poświęcić samej umiejętności strojenia.

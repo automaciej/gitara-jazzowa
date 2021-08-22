@@ -1,10 +1,11 @@
 ---
 title: "Łączenie najbliższą drogą"
-slug: "laczenie-najblizsza-droga"
+slug: "łączenie-najbliższą-drogą"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry', 'harmonia jazzowa']
 draft: false
 wikilinks: ['Dm7', 'G7', 'Cmaj7']
+aliases: ['laczenie-najblizsza-droga']
 ---
 Grając sekwencje następujących po sobie akordów powinniśmy starać się
 łączyć je w taki sposób, żeby minimalizować ruch głosów. Z grubsza

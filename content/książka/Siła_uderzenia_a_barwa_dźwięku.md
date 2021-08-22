@@ -1,10 +1,11 @@
 ---
 title: "Siła uderzenia a barwa dźwięku"
-slug: "sila-uderzenia-a-barwa-dzwieku"
+slug: "siła-uderzenia-a-barwa-dźwięku"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry']
 draft: false
 wikilinks: ['artykulacja', 'dynamika', 'kostka', 'wzmacniacz']
+aliases: ['sila-uderzenia-a-barwa-dzwieku']
 ---
 W rozdziale o podstawowej barwie dźwięku wspomniałem o zależności
 pomiędzy ustawieniem siły głosu we wzmacniaczu, a barwą dźwięku.

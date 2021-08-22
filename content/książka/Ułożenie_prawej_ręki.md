@@ -1,10 +1,11 @@
 ---
 title: "Ułożenie prawej ręki"
-slug: "ulozenie-prawej-reki"
+slug: "ułożenie-prawej-ręki"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry']
 draft: false
 wikilinks: ['Grafika:UlozeniePrawejReki.jpg', 'gitara_akustyczna', 'gitara_klasyczna', 'kostka', 'Praca_prawej_r%C4%99ki']
+aliases: ['ulozenie-prawej-reki']
 ---
 thumb<!-- link nie odnosił się do niczego -->
 

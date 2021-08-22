@@ -1,10 +1,11 @@
 ---
 title: "Flażolet"
-slug: "flazolet"
+slug: "flażolet"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry']
 draft: false
 wikilinks: ['Grafika:Flazolety.png', 'grafika:NutyFlazolety01.png', 'grafika:NutyFlazolety02.png', 'Strojenie_fla%C5%BColetami', 'Fla%C5%BColet_sztuczny']
+aliases: ['flazolet']
 ---
 **Flażoletem** nazywamy wydobyty za pomocą specjalnej techniki gry jeden
 z alikwotów (tonów harmonicznych) struny.

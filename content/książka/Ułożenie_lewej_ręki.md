@@ -1,10 +1,11 @@
 ---
 title: "Ułożenie lewej ręki"
-slug: "ulozenie-lewej-reki"
+slug: "ułożenie-lewej-ręki"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry']
 draft: false
 wikilinks: ['Grafika:UkladLewejRekiW1Pozycji.jpg', 'Grafika:UkladLewejRekiW5Pozycji.jpg', 'Grafika:UkladLewejRekiW12Pozycji.jpg', 'Lewa_r%C4%99ka']
+aliases: ['ulozenie-lewej-reki']
 ---
 |                                                         |                                                         |                                                          |
 | ------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |

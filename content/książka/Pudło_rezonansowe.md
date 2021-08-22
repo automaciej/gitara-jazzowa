@@ -1,10 +1,11 @@
 ---
 title: "Pudło rezonansowe"
-slug: "pudlo-rezonansowe"
+slug: "pudło-rezonansowe"
 date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['gitara', 'struny', 'barwa_d%C5%BAwi%C4%99ku', 'Kategoria:Budowa_gitary']
+aliases: ['pudlo-rezonansowe']
 ---
 **Pudło rezonansowe** (*radiator*, *amplifikator*) to największa część
 gitary<!-- link nie odnosił się do niczego --> w formie mniej lub bardziej ozdobnej

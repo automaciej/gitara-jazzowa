@@ -1,10 +1,11 @@
 ---
 title: "Septyma mała"
-slug: "septyma-mala"
+slug: "septyma-mała"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['harmonia jazzowa']
 draft: false
 wikilinks: ['sk%C5%82adniki_akord%C3%B3w', 'interwa%C5%82', 'dominanta']
+aliases: ['septyma-mala']
 ---
 **Septyma mała** może być składnikiem
 akordu<!-- link nie odnosił się do niczego --> lub

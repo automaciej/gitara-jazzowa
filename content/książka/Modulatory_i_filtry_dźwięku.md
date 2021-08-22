@@ -1,10 +1,11 @@
 ---
 title: "Modulatory i filtry dźwięku"
-slug: "modulatory-i-filtry-dzwieku"
+slug: "modulatory-i-filtry-dźwięku"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['akcesoria']
 draft: false
 wikilinks: ['gitara_elektryczna', 'wzmacniacz', 'Fuzz', 'Sustainer', 'Wahwah', 'Phaser', 'Envelope_filter', 'wzmacniacz', 'Ring_modulator', 'Octaver', 'Chorus', 'Flanger', 'Delay', 'Tape_echo', 'bramka_szum%C3%B3w', 'sygna%C5%82', 'wzmacniacz', 'Grafika:Multiprocesor.jpg', 'MIDI', 'syntezator_gitarowy', 'John_McLaughlin', 'Pat_Metheny']
+aliases: ['modulatory-i-filtry-dzwieku']
 ---
 Służą one do zmiany barwy i właściwości dźwięków uzyskanych na
 instrumentach wytwarzających impulsy elektryczne, a więc i na gitarze

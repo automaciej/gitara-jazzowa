@@ -1,10 +1,11 @@
 ---
 title: "Praca lewej ręki"
-slug: "praca-lewej-reki"
+slug: "praca-lewej-ręki"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['technika gry']
 draft: false
 wikilinks: ['artykulacja', 'wibracja', 'technika', 'd%C5%BAwi%C4%99k', 'Grafika:NutyPracaLewejReki01.png', 'gra_akordowa']
+aliases: ['praca-lewej-reki']
 ---
 Praca lewej ręki ma wpływ na artykulację<!-- link nie odnosił się do niczego -->,
 wibrację<!-- link nie odnosił się do niczego --> i wiele innych elementów łącznie z

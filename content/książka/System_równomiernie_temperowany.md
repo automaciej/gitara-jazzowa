@@ -1,10 +1,11 @@
 ---
 title: "System równomiernie temperowany"
-slug: "system-rownomiernie-temperowany"
+slug: "system-równomiernie-temperowany"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['teoria muzyki']
 draft: false
 wikilinks: ['oktawa', 'p%C3%B3%C5%82ton']
+aliases: ['system-rownomiernie-temperowany']
 ---
 System równomiernie temperowany to przyjęty w muzyce europejskiej
 podział oktawy na dwanaście odcinków równych w mierze oktawowej. Jeden
