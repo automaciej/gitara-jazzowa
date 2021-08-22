@@ -9,6 +9,8 @@ _Książka Marka Blizińskiego_
 - [x] Usunięcie zepsutych linków (2021-08-21)
 - [x] Przekierowania pomiędzy stronami (2021-08-22)
 - [x] Odtworzenie zdjęć i ilustracji (2021-08-22)
+- [x] Linki do stron kategorii (2021-08-23)
 - [ ] Uzupełnienie brakujących danych na podstawie XML z Mediawiki
+- [ ] Oddzielenie stron o harmonii jazzowej
 - [ ] Ułożenie stron w sekwencję
 - [ ] Nadanie stronie wyglądu
