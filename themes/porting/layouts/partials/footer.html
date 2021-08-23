@@ -8,6 +8,16 @@
   |
   {{ template "pageLink" .Site.GetPage "/o-autorze/index.md" }}
   ]
+
+  {{ with (.GetTerms "kategorie") }}
+  &mdash;
+
+  kategorie:
+  {{ range . }}
+  <a href="{{ .RelPermalink }}">{{ .Title | lower }}</a>
+  {{ end }}
+  {{ end }}
+
   </p>
   {{ with .Site.Params.description -}}
   <p><i>{{ $.Site.Title }} to {{ . }}.</i></p>
