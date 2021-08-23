@@ -2,9 +2,9 @@
 title: "Gitara elektryczno-akustyczna"
 slug: "gitara-elektryczno-akustyczna"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Rodzaje gitar']
 draft: false
-wikilinks: ['grafika:GitaraGibsonES-3451D.jpg', 'pud%C5%82o_rezonansowe', 'pud%C5%82o_rezonansowe', 'przystawka', 'pud%C5%82o_rezonansowe', 'przetworniki_elektromagnetyczne', 'gryf', 'Gibson', 'gitara_elektryczna', 'kategoria:rodzaje_gitar']
+wikilinks: ['grafika:GitaraGibsonES-3451D.jpg', 'pud%C5%82o_rezonansowe', 'pud%C5%82o_rezonansowe', 'przystawka', 'pud%C5%82o_rezonansowe', 'przetworniki_elektromagnetyczne', 'gryf', 'Gibson', 'gitara_elektryczna']
 images:
   - path: "/images/GitaraGibsonES-3451D.jpg"
 ---

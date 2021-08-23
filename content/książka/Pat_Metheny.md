@@ -2,9 +2,9 @@
 title: "Pat Metheny"
 slug: "pat-metheny"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Gitarzyści jazzowi']
 draft: false
-wikilinks: ['improwizacja', 'artykulacja', 'fraza', 'p%C3%B3%C5%82ton', 'glissando', 'portamento', 'linia_melodyczna', 'kategoria:gitarzy%C5%9Bci_jazzowi']
+wikilinks: ['improwizacja', 'artykulacja', 'fraza', 'p%C3%B3%C5%82ton', 'glissando', 'portamento', 'linia_melodyczna']
 ---
 Muzyka, jaką uprawia **Pat Metheny** odpowiada nor­mom twórczym jazzu w
 równym stopniu, jak elektronicznego jazzu, jazz-rocka i współczesnej

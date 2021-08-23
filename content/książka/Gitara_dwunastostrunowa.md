@@ -2,9 +2,9 @@
 title: "Gitara dwunastostrunowa"
 slug: "gitara-dwunastostrunowa"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Rodzaje gitar']
 draft: false
-wikilinks: ['oktawa', 'unison', 'pud%C5%82o_rezonansowe', 'Gitara_akustyczna', 'Gitara_akustyczno-elektryczna', 'Gitara_elektryczna', 'Ralph_Towner', 'kategoria:rodzaje_gitar']
+wikilinks: ['oktawa', 'unison', 'pud%C5%82o_rezonansowe', 'Gitara_akustyczna', 'Gitara_akustyczno-elektryczna', 'Gitara_elektryczna', 'Ralph_Towner']
 ---
 **Gitara dwunastostrunowa** ma podwójny naciąg strun, które tak jak w
 mandolinie połączone są w pary. Cztery dolne struny są zdwojone w

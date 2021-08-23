@@ -2,9 +2,9 @@
 title: "Gitara basowa"
 slug: "gitara-basowa"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Rodzaje gitar']
 draft: false
-wikilinks: ['oktawa', 'sze%C5%9Bciostrunowa_gitara_basowa', 'strojenie_gitary', 'struny', 'd%C5%BAwi%C4%99k', 'gitara_akustyczna', 'gitara_elektryczno-akustyczna', 'pud%C5%82o_rezonansowe', 'gitara_elektryczna', 'kategoria:rodzaje_gitar']
+wikilinks: ['oktawa', 'sze%C5%9Bciostrunowa_gitara_basowa', 'strojenie_gitary', 'struny', 'd%C5%BAwi%C4%99k', 'gitara_akustyczna', 'gitara_elektryczno-akustyczna', 'pud%C5%82o_rezonansowe', 'gitara_elektryczna']
 ---
 **Gitara basowa** to czterostrunowa gitara o obniżonej o
 [oktawę]({{< relref "Oktawa.md" >}}) skali dźwięków (najniższy należy do oktawy

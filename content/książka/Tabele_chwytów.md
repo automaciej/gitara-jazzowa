@@ -2,9 +2,9 @@
 title: "Tabele chwytów"
 slug: "tabele-chwytów"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['Harmonia jazzowa']
+kategorie: ['Tabele chwytów', 'Harmonia jazzowa']
 draft: false
-wikilinks: ['akord', ':Kategoria:Tabele_chwyt%C3%B3w']
+wikilinks: ['akord']
 aliases: ['tabele-chwytow']
 ---
 Przy okazji chciałbym ostrzec gitarzystów przed bezkrytycznym

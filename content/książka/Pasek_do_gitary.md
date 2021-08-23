@@ -2,7 +2,7 @@
 title: "Pasek do gitary"
 slug: "pasek-do-gitary"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['Akcesoria']
+kategorie: ['Akcesoria gitarzysty']
 draft: false
 wikilinks: ['postawa_z_instrumentem', 'gitara_akustyczna', 'Wes_Montgomery']
 ---

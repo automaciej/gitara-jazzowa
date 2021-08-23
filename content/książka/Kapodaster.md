@@ -2,7 +2,7 @@
 title: "Kapodaster"
 slug: "kapodaster"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['Akcesoria']
+kategorie: ['Akcesoria gitarzysty']
 draft: false
 wikilinks: ['Grafika:capo.jpg', 'Grafika:Capo-on.jpg', 'menzura', 'struny', 'siode%C5%82ko', 'gryf', 'tonacja']
 images:

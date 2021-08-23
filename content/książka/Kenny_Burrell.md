@@ -2,9 +2,9 @@
 title: "Kenny Burrell"
 slug: "kenny-burrell"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Gitarzyści jazzowi']
 draft: false
-wikilinks: ['grafika:NutySoloKennyBurrellSaturdayNiteBlues.png', 'struna', 'legato', 'kategoria:gitarzy%C5%9Bci_jazzowi']
+wikilinks: ['grafika:NutySoloKennyBurrellSaturdayNiteBlues.png', 'struna', 'legato']
 images:
   - path: "/images/NutySoloKennyBurrellSaturdayNiteBlues.png"
 ---

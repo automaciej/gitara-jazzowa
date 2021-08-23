@@ -2,9 +2,9 @@
 title: "Wes Montgomery"
 slug: "wes-montgomery"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Gitarzyści jazzowi']
 draft: false
-wikilinks: ['pud%C5%82o_rezonansowe', 'tremolo', 'single_note', 'oktawa', 'lewa_r%C4%99ka', 'kostka', 'Kategoria:gitarzy%C5%9Bci_jazzowi']
+wikilinks: ['pud%C5%82o_rezonansowe', 'tremolo', 'single_note', 'oktawa', 'lewa_r%C4%99ka', 'kostka']
 ---
 **Wes Montgomery** w zasadzie nie używał kostki. Uderzał w struny
 kciukiem prawej ręki. Pozostałe palce opierał na [pudle

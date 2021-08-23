@@ -2,7 +2,7 @@
 title: "Wybieranie instrumentu i akcesoriów"
 slug: "wybieranie-instrumentu-i-akcesoriów"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['Akcesoria']
+kategorie: ['Akcesoria gitarzysty']
 draft: false
 wikilinks: ['Gitara', 'Wzmacniacz', 'Struny', 'Kostka', 'Pasek_do_gitary', 'Futera%C5%82', 'struny', 'kostka', 'mostek', 'wzmacniacz', 'Kabel_do_gitary', 'Kapodaster', 'Korbka', 'Sto%C5%82ek', 'Stojak_do_gitary', '%C5%9Aciereczka']
 aliases: ['wybieranie-instrumentu-i-akcesoriow', 'książka/kryteria-oceny-przy-wyborze-instrumentu-i-akcesoriów']

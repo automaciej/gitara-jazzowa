@@ -2,9 +2,9 @@
 title: "Joe Pass"
 slug: "joe-pass"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Gitarzyści jazzowi']
 draft: false
-wikilinks: ['grafika:NutySoloJoePassaSunny.png', 'mainstream', 'single_note', 'linia_basowa', 'kostka', 'kostka', 'pi%C4%99ciod%C5%BAwi%C4%99k', 'single_note', 'gra_akordowa', 'Joe_Pass', 'sekcja_rytmiczna', 'kategoria:gitarzy%C5%9Bci_jazzowi']
+wikilinks: ['grafika:NutySoloJoePassaSunny.png', 'mainstream', 'single_note', 'linia_basowa', 'kostka', 'kostka', 'pi%C4%99ciod%C5%BAwi%C4%99k', 'single_note', 'gra_akordowa', 'Joe_Pass', 'sekcja_rytmiczna']
 images:
   - path: "/images/NutySoloJoePassaSunny.png"
 ---

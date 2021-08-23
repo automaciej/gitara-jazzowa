@@ -2,7 +2,7 @@
 title: "Futerał"
 slug: "futerał"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['Akcesoria']
+kategorie: ['Akcesoria gitarzysty']
 draft: false
 wikilinks: ['grafika:Futeraly.jpg', 'gitara_elektryczna', 'pud%C5%82o_rezonansowe', 'struna', 'Szyjka', 'gryf']
 aliases: ['futeral']

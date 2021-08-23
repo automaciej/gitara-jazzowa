@@ -2,9 +2,9 @@
 title: "Substytut dominanty"
 slug: "substytut-dominanty"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['Teoria muzyki']
+kategorie: ['Gitarzyści jazzowi', 'Teoria muzyki']
 draft: false
-wikilinks: ['akord', 'd%C5%BAwi%C4%99k', 'barwa_akordu', 'tercja', 'septyma', 'tryb', 'tonika', 'dominanta', 'akord', ':Kategoria:gitarzy%C5%9Bci_jazzowi', 'd%C5%BAwi%C4%99k', 'C7', 'G%E2%99%AD7', 'C7', 'blues_jazzowy', 'F7', 'B%E2%99%AD7', 'Bdim', 'F7', 'Cm7', 'B13', 'B%E2%99%AD7', 'Bdim', 'F7', 'Am7', 'A%E2%99%AD7', 'Gm7', 'C13', 'F7', 'A%E2%99%AD7', 'Gm7', 'G%E2%99%AD7', 'C7', 'G%E2%99%AD13']
+wikilinks: ['akord', 'd%C5%BAwi%C4%99k', 'barwa_akordu', 'tercja', 'septyma', 'tryb', 'tonika', 'dominanta', 'akord', 'd%C5%BAwi%C4%99k', 'C7', 'G%E2%99%AD7', 'C7', 'blues_jazzowy', 'F7', 'B%E2%99%AD7', 'Bdim', 'F7', 'Cm7', 'B13', 'B%E2%99%AD7', 'Bdim', 'F7', 'Am7', 'A%E2%99%AD7', 'Gm7', 'C13', 'F7', 'A%E2%99%AD7', 'Gm7', 'G%E2%99%AD7', 'C7', 'G%E2%99%AD13']
 ---
 W [akordzie]({{< relref "Akord.md" >}}) nie wszystkie
 [dźwięki]({{< relref "Dźwięk.md" >}}) są jednakowo ważne. Z różnych przyczyn

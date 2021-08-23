@@ -2,9 +2,9 @@
 title: "John McLaughlin"
 slug: "john-mclaughlin"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Gitarzyści jazzowi']
 draft: false
-wikilinks: ['Mahavishnu_Orchestra', 'jazzrock', 'Al_Di_Meola', 'Paco_de_Lucia', 'gitara_akustyczna', 'Pat_Metheny', 'syntezator_gitarowy', 'gitara_elektryczna', 'blues', 'kategoria:gitarzy%C5%9Bci_jazzowi']
+wikilinks: ['Mahavishnu_Orchestra', 'jazzrock', 'Al_Di_Meola', 'Paco_de_Lucia', 'gitara_akustyczna', 'Pat_Metheny', 'syntezator_gitarowy', 'gitara_elektryczna', 'blues']
 ---
 **John McLaughlin** to centralna postać jazzu lat siedem­dziesiątych,
 wielki improwizator gitary elektrycznej i aku­stycznej.

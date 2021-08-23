@@ -2,8 +2,8 @@
 title: "Budowa gitar"
 slug: "budowa-gitar"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Rodzaje gitar']
 draft: false
-wikilinks: [':Kategoria:Rodzaje_gitar']
+wikilinks: []
 ---
 1.  REDIRECT 

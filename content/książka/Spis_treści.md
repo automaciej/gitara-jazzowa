@@ -2,9 +2,9 @@
 title: "Spis treści"
 slug: "spis-treści"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['Strona główna']
+kategorie: ['Rodzaje gitar', 'Strona główna']
 draft: false
-wikilinks: ['Od_autora', ':Kategoria:Rodzaje_gitar', 'Kryteria_oceny_przy_wyborze_instrumentu_i_akcesori%C3%B3w', 'Gitara', 'Wzmacniacz', 'Struny', 'Kostka', 'Pasek_do_gitary', 'Futera%C5%82', 'Przygotowanie_instrumentu_do_gry', 'Regulacja_szyjki_instrumentu', 'Ustawianie_wysoko%C5%9Bci_strun_nad_gryfem', 'Regulacja_menzury_strun', 'Korekcja_si%C5%82y_brzmienia_strun', 'Postawa_z_instrumentem', 'Strojenie_gitary', 'Praca_r%C4%85k', 'Prawa_r%C4%99ka', 'Lewa_r%C4%99ka', 'Palcowanie', 'Kszta%C5%82towanie_d%C5%BAwi%C4%99ku', 'Dynamika', 'Barwa_d%C5%BAwi%C4%99ku', 'Rejestry_g%C5%82osowe', 'Uderzenia_kombinowane', 'D%C5%BAwi%C4%99ki_t%C5%82umione', 'D%C5%BAwi%C4%99ki_markowane', 'Modulowanie_d%C5%BAwi%C4%99ku', 'Wibracja', 'Pog%C5%82os', 'Modulatory_i_filtry_d%C5%BAwi%C4%99ku', 'Sprz%C4%99%C5%BCenia', 'Artykulacja', 'Legato', 'Akcentowanie', 'Ozdobniki', 'Fla%C5%BColet', 'R%C3%B3%C5%BCne_techniki_gry_na_gitarze', 'Wprowadzenie_do_harmonii_jazzowej', '%C4%86wiczenia_techniczne']
+wikilinks: ['Od_autora', 'Kryteria_oceny_przy_wyborze_instrumentu_i_akcesori%C3%B3w', 'Gitara', 'Wzmacniacz', 'Struny', 'Kostka', 'Pasek_do_gitary', 'Futera%C5%82', 'Przygotowanie_instrumentu_do_gry', 'Regulacja_szyjki_instrumentu', 'Ustawianie_wysoko%C5%9Bci_strun_nad_gryfem', 'Regulacja_menzury_strun', 'Korekcja_si%C5%82y_brzmienia_strun', 'Postawa_z_instrumentem', 'Strojenie_gitary', 'Praca_r%C4%85k', 'Prawa_r%C4%99ka', 'Lewa_r%C4%99ka', 'Palcowanie', 'Kszta%C5%82towanie_d%C5%BAwi%C4%99ku', 'Dynamika', 'Barwa_d%C5%BAwi%C4%99ku', 'Rejestry_g%C5%82osowe', 'Uderzenia_kombinowane', 'D%C5%BAwi%C4%99ki_t%C5%82umione', 'D%C5%BAwi%C4%99ki_markowane', 'Modulowanie_d%C5%BAwi%C4%99ku', 'Wibracja', 'Pog%C5%82os', 'Modulatory_i_filtry_d%C5%BAwi%C4%99ku', 'Sprz%C4%99%C5%BCenia', 'Artykulacja', 'Legato', 'Akcentowanie', 'Ozdobniki', 'Fla%C5%BColet', 'R%C3%B3%C5%BCne_techniki_gry_na_gitarze', 'Wprowadzenie_do_harmonii_jazzowej', '%C4%86wiczenia_techniczne']
 aliases: ['spis-tresci']
 ---
 *Strony odpowiadające rozdziałom książki w wydaniu papierowym.*

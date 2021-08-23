@@ -2,9 +2,9 @@
 title: "Gitara akustyczna"
 slug: "gitara-akustyczna"
 date: 2005-01-01T00:00:00+01:00
-kategorie: []
+kategorie: ['Rodzaje gitar']
 draft: false
-wikilinks: ['grafika:GibsonJ200.jpg', 'gitara_klasyczna', 'pud%C5%82o_rezonansowe', 'Grafika:GitaraJumboWymiary.png', 'lewa_r%C4%99ka', 'Szyjka', 'gryf', 'mostek', 'Grafika:MostekPrzyklejony.jpg', 'pud%C5%82o_rezonansowe', 'Django_Reinhardt', 'kategoria:rodzaje_gitar']
+wikilinks: ['grafika:GibsonJ200.jpg', 'gitara_klasyczna', 'pud%C5%82o_rezonansowe', 'Grafika:GitaraJumboWymiary.png', 'lewa_r%C4%99ka', 'Szyjka', 'gryf', 'mostek', 'Grafika:MostekPrzyklejony.jpg', 'pud%C5%82o_rezonansowe', 'Django_Reinhardt']
 images:
   - path: "/images/GibsonJ200.jpg"
   - path: "/images/GitaraJumboWymiary.png"
