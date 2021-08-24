@@ -10,6 +10,7 @@ _Książka Marka Blizińskiego_
 - [x] Przekierowania pomiędzy stronami (2021-08-22)
 - [x] Odtworzenie zdjęć i ilustracji (2021-08-22)
 - [x] Linki do stron kategorii (2021-08-23)
+- [ ] Usunięcie stęchłych linków
 - [ ] Uzupełnienie brakujących danych na podstawie XML z Mediawiki
 - [ ] Oddzielenie stron o harmonii jazzowej
 - [ ] Ułożenie stron w sekwencję
