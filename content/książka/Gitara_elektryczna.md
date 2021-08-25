@@ -24,7 +24,7 @@ a czasem i wstawkę z twardego drewna zapobiegającą skręcaniu się.
 [Szyjka]({{< relref "Gryf" >}}), podobnie jak w [gitarach
 akustycznych]({{< relref "Gitara_akustyczna.md" >}}), jest wąska, a
 [gryf]({{< relref "Gryf.md" >}}) zaokrąglony, ale na ogół ilość
-progów<!-- link nie odnosił się do niczego --> jest nie mniejsza niż 22, choć zdarza się
+progów<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'próg' ('content/książka/próg.md') and that does not exist --> jest nie mniejsza niż 22, choć zdarza się
 też i więcej. Dostęp do najwyższych pozycji jest lepszy niż w [gitarach
 elektryczno-akustycznych]({{< relref "Gitara_elektryczno-akustyczna.md" >}}),
 nawet tych z wycięciem.
@@ -45,7 +45,7 @@ Stratocaster]({{< relref "Fender_Stratocaster.md" >}}). Na rysunku pokazane są
 wszystkie elementy tego instrumentu. Korpus wymodelowany z pełnego
 drewna, [gryf]({{< relref "Gryf.md" >}}) przykręcany do korpusu śrubami oraz
 [mostek]({{< relref "Mostek.md" >}}) z systemem tremolo skonstruowany również
-przez Leo Fendera<!-- link nie odnosił się do niczego -->. Umożliwiał
+przez Leo Fendera<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'Leo_Fender' ('content/książka/Leo_Fender.md') and that does not exist -->. Umożliwiał
 [wibrowanie]({{< relref "Wibracja.md" >}}) i obniżanie dźwięku pojedynczych strun
 i całych [akordów]({{< relref "Akord.md" >}}).
 
@@ -58,8 +58,8 @@ mostek z systemem tremolo skonstruowany przez gitarzystę - konstruktora
 [Floyd Rose]({{< relref "Floyd_Rose.md" >}})'a. Jest to mostek swobodnie
 zawieszony, przystosowany do podwójnej akcji - podciągania i
 opuszczania. Jest wyposażony w
-mikrostrojniki<!-- link nie odnosił się do niczego -->, regulację
-menzury<!-- link nie odnosił się do niczego --> i mini-imadełko do zamocowania struny.
+mikrostrojniki<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'mikrostrojnik' ('content/książka/mikrostrojnik.md') and that does not exist -->, regulację
+menzury<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'menzura' ('content/książka/menzura.md') and that does not exist --> i mini-imadełko do zamocowania struny.
 Gitary z takim mostem posiadają na siodełku [gryfu]({{< relref "Gryf.md" >}})
 blokadę strun, zwiększająca stabilność stroju.
 
@@ -69,7 +69,7 @@ Pod [strunami]({{< relref "Struna.md" >}}) gitara elektryczna ma umieszczone
 przeważnie trzy [przetworniki]({{< relref "Przetwornik.md" >}})
 elektromagnetyczne na ogół z regulowana wysokością i to często na każdą
 strunę z osobna. Na korpusie gitary zamocowane są
-potencjometry<!-- link nie odnosił się do niczego --> siły głosu, barwy tonu,
+potencjometry<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'potencjometr' ('content/książka/potencjometr.md') and that does not exist --> siły głosu, barwy tonu,
 przełącznik przystawek, gniazdo wyjściowe, a czasem dodatkowe
 przełączniki kilkupozycyjne, zawierające gotowe mikstury barwowe.
 Nieliczne modele zawierają również urządzenia elektroniczne w rodzaju
@@ -82,12 +82,12 @@ jaskrawym w górze, głębokim w dole (oczywiście jest to uzależnione od
 ustawienia korekcji [wzmacniacza]({{< relref "Wzmacniacz.md" >}})). Instrumenty
 te nie ,,sprzęgają się" ze wzmacniaczem lak łatwo, jak gitary
 posiadające [pudło rezonansowe]({{< relref "Pudło_rezonansowe.md" >}}), przez co
-łatwiej dźwięk przesterować<!-- link nie odnosił się do niczego --> i grać
+łatwiej dźwięk przesterować<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'przesterowanie' ('content/książka/przesterowanie.md') and that does not exist --> i grać
 kontrolowanym [sprzężeniem zwrotnym]({{< relref "Sprzężenie_zwrotne.md" >}}).
 Dobrze współpracują ze [wzmacniaczem]({{< relref "Wzmacniacz.md" >}}) dużej mocy,
 są wygodne, trwałe i łatwe w transporcie. Najlepiej też współpracują z
 różnego rodzaju przetwornikami dźwięku jak:
 [wahwah]({{< relref "Wahwah.md" >}}), [fuzz]({{< relref "Fuzz.md" >}}),
-flanger<!-- link nie odnosił się do niczego -->, [chorus]({{< relref "Chorus.md" >}}) itp.
+flanger<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'flanger' ('content/książka/flanger.md') and that does not exist -->, [chorus]({{< relref "Chorus.md" >}}) itp.
 
-Elektryczna, gitara<!-- link nie odnosił się do niczego -->
+Elektryczna, gitara<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'kategoria:rodzaje_gitar' ('content/książka/kategoria:rodzaje_gitar.md') and that does not exist -->

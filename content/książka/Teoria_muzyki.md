@@ -31,7 +31,7 @@ Jednolita teoria muzyki nie istnieje. O ile w matematyce na przykład
 istnieją ścisłe definicje wszystkich pojęć, to w muzyce pojęcia są
 bardziej płynne i ich rozumienie może się różnić u poszczególnych
 muzyków. Dlatego pamiętaj, drogi Czytelniku, że to, co tu jest
-napisane, jest tylko moim<!-- link nie odnosił się do niczego -->
+napisane, jest tylko moim<!-- link nie odnosił się do niczego: 'Teoria muzyki' ('content/książka/Teoria_muzyki.md') links to 'Użytkownik:MaciejBlizinski' ('content/książka/Użytkownik:MaciejBlizinski.md') and that does not exist -->
 spojrzeniem na poruszane zagadnienia. Twoje może być inne.
 
 Ten artykuł zajmuje się głównie harmonią, czyli pewnym wycinkiem teorii

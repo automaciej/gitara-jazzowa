@@ -8,7 +8,7 @@ wikilinks: ['Larry_Coryell', 'John_McLaughlin', 'blues', 'struna', 'Wibracja', '
 ---
 Bardzo korzystny wpływ na rozwój jazzowej techniki gitarowej w latach
 siedemdziesiątych wywarli gitarzyści z kręgu muzyki jazz-rockowej:
-Larry Coryell<!-- link nie odnosił się do niczego -->, a szczegól­nie [John
+Larry Coryell<!-- link nie odnosił się do niczego: 'Jazzrock' ('content/książka/Jazzrock.md') links to 'Larry_Coryell' ('content/książka/Larry_Coryell.md') and that does not exist -->, a szczegól­nie [John
 McLaughlin]({{< relref "John_McLaughlin.md" >}}).
 
 Technika i brzmienie gitary jazz-rockowej wywodzi się z muzyki rock. Aby
@@ -24,8 +24,8 @@ nosowego. Ta technika gry (omówiona w rozdziale
 gitary rockowej.
 
 Poszukiwania, eksperymenty, postęp są zjawiskami bezsprzecznie
-pozytywnymi. W technice rock<!-- link nie odnosił się do niczego --> drzemią na pewno
-elementy, które jazz<!-- link nie odnosił się do niczego --> mógłby zaadaptować. Wśród
+pozytywnymi. W technice rock<!-- link nie odnosił się do niczego: 'Jazzrock' ('content/książka/Jazzrock.md') links to 'rock' ('content/książka/rock.md') and that does not exist --> drzemią na pewno
+elementy, które jazz<!-- link nie odnosił się do niczego: 'Jazzrock' ('content/książka/Jazzrock.md') links to 'jazz' ('content/książka/jazz.md') and that does not exist --> mógłby zaadaptować. Wśród
 pozytywnych przykładów należy wymienić [Johna
 McLaughlina]({{< relref "John_McLaughlin.md" >}}).
 

@@ -14,7 +14,7 @@ images:
 **Gitara klasyczna** jest instrumentem będącym pierwowzorem wszystkich
 późniejszych rozwiązań. Lutnikiem, który w połowie XIX w. wypracował
 najdoskonalszy model gitary klasycznej, był Antonio
-Torres<!-- link nie odnosił się do niczego -->. Od tego czasu rozwiązanie
+Torres<!-- link nie odnosił się do niczego: 'Gitara klasyczna' ('content/książka/Gitara_klasyczna.md') links to 'Antonio_Torres' ('content/książka/Antonio_Torres.md') and that does not exist -->. Od tego czasu rozwiązanie
 konstrukcyjne gitary klasycznej nie jest już zmieniane, a wszystkie jej
 parametry są ściśle określone. Większe odchylenia od nich prowadzą do
 straty jakości tonu. Oto typowe wymiary:
@@ -38,7 +38,7 @@ i prostymi słojami pozbawionymi sęków. Odpowiednie belkowanie wewnątrz
 pudła rezonansowego zabezpiecza je przed siłą naciągu strun. Sam
 strunnik z mostkiem przyklejony jest bezpośrednio do płyty rezonansowej.
 Na główce gitary umieszczono mechanizmy, służące do strojenia
-instrumentu, tzw. „maszynki<!-- link nie odnosił się do niczego -->".
+instrumentu, tzw. „maszynki<!-- link nie odnosił się do niczego: 'Gitara klasyczna' ('content/książka/Gitara_klasyczna.md') links to 'maszynka' ('content/książka/maszynka.md') and that does not exist -->".
 
 Struny do gitary klasycznej są nylonowe, basowe zaś jeszcze owija się
 cienkim drucikiem (owijką).
@@ -65,8 +65,8 @@ smyczków. Często używana jest też w muzyce brazylijskiej. Do obu tych
 zastosowań bardziej odpowiednia wydaje się być technika jazzowa i ta na
 ogół jest stosowana. W małym combo, jako instrument jazzowy gitara
 klasyczna, moim zdaniem, nie sprawdza się, szczególnie traktowana
-techniką klasyczną (patrz Charlie Byrd<!-- link nie odnosił się do niczego -->,
-Laurindo Almeida<!-- link nie odnosił się do niczego -->), z wyjątkiem [Django
+techniką klasyczną (patrz Charlie Byrd<!-- link nie odnosił się do niczego: 'Gitara klasyczna' ('content/książka/Gitara_klasyczna.md') links to 'Charlie_Byrd' ('content/książka/Charlie_Byrd.md') and that does not exist -->,
+Laurindo Almeida<!-- link nie odnosił się do niczego: 'Gitara klasyczna' ('content/książka/Gitara_klasyczna.md') links to 'Laurindo_Almeida' ('content/książka/Laurindo_Almeida.md') and that does not exist -->), z wyjątkiem [Django
 Reinhardta]({{< relref "Django_Reinhardt.md" >}}), którego technika różniła się
 znacznie od techniki klasycznej.
 
@@ -75,4 +75,4 @@ Passa]({{< relref "Joe_Pass.md" >}}), który przy grze wielogłosowej również
 stosuje technikę jazzową - (patrz rozdział pt. „[Różne techniki gry na
 gitarze]({{< relref "Technika" >}})").
 
-Klasyczna, gitara<!-- link nie odnosił się do niczego -->
+Klasyczna, gitara<!-- link nie odnosił się do niczego: 'Gitara klasyczna' ('content/książka/Gitara_klasyczna.md') links to 'kategoria:rodzaje_gitar' ('content/książka/kategoria:rodzaje_gitar.md') and that does not exist -->

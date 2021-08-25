@@ -6,7 +6,7 @@ kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['schemat_harmoniczny', 'd%C5%BAwi%C4%99k', 'akord', 'funkcja_harmoniczna', 'dominanta', 'septyma_akordu', 'tonika', 'dominanta']
 ---
-Często schemat harmoniczny<!-- link nie odnosił się do niczego --> utworu
+Często schemat harmoniczny<!-- link nie odnosił się do niczego: 'Interpretacja harmoniczna' ('content/książka/Interpretacja_harmoniczna.md') links to 'schemat_harmoniczny' ('content/książka/schemat_harmoniczny.md') and that does not exist --> utworu
 podawany jest w formie uproszczonej, aby wykonawca mógł się wykazać
 inwencją. Trzeba wtedy wiedzieć, jakie [dźwięki]({{< relref "Dźwięk.md" >}}) i do
 jakich [akordów]({{< relref "Akord.md" >}}) można dodawać. Zależy to przede

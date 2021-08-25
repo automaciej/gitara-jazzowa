@@ -39,8 +39,8 @@ donośny niż gitary typu „Flattop" z uwagi na dość luźny kontakt strun z
 płytą rezonansową (tylko poprzez wolno stojący mostek) oraz brak
 bezpośredniego kontaktu gryfu z płytą rezonansową. Posiada natomiast
 wyrównane i mięsiste brzmienie w akordach i używana jest w big-bandach i
-zespołach swingowych<!-- link nie odnosił się do niczego -->. Wraz z kontrabasem i perkusją
+zespołach swingowych<!-- link nie odnosił się do niczego: 'Arch Top' ('content/książka/Arch_Top.md') links to 'swing' ('content/książka/swing.md') and that does not exist -->. Wraz z kontrabasem i perkusją
 tworzy typową i najlepszą barwę sekcji rytmicznej. W orkiestrze Counta
-Basiego<!-- link nie odnosił się do niczego --> (wzorcowej tego typu) na gitarze gra
-Freddie Green<!-- link nie odnosił się do niczego -->.
+Basiego<!-- link nie odnosił się do niczego: 'Arch Top' ('content/książka/Arch_Top.md') links to 'Count_Basie' ('content/książka/Count_Basie.md') and that does not exist --> (wzorcowej tego typu) na gitarze gra
+Freddie Green<!-- link nie odnosił się do niczego: 'Arch Top' ('content/książka/Arch_Top.md') links to 'Freddie_Green' ('content/książka/Freddie_Green.md') and that does not exist -->.
 

@@ -7,7 +7,7 @@ draft: false
 wikilinks: ['maszynka', 'struny', 'gitara_dwunastostrunowa']
 ---
 Wśród wielu akcesoriów ułatwiających życie gitarzyście, można wymienić
-**korbkę** zakładaną na uchwyt maszynki<!-- link nie odnosił się do niczego -->,
+**korbkę** zakładaną na uchwyt maszynki<!-- link nie odnosił się do niczego: 'Korbka' ('content/książka/Korbka.md') links to 'maszynka' ('content/książka/maszynka.md') and that does not exist -->,
 przyśpieszającą nawijanie się [struny]({{< relref "Struna.md" >}}) na kołek.
 Przydaje się podczas zmiany całego kompletu strun, szczególnie w
 [gitarach dwunastostrunowych]({{< relref "Gitara_dwunastostrunowa.md" >}}).

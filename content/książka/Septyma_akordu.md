@@ -9,7 +9,7 @@ wikilinks: ['d%C5%BAwi%C4%99k', 'akord', 'tonika', 'dominantowy', 'Tercja_akordu
 **Septyma** akordu jest jednym z dwóch najważniejszych
 [dźwięków]({{< relref "Dźwięk.md" >}}) w [akordzie]({{< relref "Akord.md" >}}).
 Septyma określa charakter akordu, który może być
-[toniczny]({{< relref "Tonika.md" >}}) lub dominantowy<!-- link nie odnosił się do niczego -->.
+[toniczny]({{< relref "Tonika.md" >}}) lub dominantowy<!-- link nie odnosił się do niczego: 'Septyma akordu' ('content/książka/Septyma_akordu.md') links to 'dominantowy' ('content/książka/dominantowy.md') and that does not exist -->.
 
 Na przykład w akordzie Cmaj7 (c-dur) septymą jest dźwięk B (wym. "ha").
 

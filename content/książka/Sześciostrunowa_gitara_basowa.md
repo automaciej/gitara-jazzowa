@@ -20,9 +20,9 @@ brzmiące o oktawę niżej. W standardowym
   - **H<sub>2</sub>** (30,9 Hz)
 
 Gitary takie posiadają nieco szerszy [gryf]({{< relref "Gryf.md" >}}), dłuższą
-menzurę<!-- link nie odnosił się do niczego --> i na ogół pełny korpus. Ze względu na
+menzurę<!-- link nie odnosił się do niczego: 'Sześciostrunowa gitara basowa' ('content/książka/Sześciostrunowa_gitara_basowa.md') links to 'menzura' ('content/książka/menzura.md') and that does not exist --> i na ogół pełny korpus. Ze względu na
 niskie brzmienie unika się stosowania [akordów]({{< relref "Akord.md" >}}).
 Używane są do charakterystycznych partii melodycznych oraz do gry w
 sekcji rytmicznej, wzbogacają i ułatwiają grę solową.
 
-Basowa, sześciostrunowa, gitara<!-- link nie odnosił się do niczego -->
+Basowa, sześciostrunowa, gitara<!-- link nie odnosił się do niczego: 'Sześciostrunowa gitara basowa' ('content/książka/Sześciostrunowa_gitara_basowa.md') links to 'kategoria:rodzaje_gitar' ('content/książka/kategoria:rodzaje_gitar.md') and that does not exist -->

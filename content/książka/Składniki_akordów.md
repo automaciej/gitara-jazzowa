@@ -57,7 +57,7 @@ Co ma począć gitarzysta w tej sytuacji?\!
 > Des-dziewięć, wtedy powinien wyglądać tak: D♭9. Jeżeli natomiast jest
 > to D-dur siedem z noną małą (często wymawiany "D siedem dziewięć
 > minus"), to powinien wyglądać tak: D7♭9 --Maciej
-> Bliziński<!-- link nie odnosił się do niczego --> 17:24, 21 maj 2005
+> Bliziński<!-- link nie odnosił się do niczego: 'Składniki akordów' ('content/książka/Składniki_akordów.md') links to 'Wikipedysta:MaciejBlizinski' ('content/książka/Wikipedysta:MaciejBlizinski.md') and that does not exist --> 17:24, 21 maj 2005
 > (CEST)
 
 Istnienie różnych notacji harmonicznych stawia muzyków jazzowych w

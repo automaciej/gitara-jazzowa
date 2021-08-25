@@ -15,7 +15,7 @@ przed grającym na specjalnym stoliku lub też wyposażona jest w nóżki.
 Grający w lewej ręce trzyma metalowy suwak, którym skraca struny lekko
 je dociskając. Na prawą ma założone specjalne pierścienie zakończone
 piórkami, którymi zarywa struny. Strój gitary hawajskiej jest oparty na
-akordzie durowym e, cis, a, e, A, E (A<!-- link nie odnosił się do niczego -->-dur). Dla
+akordzie durowym e, cis, a, e, A, E (A<!-- link nie odnosił się do niczego: 'Gitara hawajska' ('content/książka/Gitara_hawajska.md') links to 'A' ('content/książka/A.md') and that does not exist -->-dur). Dla
 ułatwienia gry i rozszerzenia możliwości produkowane są też całe
 zestawy gitar hawajskich, które można nastroić na różne tonacje i akordy
 oraz używać równolegle, przerzucając się tylko z gryfu na gryf.
@@ -32,4 +32,4 @@ Zupełnie odmienna [technika]({{< relref "Technika.md" >}}) gry, jak i strój
 gitary hawajskiej tworzy specjalistów w tej dziedzinie, bowiem
 umiejętność gry na gitarze konwencjonalnej jest tu mało przydatna.
 
-Hawajska, gitara<!-- link nie odnosił się do niczego -->
+Hawajska, gitara<!-- link nie odnosił się do niczego: 'Gitara hawajska' ('content/książka/Gitara_hawajska.md') links to 'kategoria:rodzaje_gitar' ('content/książka/kategoria:rodzaje_gitar.md') and that does not exist -->

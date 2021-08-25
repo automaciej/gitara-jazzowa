@@ -7,7 +7,7 @@ draft: false
 wikilinks: ['swing', 'ogrywanie', 'Akompaniament']
 ---
 **Walking Bass**, czyli "chodzący bas" to część akompaniamentu dla
-utworów o charakterze swingowym<!-- link nie odnosił się do niczego -->. Polega on na
+utworów o charakterze swingowym<!-- link nie odnosił się do niczego: 'Walking' ('content/książka/Walking.md') links to 'swing' ('content/książka/swing.md') and that does not exist -->. Polega on na
 [ogrywaniu]({{< relref "Ogrywanie_akordu.md" >}}) akordów ćwierćnutami.
 
 **Zobacz też**

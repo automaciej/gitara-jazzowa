@@ -52,4 +52,4 @@ kadencji, ale żadna inna nie jest nazywana kadencją wielką doskonałą.
 
   - [Funkcje poboczne]({{< relref "Funkcje_poboczne.md" >}})
   - [Wtrącenia]({{< relref "Wtrącenie" >}})
-  - II-V-I (dwa pięć jeden)<!-- link nie odnosił się do niczego -->
+  - II-V-I (dwa pięć jeden)<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/książka/Funkcje_harmoniczne.md') links to 'II-V-I_\\(dwa_pięć_jeden\\)' ('content/książka/II-V-I_\\(dwa_pięć_jeden\\).md') and that does not exist -->

@@ -20,4 +20,4 @@ Słuchając go, warto zwrócić uwagę na sposób, w jaki wykonuje
 
 Solo Kenny Burrella w temacie pt. „Saturday Nite Blues":
 
-Burrell, Kenny<!-- link nie odnosił się do niczego -->
+Burrell, Kenny<!-- link nie odnosił się do niczego: 'Kenny Burrell' ('content/książka/Kenny_Burrell.md') links to 'kategoria:gitarzyści_jazzowi' ('content/książka/kategoria:gitarzyści_jazzowi.md') and that does not exist -->

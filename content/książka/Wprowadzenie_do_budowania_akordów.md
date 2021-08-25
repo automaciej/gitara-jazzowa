@@ -95,7 +95,7 @@ sposób.
 `E |―――|―――|―――1―――|―――|―――|―――|―――`
 
 Pół tonu pod septymą małą znajduje się seksta akordu, więc
-G6<!-- link nie odnosił się do niczego --> można zagrać tak:
+G6<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/książka/Wprowadzenie_do_budowania_akordów.md') links to 'G6' ('content/książka/G6.md') and that does not exist --> można zagrać tak:
 
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 `B |―――|―――|―――5―――|―――|―――|―――|―――`
@@ -116,7 +116,7 @@ będzie to [Gm7]({{< relref "Gm7.md" >}}).
 
 W muzyce w stylu bossa nova często mamy do czynienia z akordem mollowym
 z obniżoną kwintą. W tonacji mollowej jest to subdominanta drugiego
-stopnia, z mollowego II-V-I<!-- link nie odnosił się do niczego -->.
+stopnia, z mollowego II-V-I<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/książka/Wprowadzenie_do_budowania_akordów.md') links to 'II-V-I' ('content/książka/II-V-I.md') and that does not exist -->.
 
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 `B |―――|――♭5―――|―――|―――|―――|―――|―――`
@@ -183,7 +183,7 @@ septymę wielką.
 `A |―――|―――|―――1―――|―――|―――|―――|―――`
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 
-A dość niewygodny do chwycenia C6<!-- link nie odnosił się do niczego --> będzie wyglądać tak:
+A dość niewygodny do chwycenia C6<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/książka/Wprowadzenie_do_budowania_akordów.md') links to 'C6' ('content/książka/C6.md') and that does not exist --> będzie wyglądać tak:
 
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 `B |―――|―――|―――|―――|―――3―――|―――|―――`
@@ -202,5 +202,5 @@ Z grupy akordów z prymą na strunie A warto pokazać
 `A |―――|―――|―――1―――|―――|―――|―――|―――`
 `E |―――|―――|―――|―――|―――|―――|―――|―――`
 
-Jak chwycić Cm6<!-- link nie odnosił się do niczego --> (akord z tercją małą i sekstą wielką),
+Jak chwycić Cm6<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/książka/Wprowadzenie_do_budowania_akordów.md') links to 'Cm6' ('content/książka/Cm6.md') and that does not exist --> (akord z tercją małą i sekstą wielką),
 pozostawiam Czytelnikowi jako ćwiczenie.

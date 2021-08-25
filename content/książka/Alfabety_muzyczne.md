@@ -14,8 +14,8 @@ tym:
     [bemolem]({{< relref "Bemol.md" >}}))
 
 We Włoszech można znaleźć w roli symboli [akordów]({{< relref "Akord.md" >}})
-nazwy solmizacyjne<!-- link nie odnosił się do niczego -->. Jeśli chodzi o oznaczenia
-dźwięków obcych i alteracji<!-- link nie odnosił się do niczego --> również
+nazwy solmizacyjne<!-- link nie odnosił się do niczego: 'Alfabety muzyczne' ('content/książka/Alfabety_muzyczne.md') links to 'Solmizacja' ('content/książka/Solmizacja.md') and that does not exist -->. Jeśli chodzi o oznaczenia
+dźwięków obcych i alteracji<!-- link nie odnosił się do niczego: 'Alfabety muzyczne' ('content/książka/Alfabety_muzyczne.md') links to 'Dźwięki_alterowane' ('content/książka/Dźwięki_alterowane.md') and that does not exist --> również
 istnieje wiele systemów. Zamiast "+" i "-" można spotkać odpowiednio ♯ i
 ♭ lub \< i \>. Niektóre akordy mają specjalne oznaczenia.
 

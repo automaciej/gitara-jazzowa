@@ -8,7 +8,7 @@ wikilinks: ['akord', 'sk%C5%82adniki_akordu', 'interwa%C5%82', 'akord', 'nona']
 ---
 Notacja harmoniczna w jazzie opiera się na systemie symboli literowych.
 Oznaczają one podstawę [akordu]({{< relref "Akord.md" >}}). Dodatkowe cyfry i
-znaki określają bliżej jego składniki<!-- link nie odnosił się do niczego -->.
+znaki określają bliżej jego składniki<!-- link nie odnosił się do niczego: 'Notacja harmoniczna' ('content/książka/Notacja_harmoniczna.md') links to 'składniki_akordu' ('content/książka/składniki_akordu.md') and that does not exist -->.
 Np. symbol F6 wskazuje, że podstawą akordu durowego jest dźwięk F. Akord
 F składa się z dźwięków: f, a, c - cyfra 6 przy literze oznacza, że do
 akordu dodany jest dźwięk oddalony od podstawy o sekstę wielką w górę, a
@@ -49,7 +49,7 @@ mają wpływu na system pisowni akordów. Np. jeśli mamy tonację F-dur i
 będzie tam symbol akordu A9, to pomimo że nuta h jest obniżona bemolem
 przy kluczu, gramy akord z noną wielką, tj. a, cis, e, g, h, ponieważ
 nonę małą oznaczamy zawsze za pomocą osobnego znaku chromatycznego.
-Należy zwrócić uwagę, że w odróżnieniu od nony<!-- link nie odnosił się do niczego -->,
+Należy zwrócić uwagę, że w odróżnieniu od nony<!-- link nie odnosił się do niczego: 'Notacja harmoniczna' ('content/książka/Notacja_harmoniczna.md') links to 'nona' ('content/książka/nona.md') and that does not exist -->,
 septyma bez znaku oznacza interwał mały.
 
 Rozróżnienie akordu durowego i molowego następuje zazwyczaj przez

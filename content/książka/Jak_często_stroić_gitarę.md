@@ -9,7 +9,7 @@ aliases: ['jak-czesto-stroic-gitare']
 ---
 [Strój gitary]({{< relref "Strojenie_gitary" >}}) należy sprawdzać przed każdym
 użyciem instrumentu; również jeśli zabieramy się do
-ćwiczenia<!-- link nie odnosił się do niczego -->. Stałe pilnowanie precyzji stroju
+ćwiczenia<!-- link nie odnosił się do niczego: 'Jak często stroić gitarę' ('content/książka/Jak_często_stroić_gitarę.md') links to 'ćwiczenie' ('content/książka/ćwiczenie.md') and that does not exist -->. Stałe pilnowanie precyzji stroju
 instrumentu ma wpływ nie tylko na jakość wykonywanej przez nas muzyki.
 Stałe obcowanie z prawidłowym strojem wyrobi w nas nawyk rozpoznawania
 nieczystości intonacyjnych i reagowania na nie.

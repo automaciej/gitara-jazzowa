@@ -8,7 +8,7 @@ wikilinks: ['uk%C5%82ad_skupiony']
 ---
 **Drop two** (czyt. *drop-tu*, po polsku oznacza upuść drugi) to sposób
 układani głosów. Powstaje on w ten sposób, że bierzemy układ
-skupiony<!-- link nie odnosił się do niczego --> i drugi dźwięk od góry *strącamy*
+skupiony<!-- link nie odnosił się do niczego: 'Drop two' ('content/książka/Drop_two.md') links to 'układ_skupiony' ('content/książka/układ_skupiony.md') and that does not exist --> i drugi dźwięk od góry *strącamy*
 oktawę niżej. Pianiści bardzo często ćwiczą granie akordów w układzie
 rozległym, ponieważ tak rozłożone akordy najczęściej dobrze brzmią.
 

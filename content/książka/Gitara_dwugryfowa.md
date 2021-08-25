@@ -17,8 +17,8 @@ dołączono obok siebie dwie szyjki z gryfami. Z reguły jedna z nich jest
 sześciostrunowa. Są to prawie zawsze [gitary
 elektryczne]({{< relref "Gitara_elektryczna.md" >}}), a stosuje się je wtedy, gdy
 gitarzysta musi często zmieniać instrument na estradzie. Na takiej
-gitarze grał m.in. Jimmy Page<!-- link nie odnosił się do niczego --> oraz Seweryn
-Krajewski<!-- link nie odnosił się do niczego -->.
+gitarze grał m.in. Jimmy Page<!-- link nie odnosił się do niczego: 'Gitara dwugryfowa' ('content/książka/Gitara_dwugryfowa.md') links to 'Jimmy_Page' ('content/książka/Jimmy_Page.md') and that does not exist --> oraz Seweryn
+Krajewski<!-- link nie odnosił się do niczego: 'Gitara dwugryfowa' ('content/książka/Gitara_dwugryfowa.md') links to 'Seweryn_Krajewski' ('content/książka/Seweryn_Krajewski.md') and that does not exist -->.
 
 Gitarę dwugryfową można wykorzystywać także jako instrument służący do
 grania specjalną techniką gitarową: tappingiem oburęcznym (zob. technika
@@ -27,4 +27,4 @@ czasie gry oba gryfy jednocześnie. W ten sposób gra m. in Adam Fulara.
 
 **Zobacz też**: [www.fulara.com](http://www.fulara.com)
 
-Dwugryfowa, gitara<!-- link nie odnosił się do niczego -->
+Dwugryfowa, gitara<!-- link nie odnosił się do niczego: 'Gitara dwugryfowa' ('content/książka/Gitara_dwugryfowa.md') links to 'kategoria:rodzaje_gitar' ('content/książka/kategoria:rodzaje_gitar.md') and that does not exist -->

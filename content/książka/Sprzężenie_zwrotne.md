@@ -53,7 +53,7 @@ niezamierzoną kakofonię.
 
 Przy niektórych dźwiękach w pewnym ustawieniu, można osiągnąć ciekawe
 [flażolety]({{< relref "Flażolet.md" >}}), gdyż podczas trwania dźwięku ze
-sprzężeniem, niektóre alikwoty<!-- link nie odnosił się do niczego --> stają się
+sprzężeniem, niektóre alikwoty<!-- link nie odnosił się do niczego: 'Sprzężenie zwrotne' ('content/książka/Sprzężenie_zwrotne.md') links to 'alikwot' ('content/książka/alikwot.md') and that does not exist --> stają się
 głośniejsze od dźwięku podstawowego. Wykorzystywanie wszystkich
 możliwości sprzężenia zwrotnego da pozytywny efekt muzyczny tylko pod
 warunkiem dużej wrażliwości i poczucia muzycznego smaku gitarzysty.

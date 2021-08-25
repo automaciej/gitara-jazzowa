@@ -7,7 +7,7 @@ draft: false
 wikilinks: ['menzura', 'regulacja_menzury', 'Strojenie_gitary']
 ---
 Gitara, mimo właściwej pielęgnacji i okresowej korekty
-menzury<!-- link nie odnosił się do niczego -->, cierpi na pewne minimalne odchylenia w
+menzury<!-- link nie odnosił się do niczego: 'Odchylenia od stroju' ('content/książka/Odchylenia_od_stroju.md') links to 'menzura' ('content/książka/menzura.md') and that does not exist -->, cierpi na pewne minimalne odchylenia w
 stroju. Odchylenia te wzrastają pod koniec eksploatacji kompletu strun.
 Gitarzysta powinien reagować, nim będą one zauważalne dla słuchacza. Gdy
 zawodzi już [regulacja menzury]({{< relref "Regulacja_menzury.md" >}}), można

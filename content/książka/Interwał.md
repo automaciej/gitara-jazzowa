@@ -40,19 +40,19 @@ następujące operacje:
     dźwięków]({{< relref "Przestrzeń_naturalnych_nazw_dźwięków.md" >}})
     trzeba przejść, aby dotrzeć od X do Y . Liczba ta będzie się nazywać
     liczbą [stopni]({{< relref "Stopień.md" >}}) gamy
-    diatonicznej<!-- link nie odnosił się do niczego -->.
+    diatonicznej<!-- link nie odnosił się do niczego: 'Interwał' ('content/książka/Interwał.md') links to 'gama_diatoniczna' ('content/książka/gama_diatoniczna.md') and that does not exist -->.
 2.  Na podstawie tej liczby określić nazwę interwału (pryma, sekunda,
     tercja itd.) według rysunku.
 
 |                               |                           |
 | ----------------------------- | ------------------------- |
 | nazwa interwału               | stopień gamy diatonicznej |
-| pryma<!-- link nie odnosił się do niczego -->     | 1                         |
-| sekunda<!-- link nie odnosił się do niczego --> | 2                         |
+| pryma<!-- link nie odnosił się do niczego: 'Interwał' ('content/książka/Interwał.md') links to 'pryma' ('content/książka/pryma.md') and that does not exist -->     | 1                         |
+| sekunda<!-- link nie odnosił się do niczego: 'Interwał' ('content/książka/Interwał.md') links to 'sekunda' ('content/książka/sekunda.md') and that does not exist --> | 2                         |
 | [tercja]({{< relref "Tercja.md" >}})   | 3                         |
-| kwarta<!-- link nie odnosił się do niczego -->   | 4                         |
+| kwarta<!-- link nie odnosił się do niczego: 'Interwał' ('content/książka/Interwał.md') links to 'kwarta' ('content/książka/kwarta.md') and that does not exist -->   | 4                         |
 | [kwinta]({{< relref "Kwinta.md" >}})   | 5                         |
-| seksta<!-- link nie odnosił się do niczego -->   | 6                         |
+| seksta<!-- link nie odnosił się do niczego: 'Interwał' ('content/książka/Interwał.md') links to 'seksta' ('content/książka/seksta.md') and that does not exist -->   | 6                         |
 | [septyma]({{< relref "Septyma.md" >}}) | 7                         |
 | [oktawa]({{< relref "Oktawa.md" >}})   | 8                         |
 
@@ -73,7 +73,7 @@ Można też mówić o interwale w oderwaniu od
 definiowaniu skali jako listy odległości w półtonach. Odległości te w
 praktyce muzycznej są wyrażane nazwami interwałów o odpowiadających
 liczbach półtonów. Na przykład odległość trzech półtonów jest przez
-muzyków nazywana tercją małą<!-- link nie odnosił się do niczego -->. Oczywiście,
+muzyków nazywana tercją małą<!-- link nie odnosił się do niczego: 'Interwał' ('content/książka/Interwał.md') links to 'tercja_mała' ('content/książka/tercja_mała.md') and that does not exist -->. Oczywiście,
 mogłaby być równie dobrze (z punktu widzenia teorii) nazwa np. sekundą
 zwiększoną, ale żaden normalny muzyk tego nie robi *(no, chyba że się
 wygłupia)*.

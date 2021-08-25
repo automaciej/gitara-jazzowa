@@ -9,7 +9,7 @@ aliases: ['książka/b-c']
 ---
 C-sus (suspended, bez tercji) z [septymą małą]({{< relref "Septyma_mała.md" >}})
 i [noną wielką]({{< relref "Nona_wielka.md" >}}). Inaczej można oznaczyć ten
-akord jako B♭/C<!-- link nie odnosił się do niczego -->, czyli [B♭]({{< relref "B♭.md" >}})-dur z C w
+akord jako B♭/C<!-- link nie odnosił się do niczego: 'content/książka/B♭/C.md' wants to redirect to 'content/książka/B♭/C.md', but 'content/książka/B♭/C.md' will be deleted -->, czyli [B♭]({{< relref "B♭.md" >}})-dur z C w
 basie.
 
 ## F7/C w III pozycji

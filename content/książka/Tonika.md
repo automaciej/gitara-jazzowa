@@ -11,7 +11,7 @@ harmoniczna]({{< relref "Funkcja_harmoniczna.md" >}}). Tonika jest funkcją
 centralną dla tonacji. Na przykład, w tonacji C-dur toniką jest akord
 C-dur.
 
-Według harmonii klasycznej<!-- link nie odnosił się do niczego --> można
+Według harmonii klasycznej<!-- link nie odnosił się do niczego: 'Tonika' ('content/książka/Tonika.md') links to 'harmonia_klasyczna' ('content/książka/harmonia_klasyczna.md') and that does not exist --> można
 zbudować tonikę na trzech stopniach:
 
   - T<sub>I</sub> tonika pierwszego stopnia

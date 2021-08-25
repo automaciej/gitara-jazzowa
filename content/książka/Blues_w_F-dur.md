@@ -10,9 +10,9 @@ Schemat najprostszego bluesa w F-dur.
 
 |   |                     |  |   |    |  |   |                   |  |   |   |  |   |
 | - | ------------------- |  | - | -- |  | - | ----------------- |  | - | - |  | - |
-| | | F<!-- link nie odnosił się do niczego -->   |  | | | F  |  | | | F                 |  | | | F |  | | |
-| | | [B♭]({{< relref "B♭.md" >}}) |  | | | B♭ |  | | | F<!-- link nie odnosił się do niczego --> |  | | | F |  | | |
-| | | C<!-- link nie odnosił się do niczego -->   |  | | | C  |  | | | F<!-- link nie odnosił się do niczego --> |  | | | F |  | | |
+| | | F<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/książka/Blues_w_F-dur.md') links to 'F' ('content/książka/F.md') and that does not exist -->   |  | | | F  |  | | | F                 |  | | | F |  | | |
+| | | [B♭]({{< relref "B♭.md" >}}) |  | | | B♭ |  | | | F<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/książka/Blues_w_F-dur.md') links to 'F' ('content/książka/F.md') and that does not exist --> |  | | | F |  | | |
+| | | C<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/książka/Blues_w_F-dur.md') links to 'C' ('content/książka/C.md') and that does not exist -->   |  | | | C  |  | | | F<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/książka/Blues_w_F-dur.md') links to 'F' ('content/książka/F.md') and that does not exist --> |  | | | F |  | | |
 
 Na tym schemacie widać wyraźnie podstawową strukturę
 [bluesa]({{< relref "Blues.md" >}}).
