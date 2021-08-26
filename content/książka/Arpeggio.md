@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:NutyArpeggio.png']
+aliases: ['/gitara/Arpeggio']
 images:
   - path: "/images/NutyArpeggio.png"
 ---

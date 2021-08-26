@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['akord', 'artykulacja', 'd%C5%BAwi%C4%99k']
+aliases: ['/gitara/Ograniczenia_gitary']
 ---
 Gitara stawia przed muzykami pewne ograniczenia. Z tymi ograniczeniami
 musimy się pogodzić. Fortepian ma tu zdecydowaną przewagę i może grać

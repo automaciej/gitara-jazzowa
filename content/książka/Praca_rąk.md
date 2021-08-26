@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Gitarzyści jazzowi', 'Technika gry']
 draft: false
 wikilinks: ['Lewa_r%C4%99ka', 'Palcowanie', 'Prawa_r%C4%99ka']
-aliases: ['praca-rak']
+aliases: ['/gitara/Praca_rąk', 'praca-rak']
 ---
 Jak już pisałem, sławni
 [gitarzyści](/kategorie/gitarzyści-jazzowi "Kategoria gitarzyści jazzowi") stosują bardzo

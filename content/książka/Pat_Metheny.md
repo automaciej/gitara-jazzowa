@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Gitarzyści jazzowi']
 draft: false
 wikilinks: ['artykulacja', 'fraza', 'glissando', 'improwizacja', 'linia_melodyczna', 'p%C3%B3%C5%82ton', 'portamento']
+aliases: ['/gitara/Pat_Metheny']
 ---
 Muzyka, jaką uprawia **Pat Metheny** odpowiada nor­mom twórczym jazzu w
 równym stopniu, jak elektronicznego jazzu, jazz-rocka i współczesnej

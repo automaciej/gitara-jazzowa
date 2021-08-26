@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['akord']
+aliases: ['/gitara/Tryb']
 ---
 **Tryb** odnosi się do [akordu]({{< relref "Akord.md" >}}). Akord może mieć tryb
 durowy lub mollowy.

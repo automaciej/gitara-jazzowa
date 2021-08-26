@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['subdominanta']
-aliases: ['ii-v-i-dwa-piec-jeden']
+aliases: ['/gitara/II-V-I_(dwa_pięć_jeden)', 'ii-v-i-dwa-piec-jeden']
 ---
 Dwa-pięć-jeden jest bodaj najczęstszym następstwem akordów spotykanym w
 standardach jazzowych. Upraszczając sprawę, można powiedzieć, że jest to

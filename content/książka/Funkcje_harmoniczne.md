@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['Funkcja_harmoniczna', 'Funkcje_poboczne', 'II-V-I_(dwa_pi%C4%99%C4%87_jeden)', 'Wtr%C4%85cenia', 'akord', 'tonacja']
-aliases: ['książka/dominanta', 'książka/subdominanta']
+aliases: ['/gitara/Funkcje_harmoniczne', 'książka/dominanta', 'książka/subdominanta']
 ---
 Pojęcie [funkcji harmonicznej]({{< relref "Funkcja_harmoniczna.md" >}}) ma sens
 tylko w kontekście [tonacji]({{< relref "Tonacja.md" >}}). Zakładając, że

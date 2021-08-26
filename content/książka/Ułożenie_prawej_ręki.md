@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:UlozeniePrawejReki.jpg', 'Praca_prawej_r%C4%99ki', 'gitara_akustyczna', 'gitara_klasyczna', 'kostka']
-aliases: ['ulozenie-prawej-reki']
+aliases: ['/gitara/Ułożenie_prawej_ręki', 'ulozenie-prawej-reki']
 images:
   - path: "/images/UlozeniePrawejReki.jpg"
 ---

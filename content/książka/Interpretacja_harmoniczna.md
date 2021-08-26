@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['akord', 'd%C5%BAwi%C4%99k', 'dominanta', 'dominanta', 'funkcja_harmoniczna', 'schemat_harmoniczny', 'septyma_akordu', 'tonika']
+aliases: ['/gitara/Interpretacja_harmoniczna']
 ---
 Często schemat harmoniczny<!-- link nie odnosił się do niczego: 'Interpretacja harmoniczna' ('content/książka/Interpretacja_harmoniczna.md') links to 'schemat_harmoniczny' ('content/książka/schemat_harmoniczny.md') and that does not exist --> utworu
 podawany jest w formie uproszczonej, aby wykonawca mógł się wykazać

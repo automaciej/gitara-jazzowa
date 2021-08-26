@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['struna']
-aliases: ['dlonie']
+aliases: ['/gitara/Dłonie', 'dlonie']
 ---
 Każdy muzyk powinien dbać o swoje ręce. Nie tylko utrzymywać je w
 czystości, zachowywać estetyczny wygląd, ale i chronić przed

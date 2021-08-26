@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:MarekBlizinskiPozycja.jpg', 'U%C5%82o%C5%BCenie_lewej_r%C4%99ki', 'U%C5%82o%C5%BCenie_prawej_r%C4%99ki', 'blues', 'd%C5%BAwi%C4%99k', 'gitara_akustyczna', 'gitara_klasyczna', 'gryf', 'pasek_do_gitary', 'pud%C5%82o_rezonansowe', 'pud%C5%82o_rezonansowe', 'struny']
+aliases: ['/gitara/Postawa_z_instrumentem']
 images:
   - path: "/images/MarekBlizinskiPozycja.jpg"
 ---

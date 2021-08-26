@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: []
-aliases: ['pelna-przestrzen-nazw-dzwiekow']
+aliases: ['/gitara/Pełna_przestrzeń_nazw_dźwięków', 'pelna-przestrzen-nazw-dzwiekow']
 ---
 Pełna przestrzeń nazw dźwięków to zbiór wszystkich możliwych nazw
 dźwięków.

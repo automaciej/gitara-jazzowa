@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa', 'Tabele chwytów']
 draft: false
 wikilinks: ['akord']
-aliases: ['tabele-chwytow']
+aliases: ['/gitara/Tabele_chwytów', 'tabele-chwytow']
 ---
 Przy okazji chciałbym ostrzec gitarzystów przed bezkrytycznym
 korzystaniem z tabel chwytów gitarowych. Zawierają one stosunkowo dużą

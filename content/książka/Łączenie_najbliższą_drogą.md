@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa', 'Technika gry']
 draft: false
 wikilinks: ['Cmaj7', 'Dm7', 'G7']
-aliases: ['laczenie-najblizsza-droga']
+aliases: ['/gitara/Łączenie_najbliższą_drogą', 'laczenie-najblizsza-droga']
 ---
 Grając sekwencje następujących po sobie akordów powinniśmy starać się
 łączyć je w taki sposób, żeby minimalizować ruch głosów. Z grubsza

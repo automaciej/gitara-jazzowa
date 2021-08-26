@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['B%E2%99%AD', 'B%E2%99%AD7', 'B%E2%99%AD7', 'C', 'C7', 'F', 'F', 'F', 'F7', 'F7', 'F7', 'blues']
+aliases: ['/gitara/Blues_w_F-dur']
 ---
 Schemat najprostszego bluesa w F-dur.
 

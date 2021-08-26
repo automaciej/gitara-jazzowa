@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strojenie gitary']
 draft: false
 wikilinks: ['Strojenie_gitary', 'struna']
-aliases: ['wysokosc-stroju']
+aliases: ['/gitara/Wysokość_stroju', 'wysokosc-stroju']
 ---
 Gitara jazzowa brzmi najlepiej przy a = 440 Hz. Taki też strój mają
 organy Hammonda, Fender-piano. W Polsce często spotyka się jednak

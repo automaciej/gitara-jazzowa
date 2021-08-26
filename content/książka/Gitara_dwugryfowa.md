@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Rodzaje gitar']
 draft: false
 wikilinks: ['Gitara_dwunastostrunowa', 'Jimmy_Page', 'Seweryn_Krajewski', 'gitara_elektryczna', 'grafika:GitaraDwugryfowa.jpg', 'tapping']
+aliases: ['/gitara/Gitara_dwugryfowa']
 images:
   - path: "/images/GitaraDwugryfowa.jpg"
 ---

@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: []
+aliases: ['/gitara/Akord_o_budowie_tercjowej']
 ---
 Najpierw zdefiniujmy pojęcie, które oznacza dźwięk, ale w oderwaniu od
 oktawy. Niech będzie to takie \(\omega_\psi\), że

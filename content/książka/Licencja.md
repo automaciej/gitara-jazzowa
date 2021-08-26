@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strona główna']
 draft: false
 wikilinks: []
+aliases: ['/gitara/Licencja']
 ---
 Treść serwisu **www.blizinski.pl** jest objęta licencją GNU FDL w wersji
 1.2.

@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Gitarzyści jazzowi']
 draft: false
 wikilinks: ['Charlie_Christian', 'Gitara_elektryczna', 'Janusz_Pop%C5%82awski', 'Jim_Hall', 'Joe_Pass', 'John_Scofield', 'Pat_Metheny', 'Spis_tre%C5%9Bci', 'Wes_Montgomery', 'grafika:MarekBlizinski.jpg']
-aliases: ['marek-blizinski']
+aliases: ['/gitara/Marek_Bliziński', 'marek-blizinski']
 images:
   - path: "/images/MarekBlizinski.jpg"
 ---

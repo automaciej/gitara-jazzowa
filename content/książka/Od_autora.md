@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strona główna']
 draft: false
 wikilinks: ['Charlie_Christian', 'Gitara_Jazzowa_(wydanie_papierowe)', 'Grafika:MarekBlizinski.jpg', 'Jim_Hall', 'Joe_Pass', 'snakes', 'technika', 'technika']
+aliases: ['/gitara/Od_autora']
 images:
   - path: "/images/MarekBlizinski.jpg"
 ---

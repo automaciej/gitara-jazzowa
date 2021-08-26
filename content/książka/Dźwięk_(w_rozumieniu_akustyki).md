@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: []
-aliases: ['dzwiek-w-rozumieniu-akustyki']
+aliases: ['/gitara/Dźwięk_(w_rozumieniu_akustyki)', 'dzwiek-w-rozumieniu-akustyki']
 ---
 **Dźwiękiem (w rozumieniu akustyki)** nazywamy zaburzenie falowe
 sprężystego ośrodka, jakim jest najczęściej powietrze, objawiające się

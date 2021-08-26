@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: []
+aliases: ['/gitara/Ozdobniki']
 ---
 Ozdobniki służą do wzbogacania przebiegów linii melodycznych, tworząc
 oplatające je drobne wartości rytmiczne. W muzyce jazzowej niekiedy

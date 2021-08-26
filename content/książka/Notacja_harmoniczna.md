@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['akord', 'akord', 'interwa%C5%82', 'nona', 'sk%C5%82adniki_akordu']
+aliases: ['/gitara/Notacja_harmoniczna']
 ---
 Notacja harmoniczna w jazzie opiera się na systemie symboli literowych.
 Oznaczają one podstawę [akordu]({{< relref "Akord.md" >}}). Dodatkowe cyfry i

@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['akord', 'interwa%C5%82', 'oktawa', 'p%C3%B3%C5%82ton', 'pryma']
+aliases: ['/gitara/Septyma_wielka']
 ---
 Termin **septyma wielka** może odnosić się do:
 

@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Budowa gitary', 'Strojenie gitary']
 draft: false
 wikilinks: ['Floyd_Rose', 'Grafika:MostekZMikrostrojnikami.jpg', 'Grafika:NutyStrojenieMikrostrojnikami.png', 'Strojenie_gitary', 'gitara_elektryczno-akustyczna']
+aliases: ['/gitara/Mikrostrojniki']
 images:
   - path: "/images/MostekZMikrostrojnikami.jpg"
   - path: "/images/NutyStrojenieMikrostrojnikami.png"

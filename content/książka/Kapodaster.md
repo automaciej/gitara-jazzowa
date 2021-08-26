@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Akcesoria gitarzysty']
 draft: false
 wikilinks: ['Grafika:Capo-on.jpg', 'Grafika:capo.jpg', 'gryf', 'menzura', 'siode%C5%82ko', 'struny', 'tonacja']
+aliases: ['/gitara/Kapodaster']
 images:
   - path: "/images/Capo-on.jpg"
   - path: "/images/Capo.jpg"

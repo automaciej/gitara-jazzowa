@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['Alfabety_muzyczne', 'Harmonia_jazzowa_na_gitarze', 'Interpretacja_harmoniczna', 'Notacja_harmoniczna', 'Prowadzenie_g%C5%82os%C3%B3w', 'Sk%C5%82adniki_akord%C3%B3w', 'Tabele_chwyt%C3%B3w', 'instrument_harmoniczny', 'sekcja_rytmiczna']
+aliases: ['/gitara/Wprowadzenie_do_harmonii_jazzowej']
 ---
 Wstęp do rozdziału *Wprowadzenie do harmonii jazzowej* z wydania
 papierowego.

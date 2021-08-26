@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['U%C5%BCytkownik:MaciejBlizinski']
-aliases: ['książka/czym-jest-a-czym-nie-jest-teoria-muzyki']
+aliases: ['/gitara/Teoria_muzyki', 'książka/czym-jest-a-czym-nie-jest-teoria-muzyki']
 ---
 <table>
 <tbody>

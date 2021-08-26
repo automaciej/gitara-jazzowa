@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Budowa gitary']
 draft: false
 wikilinks: ['Gryf', 'Regulacja_gryfu', 'grafika:PretWGryfie.png', 'regulacja_gryfu']
-aliases: ['pret-regulacyjny']
+aliases: ['/gitara/Pręt_regulacyjny', 'pret-regulacyjny']
 images:
   - path: "/images/PretWGryfie.png"
 ---

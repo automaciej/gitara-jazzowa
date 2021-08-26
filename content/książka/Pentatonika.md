@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['blues', 'kwinta_zmniejszona', 'pentatonika_C-dur', 'pentatonika_C-dur', 'skala']
+aliases: ['/gitara/Pentatonika']
 ---
 **Pentatonika** to pięciodźwiękowa [skala]({{< relref "Skala.md" >}}) używana
 bardzo często w improwizacjach. Konkretną pentatonikę bardzo często

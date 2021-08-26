@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['akord', 'dominanta', 'subdominanta', 'tonacja', 'tonika']
+aliases: ['/gitara/Funkcja_harmoniczna']
 ---
 Funkcja harmoniczna jest [akordem]({{< relref "Akord.md" >}}), zbudowanym na
 określonym stopniu [tonacji]({{< relref "Tonacja.md" >}}). Podstawowe funkcje

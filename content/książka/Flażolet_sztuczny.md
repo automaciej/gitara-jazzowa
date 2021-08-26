@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['grafika:PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg', 'grafika:WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg']
-aliases: ['flazolet-sztuczny']
+aliases: ['/gitara/Flażolet_sztuczny', 'flazolet-sztuczny']
 images:
   - path: "/images/PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg"
   - path: "/images/WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg"

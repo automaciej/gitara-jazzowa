@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Układ rozległy']
 draft: false
 wikilinks: []
-aliases: ['akord-m75-w-ukladzie-rozleglym']
+aliases: ['/gitara/Akord_m7♭5_w_układzie_rozległym', 'akord-m75-w-ukladzie-rozleglym']
 ---
 Akord mollowy z septymą małą i kwintą obniżoną.
 

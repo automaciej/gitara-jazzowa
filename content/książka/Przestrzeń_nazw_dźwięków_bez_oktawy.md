@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: []
-aliases: ['przestrzen-nazw-dzwiekow-bez-oktawy']
+aliases: ['/gitara/Przestrzeń_nazw_dźwięków_bez_oktawy', 'przestrzen-nazw-dzwiekow-bez-oktawy']
 ---
 \(\Omega_{O} = \Psi \times \Delta \times \Big( \mathbb{N} \cup \{0\} \Big)\)
 

@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Układ rozległy']
 draft: false
 wikilinks: []
-aliases: ['akord-cmaj7-w-ukladzie-rozleglym']
+aliases: ['/gitara/Akord_Cmaj7_w_układzie_rozległym', 'akord-cmaj7-w-ukladzie-rozleglym']
 ---
 Diagram ten wygląda bardzo sympatycznie...
 

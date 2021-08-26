@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Konserwacja gitary', 'Strojenie gitary']
 draft: false
 wikilinks: ['Strojenie_gitary', 'menzura', 'regulacja_menzury']
+aliases: ['/gitara/Odchylenia_od_stroju']
 ---
 Gitara, mimo właściwej pielęgnacji i okresowej korekty
 menzury<!-- link nie odnosił się do niczego: 'Odchylenia od stroju' ('content/książka/Odchylenia_od_stroju.md') links to 'menzura' ('content/książka/menzura.md') and that does not exist -->, cierpi na pewne minimalne odchylenia w

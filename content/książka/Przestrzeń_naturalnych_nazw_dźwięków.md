@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: []
-aliases: ['przestrzen-naturalnych-nazw-dzwiekow']
+aliases: ['/gitara/Przestrzeń_naturalnych_nazw_dźwięków', 'przestrzen-naturalnych-nazw-dzwiekow']
 ---
 Przestrzeń naturalnych nazw dźwięków to podzbiór pełnej przestrzeni
 dźwięków składający się z tych jej elementów, które mają \(n = 0\),

@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strojenie gitary']
 draft: false
 wikilinks: ['Fla%C5%BColet', 'Grafika:NutyStrojenieFlazoletami.png', 'Grafika:StrojenieFlazoletami.png', 'fla%C5%BColet']
-aliases: ['strojenie-flazoletami']
+aliases: ['/gitara/Strojenie_flażoletami', 'strojenie-flazoletami']
 images:
   - path: "/images/NutyStrojenieFlazoletami.png"
   - path: "/images/StrojenieFlazoletami.png"

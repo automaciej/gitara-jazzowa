@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Rodzaje gitar']
 draft: false
 wikilinks: ['John_McLaughlin', 'MIDI', 'Pat_Metheny', 'gitara', 'gryf', 'kontroler_MIDI', 'pr%C3%B3g', 'struna']
+aliases: ['/gitara/Syntezator_gitarowy']
 ---
 **Syntezator gitarowy** lub **Gitara [MIDI]({{< relref "MIDI.md" >}})** to
 instrument elektroniczny, który tak jak [gitara]({{< relref "Gitara.md" >}})

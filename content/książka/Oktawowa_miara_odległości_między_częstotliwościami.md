@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['cz%C4%99stotliwo%C5%9B%C4%87', 'oktawa', 'struna']
-aliases: ['oktawowa-miara-odleglosci-miedzy-czestotliwosciami']
+aliases: ['/gitara/Oktawowa_miara_odległości_między_częstotliwościami', 'oktawowa-miara-odleglosci-miedzy-czestotliwosciami']
 ---
 Oktawowa miara odległości między częstotliwościami A i B to taka liczba
 r, że

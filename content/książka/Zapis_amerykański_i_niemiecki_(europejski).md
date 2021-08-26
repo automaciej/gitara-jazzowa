@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['Alfabety_muzyczne']
-aliases: ['zapis-amerykanski-i-niemiecki-europejski']
+aliases: ['/gitara/Zapis_amerykański_i_niemiecki_(europejski)', 'zapis-amerykanski-i-niemiecki-europejski']
 ---
 Historia polskiej muzyki jest ściśle związana z historią muzyki
 europejskiej i właśnie z tych historycznych względów zwyczajowo stosuje

@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Układ rozległy']
 draft: false
 wikilinks: ['uk%C5%82ad_skupiony']
+aliases: ['/gitara/Drop_two']
 ---
 **Drop two** (czyt. *drop-tu*, po polsku oznacza upuść drugi) to sposób
 układani głosów. Powstaje on w ten sposób, że bierzemy układ

@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Rodzaje gitar']
 draft: false
 wikilinks: ['Antonio_Torres', 'Charlie_Byrd', 'Django_Reinhardt', 'Grafika:GitaraKlasycznaWymiary.png', 'Joe_Pass', 'Laurindo_Almeida', 'R%C3%B3%C5%BCne_techniki_gry_na_gitarze', 'grafika:GitaraKlasyczna.png', 'maszynka', 'pud%C5%82o_rezonansowe']
+aliases: ['/gitara/Gitara_klasyczna']
 images:
   - path: "/images/GitaraKlasyczna.png"
   - path: "/images/GitaraKlasycznaWymiary.png"

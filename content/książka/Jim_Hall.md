@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Gitarzyści jazzowi']
 draft: false
 wikilinks: ['Joe_Pass', 'Joe_Pass', 'Sekcja_rytmiczna', 'grafika:NutySoloJimaHallaTheWayYouLookTonight.png', 'improwizacja', 'instrument_harmoniczny']
+aliases: ['/gitara/Jim_Hall']
 images:
   - path: "/images/NutySoloJimaHallaTheWayYouLookTonight.png"
 ---

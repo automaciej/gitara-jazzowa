@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Gitarzyści jazzowi']
 draft: false
 wikilinks: ['Jim_Hall', 'Joe_Pass', 'Kenny_Burrell', 'gitara_elektryczna', 'kostka', 'single_note']
+aliases: ['/gitara/Charlie_Christian']
 ---
 **Charlie Christian** był prekursorem współczesnej gry na gitarze
 jazzowej. On to w ciągu zaledwie dwóch lat (działał między 1939 a 1942

@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['C', 'Cmaj96', 'G9', 'Grafika:GrafAkorduG9.png', 'akord', 'akord', 'akord_durowy', 'akord_mollowy', 'd%C5%BAwi%C4%99k', 'd%C5%BAwi%C4%99k', 'd%C5%BAwi%C4%99k', 'd%C5%BAwi%C4%99k', 'interwa%C5%82', 'interwa%C5%82', 'interwa%C5%82', 'interwa%C5%82', 'kwinta', 'mamy', 'nona_ma%C5%82a', 's%C5%82uch_absolutny', 'tercja']
+aliases: ['/gitara/Barwa_akordu']
 images:
   - path: "/images/GrafAkorduG9.png"
 ---

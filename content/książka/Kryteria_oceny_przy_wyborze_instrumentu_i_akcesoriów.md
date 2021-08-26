@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['Wybieranie_instrumentu_i_akcesori%C3%B3w']
-aliases: ['kryteria-oceny-przy-wyborze-instrumentu-i-akcesoriow']
+aliases: ['/gitara/Kryteria_oceny_przy_wyborze_instrumentu_i_akcesoriów', 'kryteria-oceny-przy-wyborze-instrumentu-i-akcesoriow']
 ---
 1.  REDIRECT [Wybieranie instrumentu i
     akcesoriów]({{< relref "Wybieranie_instrumentu_i_akcesoriów.md" >}})

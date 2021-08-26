@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Konserwacja gitary']
 draft: false
 wikilinks: ['D%C5%82onie', 'Jak_obchodzi%C4%87_si%C4%99_z_instrumentem', 'Korekcja_si%C5%82y_brzmienia_strun', 'Najcz%C4%99stsze_usterki_i_b%C5%82%C4%99dy', 'Regulacja_menzury_strun', 'Regulacja_szyjki_instrumentu', 'Regularne_%C4%87wiczenie', 'Ustawianie_wysoko%C5%9Bci_strun_nad_gryfem']
+aliases: ['/gitara/Przygotowanie_instrumentu_do_gry']
 ---
   - [Regulacja szyjki
     instrumentu]({{< relref "Regulacja_gryfu" >}})

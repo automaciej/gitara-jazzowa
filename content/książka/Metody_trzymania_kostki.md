@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Herb_Ellis', 'Kostka', 'Postawa_z_instrumentem', 'dynamika', 'frazowanie']
+aliases: ['/gitara/Metody_trzymania_kostki']
 ---
 Istnieją różne metody trzymania kostki. Dosyć rozpowszechniony jest
 sposób, w którym palec wskazujący dociska kostkę w połowie opuszka

@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['cz%C4%99stotliwo%C5%9B%C4%87', 'd%C5%BAwi%C4%99k_(w_rozumieniu_akustyki)']
-aliases: ['dzwiek-o-okreslonej-wysokosci']
+aliases: ['/gitara/Dźwięk_o_określonej_wysokości', 'dzwiek-o-okreslonej-wysokosci']
 ---
 Ucho ludzkie potrafi w niektórych dźwiękach (w rozumieniu
 akustyki)<!-- link nie odnosił się do niczego: 'Dźwięk o określonej wysokości' ('content/książka/Dźwięk_o_określonej_wysokości.md') links to 'dźwięk_\\(w_rozumieniu_akustyki\\)' ('content/książka/dźwięk_\\(w_rozumieniu_akustyki\\).md') and that does not exist --> rozpoznawać

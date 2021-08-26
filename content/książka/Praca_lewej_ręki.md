@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:NutyPracaLewejReki01.png', 'artykulacja', 'd%C5%BAwi%C4%99k', 'gra_akordowa', 'technika', 'wibracja']
-aliases: ['praca-lewej-reki']
+aliases: ['/gitara/Praca_lewej_ręki', 'praca-lewej-reki']
 images:
   - path: "/images/NutyPracaLewejReki01.png"
 ---

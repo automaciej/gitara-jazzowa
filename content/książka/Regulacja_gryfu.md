@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Konserwacja gitary']
 draft: false
 wikilinks: ['Grafika:SzyjkaWklesla.png', 'Grafika:SzyjkaWypukla.png', 'grafika:PretWGryfie.png', 'gryf', 'mostek', 'pr%C4%99t_regulacyjny', 'struna']
-aliases: ['książka/regulacja-szyjki-instrumentu']
+aliases: ['/gitara/Regulacja_gryfu', 'książka/regulacja-szyjki-instrumentu']
 images:
   - path: "/images/PretWGryfie.png"
   - path: "/images/SzyjkaWklesla.png"

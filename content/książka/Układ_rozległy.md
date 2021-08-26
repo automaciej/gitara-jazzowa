@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry', 'Układ rozległy']
 draft: false
 wikilinks: ['Akord_7_w_uk%C5%82adzie_rozleg%C5%82ym', 'Akord_Cmaj7_w_uk%C5%82adzie_rozleg%C5%82ym', 'Akord_m7%E2%99%AD5_w_uk%C5%82adzie_rozleg%C5%82ym', 'Akord_m7_w_uk%C5%82adzie_rozleg%C5%82ym', 'Akord_maj7_w_uk%C5%82adzie_rozleg%C5%82ym', 'Cmaj7', 'akord', 'd%C5%BAwi%C4%99k', 'drop_two', 'gryf', 'uk%C5%82ad_skupiony']
-aliases: ['uklad-rozlegly']
+aliases: ['/gitara/Układ_rozległy', 'uklad-rozlegly']
 ---
 **Układ rozległy** bywa czasami nazywany [drop
 two]({{< relref "Drop_two.md" >}}).

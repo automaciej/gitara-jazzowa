@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['C6', 'C7', 'Cm6', 'Cm7', 'Cmaj7', 'G6', 'G7', 'Gm7', 'Gmaj7', 'Grafika:Chord-eb-major.png', 'II-V-I', 'ograniczenia_gitary']
-aliases: ['wprowadzenie-do-budowania-akordow']
+aliases: ['/gitara/Wprowadzenie_do_budowania_akordów', 'wprowadzenie-do-budowania-akordow']
 images:
   - path: "/images/Chord-eb-major.png"
 ---

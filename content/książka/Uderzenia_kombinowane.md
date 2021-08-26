@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['kostka', 'kostka']
+aliases: ['/gitara/Uderzenia_kombinowane']
 ---
 Na gitarze jazzowej zazwyczaj gra się kostką, czasem używa się palców:
 3, 4, 5; niekiedy gra się opuszkiem kciuka. Dla uzyskania specjalnych

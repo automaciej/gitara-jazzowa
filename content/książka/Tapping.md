@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Stanley_Jordan', 'Stick']
+aliases: ['/gitara/Tapping']
 ---
 Technika grania polegająca na wydobywaniu dźwięku uderzeniami w struny
 oburącz, mimo wielkich sukcesów artystycznych i komercyjnych jej

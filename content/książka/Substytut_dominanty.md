@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Gitarzyści jazzowi', 'Teoria muzyki']
 draft: false
 wikilinks: ['A%E2%99%AD7', 'A%E2%99%AD7', 'Am7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'B13', 'Bdim', 'Bdim', 'C13', 'C7', 'C7', 'C7', 'Cm7', 'F7', 'F7', 'F7', 'F7', 'G%E2%99%AD13', 'G%E2%99%AD7', 'G%E2%99%AD7', 'Gm7', 'Gm7', 'akord', 'akord', 'barwa_akordu', 'blues_jazzowy', 'd%C5%BAwi%C4%99k', 'd%C5%BAwi%C4%99k', 'dominanta', 'septyma', 'tercja', 'tonika', 'tryb']
+aliases: ['/gitara/Substytut_dominanty']
 ---
 W [akordzie]({{< relref "Akord.md" >}}) nie wszystkie
 [dźwięki]({{< relref "Dźwięk.md" >}}) są jednakowo ważne. Z różnych przyczyn

@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Akcesoria gitarzysty']
 draft: false
 wikilinks: ['gitara_elektryczna', 'gitara_elektryczno-akustyczna', 'przedwzmaczniacz', 'wzmacniacz']
+aliases: ['/gitara/Kabel_do_gitary']
 ---
 **Kabel do gitary** to niezbędne wyposażenie gitarzysty grającego na
 gitarze [elektroakustycznej]({{< relref "Gitara_elektryczno-akustyczna.md" >}})

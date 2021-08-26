@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['Tercja_akordu', 'Tercja_i_septyma', 'akord', 'd%C5%BAwi%C4%99k', 'dominantowy', 'tonika']
+aliases: ['/gitara/Septyma_akordu']
 ---
 **Septyma** akordu jest jednym z dwóch najważniejszych
 [dźwięków]({{< relref "Dźwięk.md" >}}) w [akordzie]({{< relref "Akord.md" >}}).

@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['Wikipedysta:MaciejBlizinski', 'akord', 'znaki_chromatyczne']
-aliases: ['skladniki-akordow']
+aliases: ['/gitara/Składniki_akordów', 'skladniki-akordow']
 ---
 Jeśli nie chcemy aby brzmiał określony składnik
 [akordu]({{< relref "Akord.md" >}}) oznaczamy to za pomocą skreślenia, np.:

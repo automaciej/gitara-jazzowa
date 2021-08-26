@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Układ rozległy']
 draft: false
 wikilinks: ['septyma_wielka']
-aliases: ['akord-maj7-w-ukladzie-rozleglym']
+aliases: ['/gitara/Akord_maj7_w_układzie_rozległym', 'akord-maj7-w-ukladzie-rozleglym']
 ---
 Akord durowy z [septymą wielką]({{< relref "Septyma_wielka.md" >}}) w układzie
 rozległym.

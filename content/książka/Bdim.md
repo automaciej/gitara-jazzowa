@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Akordy zmniejszone', 'Tabele chwytów']
 draft: false
 wikilinks: ['akord_zmniejszony']
-aliases: ['książka/akord-bdim']
+aliases: ['/gitara/Bdim', 'książka/akord-bdim']
 ---
 Akord Bdim jest [akordem zmniejszonym]({{< relref "Akord_zmniejszony.md" >}}).
 

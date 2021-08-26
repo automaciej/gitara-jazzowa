@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Akordy durowe', 'Tabele chwytów']
 draft: false
 wikilinks: ['nona_wielka', 'seksta_wielka', 'septyma_wielka']
+aliases: ['/gitara/Cmaj96']
 ---
 C-dur z sekstą wielką<!-- link nie odnosił się do niczego: 'Cmaj96' ('content/książka/Cmaj96.md') links to 'seksta_wielka' ('content/książka/seksta_wielka.md') and that does not exist -->, [septymą
 wielką]({{< relref "Septyma_wielka.md" >}}) i [noną

@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['akord', 'd%C5%BAwi%C4%99k', 'pentatonika', 'skala']
-aliases: ['książka/ogrywanie']
+aliases: ['/gitara/Ogrywanie_akordu', 'książka/ogrywanie']
 ---
 **Ogrywanie akordu** podczas improwizacji polega na poruszaniu się po
 [dźwiękach]({{< relref "Dźwięk.md" >}}) odpowiednich dla

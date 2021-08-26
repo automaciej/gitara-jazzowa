@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['Dominanta', 'Funkcja_harmoniczna', 'Subdominanta', 'funkcja_harmoniczna', 'harmonia_klasyczna']
+aliases: ['/gitara/Tonika']
 ---
 **Tonika** jest jedną z trzech najważniejszych [funkcja
 harmoniczna]({{< relref "Funkcja_harmoniczna.md" >}}). Tonika jest funkcją

@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
 wikilinks: ['akord', 'interwa%C5%82', 'oktawa', 'sekunda_wielka']
+aliases: ['/gitara/Nona_wielka']
 ---
 Termin **nona wielka** może odnosić się do:
 

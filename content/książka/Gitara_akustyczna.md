@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Rodzaje gitar']
 draft: false
 wikilinks: ['Django_Reinhardt', 'Grafika:GitaraJumboWymiary.png', 'Grafika:MostekPrzyklejony.jpg', 'Szyjka', 'gitara_klasyczna', 'grafika:GibsonJ200.jpg', 'gryf', 'lewa_r%C4%99ka', 'mostek', 'pud%C5%82o_rezonansowe', 'pud%C5%82o_rezonansowe']
+aliases: ['/gitara/Gitara_akustyczna']
 images:
   - path: "/images/GibsonJ200.jpg"
   - path: "/images/GitaraJumboWymiary.png"

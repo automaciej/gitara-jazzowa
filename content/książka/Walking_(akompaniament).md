@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['F7', 'F7', 'Marek_Blizi%C5%84ski', 'akord', 'blues', 'legato', 'ograniczenia_gitary', 'septyma', 'tercja', 'walking', 'walking']
+aliases: ['/gitara/Walking_(akompaniament)']
 ---
 Akompaniament do utworów o charakterze swingowym polega na graniu
 [walkingu]({{< relref "Walking.md" >}}) i [akordów]({{< relref "Akord.md" >}})

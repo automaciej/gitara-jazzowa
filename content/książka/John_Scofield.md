@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Gitarzyści jazzowi']
 draft: false
 wikilinks: ['B%E2%99%ADm7', 'D%E2%99%AD7', 'Improwizacja', 'bebop', 'd%C5%BAwi%C4%99k', 'gitara_basowa', 'jazz', 'rock', 'schemat_harmoniczny', 'sekcja_rytmiczna', 'staccato', 'swingowanie']
+aliases: ['/gitara/John_Scofield']
 ---
 Wielki talent **Johna Scofielda** jako kompozytora i gita­rzysty czyni
 go jednym z najwybitniejszych twórców nowoczesnego

@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Gitarzyści jazzowi']
 draft: false
 wikilinks: ['kostka', 'lewa_r%C4%99ka', 'oktawa', 'pud%C5%82o_rezonansowe', 'single_note', 'tremolo']
+aliases: ['/gitara/Wes_Montgomery']
 ---
 **Wes Montgomery** w zasadzie nie używał kostki. Uderzał w struny
 kciukiem prawej ręki. Pozostałe palce opierał na [pudle

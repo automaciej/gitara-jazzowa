@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['Znak_chromatyczny']
-aliases: ['czestotliwosci-dzwiekow']
+aliases: ['/gitara/Częstotliwości_dźwięków', 'czestotliwosci-dzwiekow']
 ---
 Częstotliwości pozostałych dźwięków określone są następująco:
 

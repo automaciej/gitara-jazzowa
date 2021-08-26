@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strojenie gitary']
 draft: false
 wikilinks: ['Grafika:StrojenieGitary.png', 'maszynka', 'metody_strojenia', 'oktawa', 'strojnik', 'struna', 'struna']
+aliases: ['/gitara/Proste_strojenie']
 images:
   - path: "/images/StrojenieGitary.png"
 ---

@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Tabele chwytów', 'Teoria muzyki']
 draft: false
 wikilinks: ['Akord_o_budowie_tercjowej', 'd%C5%BAwi%C4%99k']
+aliases: ['/gitara/Akord']
 ---
 **Akord** to trzy (lub więcej) [dźwięki]({{< relref "Dźwięk.md" >}}), zagrane
 jednocześnie. Akordy oznacza się literami. Na przykład oznaczenie **C**

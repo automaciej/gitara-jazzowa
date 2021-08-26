@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Artykulacja', 'Kostka']
-aliases: ['kostka-a-barwa-dzwieku']
+aliases: ['/gitara/Kostka_a_barwa_dźwięku', 'kostka-a-barwa-dzwieku']
 ---
 W rozdziale pt, „[Kostka]({{< relref "Kostka.md" >}})" wyjaśniłem zależności
 pomiędzy rodzajem kostki a barwą dźwięku. Zanim przejdziemy do innych

@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Akcesoria gitarzysty']
 draft: false
 wikilinks: ['barwa_d%C5%BAwi%C4%99ku', 'cz%C4%99stotliwo%C5%9B%C4%87']
+aliases: ['/gitara/Wahwah']
 ---
 Urządzenie zmieniające [barwę dźwięku]({{< relref "Barwa_dźwięku.md" >}}),
 sterowane nożnie za pomocą specjalnego pedału. Wahwah podbija wąskie

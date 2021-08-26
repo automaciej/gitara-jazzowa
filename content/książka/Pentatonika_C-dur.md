@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Tabele chwytów']
 draft: false
 wikilinks: []
+aliases: ['/gitara/Pentatonika_C-dur']
 ---
 **Pentatonika C-dur** jest tożsama z pentatoniką a-moll i składa się z
 dźwięków C, D, E, G, A.

@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['d%C5%BAwi%C4%99k', 'kwinta', 'oktawa']
+aliases: ['/gitara/Fuzz']
 ---
 **Fuzz**, **Booster**, **Distortion**
 

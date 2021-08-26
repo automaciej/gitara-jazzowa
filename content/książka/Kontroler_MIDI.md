@@ -5,6 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['Syntezator_gitarowy', 'modu%C5%82_MIDI', 'modu%C5%82_MIDI', 'zdarzenie_MIDI']
+aliases: ['/gitara/Kontroler_MIDI']
 ---
 **Kontroler MIDI** - urządzenie, za pomocą którego można generować tzw.
 zdarzenia MIDI<!-- link nie odnosił się do niczego: 'Kontroler MIDI' ('content/książka/Kontroler_MIDI.md') links to 'zdarzenie_MIDI' ('content/książka/zdarzenie_MIDI.md') and that does not exist --> (MIDI events). Kontroler

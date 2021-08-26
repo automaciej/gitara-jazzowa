@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Akcentowanie', 'Palcowanie', 'artykulacja']
-aliases: ['cwiczenia-techniczne']
+aliases: ['/gitara/Ćwiczenia_techniczne', 'cwiczenia-techniczne']
 ---
 **Ćwiczenia techniczne** mają na celu wyrobienie sprawności manualnej,
 umożliwiającej realizację każdego zamysłu muzycznego. Istnieją różne
