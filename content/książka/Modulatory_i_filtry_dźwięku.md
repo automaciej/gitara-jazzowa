@@ -4,7 +4,7 @@ slug: "modulatory-i-filtry-dźwięku"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Akcesoria gitarzysty']
 draft: false
-wikilinks: ['gitara_elektryczna', 'wzmacniacz', 'Fuzz', 'Sustainer', 'Wahwah', 'Phaser', 'Envelope_filter', 'wzmacniacz', 'Ring_modulator', 'Octaver', 'Chorus', 'Flanger', 'Delay', 'Tape_echo', 'bramka_szum%C3%B3w', 'sygna%C5%82', 'wzmacniacz', 'Grafika:Multiprocesor.jpg', 'MIDI', 'syntezator_gitarowy', 'John_McLaughlin', 'Pat_Metheny']
+wikilinks: ['Chorus', 'Delay', 'Envelope_filter', 'Flanger', 'Fuzz', 'Grafika:Multiprocesor.jpg', 'John_McLaughlin', 'MIDI', 'Octaver', 'Pat_Metheny', 'Phaser', 'Ring_modulator', 'Sustainer', 'Tape_echo', 'Wahwah', 'bramka_szum%C3%B3w', 'gitara_elektryczna', 'sygna%C5%82', 'syntezator_gitarowy', 'wzmacniacz', 'wzmacniacz', 'wzmacniacz']
 aliases: ['modulatory-i-filtry-dzwieku']
 images:
   - path: "/images/Multiprocesor.jpg"

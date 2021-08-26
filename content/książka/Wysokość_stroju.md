@@ -4,7 +4,7 @@ slug: "wysokość-stroju"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strojenie gitary']
 draft: false
-wikilinks: ['struna', 'Strojenie_gitary']
+wikilinks: ['Strojenie_gitary', 'struna']
 aliases: ['wysokosc-stroju']
 ---
 Gitara jazzowa brzmi najlepiej przy a = 440 Hz. Taki też strój mają

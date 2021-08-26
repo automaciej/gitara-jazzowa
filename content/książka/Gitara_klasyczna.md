@@ -4,7 +4,7 @@ slug: "gitara-klasyczna"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Rodzaje gitar']
 draft: false
-wikilinks: ['grafika:GitaraKlasyczna.png', 'Antonio_Torres', 'Grafika:GitaraKlasycznaWymiary.png', 'pud%C5%82o_rezonansowe', 'maszynka', 'Charlie_Byrd', 'Laurindo_Almeida', 'Django_Reinhardt', 'Joe_Pass', 'R%C3%B3%C5%BCne_techniki_gry_na_gitarze']
+wikilinks: ['Antonio_Torres', 'Charlie_Byrd', 'Django_Reinhardt', 'Grafika:GitaraKlasycznaWymiary.png', 'Joe_Pass', 'Laurindo_Almeida', 'R%C3%B3%C5%BCne_techniki_gry_na_gitarze', 'grafika:GitaraKlasyczna.png', 'maszynka', 'pud%C5%82o_rezonansowe']
 images:
   - path: "/images/GitaraKlasyczna.png"
   - path: "/images/GitaraKlasycznaWymiary.png"

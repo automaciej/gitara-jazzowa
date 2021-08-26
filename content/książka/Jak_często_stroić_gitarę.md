@@ -4,7 +4,7 @@ slug: "jak-często-stroić-gitarę"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Konserwacja gitary', 'Strojenie gitary']
 draft: false
-wikilinks: ['Str%C3%B3j_gitary', '%C4%87wiczenie', 'Strojenie_gitary']
+wikilinks: ['%C4%87wiczenie', 'Str%C3%B3j_gitary', 'Strojenie_gitary']
 aliases: ['jak-czesto-stroic-gitare']
 ---
 [Strój gitary]({{< relref "Strojenie_gitary" >}}) należy sprawdzać przed każdym

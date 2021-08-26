@@ -4,7 +4,7 @@ slug: "składniki-akordów"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
-wikilinks: ['akord', 'znaki_chromatyczne', 'Wikipedysta:MaciejBlizinski']
+wikilinks: ['Wikipedysta:MaciejBlizinski', 'akord', 'znaki_chromatyczne']
 aliases: ['skladniki-akordow']
 ---
 Jeśli nie chcemy aby brzmiał określony składnik

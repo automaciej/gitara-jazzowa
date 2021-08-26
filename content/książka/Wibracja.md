@@ -4,7 +4,7 @@ slug: "wibracja"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
-wikilinks: ['lewa_r%C4%99ka', 'gryf', 'blues', 'wzmacniacz']
+wikilinks: ['blues', 'gryf', 'lewa_r%C4%99ka', 'wzmacniacz']
 aliases: ['książka/wibrato']
 ---
 Są różne rodzaje wibracji. Jako pierwszą zajmiemy się wibracją

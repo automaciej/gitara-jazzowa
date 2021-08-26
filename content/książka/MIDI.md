@@ -4,7 +4,7 @@ slug: "midi"
 date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
-wikilinks: ['syntezator_gitarowy', 'modu%C5%82_MIDI']
+wikilinks: ['modu%C5%82_MIDI', 'syntezator_gitarowy']
 ---
 **Musical Instrument Digital Interface** - cyfrowy interfejs dla
 instrumentów muzycznych.

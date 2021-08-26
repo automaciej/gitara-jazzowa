@@ -4,7 +4,7 @@ slug: "gitara-elektryczna"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Rodzaje gitar']
 draft: false
-wikilinks: ['grafika:GitaraElektrycznaBudowa.png', 'pud%C5%82o_rezonansowe', 'Szyjka', 'gitara_akustyczna', 'gryf', 'pr%C3%B3g', 'gitara_elektryczno-akustyczna', 'wybrzmienie', 'Gibson', 'Les_Paul', 'Fender_Stratocaster', 'gryf', 'mostek', 'Leo_Fender', 'wibrato', 'akord', 'grafika:MostekFloydRose.jpg', 'Floyd_Rose', 'mikrostrojnik', 'menzura', 'gryf', 'struna', 'przetwornik', 'potencjometr', 'wzmacniacz', 'pud%C5%82o_rezonansowe', 'przesterowanie', 'sprz%C4%99%C5%BCenie_zwrotne', 'wzmacniacz', 'wahwah', 'fuzz', 'flanger', 'chorus']
+wikilinks: ['Fender_Stratocaster', 'Floyd_Rose', 'Gibson', 'Leo_Fender', 'Les_Paul', 'Szyjka', 'akord', 'chorus', 'flanger', 'fuzz', 'gitara_akustyczna', 'gitara_elektryczno-akustyczna', 'grafika:GitaraElektrycznaBudowa.png', 'grafika:MostekFloydRose.jpg', 'gryf', 'gryf', 'gryf', 'menzura', 'mikrostrojnik', 'mostek', 'potencjometr', 'pr%C3%B3g', 'przesterowanie', 'przetwornik', 'pud%C5%82o_rezonansowe', 'pud%C5%82o_rezonansowe', 'sprz%C4%99%C5%BCenie_zwrotne', 'struna', 'wahwah', 'wibrato', 'wybrzmienie', 'wzmacniacz', 'wzmacniacz']
 aliases: ['książka/solid-body']
 images:
   - path: "/images/GitaraElektrycznaBudowa.png"

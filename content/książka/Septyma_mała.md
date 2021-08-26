@@ -4,7 +4,7 @@ slug: "septyma-mała"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
-wikilinks: ['sk%C5%82adniki_akord%C3%B3w', 'interwa%C5%82', 'dominanta']
+wikilinks: ['dominanta', 'interwa%C5%82', 'sk%C5%82adniki_akord%C3%B3w']
 aliases: ['septyma-mala']
 ---
 **Septyma mała** może być [składnikiem

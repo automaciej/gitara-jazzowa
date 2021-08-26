@@ -4,8 +4,8 @@ slug: "sprzężenie-zwrotne"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
-wikilinks: ['wybrzmienie', 'solid_body', 'pud%C5%82o_rezonansowe', 'fla%C5%BColet', 'alikwot']
-aliases: ['sprzezenie-zwrotne', 'książka/sprzężenia']
+wikilinks: ['alikwot', 'fla%C5%BColet', 'pud%C5%82o_rezonansowe', 'solid_body', 'wybrzmienie']
+aliases: ['książka/sprzężenia', 'sprzezenie-zwrotne']
 ---
 Jest to efekt, który w praktyce pozwala na osiąganie dowolnie [długo
 brzmiących]({{< relref "Wybrzmienie.md" >}}) dźwięków.

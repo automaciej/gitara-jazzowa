@@ -4,7 +4,7 @@ slug: "oznaczenia-akordów"
 date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
-wikilinks: ['Cmaj7', 'Cmaj9', 'Cmaj7', 'Cmaj9', 'blues_jazzowy', 'F7', 'B%E2%99%AD7', 'Bdim', 'F7', 'Cm7', 'F7', 'B%E2%99%AD7', 'Bdim', 'F7', 'Am7', 'D7', 'Gm7', 'C7', 'F7', 'D7', 'Gm7', 'C7', 'Gm7', 'C7', 'dwa_pi%C4%99%C4%87_jeden', 'Cmaj7', 'Cm7', 'Cm7%E2%99%AD5', 'C7', 'C9', 'D7%E2%99%AF9', 'C7%E2%99%AD9', 'interpretacja_harmoniczna']
+wikilinks: ['Am7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'Bdim', 'Bdim', 'C7', 'C7', 'C7', 'C7', 'C7%E2%99%AD9', 'C9', 'Cm7', 'Cm7', 'Cm7%E2%99%AD5', 'Cmaj7', 'Cmaj7', 'Cmaj7', 'Cmaj9', 'Cmaj9', 'D7', 'D7', 'D7%E2%99%AF9', 'F7', 'F7', 'F7', 'F7', 'F7', 'Gm7', 'Gm7', 'Gm7', 'blues_jazzowy', 'dwa_pi%C4%99%C4%87_jeden', 'interpretacja_harmoniczna']
 aliases: ['oznaczenia-akordow']
 ---
 Ten rozdział pomoże Ci w czytaniu "kwitów". Istnieje wiele różnych

@@ -4,7 +4,7 @@ slug: "najczęstsze-usterki-i-błędy"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Konserwacja gitary']
 draft: false
-wikilinks: ['Struny', 'gryf', 'mostek', 'Szyjka', 'pr%C4%99t_regulacyjny']
+wikilinks: ['Struny', 'Szyjka', 'gryf', 'mostek', 'pr%C4%99t_regulacyjny']
 aliases: ['najczestsze-usterki-i-bledy']
 ---
 | Objawy                                                                                                    | Rozpoznanie                                                                                                                                                                                                   | Środki zaradcze                                                                                                                                                                                                            |

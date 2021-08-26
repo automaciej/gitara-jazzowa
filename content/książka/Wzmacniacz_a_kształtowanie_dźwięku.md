@@ -4,7 +4,7 @@ slug: "wzmacniacz-a-kształtowanie-dźwięku"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
-wikilinks: ['wzmacniacz', 'barwa_d%C5%BAwi%C4%99ku', 'pud%C5%82o_rezonansowe', 'Sprz%C4%99%C5%BCenie_zwrotne', 'dynamika', 'technika', 'dynamika', 'Grafika:EqualizerWzmacniacza.png', 'equalizer', 'wzmacniacz', 'mainstream', 'pasmo_cz%C4%99stotliwo%C5%9Bci', 'Wzmacniacz']
+wikilinks: ['Grafika:EqualizerWzmacniacza.png', 'Sprz%C4%99%C5%BCenie_zwrotne', 'Wzmacniacz', 'barwa_d%C5%BAwi%C4%99ku', 'dynamika', 'dynamika', 'equalizer', 'mainstream', 'pasmo_cz%C4%99stotliwo%C5%9Bci', 'pud%C5%82o_rezonansowe', 'technika', 'wzmacniacz', 'wzmacniacz']
 aliases: ['wzmacniacz-a-ksztaltowanie-dzwieku']
 images:
   - path: "/images/EqualizerWzmacniacza.png"

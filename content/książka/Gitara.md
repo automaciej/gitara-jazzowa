@@ -4,7 +4,7 @@ slug: "gitara"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strona główna']
 draft: false
-wikilinks: ['Szyjka', 'gama_chromatyczna', 'strojenie_gitary', 'grafika:PudloGitaryZPunktamiDoOpukiwania.png', 'pud%C5%82o_rezonansowe', 'Pud%C5%82o_rezonansowe', 'gitara_dwunastostrunowa', 'gitara_elektryczno-akustyczna', 'Gibson']
+wikilinks: ['Gibson', 'Pud%C5%82o_rezonansowe', 'Szyjka', 'gama_chromatyczna', 'gitara_dwunastostrunowa', 'gitara_elektryczno-akustyczna', 'grafika:PudloGitaryZPunktamiDoOpukiwania.png', 'pud%C5%82o_rezonansowe', 'strojenie_gitary']
 images:
   - path: "/images/PudloGitaryZPunktamiDoOpukiwania.png"
 ---

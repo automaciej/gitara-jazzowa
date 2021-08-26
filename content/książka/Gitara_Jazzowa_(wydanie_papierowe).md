@@ -4,10 +4,10 @@ slug: "gitara-jazzowa-wydanie-papierowe"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strona główna']
 draft: false
-wikilinks: ['grafika:GitaraJazzowaPierwszeWydanie.jpg', 'grafika:GitaraJazzowaDrugieWydanie.gif', 'Janusz_Pop%C5%82awski']
+wikilinks: ['Janusz_Pop%C5%82awski', 'grafika:GitaraJazzowaDrugieWydanie.gif', 'grafika:GitaraJazzowaPierwszeWydanie.jpg']
 images:
-  - path: "/images/GitaraJazzowaPierwszeWydanie.jpg"
   - path: "/images/GitaraJazzowaDrugieWydanie.gif"
+  - path: "/images/GitaraJazzowaPierwszeWydanie.jpg"
 ---
 {{< figure src="/images/GitaraJazzowaPierwszeWydanie.jpg" >}}
 {{< figure src="/images/GitaraJazzowaDrugieWydanie.gif" >}}

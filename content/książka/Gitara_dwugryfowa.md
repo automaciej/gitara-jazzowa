@@ -4,7 +4,7 @@ slug: "gitara-dwugryfowa"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Rodzaje gitar']
 draft: false
-wikilinks: ['grafika:GitaraDwugryfowa.jpg', 'Gitara_dwunastostrunowa', 'gitara_elektryczna', 'Jimmy_Page', 'Seweryn_Krajewski', 'tapping']
+wikilinks: ['Gitara_dwunastostrunowa', 'Jimmy_Page', 'Seweryn_Krajewski', 'gitara_elektryczna', 'grafika:GitaraDwugryfowa.jpg', 'tapping']
 images:
   - path: "/images/GitaraDwugryfowa.jpg"
 ---

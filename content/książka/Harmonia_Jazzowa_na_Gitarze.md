@@ -4,7 +4,7 @@ slug: "harmonia-jazzowa-na-gitarze"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
-wikilinks: ['Czym_jest,_a_czym_nie_jest_teoria_muzyki', 'Po_co_jest_teoria_muzyki', 'Podstawy_teorii_muzyki', 'Wprowadzenie_do_budowania_akord%C3%B3w', 'Oznaczenia_akord%C3%B3w', 'Funkcje_harmoniczne', 'Chwytanie_i_%C5%82%C4%85czenie_akord%C3%B3w', 'Sztuczki_harmoniczne', 'Barwa_akordu', 'Przyk%C5%82ady_chwyt%C3%B3w']
+wikilinks: ['Barwa_akordu', 'Chwytanie_i_%C5%82%C4%85czenie_akord%C3%B3w', 'Czym_jest,_a_czym_nie_jest_teoria_muzyki', 'Funkcje_harmoniczne', 'Oznaczenia_akord%C3%B3w', 'Po_co_jest_teoria_muzyki', 'Podstawy_teorii_muzyki', 'Przyk%C5%82ady_chwyt%C3%B3w', 'Sztuczki_harmoniczne', 'Wprowadzenie_do_budowania_akord%C3%B3w']
 aliases: ['książka/harmonia-jazzowa-na-gitarze']
 ---
 **Harmonia Jazzowa na Gitarze** to artykuł Macieja Blizińskiego.

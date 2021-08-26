@@ -4,12 +4,12 @@ slug: "ułożenie-lewej-ręki"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
-wikilinks: ['Grafika:UkladLewejRekiW1Pozycji.jpg', 'Grafika:UkladLewejRekiW5Pozycji.jpg', 'Grafika:UkladLewejRekiW12Pozycji.jpg', 'Lewa_r%C4%99ka']
+wikilinks: ['Grafika:UkladLewejRekiW12Pozycji.jpg', 'Grafika:UkladLewejRekiW1Pozycji.jpg', 'Grafika:UkladLewejRekiW5Pozycji.jpg', 'Lewa_r%C4%99ka']
 aliases: ['ulozenie-lewej-reki']
 images:
+  - path: "/images/UkladLewejRekiW12Pozycji.jpg"
   - path: "/images/UkladLewejRekiW1Pozycji.jpg"
   - path: "/images/UkladLewejRekiW5Pozycji.jpg"
-  - path: "/images/UkladLewejRekiW12Pozycji.jpg"
 ---
 |                                                         |                                                         |                                                          |
 | ------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |

@@ -4,7 +4,7 @@ slug: "ocena-gryfu"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Budowa gitary']
 draft: false
-wikilinks: ['Grafika:MarekPatrzyNaGryfOdStronyGlowki.jpg', 'pr%C4%99t_regulacyjny', 'Gibson', 'Les_Paul']
+wikilinks: ['Gibson', 'Grafika:MarekPatrzyNaGryfOdStronyGlowki.jpg', 'Les_Paul', 'pr%C4%99t_regulacyjny']
 images:
   - path: "/images/MarekPatrzyNaGryfOdStronyGlowki.jpg"
 ---

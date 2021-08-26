@@ -4,7 +4,7 @@ slug: "technika"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
-wikilinks: ['technika_klasyczna', 'Charlie_Christian', 'Joe_Pass', 'Kenny_Burrell', 'Jim_Hall', 'George_Benson', 'John_McLaughlin', 'Pat_Metheny', 'John_Scofield', 'Metody_trzymania_kostki']
+wikilinks: ['Charlie_Christian', 'George_Benson', 'Jim_Hall', 'Joe_Pass', 'John_McLaughlin', 'John_Scofield', 'Kenny_Burrell', 'Metody_trzymania_kostki', 'Pat_Metheny', 'technika_klasyczna']
 aliases: ['książka/różne-techniki-gry-na-gitarze']
 ---
 Określony rodzaj techniki gry kojarzy się na ogół z konkretnym

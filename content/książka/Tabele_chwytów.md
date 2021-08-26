@@ -2,7 +2,7 @@
 title: "Tabele chwytów"
 slug: "tabele-chwytów"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['Tabele chwytów', 'Harmonia jazzowa']
+kategorie: ['Harmonia jazzowa', 'Tabele chwytów']
 draft: false
 wikilinks: ['akord']
 aliases: ['tabele-chwytow']

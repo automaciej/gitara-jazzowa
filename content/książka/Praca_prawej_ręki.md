@@ -4,7 +4,7 @@ slug: "praca-prawej-ręki"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
-wikilinks: ['dynamika', 'artykulacja', 'Chwyt_kostki', 'Uderzenie_podstawowe', 'Ruch_kostki', 'U%C5%82o%C5%BCenie_prawej_r%C4%99ki']
+wikilinks: ['Chwyt_kostki', 'Ruch_kostki', 'U%C5%82o%C5%BCenie_prawej_r%C4%99ki', 'Uderzenie_podstawowe', 'artykulacja', 'dynamika']
 aliases: ['praca-prawej-reki']
 ---
 Od pracy **prawej ręki** zależy precyzja rytmiczna,

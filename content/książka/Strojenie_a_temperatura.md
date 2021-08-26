@@ -4,7 +4,7 @@ slug: "strojenie-a-temperatura"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strojenie gitary']
 draft: false
-wikilinks: ['struny', 'Strojenie_gitary']
+wikilinks: ['Strojenie_gitary', 'struny']
 ---
 Instrument, przed przystąpieniem do strojenia, powinien mieć temperaturę
 pomieszczenia, w jakim będzie używany. W przeciwnym razie struny

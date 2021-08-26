@@ -4,7 +4,7 @@ slug: "od-autora"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strona główna']
 draft: false
-wikilinks: ['Grafika:MarekBlizinski.jpg', 'technika', 'snakes', 'Jim_Hall', 'Joe_Pass', 'Charlie_Christian', 'technika', 'Gitara_Jazzowa_(wydanie_papierowe)']
+wikilinks: ['Charlie_Christian', 'Gitara_Jazzowa_(wydanie_papierowe)', 'Grafika:MarekBlizinski.jpg', 'Jim_Hall', 'Joe_Pass', 'snakes', 'technika', 'technika']
 images:
   - path: "/images/MarekBlizinski.jpg"
 ---

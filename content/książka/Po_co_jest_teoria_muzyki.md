@@ -4,7 +4,7 @@ slug: "po-co-jest-teoria-muzyki"
 date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
-wikilinks: ['d%C5%BAwi%C4%99k', 'teoria_muzyki', 'blues']
+wikilinks: ['blues', 'd%C5%BAwi%C4%99k', 'teoria_muzyki']
 ---
 Muzyka to dziedzina która łączy ze sobą dwa odległe światy. Z jednej
 strony jest to świat [dźwięków]({{< relref "Dźwięk.md" >}}), który może być

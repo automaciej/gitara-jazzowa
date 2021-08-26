@@ -4,7 +4,7 @@ slug: "ustawianie-wysokości-strun-nad-gryfem"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Konserwacja gitary']
 draft: false
-wikilinks: ['struny', 'gryf', 'gryf', 'mostek', 'gitara_akustyczna', 'gitara_elektryczna', 'gitara_akustyczna']
+wikilinks: ['gitara_akustyczna', 'gitara_akustyczna', 'gitara_elektryczna', 'gryf', 'gryf', 'mostek', 'struny']
 aliases: ['ustawianie-wysokosci-strun-nad-gryfem']
 ---
 Ustawianie wysokości [strun]({{< relref "Struna.md" >}}) nad

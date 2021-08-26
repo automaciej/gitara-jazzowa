@@ -4,7 +4,7 @@ slug: "technika-klasyczna"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
-wikilinks: ['Francisco_Tarrega', 'arpeggio', 'tremolo', 'Charlie_Byrd', 'Laurindo_Almeida', 'Earl_Klugh', 'George_Benson', 'gitara_klasyczna', 'Artykulacja', 'jazz']
+wikilinks: ['Artykulacja', 'Charlie_Byrd', 'Earl_Klugh', 'Francisco_Tarrega', 'George_Benson', 'Laurindo_Almeida', 'arpeggio', 'gitara_klasyczna', 'jazz', 'tremolo']
 ---
 ## Praca prawej ręki
 

@@ -4,7 +4,7 @@ slug: "pasek-do-gitary"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Akcesoria gitarzysty']
 draft: false
-wikilinks: ['postawa_z_instrumentem', 'gitara_akustyczna', 'Wes_Montgomery']
+wikilinks: ['Wes_Montgomery', 'gitara_akustyczna', 'postawa_z_instrumentem']
 ---
 Ma on duże znaczenie dla właściwej
 [postawy]({{< relref "Postawa_z_instrumentem.md" >}}). Zaczepia się go o

@@ -4,7 +4,7 @@ slug: "praca-rąk"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Gitarzyści jazzowi', 'Technika gry']
 draft: false
-wikilinks: ['Prawa_r%C4%99ka', 'Lewa_r%C4%99ka', 'Palcowanie']
+wikilinks: ['Lewa_r%C4%99ka', 'Palcowanie', 'Prawa_r%C4%99ka']
 aliases: ['praca-rak']
 ---
 Jak już pisałem, sławni

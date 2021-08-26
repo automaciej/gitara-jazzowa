@@ -2,9 +2,9 @@
 title: "Instrument transponujący"
 slug: "instrument-transponujący"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['Teoria muzyki', 'Strojenie gitary']
+kategorie: ['Strojenie gitary', 'Teoria muzyki']
 draft: false
-wikilinks: ['oktawa', 'zapis_nutowy', 'Strojenie_gitary']
+wikilinks: ['Strojenie_gitary', 'oktawa', 'zapis_nutowy']
 aliases: ['instrument-transponujacy']
 ---
 **Gitara jest instrumentem transponującym o [oktawę]({{< relref "Oktawa.md" >}})

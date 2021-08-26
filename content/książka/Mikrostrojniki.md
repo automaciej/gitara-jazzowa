@@ -4,10 +4,10 @@ slug: "mikrostrojniki"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Budowa gitary', 'Strojenie gitary']
 draft: false
-wikilinks: ['gitara_elektryczno-akustyczna', 'Floyd_Rose', 'Grafika:NutyStrojenieMikrostrojnikami.png', 'Grafika:MostekZMikrostrojnikami.jpg', 'Strojenie_gitary']
+wikilinks: ['Floyd_Rose', 'Grafika:MostekZMikrostrojnikami.jpg', 'Grafika:NutyStrojenieMikrostrojnikami.png', 'Strojenie_gitary', 'gitara_elektryczno-akustyczna']
 images:
-  - path: "/images/NutyStrojenieMikrostrojnikami.png"
   - path: "/images/MostekZMikrostrojnikami.jpg"
+  - path: "/images/NutyStrojenieMikrostrojnikami.png"
 ---
 Przy omawianiu [gitary
 elektryczno-akustycznej]({{< relref "Gitara_elektryczno-akustyczna.md" >}})

@@ -4,7 +4,7 @@ slug: "artykulacja"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
-wikilinks: ['legato', 'staccato', 'akcentowanie', 'Legato', 'Akcentowanie', 'Ozdobniki', 'Fla%C5%BColet']
+wikilinks: ['Akcentowanie', 'Fla%C5%BColet', 'Legato', 'Ozdobniki', 'akcentowanie', 'legato', 'staccato']
 ---
 **Artykulacja** jest jednym z najważniejszych elementów muzycznych.
 Często decyduje o tym, czy daną muzykę możemy nazwać jazzem czy nie.

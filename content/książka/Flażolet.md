@@ -4,7 +4,7 @@ slug: "flażolet"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
-wikilinks: ['Grafika:Flazolety.png', 'grafika:NutyFlazolety01.png', 'grafika:NutyFlazolety02.png', 'Strojenie_fla%C5%BColetami', 'Fla%C5%BColet_sztuczny']
+wikilinks: ['Fla%C5%BColet_sztuczny', 'Grafika:Flazolety.png', 'Strojenie_fla%C5%BColetami', 'grafika:NutyFlazolety01.png', 'grafika:NutyFlazolety02.png']
 aliases: ['flazolet']
 images:
   - path: "/images/Flazolety.png"

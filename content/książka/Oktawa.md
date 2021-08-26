@@ -4,7 +4,7 @@ slug: "oktawa"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
-wikilinks: ['interwa%C5%82', 'skala_diatoniczna', 'p%C3%B3%C5%82ton', 'konsonans', 'gitara', 'struna', 'strojenie_gitary']
+wikilinks: ['gitara', 'interwa%C5%82', 'konsonans', 'p%C3%B3%C5%82ton', 'skala_diatoniczna', 'strojenie_gitary', 'struna']
 ---
 **Oktawa** to podstawowy [interwał]({{< relref "Interwał.md" >}}) muzyczny o
 stosunku częstotliwości drgań 2:1, występujący między pierwszym a ósmym

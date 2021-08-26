@@ -4,7 +4,7 @@ slug: "praca-lewej-ręki"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
-wikilinks: ['artykulacja', 'wibracja', 'technika', 'd%C5%BAwi%C4%99k', 'Grafika:NutyPracaLewejReki01.png', 'gra_akordowa']
+wikilinks: ['Grafika:NutyPracaLewejReki01.png', 'artykulacja', 'd%C5%BAwi%C4%99k', 'gra_akordowa', 'technika', 'wibracja']
 aliases: ['praca-lewej-reki']
 images:
   - path: "/images/NutyPracaLewejReki01.png"

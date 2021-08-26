@@ -4,7 +4,7 @@ slug: "prowadzenie-głosów"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
-wikilinks: ['akord', 'd%C5%BAwi%C4%99k', 'grafika:NutyzmianaRoliDzwiekowBezZmianyWysokosci.png', 'harmonia_klasyczna', 'dominanta', 'G7', 'Cmaj7', 'G9', 'Cmaj7', 'G7%E2%99%AD9', 'Cm7', 'G7%E2%99%AD5%E2%99%AD9', 'Cm7']
+wikilinks: ['Cm7', 'Cm7', 'Cmaj7', 'Cmaj7', 'G7', 'G7%E2%99%AD5%E2%99%AD9', 'G7%E2%99%AD9', 'G9', 'akord', 'd%C5%BAwi%C4%99k', 'dominanta', 'grafika:NutyzmianaRoliDzwiekowBezZmianyWysokosci.png', 'harmonia_klasyczna']
 aliases: ['prowadzenie-glosow']
 images:
   - path: "/images/NutyzmianaRoliDzwiekowBezZmianyWysokosci.png"

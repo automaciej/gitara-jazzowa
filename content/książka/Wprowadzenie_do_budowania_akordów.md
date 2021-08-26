@@ -4,7 +4,7 @@ slug: "wprowadzenie-do-budowania-akordów"
 date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
-wikilinks: ['ograniczenia_gitary', 'Grafika:Chord-eb-major.png', 'Gmaj7', 'G7', 'G6', 'Gm7', 'II-V-I', 'Cmaj7', 'C7', 'C6', 'Cm7', 'Cm6']
+wikilinks: ['C6', 'C7', 'Cm6', 'Cm7', 'Cmaj7', 'G6', 'G7', 'Gm7', 'Gmaj7', 'Grafika:Chord-eb-major.png', 'II-V-I', 'ograniczenia_gitary']
 aliases: ['wprowadzenie-do-budowania-akordow']
 images:
   - path: "/images/Chord-eb-major.png"

@@ -4,7 +4,7 @@ slug: "dynamika"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
-wikilinks: ['sekcja_rytmiczna', 'kostka', 'grafika:NutyKsztaltowanieDzwieku01.png']
+wikilinks: ['grafika:NutyKsztaltowanieDzwieku01.png', 'kostka', 'sekcja_rytmiczna']
 images:
   - path: "/images/NutyKsztaltowanieDzwieku01.png"
 ---

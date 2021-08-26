@@ -4,7 +4,7 @@ slug: "dźwięk-o-określonej-wysokości"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
-wikilinks: ['d%C5%BAwi%C4%99k_(w_rozumieniu_akustyki)', 'cz%C4%99stotliwo%C5%9B%C4%87']
+wikilinks: ['cz%C4%99stotliwo%C5%9B%C4%87', 'd%C5%BAwi%C4%99k_(w_rozumieniu_akustyki)']
 aliases: ['dzwiek-o-okreslonej-wysokosci']
 ---
 Ucho ludzkie potrafi w niektórych dźwiękach (w rozumieniu

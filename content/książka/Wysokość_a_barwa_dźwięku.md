@@ -4,7 +4,7 @@ slug: "wysokość-a-barwa-dźwięku"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Strojenie gitary']
 draft: false
-wikilinks: ['Strojenie_gitary', 'Barwa_d%C5%BAwi%C4%99ku']
+wikilinks: ['Barwa_d%C5%BAwi%C4%99ku', 'Strojenie_gitary']
 aliases: ['wysokosc-a-barwa-dzwieku']
 ---
 Przystępując do strojenia, należy pamiętać o tym, że dźwięki o barwie

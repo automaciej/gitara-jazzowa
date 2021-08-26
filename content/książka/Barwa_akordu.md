@@ -4,7 +4,7 @@ slug: "barwa-akordu"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
-wikilinks: ['akord_mollowy', 'akord_durowy', 'd%C5%BAwi%C4%99k', 's%C5%82uch_absolutny', 'interwa%C5%82', 'tercja', 'kwinta', 'nona_ma%C5%82a', 'mamy', 'C', 'd%C5%BAwi%C4%99k', 'akord', 'G9', 'interwa%C5%82', 'd%C5%BAwi%C4%99k', 'interwa%C5%82', 'Grafika:GrafAkorduG9.png', 'interwa%C5%82', 'd%C5%BAwi%C4%99k', 'akord', 'Cmaj96']
+wikilinks: ['C', 'Cmaj96', 'G9', 'Grafika:GrafAkorduG9.png', 'akord', 'akord', 'akord_durowy', 'akord_mollowy', 'd%C5%BAwi%C4%99k', 'd%C5%BAwi%C4%99k', 'd%C5%BAwi%C4%99k', 'd%C5%BAwi%C4%99k', 'interwa%C5%82', 'interwa%C5%82', 'interwa%C5%82', 'interwa%C5%82', 'kwinta', 'mamy', 'nona_ma%C5%82a', 's%C5%82uch_absolutny', 'tercja']
 images:
   - path: "/images/GrafAkorduG9.png"
 ---

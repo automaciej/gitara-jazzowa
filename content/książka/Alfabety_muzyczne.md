@@ -4,7 +4,7 @@ slug: "alfabety-muzyczne"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
-wikilinks: ['bemol', 'akord', 'Solmizacja', 'D%C5%BAwi%C4%99ki_alterowane']
+wikilinks: ['D%C5%BAwi%C4%99ki_alterowane', 'Solmizacja', 'akord', 'bemol']
 ---
 Pamiętać, że amerykański alfabet muzyczny nie zna litery H. W związku z
 tym:

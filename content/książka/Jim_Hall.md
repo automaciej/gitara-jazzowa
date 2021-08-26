@@ -4,7 +4,7 @@ slug: "jim-hall"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Gitarzyści jazzowi']
 draft: false
-wikilinks: ['Joe_Pass', 'improwizacja', 'instrument_harmoniczny', 'Joe_Pass', 'Sekcja_rytmiczna', 'grafika:NutySoloJimaHallaTheWayYouLookTonight.png']
+wikilinks: ['Joe_Pass', 'Joe_Pass', 'Sekcja_rytmiczna', 'grafika:NutySoloJimaHallaTheWayYouLookTonight.png', 'improwizacja', 'instrument_harmoniczny']
 images:
   - path: "/images/NutySoloJimaHallaTheWayYouLookTonight.png"
 ---

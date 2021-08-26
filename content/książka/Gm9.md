@@ -2,9 +2,9 @@
 title: "Gm9"
 slug: "gm9"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['Tabele chwytów', 'Akordy mollowe']
+kategorie: ['Akordy mollowe', 'Tabele chwytów']
 draft: false
-wikilinks: ['septyma_ma%C5%82a', 'nona_wielka']
+wikilinks: ['nona_wielka', 'septyma_ma%C5%82a']
 ---
 G-moll z [septymą małą]({{< relref "Septyma_mała.md" >}}) i [noną
 wielką]({{< relref "Nona_wielka.md" >}}).

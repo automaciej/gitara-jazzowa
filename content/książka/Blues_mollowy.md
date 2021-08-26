@@ -4,7 +4,7 @@ slug: "blues-mollowy"
 date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
-wikilinks: ['standard_jazzowy', 'John_Coltrane', 'Fm7', 'B%E2%99%ADm7', 'Fm7', 'Cm7', 'B%E2%99%ADm7', 'Fm7', 'Fm7', 'Gm7%E2%99%AD5', 'C7%E2%99%AD9', 'Fm7', 'Cm7', 'F7%E2%99%AD9', 'B%E2%99%ADm7', 'Gm7%E2%99%AD5', 'C7%E2%99%AD9', 'Fm7', 'Dm7%E2%99%AD5', 'G7%E2%99%AD9', 'Cm7', 'B%E2%99%ADm7', 'Fm7', 'Gm7%E2%99%AD5', 'C7%E2%99%AD9']
+wikilinks: ['B%E2%99%ADm7', 'B%E2%99%ADm7', 'B%E2%99%ADm7', 'B%E2%99%ADm7', 'C7%E2%99%AD9', 'C7%E2%99%AD9', 'C7%E2%99%AD9', 'Cm7', 'Cm7', 'Cm7', 'Dm7%E2%99%AD5', 'F7%E2%99%AD9', 'Fm7', 'Fm7', 'Fm7', 'Fm7', 'Fm7', 'Fm7', 'Fm7', 'G7%E2%99%AD9', 'Gm7%E2%99%AD5', 'Gm7%E2%99%AD5', 'Gm7%E2%99%AD5', 'John_Coltrane', 'standard_jazzowy']
 ---
 **Blues mollowy** jest podstawą niektórych standardów
 jazzowych<!-- link nie odnosił się do niczego: 'Blues mollowy' ('content/książka/Blues_mollowy.md') links to 'standard_jazzowy' ('content/książka/standard_jazzowy.md') and that does not exist -->, np. *Mr P.C.* (John

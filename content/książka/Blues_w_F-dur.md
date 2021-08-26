@@ -4,7 +4,7 @@ slug: "blues-w-f-dur"
 date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
-wikilinks: ['F', 'B%E2%99%AD', 'F', 'C', 'F', 'blues', 'F7', 'B%E2%99%AD7', 'F7', 'C7', 'B%E2%99%AD7', 'F7']
+wikilinks: ['B%E2%99%AD', 'B%E2%99%AD7', 'B%E2%99%AD7', 'C', 'C7', 'F', 'F', 'F', 'F7', 'F7', 'F7', 'blues']
 ---
 Schemat najprostszego bluesa w F-dur.
 

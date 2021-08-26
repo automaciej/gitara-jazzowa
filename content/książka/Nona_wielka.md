@@ -4,7 +4,7 @@ slug: "nona-wielka"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
-wikilinks: ['interwa%C5%82', 'oktawa', 'sekunda_wielka', 'akord']
+wikilinks: ['akord', 'interwa%C5%82', 'oktawa', 'sekunda_wielka']
 ---
 Termin **nona wielka** może odnosić się do:
 

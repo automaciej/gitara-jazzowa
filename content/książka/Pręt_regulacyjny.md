@@ -4,7 +4,7 @@ slug: "pręt-regulacyjny"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Budowa gitary']
 draft: false
-wikilinks: ['grafika:PretWGryfie.png', 'regulacja_gryfu', 'Regulacja_gryfu', 'Gryf']
+wikilinks: ['Gryf', 'Regulacja_gryfu', 'grafika:PretWGryfie.png', 'regulacja_gryfu']
 aliases: ['pret-regulacyjny']
 images:
   - path: "/images/PretWGryfie.png"

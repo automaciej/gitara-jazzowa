@@ -4,7 +4,7 @@ slug: "struna"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Budowa gitary']
 draft: false
-wikilinks: ['gitara_klasyczna', 'Fender', 'Gibson', 'gitara_dwunastostrunowa', 'dynamika', 'gitara_akustyczna', 'gitara_akustyczna', 'Kenny_Burrell', 'grafika:StrunaNaKolku.jpg']
+wikilinks: ['Fender', 'Gibson', 'Kenny_Burrell', 'dynamika', 'gitara_akustyczna', 'gitara_akustyczna', 'gitara_dwunastostrunowa', 'gitara_klasyczna', 'grafika:StrunaNaKolku.jpg']
 aliases: ['książka/struny']
 images:
   - path: "/images/StrunaNaKolku.jpg"

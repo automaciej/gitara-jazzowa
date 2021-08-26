@@ -4,7 +4,7 @@ slug: "korekcja-siły-brzmienia-strun"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Konserwacja gitary']
 draft: false
-wikilinks: ['gitara_elektryczna', 'gitara_elektryczno-akustyczna', 'struna', 'barwa_d%C5%BAwi%C4%99ku', 'wzmacniacz', 'wzmacniacz', 'fuzz', 'sustainer', 'Najcz%C4%99stsze_usterki_i_b%C5%82%C4%99dy']
+wikilinks: ['Najcz%C4%99stsze_usterki_i_b%C5%82%C4%99dy', 'barwa_d%C5%BAwi%C4%99ku', 'fuzz', 'gitara_elektryczna', 'gitara_elektryczno-akustyczna', 'struna', 'sustainer', 'wzmacniacz', 'wzmacniacz']
 aliases: ['korekcja-sily-brzmienia-strun']
 ---
 Komplet strun zawiera w sobie struny o różnej grubości, a trzy lub

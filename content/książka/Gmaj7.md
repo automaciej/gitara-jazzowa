@@ -2,7 +2,7 @@
 title: "Gmaj7"
 slug: "gmaj7"
 date: 2005-01-01T00:00:00+01:00
-kategorie: ['Tabele chwytów', 'Akordy mollowe']
+kategorie: ['Akordy mollowe', 'Tabele chwytów']
 draft: false
 wikilinks: ['septyma_wielka']
 ---

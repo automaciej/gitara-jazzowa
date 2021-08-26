@@ -4,7 +4,7 @@ slug: "do-zrobienia"
 date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
-wikilinks: ['Pat_Metheny', 'John_Scofield']
+wikilinks: ['John_Scofield', 'Pat_Metheny']
 ---
 Na tej stronie znajduje się lista rzeczy do zrobienia.
 

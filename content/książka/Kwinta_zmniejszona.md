@@ -4,7 +4,7 @@ slug: "kwinta-zmniejszona"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Harmonia jazzowa']
 draft: false
-wikilinks: ['interwa%C5%82', 'kwinta', 'akord']
+wikilinks: ['akord', 'interwa%C5%82', 'kwinta']
 ---
 Termin **kwinta zmniejszona** może odnosić się do:
 

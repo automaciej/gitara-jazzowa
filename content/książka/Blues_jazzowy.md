@@ -4,7 +4,7 @@ slug: "blues-jazzowy"
 date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
-wikilinks: ['ogrywanie', 'dwa_pi%C4%99%C4%87_jeden', 'pentatonika', 'F7', 'B%E2%99%AD7', 'Bdim', 'F7', 'Cm7', 'F7', 'B%E2%99%AD7', 'Bdim', 'F7', 'Am7', 'D7', 'Gm7', 'C7', 'F7', 'D7', 'Gm7', 'C7', 'F7', 'F7/A', 'B%E2%99%AD7', 'Bdim', 'F7', 'Gm7', 'A%E2%99%ADdim', 'F7/A', 'B%E2%99%AD7', 'F9', 'E9', 'E%E2%99%AD9', 'D9', 'Gm9', 'A%E2%99%ADdim', 'Am7', 'B%E2%99%ADdim', 'C9sus', 'F7', 'A%E2%99%AD7', 'Gm7', 'C9']
+wikilinks: ['A%E2%99%AD7', 'A%E2%99%ADdim', 'A%E2%99%ADdim', 'Am7', 'Am7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'B%E2%99%ADdim', 'Bdim', 'Bdim', 'Bdim', 'C7', 'C7', 'C9', 'C9sus', 'Cm7', 'D7', 'D7', 'D9', 'E%E2%99%AD9', 'E9', 'F7', 'F7', 'F7', 'F7', 'F7', 'F7', 'F7', 'F7', 'F7/A', 'F7/A', 'F9', 'Gm7', 'Gm7', 'Gm7', 'Gm7', 'Gm9', 'dwa_pi%C4%99%C4%87_jeden', 'ogrywanie', 'pentatonika']
 ---
 **Blues jazzowy** jest grany na niemal każdym jazzowym jam sesion. Jest
 podstawą do wspólnych improwizacji oraz do nauki
