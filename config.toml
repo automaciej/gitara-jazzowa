@@ -7,3 +7,7 @@ theme = "porting"
 kategoria = "kategorie"
 [params]
 description = """książka polskiego gitarzysty jazzowego, Marka Blizińskiego"""
+author = "Marek Bliziński"
+organization = "Marek Bliziński"
+logo = "/images/android-chrome-192x192.png"
+maintainer = "Maciej Bliziński"
