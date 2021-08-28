@@ -1,9 +1,10 @@
 ---
 title: "Charlie Parker"
 slug: "charlie-parker"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-23T16:25:03Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['bebop', 'kwinta_zmniejszona', 'tryton']
 aliases: ['/gitara/Charlie_Parker']
 ---

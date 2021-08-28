@@ -1,9 +1,10 @@
 ---
 title: "Strojenie a temperatura"
 slug: "strojenie-a-temperatura"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-23T21:01:30Z
 kategorie: ['Strojenie gitary']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Strojenie_gitary', 'struny']
 aliases: ['/gitara/Strojenie_a_temperatura']
 ---

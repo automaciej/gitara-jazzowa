@@ -1,9 +1,10 @@
 ---
 title: "Skale kościelne"
 slug: "skale-kościelne"
-date: 2005-01-01T00:00:00+01:00
+date: 2007-07-08T21:29:44Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['skala']
 aliases: ['/gitara/Skale_kościelne', 'skale-koscielne']
 ---

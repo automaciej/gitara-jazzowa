@@ -1,9 +1,10 @@
 ---
 title: "Syntezator gitarowy"
 slug: "syntezator-gitarowy"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-16T19:08:49Z
 kategorie: ['Rodzaje gitar']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['John_McLaughlin', 'MIDI', 'Pat_Metheny', 'gitara', 'gryf', 'kontroler_MIDI', 'pr%C3%B3g', 'struna']
 aliases: ['/gitara/Syntezator_gitarowy']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Walking"
 slug: "walking"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-10T17:35:39Z
 kategorie: ['Harmonia jazzowa']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Akompaniament', 'ogrywanie', 'swing']
 aliases: ['/gitara/Walking']
 ---

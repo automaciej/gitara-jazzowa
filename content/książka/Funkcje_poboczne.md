@@ -1,9 +1,10 @@
 ---
 title: "Funkcje poboczne"
 slug: "funkcje-poboczne"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T17:34:05Z
 kategorie: ['Harmonia jazzowa']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Funkcje_poboczne']
 ---

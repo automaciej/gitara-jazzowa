@@ -1,9 +1,10 @@
 ---
 title: "Wzmacniacz"
 slug: "wzmacniacz"
-date: 2005-01-01T00:00:00+01:00
+date: 2006-02-22T22:49:29Z
 kategorie: ['Akcesoria gitarzysty']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:EqualizerWzmacniacza.png', 'Wzmacniacz_a_kszta%C5%82towanie_d%C5%BAwi%C4%99ku', 'bebop', 'gitara_elektryczno-akustyczna', 'mainstream', 'pokrowiec_na_wzmacniacz', 'sprz%C4%99%C5%BCenie_zwrotne', 'wibrato']
 aliases: ['/gitara/Wzmacniacz']
 images:

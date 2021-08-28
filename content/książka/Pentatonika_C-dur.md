@@ -1,9 +1,10 @@
 ---
 title: "Pentatonika C-dur"
 slug: "pentatonika-c-dur"
-date: 2005-01-01T00:00:00+01:00
+date: 2011-11-22T09:42:17Z
 kategorie: ['Tabele chwytów']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Pentatonika_C-dur']
 ---

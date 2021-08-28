@@ -1,9 +1,10 @@
 ---
 title: "Brudnopis"
 slug: "brudnopis"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-23T16:30:23Z
 kategorie: ['Strona główna']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Brudnopis']
 ---

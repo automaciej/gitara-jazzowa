@@ -1,9 +1,10 @@
 ---
 title: "Gmaj7"
 slug: "gmaj7"
-date: 2005-01-01T00:00:00+01:00
+date: 2007-08-12T21:17:56Z
 kategorie: ['Akordy mollowe', 'Tabele chwytów']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['septyma_wielka']
 aliases: ['/gitara/Gmaj7']
 ---

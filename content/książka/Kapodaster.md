@@ -1,9 +1,10 @@
 ---
 title: "Kapodaster"
 slug: "kapodaster"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-09-30T17:09:08Z
 kategorie: ['Akcesoria gitarzysty']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:Capo-on.jpg', 'Grafika:capo.jpg', 'gryf', 'menzura', 'siode%C5%82ko', 'struny', 'tonacja']
 aliases: ['/gitara/Kapodaster']
 images:

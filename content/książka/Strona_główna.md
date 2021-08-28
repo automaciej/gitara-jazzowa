@@ -1,9 +1,10 @@
 ---
 title: "Strona główna"
 slug: "strona-główna"
-date: 2005-01-01T00:00:00+01:00
+date: 2007-11-17T17:53:16Z
 kategorie: ['Strona główna']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Strona_główna', 'strona-glowna']
 ---

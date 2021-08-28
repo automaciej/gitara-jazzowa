@@ -1,9 +1,10 @@
 ---
 title: "Dominanta"
 slug: "dominanta"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T17:41:08Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Funkcje_harmoniczne']
 aliases: ['/gitara/Dominanta']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Funkcja harmoniczna"
 slug: "funkcja-harmoniczna"
-date: 2005-01-01T00:00:00+01:00
+date: 2007-07-08T21:30:17Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['akord', 'dominanta', 'subdominanta', 'tonacja', 'tonika']
 aliases: ['/gitara/Funkcja_harmoniczna']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Kostka"
 slug: "kostka"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-09-30T17:09:15Z
 kategorie: ['Akcesoria gitarzysty']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Barwa_d%C5%BAwi%C4%99ku', 'Barwa_d%C5%BAwi%C4%99ku', 'Chwyt_kostki', 'Grafika:plectrum1.jpg', 'Grafika:plectrum2.jpg', 'Kostka_a_barwa_d%C5%BAwi%C4%99ku', 'Kszta%C5%82towanie_d%C5%BAwi%C4%99ku', 'Metody_trzymania_kostki', 'gitara_akustyczna', 'legato', 'technika']
 aliases: ['/gitara/Kostka']
 images:

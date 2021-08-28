@@ -1,9 +1,10 @@
 ---
 title: "Skala"
 slug: "skala"
-date: 2005-01-01T00:00:00+01:00
+date: 2013-06-23T09:25:57Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['d%C5%BAwi%C4%99k']
 aliases: ['/gitara/Skala']
 ---

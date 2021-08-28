@@ -1,9 +1,10 @@
 ---
 title: "Akord zmniejszony"
 slug: "akord-zmniejszony"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T20:05:26Z
 kategorie: ['Harmonia jazzowa']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Akord_Bdim', 'akord', 'blues', 'tercja_ma%C5%82a']
 aliases: ['/gitara/Akord_zmniejszony']
 ---

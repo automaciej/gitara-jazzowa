@@ -1,9 +1,10 @@
 ---
 title: "Stopień"
 slug: "stopień"
-date: 2005-01-01T00:00:00+01:00
+date: 2007-07-08T21:29:54Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Akord_o_budowie_tercjowej', 'akord', 'd%C5%BAwi%C4%99k', 'interwa%C5%82', 'tercja_akordu']
 aliases: ['/gitara/Stopień', 'stopien']
 ---

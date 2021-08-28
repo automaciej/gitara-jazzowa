@@ -1,9 +1,10 @@
 ---
 title: "Gitara Jazzowa (wydanie papierowe)"
 slug: "gitara-jazzowa-wydanie-papierowe"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-10-31T23:38:19Z
 kategorie: ['Strona główna']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Janusz_Pop%C5%82awski', 'grafika:GitaraJazzowaDrugieWydanie.gif', 'grafika:GitaraJazzowaPierwszeWydanie.jpg']
 aliases: ['/gitara/Gitara_Jazzowa_(wydanie_papierowe)']
 images:

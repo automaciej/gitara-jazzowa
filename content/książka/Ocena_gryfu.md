@@ -1,9 +1,10 @@
 ---
 title: "Ocena gryfu"
 slug: "ocena-gryfu"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-07-04T15:40:58Z
 kategorie: ['Budowa gitary']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Gibson', 'Grafika:MarekPatrzyNaGryfOdStronyGlowki.jpg', 'Les_Paul', 'pr%C4%99t_regulacyjny']
 aliases: ['/gitara/Ocena_gryfu']
 images:

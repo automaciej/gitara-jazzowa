@@ -1,9 +1,10 @@
 ---
 title: "Blues"
 slug: "blues"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-25T18:52:11Z
 kategorie: ['Style muzyczne']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['dominanta', 'subdominanta', 'tonika']
 aliases: ['/gitara/Blues']
 ---

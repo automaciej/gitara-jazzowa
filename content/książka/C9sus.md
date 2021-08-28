@@ -1,9 +1,10 @@
 ---
 title: "C9sus"
 slug: "c9sus"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T21:10:18Z
 kategorie: ['Tabele chwytów']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['B%E2%99%AD', 'B%E2%99%AD/C', 'nona_wielka', 'septyma_ma%C5%82a']
 aliases: ['/gitara/C9sus', 'książka/b-c']
 ---

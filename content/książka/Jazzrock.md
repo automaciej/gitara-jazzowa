@@ -1,9 +1,10 @@
 ---
 title: "Jazzrock"
 slug: "jazzrock"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-25T19:12:12Z
 kategorie: ['Style muzyczne']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['John_McLaughlin', 'John_McLaughlin', 'Larry_Coryell', 'Wibracja', 'blues', 'jazz', 'rock', 'sprz%C4%99%C5%BCenie_zwrotne', 'struna']
 aliases: ['/gitara/Jazzrock']
 ---

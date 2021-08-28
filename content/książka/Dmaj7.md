@@ -1,9 +1,10 @@
 ---
 title: "Dmaj7"
 slug: "dmaj7"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-04T08:38:21Z
 kategorie: ['Akordy durowe', 'Tabele chwytów']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['septyma_wielka']
 aliases: ['/gitara/Dmaj7']
 ---

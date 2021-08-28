@@ -1,9 +1,10 @@
 ---
 title: "Proste strojenie"
 slug: "proste-strojenie"
-date: 2005-01-01T00:00:00+01:00
+date: 2008-05-17T22:27:11Z
 kategorie: ['Strojenie gitary']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:StrojenieGitary.png', 'maszynka', 'metody_strojenia', 'oktawa', 'strojnik', 'struna', 'struna']
 aliases: ['/gitara/Proste_strojenie']
 images:

@@ -1,9 +1,10 @@
 ---
 title: "Gitara"
 slug: "gitara"
-date: 2005-01-01T00:00:00+01:00
+date: 2011-11-22T10:24:23Z
 kategorie: ['Strona główna']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Gibson', 'Pud%C5%82o_rezonansowe', 'Szyjka', 'gama_chromatyczna', 'gitara_dwunastostrunowa', 'gitara_elektryczno-akustyczna', 'grafika:PudloGitaryZPunktamiDoOpukiwania.png', 'pud%C5%82o_rezonansowe', 'strojenie_gitary']
 aliases: ['/gitara/Gitara']
 images:

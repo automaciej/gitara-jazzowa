@@ -1,9 +1,10 @@
 ---
 title: "Drop two"
 slug: "drop-two"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-26T07:28:34Z
 kategorie: ['Układ rozległy']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['uk%C5%82ad_skupiony']
 aliases: ['/gitara/Drop_two']
 ---

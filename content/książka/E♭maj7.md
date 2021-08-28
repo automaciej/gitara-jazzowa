@@ -1,9 +1,10 @@
 ---
 title: "E♭maj7"
 slug: "e-maj7"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-08T22:22:41Z
 kategorie: ['Akordy durowe', 'Tabele chwytów']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['septyma_wielka']
 aliases: ['/gitara/E♭maj7', 'emaj7']
 ---

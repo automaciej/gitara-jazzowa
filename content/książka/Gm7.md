@@ -1,9 +1,10 @@
 ---
 title: "Gm7"
 slug: "gm7"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-04T08:39:00Z
 kategorie: ['Akordy mollowe', 'Tabele chwytów']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['septyma_ma%C5%82a']
 aliases: ['/gitara/Gm7']
 ---

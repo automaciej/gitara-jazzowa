@@ -1,9 +1,10 @@
 ---
 title: "Blues jazzowy"
 slug: "blues-jazzowy"
-date: 2005-01-01T00:00:00+01:00
+date: 2013-06-21T13:20:09Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['A%E2%99%AD7', 'A%E2%99%ADdim', 'A%E2%99%ADdim', 'Am7', 'Am7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'B%E2%99%ADdim', 'Bdim', 'Bdim', 'Bdim', 'C7', 'C7', 'C9', 'C9sus', 'Cm7', 'D7', 'D7', 'D9', 'E%E2%99%AD9', 'E9', 'F7', 'F7', 'F7', 'F7', 'F7', 'F7', 'F7', 'F7', 'F7/A', 'F7/A', 'F9', 'Gm7', 'Gm7', 'Gm7', 'Gm7', 'Gm9', 'dwa_pi%C4%99%C4%87_jeden', 'ogrywanie', 'pentatonika']
 aliases: ['/gitara/Blues_jazzowy']
 ---

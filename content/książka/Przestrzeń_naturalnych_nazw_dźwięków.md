@@ -1,9 +1,10 @@
 ---
 title: "Przestrzeń naturalnych nazw dźwięków"
 slug: "przestrzeń-naturalnych-nazw-dźwięków"
-date: 2005-01-01T00:00:00+01:00
+date: 2007-07-08T21:28:42Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Przestrzeń_naturalnych_nazw_dźwięków', 'przestrzen-naturalnych-nazw-dzwiekow']
 ---

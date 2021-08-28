@@ -1,9 +1,10 @@
 ---
 title: "Akord 7 w układzie rozległym"
 slug: "akord-7-w-układzie-rozległym"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-10T05:58:31Z
 kategorie: ['Układ rozległy']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['septyma_ma%C5%82a']
 aliases: ['/gitara/Akord_7_w_układzie_rozległym', 'akord-7-w-ukladzie-rozleglym']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Gitara akustyczno-elektryczna"
 slug: "gitara-akustyczno-elektryczna"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-01-14T18:10:18Z
 kategorie: ['Rodzaje gitar']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['gitara_akustyczna', 'gitara_elektryczna', 'pud%C5%82o_rezonansowe', 'wzmacniacz']
 aliases: ['/gitara/Gitara_akustyczno-elektryczna']
 ---

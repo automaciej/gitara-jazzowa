@@ -1,9 +1,10 @@
 ---
 title: "Częstotliwości dźwięków"
 slug: "częstotliwości-dźwięków"
-date: 2005-01-01T00:00:00+01:00
+date: 2007-07-08T21:29:20Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Znak_chromatyczny']
 aliases: ['/gitara/Częstotliwości_dźwięków', 'czestotliwosci-dzwiekow']
 ---

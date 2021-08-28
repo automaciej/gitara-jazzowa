@@ -1,9 +1,10 @@
 ---
 title: "Subdominanta"
 slug: "subdominanta"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T17:41:11Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Funkcje_harmoniczne']
 aliases: ['/gitara/Subdominanta']
 ---

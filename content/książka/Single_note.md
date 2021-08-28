@@ -1,9 +1,10 @@
 ---
 title: "Single note"
 slug: "single-note"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-28T17:08:13Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['d%C5%BAwi%C4%99k', 'gra_akordowa']
 aliases: ['/gitara/Single_note']
 ---

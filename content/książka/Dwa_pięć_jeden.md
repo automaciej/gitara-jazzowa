@@ -1,9 +1,10 @@
 ---
 title: "Dwa pięć jeden"
 slug: "dwa-pięć-jeden"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T17:26:17Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['II-V-I_(dwa_pi%C4%99%C4%87_jeden)']
 aliases: ['/gitara/Dwa_pięć_jeden', 'dwa-piec-jeden']
 ---

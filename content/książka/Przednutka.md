@@ -1,9 +1,10 @@
 ---
 title: "Przednutka"
 slug: "przednutka"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T23:09:50Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:NutyPrzednutka.png']
 aliases: ['/gitara/Przednutka']
 images:

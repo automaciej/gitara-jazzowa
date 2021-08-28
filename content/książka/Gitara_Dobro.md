@@ -1,9 +1,10 @@
 ---
 title: "Gitara Dobro"
 slug: "gitara-dobro"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-16T17:57:06Z
 kategorie: ['Rodzaje gitar']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Gitara_elektryczna', 'Gitara_hawajska', 'gitara_akustyczna', 'grafika:GitaraDobro.jpg', 'pud%C5%82o_rezonansowe']
 aliases: ['/gitara/Gitara_Dobro']
 images:

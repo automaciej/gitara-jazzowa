@@ -1,9 +1,10 @@
 ---
 title: "MIDI"
 slug: "midi"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-07T20:14:00Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['modu%C5%82_MIDI', 'syntezator_gitarowy']
 aliases: ['/gitara/MIDI']
 ---

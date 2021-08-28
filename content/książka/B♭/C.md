@@ -1,9 +1,10 @@
 ---
 title: "B♭/C"
 slug: "b-c"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T20:48:56Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['C9sus']
 aliases: ['/gitara/C']
 ---

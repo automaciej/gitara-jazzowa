@@ -1,9 +1,10 @@
 ---
 title: "Glissando"
 slug: "glissando"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T16:57:31Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:NutyGlissando.png']
 aliases: ['/gitara/Glissando']
 images:

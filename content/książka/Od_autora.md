@@ -1,9 +1,10 @@
 ---
 title: "Od autora"
 slug: "od-autora"
-date: 2005-01-01T00:00:00+01:00
+date: 2012-12-14T09:51:21Z
 kategorie: ['Strona główna']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Charlie_Christian', 'Gitara_Jazzowa_(wydanie_papierowe)', 'Grafika:MarekBlizinski.jpg', 'Jim_Hall', 'Joe_Pass', 'snakes', 'technika', 'technika']
 aliases: ['/gitara/Od_autora']
 images:

@@ -1,9 +1,10 @@
 ---
 title: "Łączenie najbliższą drogą"
 slug: "łączenie-najbliższą-drogą"
-date: 2005-01-01T00:00:00+01:00
+date: 2007-08-11T09:14:59Z
 kategorie: ['Harmonia jazzowa', 'Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Cmaj7', 'Dm7', 'G7']
 aliases: ['/gitara/Łączenie_najbliższą_drogą', 'laczenie-najblizsza-droga']
 ---

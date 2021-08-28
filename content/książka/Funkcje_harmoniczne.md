@@ -1,9 +1,10 @@
 ---
 title: "Funkcje harmoniczne"
 slug: "funkcje-harmoniczne"
-date: 2005-01-01T00:00:00+01:00
+date: 2012-06-17T15:30:47Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Funkcja_harmoniczna', 'Funkcje_poboczne', 'II-V-I_(dwa_pi%C4%99%C4%87_jeden)', 'Wtr%C4%85cenia', 'akord', 'tonacja']
 aliases: ['/gitara/Funkcje_harmoniczne', 'książka/dominanta', 'książka/subdominanta']
 ---

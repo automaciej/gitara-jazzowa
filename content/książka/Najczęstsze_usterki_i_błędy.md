@@ -1,9 +1,10 @@
 ---
 title: "Najczęstsze usterki i błędy"
 slug: "najczęstsze-usterki-i-błędy"
-date: 2005-01-01T00:00:00+01:00
+date: 2010-04-13T06:47:44Z
 kategorie: ['Konserwacja gitary']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Struny', 'Szyjka', 'gryf', 'mostek', 'pr%C4%99t_regulacyjny']
 aliases: ['/gitara/Najczęstsze_usterki_i_błędy', 'najczestsze-usterki-i-bledy']
 ---

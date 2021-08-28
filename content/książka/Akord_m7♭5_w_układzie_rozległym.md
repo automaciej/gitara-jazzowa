@@ -1,9 +1,10 @@
 ---
 title: "Akord m7♭5 w układzie rozległym"
 slug: "akord-m7-5-w-układzie-rozległym"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-10T05:58:41Z
 kategorie: ['Układ rozległy']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Akord_m7♭5_w_układzie_rozległym', 'akord-m75-w-ukladzie-rozleglym']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "John McLaughlin"
 slug: "john-mclaughlin"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T17:06:33Z
 kategorie: ['Gitarzyści jazzowi']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Al_Di_Meola', 'Mahavishnu_Orchestra', 'Paco_de_Lucia', 'Pat_Metheny', 'blues', 'gitara_akustyczna', 'gitara_elektryczna', 'jazzrock', 'syntezator_gitarowy']
 aliases: ['/gitara/John_McLaughlin']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Stojak do gitary"
 slug: "stojak-do-gitary"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-09-30T17:09:37Z
 kategorie: ['Akcesoria gitarzysty']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Stojak_do_gitary']
 ---

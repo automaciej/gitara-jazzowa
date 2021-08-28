@@ -1,9 +1,10 @@
 ---
 title: "Odchylenia od stroju"
 slug: "odchylenia-od-stroju"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-23T21:03:38Z
 kategorie: ['Konserwacja gitary', 'Strojenie gitary']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Strojenie_gitary', 'menzura', 'regulacja_menzury']
 aliases: ['/gitara/Odchylenia_od_stroju']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Envelope filter"
 slug: "envelope-filter"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-09-30T17:08:29Z
 kategorie: ['Akcesoria gitarzysty']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Envelope_filter']
 ---

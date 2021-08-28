@@ -1,9 +1,10 @@
 ---
 title: "Interpretacja harmoniczna"
 slug: "interpretacja-harmoniczna"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-21T15:42:19Z
 kategorie: ['Harmonia jazzowa']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['akord', 'd%C5%BAwi%C4%99k', 'dominanta', 'dominanta', 'funkcja_harmoniczna', 'schemat_harmoniczny', 'septyma_akordu', 'tonika']
 aliases: ['/gitara/Interpretacja_harmoniczna']
 ---

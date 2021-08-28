@@ -1,9 +1,10 @@
 ---
 title: "Akord"
 slug: "akord"
-date: 2005-01-01T00:00:00+01:00
+date: 2013-06-23T09:26:50Z
 kategorie: ['Tabele chwytów', 'Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Akord_o_budowie_tercjowej', 'd%C5%BAwi%C4%99k']
 aliases: ['/gitara/Akord']
 ---

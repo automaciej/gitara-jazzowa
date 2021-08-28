@@ -1,9 +1,10 @@
 ---
 title: "Mordent"
 slug: "mordent"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T16:59:23Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:NutyMordent.png', 'kostka']
 aliases: ['/gitara/Mordent']
 images:

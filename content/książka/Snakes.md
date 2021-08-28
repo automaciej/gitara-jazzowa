@@ -1,9 +1,10 @@
 ---
 title: "Snakes"
 slug: "snakes"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T18:08:05Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['fraza', 'improwizacj']
 aliases: ['/gitara/Snakes']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Tape echo"
 slug: "tape-echo"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-05T08:11:55Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Tape_echo']
 ---

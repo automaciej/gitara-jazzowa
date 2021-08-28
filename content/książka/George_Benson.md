@@ -1,9 +1,10 @@
 ---
 title: "George Benson"
 slug: "george-benson"
-date: 2005-01-01T00:00:00+01:00
+date: 2006-04-05T07:52:38Z
 kategorie: ['Gitarzyści jazzowi']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Wes_Montgomery']
 aliases: ['/gitara/George_Benson']
 ---

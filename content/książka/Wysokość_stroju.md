@@ -1,9 +1,10 @@
 ---
 title: "Wysokość stroju"
 slug: "wysokość-stroju"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-23T21:01:10Z
 kategorie: ['Strojenie gitary']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Strojenie_gitary', 'struna']
 aliases: ['/gitara/Wysokość_stroju', 'wysokosc-stroju']
 ---

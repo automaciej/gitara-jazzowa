@@ -1,9 +1,10 @@
 ---
 title: "Pogłos"
 slug: "pogłos"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-10-01T16:20:12Z
 kategorie: ['Akcesoria gitarzysty']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['wzmacniacz']
 aliases: ['/gitara/Pogłos', 'poglos']
 ---

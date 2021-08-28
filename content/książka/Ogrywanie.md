@@ -1,9 +1,10 @@
 ---
 title: "Ogrywanie"
 slug: "ogrywanie"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-27T20:49:54Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Ogrywanie_akordu']
 aliases: ['/gitara/Ogrywanie']
 ---

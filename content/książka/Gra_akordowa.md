@@ -1,9 +1,10 @@
 ---
 title: "Gra akordowa"
 slug: "gra-akordowa"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-28T17:07:36Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Joe_Pass', 'akord', 'd%C5%BAwi%C4%99k']
 aliases: ['/gitara/Gra_akordowa']
 ---

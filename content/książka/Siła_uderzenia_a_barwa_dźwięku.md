@@ -1,9 +1,10 @@
 ---
 title: "Siła uderzenia a barwa dźwięku"
 slug: "siła-uderzenia-a-barwa-dźwięku"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T18:12:37Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['artykulacja', 'dynamika', 'kostka', 'wzmacniacz']
 aliases: ['/gitara/Siła_uderzenia_a_barwa_dźwięku', 'sila-uderzenia-a-barwa-dzwieku']
 ---

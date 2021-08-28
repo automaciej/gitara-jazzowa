@@ -1,9 +1,10 @@
 ---
 title: "Składniki akordów"
 slug: "składniki-akordów"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-21T15:24:53Z
 kategorie: ['Harmonia jazzowa']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Wikipedysta:MaciejBlizinski', 'akord', 'znaki_chromatyczne']
 aliases: ['/gitara/Składniki_akordów', 'skladniki-akordow']
 ---

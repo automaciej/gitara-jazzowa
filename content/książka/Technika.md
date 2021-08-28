@@ -1,9 +1,10 @@
 ---
 title: "Technika"
 slug: "technika"
-date: 2005-01-01T00:00:00+01:00
+date: 2006-04-05T07:52:05Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Charlie_Christian', 'George_Benson', 'Jim_Hall', 'Joe_Pass', 'John_McLaughlin', 'John_Scofield', 'Kenny_Burrell', 'Metody_trzymania_kostki', 'Pat_Metheny', 'technika_klasyczna']
 aliases: ['/gitara/Technika', 'książka/różne-techniki-gry-na-gitarze']
 ---

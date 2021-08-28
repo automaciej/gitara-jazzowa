@@ -1,9 +1,10 @@
 ---
 title: "Septyma wielka"
 slug: "septyma-wielka"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-03T15:05:11Z
 kategorie: ['Harmonia jazzowa']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['akord', 'interwa%C5%82', 'oktawa', 'p%C3%B3%C5%82ton', 'pryma']
 aliases: ['/gitara/Septyma_wielka']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Praca rąk"
 slug: "praca-rąk"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-09-17T12:26:09Z
 kategorie: ['Gitarzyści jazzowi', 'Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Lewa_r%C4%99ka', 'Palcowanie', 'Prawa_r%C4%99ka']
 aliases: ['/gitara/Praca_rąk', 'praca-rak']
 ---

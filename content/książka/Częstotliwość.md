@@ -1,9 +1,10 @@
 ---
 title: "Częstotliwość"
 slug: "częstotliwość"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-19T12:49:01Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Cz%C4%99stotliwo%C5%9B%C4%87_drga%C5%84']
 aliases: ['/gitara/Częstotliwość', 'czestotliwosc']
 ---

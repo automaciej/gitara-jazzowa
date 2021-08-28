@@ -1,9 +1,10 @@
 ---
 title: "Tercja akordu"
 slug: "tercja-akordu"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-21T14:27:38Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Septyma_akordu', 'Tercja_i_septyma', 'akord', 'tryb']
 aliases: ['/gitara/Tercja_akordu']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Do zrobienia"
 slug: "do-zrobienia"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-09T18:59:30Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['John_Scofield', 'Pat_Metheny']
 aliases: ['/gitara/Do_zrobienia']
 ---

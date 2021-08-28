@@ -1,9 +1,10 @@
 ---
 title: "Gitara basowa"
 slug: "gitara-basowa"
-date: 2005-01-01T00:00:00+01:00
+date: 2009-03-24T21:55:00Z
 kategorie: ['Rodzaje gitar']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['d%C5%BAwi%C4%99k', 'gitara_akustyczna', 'gitara_elektryczna', 'gitara_elektryczno-akustyczna', 'oktawa', 'pud%C5%82o_rezonansowe', 'strojenie_gitary', 'struny', 'sze%C5%9Bciostrunowa_gitara_basowa']
 aliases: ['/gitara/Gitara_basowa']
 ---

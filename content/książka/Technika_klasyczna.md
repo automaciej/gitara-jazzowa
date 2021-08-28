@@ -1,9 +1,10 @@
 ---
 title: "Technika klasyczna"
 slug: "technika-klasyczna"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-05T06:50:30Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Artykulacja', 'Charlie_Byrd', 'Earl_Klugh', 'Francisco_Tarrega', 'George_Benson', 'Laurindo_Almeida', 'arpeggio', 'gitara_klasyczna', 'jazz', 'tremolo']
 aliases: ['/gitara/Technika_klasyczna']
 ---

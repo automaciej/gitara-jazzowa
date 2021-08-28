@@ -1,9 +1,10 @@
 ---
 title: "Akord maj7 w układzie rozległym"
 slug: "akord-maj7-w-układzie-rozległym"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-10T05:58:17Z
 kategorie: ['Układ rozległy']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['septyma_wielka']
 aliases: ['/gitara/Akord_maj7_w_układzie_rozległym', 'akord-maj7-w-ukladzie-rozleglym']
 ---

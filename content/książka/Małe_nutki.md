@@ -1,9 +1,10 @@
 ---
 title: "Małe nutki"
 slug: "małe-nutki"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T16:58:16Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:NutyMaleNutki.png']
 aliases: ['/gitara/Małe_nutki', 'male-nutki']
 images:

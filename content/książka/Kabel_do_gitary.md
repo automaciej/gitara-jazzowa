@@ -1,9 +1,10 @@
 ---
 title: "Kabel do gitary"
 slug: "kabel-do-gitary"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-09-30T17:09:04Z
 kategorie: ['Akcesoria gitarzysty']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['gitara_elektryczna', 'gitara_elektryczno-akustyczna', 'przedwzmaczniacz', 'wzmacniacz']
 aliases: ['/gitara/Kabel_do_gitary']
 ---

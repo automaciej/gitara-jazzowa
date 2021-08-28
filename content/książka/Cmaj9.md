@@ -1,9 +1,10 @@
 ---
 title: "Cmaj9"
 slug: "cmaj9"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-03T14:52:32Z
 kategorie: ['Akordy durowe', 'Tabele chwytów']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['bez_prymy']
 aliases: ['/gitara/Cmaj9']
 ---

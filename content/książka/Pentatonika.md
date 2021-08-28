@@ -1,9 +1,10 @@
 ---
 title: "Pentatonika"
 slug: "pentatonika"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-28T06:31:04Z
 kategorie: ['Harmonia jazzowa']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['blues', 'kwinta_zmniejszona', 'pentatonika_C-dur', 'pentatonika_C-dur', 'skala']
 aliases: ['/gitara/Pentatonika']
 ---

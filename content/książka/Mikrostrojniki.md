@@ -1,9 +1,10 @@
 ---
 title: "Mikrostrojniki"
 slug: "mikrostrojniki"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-23T21:00:04Z
 kategorie: ['Budowa gitary', 'Strojenie gitary']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Floyd_Rose', 'Grafika:MostekZMikrostrojnikami.jpg', 'Grafika:NutyStrojenieMikrostrojnikami.png', 'Strojenie_gitary', 'gitara_elektryczno-akustyczna']
 aliases: ['/gitara/Mikrostrojniki']
 images:

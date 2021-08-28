@@ -1,9 +1,10 @@
 ---
 title: "Fender Stratocaster"
 slug: "fender-stratocaster"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-11-22T23:20:20Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Fender_Stratocaster']
 ---

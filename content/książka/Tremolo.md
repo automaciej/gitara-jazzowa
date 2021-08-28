@@ -1,9 +1,10 @@
 ---
 title: "Tremolo"
 slug: "tremolo"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T18:07:46Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:NutyTremolo.png']
 aliases: ['/gitara/Tremolo']
 images:

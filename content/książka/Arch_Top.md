@@ -1,9 +1,10 @@
 ---
 title: "Arch Top"
 slug: "arch-top"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-01-20T17:46:34Z
 kategorie: ['Rodzaje gitar']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Arch_Top', 'Count_Basie', 'Freddie_Green', 'Grafika:MostekZRegulacjaWysokosci.jpg', 'Pud%C5%82o_rezonansowe', 'gitara_akustyczna', 'gitara_klasyczna', 'grafika:GitaraTypuArchTop.jpg', 'pud%C5%82o_rezonansowe', 'swing']
 aliases: ['/gitara/Arch_Top']
 images:

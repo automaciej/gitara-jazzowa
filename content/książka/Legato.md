@@ -1,9 +1,10 @@
 ---
 title: "Legato"
 slug: "legato"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-14T07:03:10Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Allan_Holdsworth', 'Emmet_Chapman', 'Stick', 'Stick', 'Tapping', 'barwa_d%C5%BAwi%C4%99ku', 'gitara_klasyczna', 'gryf', 'gryf', 'kostka', 'kostka', 'lewa_r%C4%99ka', 'mostek', 'ozdobniki', 'rejestr_g%C5%82osowy', 'technika']
 aliases: ['/gitara/Legato']
 ---

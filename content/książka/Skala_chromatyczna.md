@@ -1,9 +1,10 @@
 ---
 title: "Skala chromatyczna"
 slug: "skala-chromatyczna"
-date: 2005-01-01T00:00:00+01:00
+date: 2013-06-23T10:08:18Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['d%C5%BAwi%C4%99k', 'skala']
 aliases: ['/gitara/Skala_chromatyczna']
 ---

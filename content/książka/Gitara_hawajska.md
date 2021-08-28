@@ -1,9 +1,10 @@
 ---
 title: "Gitara hawajska"
 slug: "gitara-hawajska"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-05T07:53:19Z
 kategorie: ['Rodzaje gitar']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['A', 'pud%C5%82o_rezonansowe', 'technika']
 aliases: ['/gitara/Gitara_hawajska']
 ---

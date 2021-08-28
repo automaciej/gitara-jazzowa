@@ -1,9 +1,10 @@
 ---
 title: "Półton"
 slug: "półton"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-26T17:26:30Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['oktawa']
 aliases: ['/gitara/Półton', 'polton']
 ---

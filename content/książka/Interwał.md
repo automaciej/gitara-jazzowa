@@ -1,9 +1,10 @@
 ---
 title: "Interwał"
 slug: "interwał"
-date: 2005-01-01T00:00:00+01:00
+date: 2007-07-08T21:29:31Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['d%C5%BAwi%C4%99k', 'd%C5%BAwi%C4%99k', 'd%C5%BAwi%C4%99k', 'gama_diatoniczna', 'kwarta', 'kwinta', 'oktawa', 'p%C3%B3%C5%82ton', 'pryma', 'przestrze%C5%84_naturalnych_nazw_d%C5%BAwi%C4%99k%C3%B3w', 'seksta', 'sekunda', 'septyma', 'stopie%C5%84', 'tercja', 'tercja_ma%C5%82a', 'znaki_chromatyczne']
 aliases: ['/gitara/Interwał', 'interwal']
 ---

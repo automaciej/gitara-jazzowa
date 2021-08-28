@@ -1,9 +1,10 @@
 ---
 title: "Blues parkerowski"
 slug: "blues-parkerowski"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T21:15:33Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['A%E2%99%ADm7', 'A7', 'Am7', 'B%E2%99%AD7', 'B%E2%99%ADm7', 'C7', 'C7', 'Charlie_Parker', 'Cm7', 'D%E2%99%AD7', 'D7', 'Dm7', 'Dm7', 'E%E2%99%AD7', 'Em7', 'F7', 'Fmaj7', 'Fmaj7', 'G7', 'Gm7', 'Gm7', 'schemat_harmoniczny', 'standard_jazzowy']
 aliases: ['/gitara/Blues_parkerowski']
 ---

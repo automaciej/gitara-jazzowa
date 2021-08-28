@@ -1,9 +1,10 @@
 ---
 title: "Akompaniament"
 slug: "akompaniament"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-08T22:27:23Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Bossa_Nova_(akompaniament)', 'Walking_(akompaniament)']
 aliases: ['/gitara/Akompaniament']
 ---

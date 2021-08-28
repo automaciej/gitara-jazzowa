@@ -1,9 +1,10 @@
 ---
 title: "B♭"
 slug: "b"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-26T11:58:46Z
 kategorie: ['Akordy durowe', 'Tabele chwytów']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/B♭']
 ---

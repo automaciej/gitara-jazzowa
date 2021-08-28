@@ -1,9 +1,10 @@
 ---
 title: "Ton"
 slug: "ton"
-date: 2005-01-01T00:00:00+01:00
+date: 2007-07-08T21:27:04Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['D%C5%BAwi%C4%99k_(w_rozumieniu_akustyki)', 'amplituda', 'cz%C4%99stotliwo%C5%9B%C4%87']
 aliases: ['/gitara/Ton']
 ---

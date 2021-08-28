@@ -1,9 +1,10 @@
 ---
 title: "Tercja i septyma"
 slug: "tercja-i-septyma"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-21T14:43:47Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['akord', 'd%C5%BAwi%C4%99k', 'dominanta', 'tonika', 'tryb']
 aliases: ['/gitara/Tercja_i_septyma']
 ---

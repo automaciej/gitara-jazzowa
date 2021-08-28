@@ -1,9 +1,10 @@
 ---
 title: "Kostka a barwa dźwięku"
 slug: "kostka-a-barwa-dźwięku"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T16:57:45Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Artykulacja', 'Kostka']
 aliases: ['/gitara/Kostka_a_barwa_dźwięku', 'kostka-a-barwa-dzwieku']
 ---

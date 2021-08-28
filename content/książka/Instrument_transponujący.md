@@ -1,9 +1,10 @@
 ---
 title: "Instrument transponujący"
 slug: "instrument-transponujący"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-10-31T19:14:24Z
 kategorie: ['Strojenie gitary', 'Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Strojenie_gitary', 'oktawa', 'zapis_nutowy']
 aliases: ['/gitara/Instrument_transponujący', 'instrument-transponujacy']
 ---

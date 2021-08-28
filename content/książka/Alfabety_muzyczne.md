@@ -1,9 +1,10 @@
 ---
 title: "Alfabety muzyczne"
 slug: "alfabety-muzyczne"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-23T18:58:18Z
 kategorie: ['Harmonia jazzowa']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['D%C5%BAwi%C4%99ki_alterowane', 'Solmizacja', 'akord', 'bemol']
 aliases: ['/gitara/Alfabety_muzyczne']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Sekcja rytmiczna"
 slug: "sekcja-rytmiczna"
-date: 2005-01-01T00:00:00+01:00
+date: 2006-04-05T07:52:59Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['gitara_basowa']
 aliases: ['/gitara/Sekcja_rytmiczna']
 ---

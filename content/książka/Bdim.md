@@ -1,9 +1,10 @@
 ---
 title: "Bdim"
 slug: "bdim"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-26T11:56:33Z
 kategorie: ['Akordy zmniejszone', 'Tabele chwytów']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['akord_zmniejszony']
 aliases: ['/gitara/Bdim', 'książka/akord-bdim']
 ---

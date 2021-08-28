@@ -1,9 +1,10 @@
 ---
 title: "Przykłady chwytów"
 slug: "przykłady-chwytów"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-09-14T10:43:25Z
 kategorie: ['Harmonia jazzowa']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Harmonia_Jazzowa_na_Gitarze']
 aliases: ['/gitara/Przykłady_chwytów', 'przyklady-chwytow']
 ---

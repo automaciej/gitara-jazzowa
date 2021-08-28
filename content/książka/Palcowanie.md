@@ -1,9 +1,10 @@
 ---
 title: "Palcowanie"
 slug: "palcowanie"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-09-17T12:26:37Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:NutyPalcowanie.png', 'Grafika:NutyPracaLewejReki02.png', 'non_legato', 'staccato']
 aliases: ['/gitara/Palcowanie']
 images:

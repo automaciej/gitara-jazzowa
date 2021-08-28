@@ -1,9 +1,10 @@
 ---
 title: "Strojniki elektroniczne"
 slug: "strojniki-elektroniczne"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-09-30T21:49:31Z
 kategorie: ['Akcesoria gitarzysty']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:autotuner.jpg', 'Strojenie_gitary']
 aliases: ['/gitara/Strojniki_elektroniczne']
 images:

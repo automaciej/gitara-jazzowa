@@ -1,9 +1,10 @@
 ---
 title: "Po co jest teoria muzyki"
 slug: "po-co-jest-teoria-muzyki"
-date: 2005-01-01T00:00:00+01:00
+date: 2013-06-21T23:36:18Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['blues', 'd%C5%BAwi%C4%99k', 'teoria_muzyki']
 aliases: ['/gitara/Po_co_jest_teoria_muzyki']
 ---

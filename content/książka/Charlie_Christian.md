@@ -1,9 +1,10 @@
 ---
 title: "Charlie Christian"
 slug: "charlie-christian"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-07T20:51:47Z
 kategorie: ['Gitarzyści jazzowi']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Jim_Hall', 'Joe_Pass', 'Kenny_Burrell', 'gitara_elektryczna', 'kostka', 'single_note']
 aliases: ['/gitara/Charlie_Christian']
 ---

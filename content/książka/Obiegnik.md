@@ -1,9 +1,10 @@
 ---
 title: "Obiegnik"
 slug: "obiegnik"
-date: 2005-01-01T00:00:00+01:00
+date: 2009-05-14T20:11:09Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'Tomar'
 wikilinks: ['grafika:NutyObiegnik.png', 'grafika:NutyObiegnik2.png']
 aliases: ['/gitara/Obiegnik']
 images:

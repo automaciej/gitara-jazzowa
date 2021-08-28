@@ -1,9 +1,10 @@
 ---
 title: "Nona wielka"
 slug: "nona-wielka"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-03T15:06:26Z
 kategorie: ['Harmonia jazzowa']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['akord', 'interwa%C5%82', 'oktawa', 'sekunda_wielka']
 aliases: ['/gitara/Nona_wielka']
 ---

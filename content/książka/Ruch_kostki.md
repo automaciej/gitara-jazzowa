@@ -1,9 +1,10 @@
 ---
 title: "Ruch kostki"
 slug: "ruch-kostki"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-26T08:05:42Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:NutyPracaPrawejReki.png', 'Grafika:NutyPrawaRekaTriola.png', 'Grafika:NutyPrawaRekaTriolki.png', 'Grafika:NutyPrzechodzenieZeStrunyNaStrune.png', 'Grafika:RuchKostki.png', 'Kostka', 'Praca_prawej_r%C4%99ki', 'artykulacja', 'gra_akordowa', 'kostka', 'legato']
 aliases: ['/gitara/Ruch_kostki']
 images:

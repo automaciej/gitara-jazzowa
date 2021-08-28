@@ -1,9 +1,10 @@
 ---
 title: "Wprowadzenie do budowania akordów"
 slug: "wprowadzenie-do-budowania-akordów"
-date: 2005-01-01T00:00:00+01:00
+date: 2007-08-16T08:19:22Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['C6', 'C7', 'Cm6', 'Cm7', 'Cmaj7', 'G6', 'G7', 'Gm7', 'Gmaj7', 'Grafika:Chord-eb-major.png', 'II-V-I', 'ograniczenia_gitary']
 aliases: ['/gitara/Wprowadzenie_do_budowania_akordów', 'wprowadzenie-do-budowania-akordow']
 images:

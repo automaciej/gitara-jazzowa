@@ -1,9 +1,10 @@
 ---
 title: "Ogrywanie akordu"
 slug: "ogrywanie-akordu"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-27T20:56:12Z
 kategorie: ['Harmonia jazzowa']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['akord', 'd%C5%BAwi%C4%99k', 'pentatonika', 'skala']
 aliases: ['/gitara/Ogrywanie_akordu', 'książka/ogrywanie']
 ---

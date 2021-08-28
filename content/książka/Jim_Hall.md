@@ -1,9 +1,10 @@
 ---
 title: "Jim Hall"
 slug: "jim-hall"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-08T15:49:52Z
 kategorie: ['Gitarzyści jazzowi']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Joe_Pass', 'Joe_Pass', 'Sekcja_rytmiczna', 'grafika:NutySoloJimaHallaTheWayYouLookTonight.png', 'improwizacja', 'instrument_harmoniczny']
 aliases: ['/gitara/Jim_Hall']
 images:

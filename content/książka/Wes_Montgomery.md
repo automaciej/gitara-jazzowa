@@ -1,9 +1,10 @@
 ---
 title: "Wes Montgomery"
 slug: "wes-montgomery"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-05T07:46:48Z
 kategorie: ['Gitarzyści jazzowi']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['kostka', 'lewa_r%C4%99ka', 'oktawa', 'pud%C5%82o_rezonansowe', 'single_note', 'tremolo']
 aliases: ['/gitara/Wes_Montgomery']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Blues mollowy"
 slug: "blues-mollowy"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T23:03:33Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['B%E2%99%ADm7', 'B%E2%99%ADm7', 'B%E2%99%ADm7', 'B%E2%99%ADm7', 'C7%E2%99%AD9', 'C7%E2%99%AD9', 'C7%E2%99%AD9', 'Cm7', 'Cm7', 'Cm7', 'Dm7%E2%99%AD5', 'F7%E2%99%AD9', 'Fm7', 'Fm7', 'Fm7', 'Fm7', 'Fm7', 'Fm7', 'Fm7', 'G7%E2%99%AD9', 'Gm7%E2%99%AD5', 'Gm7%E2%99%AD5', 'Gm7%E2%99%AD5', 'John_Coltrane', 'standard_jazzowy']
 aliases: ['/gitara/Blues_mollowy']
 ---

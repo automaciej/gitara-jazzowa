@@ -1,9 +1,10 @@
 ---
 title: "Septyma mała"
 slug: "septyma-mała"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-23T13:44:08Z
 kategorie: ['Harmonia jazzowa']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['dominanta', 'interwa%C5%82', 'sk%C5%82adniki_akord%C3%B3w']
 aliases: ['/gitara/Septyma_mała', 'septyma-mala']
 ---

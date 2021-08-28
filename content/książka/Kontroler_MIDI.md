@@ -1,9 +1,10 @@
 ---
 title: "Kontroler MIDI"
 slug: "kontroler-midi"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-01-31T07:06:01Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Syntezator_gitarowy', 'modu%C5%82_MIDI', 'modu%C5%82_MIDI', 'zdarzenie_MIDI']
 aliases: ['/gitara/Kontroler_MIDI']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Praca lewej ręki"
 slug: "praca-lewej-ręki"
-date: 2005-01-01T00:00:00+01:00
+date: 2008-05-17T22:23:55Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:NutyPracaLewejReki01.png', 'artykulacja', 'd%C5%BAwi%C4%99k', 'gra_akordowa', 'technika', 'wibracja']
 aliases: ['/gitara/Praca_lewej_ręki', 'praca-lewej-reki']
 images:

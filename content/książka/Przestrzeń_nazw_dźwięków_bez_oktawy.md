@@ -1,9 +1,10 @@
 ---
 title: "Przestrzeń nazw dźwięków bez oktawy"
 slug: "przestrzeń-nazw-dźwięków-bez-oktawy"
-date: 2005-01-01T00:00:00+01:00
+date: 2007-07-08T21:28:45Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Przestrzeń_nazw_dźwięków_bez_oktawy', 'przestrzen-nazw-dzwiekow-bez-oktawy']
 ---

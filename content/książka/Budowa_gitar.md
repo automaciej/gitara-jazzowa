@@ -1,9 +1,10 @@
 ---
 title: "Budowa gitar"
 slug: "budowa-gitar"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-01-13T17:09:06Z
 kategorie: ['Rodzaje gitar']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Budowa_gitar']
 ---

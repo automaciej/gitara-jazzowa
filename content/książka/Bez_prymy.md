@@ -1,9 +1,10 @@
 ---
 title: "Bez prymy"
 slug: "bez-prymy"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-03T14:54:54Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Akordy_bez_prymy']
 aliases: ['/gitara/Bez_prymy']
 ---

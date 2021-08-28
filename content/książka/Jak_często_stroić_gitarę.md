@@ -1,9 +1,10 @@
 ---
 title: "Jak często stroić gitarę"
 slug: "jak-często-stroić-gitarę"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-07-04T15:44:30Z
 kategorie: ['Konserwacja gitary', 'Strojenie gitary']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['%C4%87wiczenie', 'Str%C3%B3j_gitary', 'Strojenie_gitary']
 aliases: ['/gitara/Jak_często_stroić_gitarę', 'jak-czesto-stroic-gitare']
 ---

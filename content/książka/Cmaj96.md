@@ -1,9 +1,10 @@
 ---
 title: "Cmaj96"
 slug: "cmaj96"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-31T07:25:46Z
 kategorie: ['Akordy durowe', 'Tabele chwytów']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['nona_wielka', 'seksta_wielka', 'septyma_wielka']
 aliases: ['/gitara/Cmaj96']
 ---

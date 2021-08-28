@@ -1,9 +1,10 @@
 ---
 title: "Tabele chwytów"
 slug: "tabele-chwytów"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-10-10T15:20:12Z
 kategorie: ['Harmonia jazzowa', 'Tabele chwytów']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['akord']
 aliases: ['/gitara/Tabele_chwytów', 'tabele-chwytow']
 ---

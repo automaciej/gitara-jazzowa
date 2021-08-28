@@ -1,9 +1,10 @@
 ---
 title: "Teoria muzyki"
 slug: "teoria-muzyki"
-date: 2005-01-01T00:00:00+01:00
+date: 2013-06-22T10:11:01Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['U%C5%BCytkownik:MaciejBlizinski']
 aliases: ['/gitara/Teoria_muzyki', 'książka/czym-jest-a-czym-nie-jest-teoria-muzyki']
 ---

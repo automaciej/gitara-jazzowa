@@ -1,9 +1,10 @@
 ---
 title: "Regulacja gryfu"
 slug: "regulacja-gryfu"
-date: 2005-01-01T00:00:00+01:00
+date: 2010-12-12T00:14:37Z
 kategorie: ['Konserwacja gitary']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:SzyjkaWklesla.png', 'Grafika:SzyjkaWypukla.png', 'grafika:PretWGryfie.png', 'gryf', 'mostek', 'pr%C4%99t_regulacyjny', 'struna']
 aliases: ['/gitara/Regulacja_gryfu', 'książka/regulacja-szyjki-instrumentu']
 images:

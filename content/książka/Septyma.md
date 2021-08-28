@@ -1,9 +1,10 @@
 ---
 title: "Septyma"
 slug: "septyma"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T17:17:58Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Septyma_(interwa%C5%82)', 'Septyma_akordu']
 aliases: ['/gitara/Septyma']
 ---

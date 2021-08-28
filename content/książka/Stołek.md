@@ -1,9 +1,10 @@
 ---
 title: "Stołek"
 slug: "stołek"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-09-30T17:09:42Z
 kategorie: ['Akcesoria gitarzysty']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Postawa_z_instrumentem']
 aliases: ['/gitara/Stołek', 'stolek']
 ---

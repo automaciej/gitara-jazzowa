@@ -1,9 +1,10 @@
 ---
 title: "Wtrącenie"
 slug: "wtrącenie"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-06-23T18:52:52Z
 kategorie: ['Harmonia jazzowa']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['A7', 'A7', 'A7', 'A7', 'A7', 'Cmaj7', 'Cmaj7', 'Dm7', 'Dm7', 'Dm7', 'Dm7', 'Dm7', 'Dm7', 'G7', 'G7', 'akord', 'dominanta', 'dominanta', 'tonacja']
 aliases: ['/gitara/Wtrącenie', 'książka/wtrącenia', 'wtracenie']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Modulowanie dźwięku"
 slug: "modulowanie-dźwięku"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-10-14T16:44:13Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Modulatory_i_filtry_d%C5%BAwi%C4%99ku', 'Pog%C5%82os', 'Sprz%C4%99%C5%BCenie_zwrotne', 'Wibracja']
 aliases: ['/gitara/Modulowanie_dźwięku', 'modulowanie-dzwieku']
 ---

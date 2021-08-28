@@ -1,9 +1,10 @@
 ---
 title: "Korbka"
 slug: "korbka"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-09-30T17:09:12Z
 kategorie: ['Akcesoria gitarzysty']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['gitara_dwunastostrunowa', 'maszynka', 'struny']
 aliases: ['/gitara/Korbka']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Jak obchodzić się z instrumentem"
 slug: "jak-obchodzić-się-z-instrumentem"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T16:45:18Z
 kategorie: ['Konserwacja gitary']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['szyjka']
 aliases: ['/gitara/Jak_obchodzić_się_z_instrumentem', 'jak-obchodzic-sie-z-instrumentem']
 ---

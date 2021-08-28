@@ -1,9 +1,10 @@
 ---
 title: "Phaser"
 slug: "phaser"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-01-21T10:26:48Z
 kategorie: []
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Phaser']
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Zapis amerykański i niemiecki (europejski)"
 slug: "zapis-amerykański-i-niemiecki-europejski"
-date: 2005-01-01T00:00:00+01:00
+date: 2007-07-08T21:30:19Z
 kategorie: ['Teoria muzyki']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Alfabety_muzyczne']
 aliases: ['/gitara/Zapis_amerykański_i_niemiecki_(europejski)', 'zapis-amerykanski-i-niemiecki-europejski']
 ---

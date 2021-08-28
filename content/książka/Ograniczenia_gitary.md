@@ -1,9 +1,10 @@
 ---
 title: "Ograniczenia gitary"
 slug: "ograniczenia-gitary"
-date: 2005-01-01T00:00:00+01:00
+date: 2011-11-23T09:42:08Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['akord', 'artykulacja', 'd%C5%BAwi%C4%99k']
 aliases: ['/gitara/Ograniczenia_gitary']
 ---

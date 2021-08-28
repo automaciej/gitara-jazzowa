@@ -1,9 +1,10 @@
 ---
 title: "Ułożenie lewej ręki"
 slug: "ułożenie-lewej-ręki"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-09-17T12:25:45Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:UkladLewejRekiW12Pozycji.jpg', 'Grafika:UkladLewejRekiW1Pozycji.jpg', 'Grafika:UkladLewejRekiW5Pozycji.jpg', 'Lewa_r%C4%99ka']
 aliases: ['/gitara/Ułożenie_lewej_ręki', 'ulozenie-lewej-reki']
 images:

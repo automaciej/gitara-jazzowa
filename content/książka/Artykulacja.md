@@ -1,9 +1,10 @@
 ---
 title: "Artykulacja"
 slug: "artykulacja"
-date: 2005-01-01T00:00:00+01:00
+date: 2005-05-22T16:56:20Z
 kategorie: ['Technika gry']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Akcentowanie', 'Fla%C5%BColet', 'Legato', 'Ozdobniki', 'akcentowanie', 'legato', 'staccato']
 aliases: ['/gitara/Artykulacja']
 ---
