@@ -42,4 +42,33 @@
   -->
 </main>
 
+<!-- For now, hardcoded. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "breadcrumb": "Books > Music > Jazz",
+  "mainEntity": {
+    "@type": "Article",
+    "headline": {{ .Title }},
+    "url": {{ .Permalink }},
+    "author": {
+      "@type": "Person",
+      "name": {{ .Site.Params.author.name }},
+      "image": {{ .Site.Params.author.image | absURL }},
+      "url": {{ .Site.Params.author.url }}
+    },
+    "datePublished": "1982-01-01",
+    "image": "/images/okladka-1982.jpg",
+    "inLanguage": "Polish",
+    "identifier": "8300002723",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Centralny Ośrodek Metodyki Upowszechniania Kultury"
+    },
+    "name": "{{ .Site.Title }}"
+  }
+}
+</script>
+
 {{ end }}

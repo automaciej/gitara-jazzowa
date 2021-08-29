@@ -2,7 +2,7 @@
 {{ if eq .Section "książka" }}
 {
   "@context": "https://schema.org",
-  "@type": "Chapter",
+  "@type": "Article",
   "headline": {{ .Title }},
   {{ with .Params.images }}
   {{ range first 1 ($.Param "images") -}}
@@ -13,7 +13,9 @@
   "dateModified": {{ .Lastmod }},
   "author": {
     "@type": "Person",
-    "name": {{ .Site.Params.author }}
+    "name": {{ .Site.Params.author.name }},
+    "image": {{ .Site.Params.author.image | absURL }},
+    "url": {{ .Site.Params.author.url }}
   },
   "maintainer": {
     "@type": "Person",
@@ -28,7 +30,7 @@
       "url": {{ .Site.Params.logo | absURL }}
     }
   },
-  "description": {{ .Summary | plainify | safeJS }},
+  "description": {{ .Summary | plainify | safeHTML }},
   "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
 }
 {{ end }}
