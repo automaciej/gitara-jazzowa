@@ -16,8 +16,13 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
 
-  <!-- for now, don't index pages because I'm not sure about the URLs. -->
+  <!--
+    For now, don't index pages because I'm not sure about the URLs.
+    Allow indexing the home page.
+  -->
+  {{ if ne .Title "Gitara Jazzowa" }}
   <meta name="robots" content="noindex">
+  {{ end }}
 
   <!-- These three must come first in the head section. -->
   <meta charset="utf-8">
