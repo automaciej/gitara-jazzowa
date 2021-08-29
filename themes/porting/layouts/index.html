@@ -52,6 +52,7 @@
     "@type": "Article",
     "headline": {{ .Title }},
     "url": {{ .Permalink }},
+    "description": {{ (.Site.GetPage "Od_autora.md" ).Summary | plainify | safeHTML }},
     "author": {
       "@type": "Person",
       "name": {{ .Site.Params.author.name }},
