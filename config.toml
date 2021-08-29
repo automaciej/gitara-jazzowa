@@ -10,8 +10,11 @@ enableGitInfo = true
   description = """książka polskiego gitarzysty jazzowego, Marka Blizińskiego"""
   organization = "Marek Bliziński"
   logo = "/images/android-chrome-192x192.png"
-  maintainer = "Maciej Bliziński"
 [params.author]
   name = "Marek Bliziński"
   url = "https://pl.wikipedia.org/wiki/Marek_Blizi%C5%84ski"
   image = "/images/MarekBlizinski.jpg"
+[params.maintainer]
+  name = "Maciej Bliziński"
+  url = "https://www.facebook.com/maciej.blizinski"
+  image = "/images/automaciej-400px.jpg"
