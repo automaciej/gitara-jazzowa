@@ -48,7 +48,7 @@
   "@context": "https://schema.org",
   "@type": "WebPage",
   "breadcrumb": "Books > Music > Jazz",
-  "mainEntity": {
+  "mainEntityOfPage": {
     "@type": "Article",
     "headline": {{ .Title }},
     "url": {{ .Permalink }},
@@ -64,9 +64,14 @@
     "inLanguage": "Polish",
     "identifier": "8300002723",
     "publisher": {
-      "@type": "Person",
-      "name": "Maciej Bliziński",
-      "url": "https://twitter.com/automaciej",
+      "@type": "Organization",
+      "name": {{ .Site.Params.maintainer.name }},
+      "url": {{ .Site.Params.maintainer.url }},
+      "logo": {{ .Site.Params.maintainer.image }},
+      "same_as": [
+        "https://twitter.com/{{ .Site.Params.maintainer.twitter }}",
+        "https://github.com/{{ .Site.Params.maintainer.github }}"
+      ]
     },
     "name": "{{ .Site.Title }}"
   }
