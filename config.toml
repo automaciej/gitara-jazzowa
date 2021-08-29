@@ -3,6 +3,7 @@ languageCode = "pl-pl"
 title = "Gitara Jazzowa"
 defaultContentLanguage = "pl"
 theme = "porting"
+enableGitInfo = true
 [taxonomies]
   kategoria = "kategorie"
 [params]
