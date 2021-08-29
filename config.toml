@@ -18,3 +18,5 @@ enableGitInfo = true
   name = "Maciej Bliziński"
   url = "https://www.facebook.com/maciej.blizinski"
   image = "/images/automaciej-400px.jpg"
+  twitter = "automaciej_pl"
+  github = "automaciej"
