@@ -1,5 +1,3 @@
-*Strony odpowiadające rozdziałom książki w wydaniu papierowym.*
-
 [Od autora](Od_autora "wikilink")
 
 1.  [Budowa gitar](:Kategoria:Rodzaje_gitar "wikilink")
