@@ -104,16 +104,15 @@ właściwie nawinięta na kołek ma kilka zwojów, tak jak pokazuje zdjęcie.
 
 [right](grafika:StrunaNaKolku.jpg "wikilink")
 
-Np. struna E-6 powinna być nawinięta na kołek dwa-trzy razy: struny
-cieńsze mogą mieć większą ilość zwojów, ale nie więcej niż kilka (np. 3
-- 4) przy strunie E-1. Nadmierna ilość zwojów, nie mówiąc już o
-przypadku, gdy zwoje nie mieszczą się na kołku obok siebie i nawijają
-się jeden na drugi, powoduje brak stabilności stroju gitary. Odradzam
-obcinanie strun z owijką, ponieważ może to spowodować obluzowanie się
-jej, a co za tym idzie zniszczenie struny. Dlatego ważne jest, aby
-dobierać struny również do wymiarów instrumentu, tj. do odległości od
-strunnika do kołków. Struna powinna być dłuższa od tej odległości o
-około 5-10 cm.
+Np. struna E-6 powinna być nawinięta na kołek dwa-trzy razy: struny cieńsze
+mogą mieć większą ilość zwojów, ale nie więcej niż kilka (np. 3-4) przy strunie
+E-1. Nadmierna ilość zwojów, nie mówiąc już o przypadku, gdy zwoje nie mieszczą
+się na kołku obok siebie i nawijają się jeden na drugi, powoduje brak
+stabilności stroju gitary. Odradzam obcinanie strun z owijką, ponieważ może to
+spowodować obluzowanie się jej, a co za tym idzie zniszczenie struny. Dlatego
+ważne jest, aby dobierać struny również do wymiarów instrumentu, tj. do
+odległości od strunnika do kołków. Struna powinna być dłuższa od tej odległości
+o około 5-10 cm.
 
 ## Nawijanie
 
