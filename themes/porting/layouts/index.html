@@ -3,10 +3,8 @@
 <main>
 
   <!-- Manually inserted table of contents -->
-  {{ with .Site.GetPage "książka/" }}
   {{ with .GetPage "Spis_treści.md" }}
   {{ .Content }}
-  {{ end }}
   {{ end }}
 
   <hr>
