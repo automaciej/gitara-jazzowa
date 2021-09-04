@@ -1,7 +1,17 @@
-Pojęcie [funkcji harmonicznej](Funkcja_harmoniczna "wikilink") ma sens
-tylko w kontekście [tonacji](tonacja "wikilink"). Zakładając, że
+---
+title: "Funkcje harmoniczne"
+slug: "funkcje-harmoniczne"
+date: 2012-06-17T15:30:47Z
+kategorie: []
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Funkcja_harmoniczna', 'Funkcje_poboczne', 'II-V-I_(dwa_pi%C4%99%C4%87_jeden)', 'Wtr%C4%85cenia', 'akord', 'tonacja']
+aliases: ['/gitara/Funkcje_harmoniczne', 'parked/subdominanta']
+---
+Pojęcie [funkcji harmonicznej]({{< relref "Funkcja_harmoniczna.md" >}}) ma sens
+tylko w kontekście [tonacji]({{< relref "Tonacja.md" >}}). Zakładając, że
 poruszamy się w określonej tonacji, możemy wskazać pewne
-[akordy](akord "wikilink") jako funkcje harmoniczne. Na przykład, weźmy
+[akordy]({{< relref "Akord.md" >}}) jako funkcje harmoniczne. Na przykład, weźmy
 tonację F-dur. Możemy zapytać, jaką funkcją harmoniczną w F-dur jest
 akord C7. Dowiemy się, że dominantą. Jest więcej akordów, które są
 funkcjami harmonicznymi w F-dur, jednak nie wszystkie nimi są.
@@ -41,6 +51,6 @@ kadencji, ale żadna inna nie jest nazywana kadencją wielką doskonałą.
 
 ## Zobacz też
 
-  - [Funkcje poboczne](Funkcje_poboczne "wikilink")
-  - [Wtrącenia](Wtrącenia "wikilink")
-  - [II-V-I (dwa pięć jeden)](II-V-I_\(dwa_pięć_jeden\) "wikilink")
+  - Funkcje poboczne<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/parked/teoria-muzyki/Funkcje_harmoniczne.md') links to 'Funkcje_poboczne' ('content/parked/teoria-muzyki/Funkcje_poboczne.md') and that does not exist -->
+  - Wtrącenia<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/parked/teoria-muzyki/Funkcje_harmoniczne.md') links to 'Wtrącenia' ('content/parked/teoria-muzyki/Wtrącenia.md') and that does not exist -->
+  - II-V-I (dwa pięć jeden)<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/parked/teoria-muzyki/Funkcje_harmoniczne.md') links to 'II-V-I_\\(dwa_pięć_jeden\\)' ('content/parked/teoria-muzyki/II-V-I_\\(dwa_pięć_jeden\\).md') and that does not exist -->

@@ -1,3 +1,14 @@
+---
+title: "Akcentowanie"
+slug: "akcentowanie"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['Technika gry']
+draft: false
+wikilinks: ['Dynamika', 'Grafika:NutyAkcenty01.png']
+aliases: ['/gitara/Akcentowanie']
+images:
+  - path: "/images/NutyAkcenty01.png"
+---
 Zjawisko akcentowania dźwięków w muzyce jazzowej ma kilka postaci. Ze
 zwględu na sposób wyróżniania dźwięków spotykane są akcenty dynamiczne i
 agogiczne, intonacyjne i brzmieniowe. Ze względu na rozmieszczenie w
@@ -9,7 +20,7 @@ określonego rytmu oraz akcenty nieregularne.
 ...to wyróżnienie dźwięku poprzez większą siłę brzmienia. Jest
 najbardziej efektownym i najczęściej używanym z akcentów muzycznych. Na
 gitarze akcent dynamiczny uzyskuje się przez silniejsze uderzenie kostką
-w strunę (patrz: rozdział pt. [Dynamika](Dynamika "wikilink")). Ponieważ
+w strunę (patrz: rozdział pt. [Dynamika]({{< relref "Dynamika.md" >}})). Ponieważ
 w jazzie akcenty nie mają na celu podkreślania oczywistych wartości
 metrycznych, a służą raczej do ożywiania rytmu, dlatego często występują
 nieregularnie. Niekiedy tworzą one nawet samodzielne konstrukcje
@@ -19,7 +30,7 @@ dowolne pochody melodyczne (w tym ćwiczenia z rozdziału pt. Ćwiczenia
 techniczne), które gra się stosując różną artykulację za pomocą
 rozmieszczania akcentów.
 
-[Grafika:NutyAkcenty01.png](Grafika:NutyAkcenty01.png "wikilink")
+{{< figure src="/images/NutyAkcenty01.png" >}}
 
 Powyższe przykłady, po opanowaniu akcentów dynamicznych jako stosunkowo
 najłatwiejszych, można stosować również do ćwiczeń innych rodzajów
@@ -126,4 +137,3 @@ pomocą odpowiednich pedałów i przełączników. Wymaga to jednak posiadania
 współczesnych procesorów dźwięku i odpowiedniej wiedzy wykraczającej już
 poza obszary teorii muzycznej.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

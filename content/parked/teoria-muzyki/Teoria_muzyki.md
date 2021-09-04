@@ -1,3 +1,13 @@
+---
+title: "Teoria muzyki"
+slug: "teoria-muzyki"
+date: 2013-06-22T10:11:01Z
+kategorie: []
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['U%C5%BCytkownik:MaciejBlizinski']
+aliases: ['/gitara/Teoria_muzyki']
+---
 <table>
 <tbody>
 <tr class="odd">
@@ -22,7 +32,7 @@ Jednolita teoria muzyki nie istnieje. O ile w matematyce na przykład
 istnieją ścisłe definicje wszystkich pojęć, to w muzyce pojęcia są
 bardziej płynne i ich rozumienie może się różnić u poszczególnych
 muzyków. Dlatego pamiętaj, drogi Czytelniku, że to, co tu jest
-napisane, jest tylko [moim](Użytkownik:MaciejBlizinski "wikilink")
+napisane, jest tylko moim<!-- link nie odnosił się do niczego: 'Teoria muzyki' ('content/parked/teoria-muzyki/Teoria_muzyki.md') links to 'Użytkownik:MaciejBlizinski' ('content/parked/teoria-muzyki/Użytkownik:MaciejBlizinski.md') and that does not exist -->
 spojrzeniem na poruszane zagadnienia. Twoje może być inne.
 
 Ten artykuł zajmuje się głównie harmonią, czyli pewnym wycinkiem teorii

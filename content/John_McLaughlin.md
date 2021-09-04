@@ -1,25 +1,35 @@
+---
+title: "John McLaughlin"
+slug: "john-mclaughlin"
+date: 2005-05-22T17:06:33Z
+kategorie: ['Gitarzyści jazzowi']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Al_Di_Meola', 'Mahavishnu_Orchestra', 'Paco_de_Lucia', 'Pat_Metheny', 'blues', 'gitara_akustyczna', 'gitara_elektryczna', 'jazzrock', 'syntezator_gitarowy']
+aliases: ['/gitara/John_McLaughlin']
+---
 **John McLaughlin** to centralna postać jazzu lat siedem­dziesiątych,
 wielki improwizator gitary elektrycznej i aku­stycznej.
 
-W jego głośnym zespole [Mahavishnu
-Orchestra](Mahavishnu_Orchestra "wikilink") stopiły się [eksperymenty
-jazzu i witalność rocka](jazzrock "wikilink") lat siedemdziesiątych.
+W jego głośnym zespole Mahavishnu
+Orchestra<!-- link nie odnosił się do niczego: 'John McLaughlin' ('content/John_McLaughlin.md') links to 'Mahavishnu_Orchestra' ('content/Mahavishnu_Orchestra.md') and that does not exist --> stopiły się [eksperymenty
+jazzu i witalność rocka]({{< relref "Jazzrock.md" >}}) lat siedemdziesiątych.
 Łączy cechy błyskotliwego improwizatora z rzetelnością i
 perfekcyjnością muzyka studyj­nego. Gra równie efektownie na gitarze
 elektrycznej co akustycznej, którą natchnął jazzowym blaskiem i
 inten­sywnością wyrazu jak nikt przedtem. Jego występy i na­grania w
-trio z [Al Di Meolą](Al_Di_Meola "wikilink") i [Paco de
-Lucią](Paco_de_Lucia "wikilink"), to nowy rozdział w historii jazzowej
-[gitary akustycznej](gitara_akustyczna "wikilink").
+trio z Al Di Meolą<!-- link nie odnosił się do niczego: 'John McLaughlin' ('content/John_McLaughlin.md') links to 'Al_Di_Meola' ('content/Al_Di_Meola.md') and that does not exist --> i [Paco de
+Lucią]({{< relref "Paco_de_Lucia.md" >}}), to nowy rozdział w historii jazzowej
+[gitary akustycznej]({{< relref "Gitara_akustyczna.md" >}}).
 
-Obok [Pata Metheny'ego](Pat_Metheny "wikilink"), John wprowadził do
-jazzu [syntezator gitarowy](syntezator_gitarowy "wikilink"), znacznie
+Obok [Pata Metheny'ego]({{< relref "Pat_Metheny.md" >}}), John wprowadził do
+jazzu [syntezator gitarowy]({{< relref "Syntezator_gitarowy.md" >}}), znacznie
 rozszerzając paletę barw i możliwości artykulacyjne [gitary
-elektrycznej](gitara_elektryczna "wikilink").
+elektrycznej]({{< relref "Gitara_elektryczna.md" >}}).
 
 W technice gry wykorzystuje wszelkie zdobycze tech­niki gitarowej, np.
-[bluesowe](blues "wikilink") podciąganie strun pół i całotonowe oraz
+bluesowe<!-- link nie odnosił się do niczego: 'John McLaughlin' ('content/John_McLaughlin.md') links to 'blues' ('content/blues.md') and that does not exist --> podciąganie strun pół i całotonowe oraz
 wiele efektów zaczerpniętych z techniki hinduskich instrumentów
 strunowych.
 
-[McLaughlin, John](kategoria:gitarzyści_jazzowi "wikilink")
+McLaughlin, John<!-- link nie odnosił się do niczego: 'John McLaughlin' ('content/John_McLaughlin.md') links to 'kategoria:gitarzyści_jazzowi' ('content/kategoria:gitarzyści_jazzowi.md') and that does not exist -->

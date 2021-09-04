@@ -1,4 +1,14 @@
-**Akord** to trzy (lub więcej) [dźwięki](dźwięk "wikilink"), zagrane
+---
+title: "Akord"
+slug: "akord"
+date: 2013-06-23T09:26:50Z
+kategorie: ['Teoria muzyki']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: [':Kategoria:Tabele_chwyt%C3%B3w', 'Akord_o_budowie_tercjowej', 'd%C5%BAwi%C4%99k']
+aliases: ['/gitara/Akord']
+---
+**Akord** to trzy (lub więcej) [dźwięki]({{< relref "Dźwięk.md" >}}), zagrane
 jednocześnie. Akordy oznacza się literami. Na przykład oznaczenie **C**
 oznacza akord C-dur, czyli dźwięki C, E, G.
 
@@ -13,7 +23,6 @@ odleglosci tercji.
 
 **Zobacz też**
 
-  - [Akord o budowie tercjowej](Akord_o_budowie_tercjowej "wikilink")
-  - [Tabele chwytów](:Kategoria:Tabele_chwytów "wikilink")
+  - [Akord o budowie tercjowej]({{< relref "Akord_o_budowie_tercjowej.md" >}})
+  - [Tabele chwytów](/kategorie/tabele-chwytow "Kategoria Tabele chwytów")
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

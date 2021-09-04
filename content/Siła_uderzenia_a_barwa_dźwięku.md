@@ -1,3 +1,13 @@
+---
+title: "Siła uderzenia a barwa dźwięku"
+slug: "sila-uderzenia-a-barwa-dzwieku"
+date: 2005-05-22T18:12:37Z
+kategorie: ['Technika gry']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['artykulacja', 'dynamika', 'kostka', 'wzmacniacz']
+aliases: ['/gitara/Siła_uderzenia_a_barwa_dźwięku', 'siła-uderzenia-a-barwa-dźwięku']
+---
 W rozdziale o podstawowej barwie dźwięku wspomniałem o zależności
 pomiędzy ustawieniem siły głosu we wzmacniaczu, a barwą dźwięku.
 Zależność ta istnieje również w stosunku do siły uderzenia w strunę.
@@ -15,16 +25,16 @@ spadek jej dynamiki - wybrzmiewania.
 
 Dłuższy dźwięk nie jest jedyną zaletą takiego ustawienia. Następuje
 wówczas większa podatność dźwięku na
-[artykulację](artykulacja "wikilink") oraz
-[dynamikę](dynamika "wikilink"). Dla gitarzysty jazzowego jest to na
+[artykulację]({{< relref "Artykulacja.md" >}}) oraz
+[dynamikę]({{< relref "Dynamika.md" >}}). Dla gitarzysty jazzowego jest to na
 tyle ważne, że nie powinny go zrazić pewne niedogodności wynikające z
 omawianego ustawienia. A więc gra piano będzie nieco utrudniona,
 ponieważ do dźwięku dołączają się nazbyt wzmocnione efekty
-towarzyszące, jak tarcie [kostki](kostka "wikilink") o strunę, rozmaite
+towarzyszące, jak tarcie [kostki]({{< relref "Kostka.md" >}}) o strunę, rozmaite
 przypadkowe stuki i przede wszystkim słychać wówczas pracę lewej ręki, a
 więc zdejmowanie palca ze struny, przesuwanie przy zmianie pozycji itp.
 Przy nienajlepszym sprzęcie wzmaga się również „brum" i szumy własne
-[wzmacniacza](wzmacniacz "wikilink"). Dlatego każdy gitarzysta powinien
+[wzmacniacza]({{< relref "Wzmacniacz.md" >}}). Dlatego każdy gitarzysta powinien
 znaleźć indywidualny starannie wypośrodkowany stosunek siły uderzenia w
 strunę do ustawienia siły głosu we wzmacniaczu, mając na uwadze
 zależności, o których mówiłem i które przypominam w tabelce.
@@ -36,4 +46,3 @@ zależności, o których mówiłem i które przypominam w tabelce.
 | duża                        | mała                       | krótkie    |
 | mała                        | duża                       | długie     |
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

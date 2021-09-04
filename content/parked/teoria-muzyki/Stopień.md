@@ -1,13 +1,22 @@
+---
+title: "Stopień"
+slug: "stopien"
+date: 2007-07-08T21:29:54Z
+kategorie: ['Teoria muzyki']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Akord_o_budowie_tercjowej', 'akord', 'd%C5%BAwi%C4%99k', 'interwa%C5%82', 'tercja_akordu']
+aliases: ['/gitara/Stopień', 'stopień']
+---
 Stopień odnosi się do różnych pojęć w muzyce, będących zbiorami
-[dźwięków](dźwięk "wikilink"). Stopień czegoś oznacza ten element
+[dźwięków]({{< relref "Dźwięk.md" >}}). Stopień czegoś oznacza ten element
 tego zbioru, który jest oddalony od bazy (tego czegoś) o podany
-[interwał](interwał "wikilink"). Na przykład
-[tercja](tercja_akordu "wikilink") (trzeci stopień) akordu to ten dźwięk
-[akordu](akord "wikilink"), który jest oddalony od podstawy akordu o
+[interwał]({{< relref "Interwał.md" >}}). Na przykład
+[tercja]({{< relref "Tercja_akordu.md" >}}) (trzeci stopień) akordu to ten dźwięk
+[akordu]({{< relref "Akord.md" >}}), który jest oddalony od podstawy akordu o
 tercję.
 
 **Zobacz też**
 
-  - [Akord o budowie tercjowej](Akord_o_budowie_tercjowej "wikilink")
+  - [Akord o budowie tercjowej]({{< relref "Akord_o_budowie_tercjowej.md" >}})
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")
