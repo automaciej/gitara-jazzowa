@@ -15,7 +15,7 @@ _Książka Marka Blizińskiego_
 - [ ] Pełna treść wpisów w RSS
 - [ ] Usunięcie stęchłych linków
 - [x] Uzupełnienie brakujących danych na podstawie XML z Mediawiki
-- [ ] Oddzielenie stron o harmonii jazzowej
+- [x] Oddzielenie stron o harmonii jazzowej
 - [ ] Ułożenie stron w sekwencję
 - [ ] Nadanie stronie wyglądu
 - [ ] Dodanie przycisków do sieci społecznościowych
