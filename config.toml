@@ -5,6 +5,8 @@ defaultContentLanguage = "pl"
 theme = "porting"
 enableGitInfo = true
 enableRobotsTXT = true
+[sitemap]
+  changefreq = "monthly"
 [taxonomies]
   kategoria = "kategorie"
 [params]
