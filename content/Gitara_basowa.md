@@ -1,14 +1,24 @@
+---
+title: "Gitara basowa"
+slug: "gitara-basowa"
+date: 2009-03-24T21:55:00Z
+kategorie: ['Rodzaje gitar']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['d%C5%BAwi%C4%99k', 'gitara_akustyczna', 'gitara_elektryczna', 'gitara_elektryczno-akustyczna', 'oktawa', 'pud%C5%82o_rezonansowe', 'strojenie_gitary', 'struny', 'sze%C5%9Bciostrunowa_gitara_basowa']
+aliases: ['/gitara/Gitara_basowa']
+---
 **Gitara basowa** to czterostrunowa gitara o obniżonej o
-[oktawę](oktawa "wikilink") skali dźwięków (najniższy należy do oktawy
+oktawę<!-- link nie odnosił się do niczego: 'Gitara basowa' ('content/Gitara_basowa.md') links to 'oktawa' ('content/oktawa.md') and that does not exist --> skali dźwięków (najniższy należy do oktawy
 kontra). Najczęściej spotykane są instrumenty czterostrunowe, choć
 produkuje się również gitary basowe pięciostrunowe,
-[sześciostrunowe](sześciostrunowa_gitara_basowa "wikilink"),
+[sześciostrunowe]({{< relref "Sześciostrunowa_gitara_basowa.md" >}}),
 ośmiostrunowe (do każdej struny dodana jest dodatkowa strojona o oktawę
 wyżej) i dwunastostrunowe.
 
-W standardowym [strojeniu](strojenie_gitary "wikilink") puste
-[struny](struny "wikilink") posiadają następujące
-[dźwięki](dźwięk "wikilink"):
+W standardowym [strojeniu]({{< relref "Strojenie_gitary.md" >}}) puste
+[struny]({{< relref "Struna.md" >}}) posiadają następujące
+dźwięki<!-- link nie odnosił się do niczego: 'Gitara basowa' ('content/Gitara_basowa.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist -->:
 
   - **G** (98 Hz)
   - **D** (73,4 Hz)
@@ -19,9 +29,9 @@ Najwyższa struna gitary basowej wydaje ten sam dźwięk, co najniższa
 struna zwykłej gitary (**E**) skrócona na trzecim progu.
 
 Gitara basowa może być skonstruowana w oparciu o gitarę
-[akustyczną](gitara_akustyczna "wikilink") lub
-[elektroakustyczną](gitara_elektryczno-akustyczna "wikilink") (z
-klasycznym [pudłem rezonansowym](pudło_rezonansowe "wikilink")), bądź
-[elektryczną](gitara_elektryczna "wikilink").
+[akustyczną]({{< relref "Gitara_akustyczna.md" >}}) lub
+[elektroakustyczną]({{< relref "Gitara_elektryczno-akustyczna.md" >}}) (z
+klasycznym [pudłem rezonansowym]({{< relref "Pudło_rezonansowe.md" >}})), bądź
+[elektryczną]({{< relref "Gitara_elektryczna.md" >}}).
 
-[Basowa, gitara](kategoria:rodzaje_gitar "wikilink")
+Basowa, gitara<!-- link nie odnosił się do niczego: 'Gitara basowa' ('content/Gitara_basowa.md') links to 'kategoria:rodzaje_gitar' ('content/kategoria:rodzaje_gitar.md') and that does not exist -->

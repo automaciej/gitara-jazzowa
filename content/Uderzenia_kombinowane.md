@@ -1,14 +1,23 @@
+---
+title: "Uderzenia kombinowane"
+slug: "uderzenia-kombinowane"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['Technika gry']
+draft: false
+wikilinks: ['kostka', 'kostka']
+aliases: ['/gitara/Uderzenia_kombinowane']
+---
 Na gitarze jazzowej zazwyczaj gra się kostką, czasem używa się palców:
 3, 4, 5; niekiedy gra się opuszkiem kciuka. Dla uzyskania specjalnych
 efektów barwowych można łączyć różne sposoby uderzeń, np. może to być
 uderzenie, w którym bierze udział palec wskazujący i
-[kostka](kostka "wikilink"). Struna zostaje zaatakowana najpierw przez
+[kostka]({{< relref "Kostka.md" >}}). Struna zostaje zaatakowana najpierw przez
 palec wskazujący, po którym ześlizguje się na kostkę, dającą jej
 właściwe brzmienie. Efektem jest wzmocniony poświt i klang, który może
 być jeszcze spotęgowany, jeśli w uderzeniu tym bierze udział paznokieć
 palca wskazującego.
 
-Odmienny efekt uzyskujemy poprzez użycie [kostki](kostka "wikilink") i
+Odmienny efekt uzyskujemy poprzez użycie [kostki]({{< relref "Kostka.md" >}}) i
 opuszka kciuka. Struna uderzona kostką zostaje następnie częściowo
 stłumiona przez kciuk.
 
@@ -27,4 +36,3 @@ czym, w zależności od rodzaju kostki i techniki palcowej, można uzyskać:
   - przy grze tępą (nieelastyczną) kostką i paznokciem - ciemny, matowy
     dźwięk niższy i ostry, jasny dźwięk wyższy.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

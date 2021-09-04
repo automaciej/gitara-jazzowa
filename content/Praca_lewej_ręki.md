@@ -1,8 +1,20 @@
-Praca lewej ręki ma wpływ na [artykulację](artykulacja "wikilink"),
-[wibrację](wibracja "wikilink") i wiele innych elementów łącznie z
+---
+title: "Praca lewej ręki"
+slug: "praca-lewej-reki"
+date: 2008-05-17T22:23:55Z
+kategorie: ['Technika gry']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Grafika:NutyPracaLewejReki01.png', 'artykulacja', 'd%C5%BAwi%C4%99k', 'gra_akordowa', 'technika', 'wibracja']
+aliases: ['/gitara/Praca_lewej_ręki', 'praca-lewej-ręki']
+images:
+  - path: "/images/NutyPracaLewejReki01.png"
+---
+Praca lewej ręki ma wpływ na [artykulację]({{< relref "Artykulacja.md" >}}),
+[wibrację]({{< relref "Wibracja.md" >}}) i wiele innych elementów łącznie z
 indywidualnymi cechami tonu gitarzysty, a nawet i intonacją. Oczywiście,
 tylko właściwa współpraca obu rąk i ich precyzyjna synchronizacja
-zapewniają dobrą [technikę](technika "wikilink"). Na razie jednak
+zapewniają dobrą [technikę]({{< relref "Technika.md" >}}). Na razie jednak
 zajmiemy się tylko ręką lewą. Umowna numeracja palców jest następująca:
 
   - palec wskazujący - 1
@@ -13,7 +25,7 @@ zajmiemy się tylko ręką lewą. Umowna numeracja palców jest następująca:
 Palce trzeba ustawiać jak najbliżej progu, który skraca strunę. Aby
 docisnąć strunę palcem postawionym dalej, szczególnie w niskich
 pozycjach, byłoby trzeba użyć dużej siły. Palec stawiany zbyt blisko lub
-na samym progu, tłumiłby [dźwięk](dźwięk "wikilink").
+na samym progu, tłumiłby dźwięk<!-- link nie odnosił się do niczego: 'Praca lewej ręki' ('content/Praca_lewej_ręki.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist -->.
 
 Zarówno w niskich, jak i w wysokich pozycjach - wszystkie palce powinny
 być ustawione w pobliżu sąsiednich progów. Tak więc, przesuwając rękę do
@@ -39,9 +51,9 @@ więc w chromalyce: grając w górę nie podnosimy palców, które już
 zagrały. Dopiero grając w dół, przy dźwięku „d" podnosimy palec 4, przy
 dźwięku „cis" - 3, przy „c" - 2.
 
-[Grafika:NutyPracaLewejReki01.png](Grafika:NutyPracaLewejReki01.png "wikilink")
+{{< figure src="/images/NutyPracaLewejReki01.png" >}}
 
-Zarówno w [grze akordowej](gra_akordowa "wikilink"), jak i melodycznej,
+Zarówno w [grze akordowej]({{< relref "Gra_akordowa.md" >}}), jak i melodycznej,
 kurczowe zaciskanie lewej ręki uniemożliwia swobodne poruszanie się jej
 po gryfie. Aby tego uniknąć, należy przede wszystkim starać się
 uświadomić sobie, które mięśnie pracują podczas palcowania, a wszystkie
@@ -65,4 +77,3 @@ sprostania konieczności bardzo długiej nieraz gry, bez odczuwania
 zmęczenia rąk. Jest rzeczą znamienną, że u dobrego gitarzysty zmęczenie
 psychiczne występuje jako pierwsze.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")
