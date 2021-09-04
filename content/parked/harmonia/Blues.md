@@ -21,10 +21,10 @@ dobrze pokazuje następujący schemat harmoniczny:
 
 Gdzie:
 
-  - I oznacza tonikę<!-- link nie odnosił się do niczego: 'Blues' ('content/Blues.md') links to 'tonika' ('content/tonika.md') and that does not exist --> (akord na pierwszym stopniu
+  - I oznacza tonikę<!-- link nie odnosił się do niczego: 'Blues' ('content/parked/harmonia/Blues.md') links to 'tonika' ('content/parked/harmonia/tonika.md') and that does not exist --> (akord na pierwszym stopniu
     gamy)
-  - IV oznacza [subdominantę]({{< relref "Funkcje_harmoniczne.md" >}}) (akord na
+  - IV oznacza subdominantę<!-- link nie odnosił się do niczego: 'Blues' ('content/parked/harmonia/Blues.md') links to 'subdominanta' ('content/parked/harmonia/subdominanta.md') and that does not exist --> (akord na
     czwartym stopniu gamy)
-  - V oznacza [dominantę]({{< relref "Funkcje_harmoniczne.md" >}}) (akord na piątym stopniu
+  - V oznacza dominantę<!-- link nie odnosił się do niczego: 'Blues' ('content/parked/harmonia/Blues.md') links to 'dominanta' ('content/parked/harmonia/dominanta.md') and that does not exist --> (akord na piątym stopniu
     gamy)
 

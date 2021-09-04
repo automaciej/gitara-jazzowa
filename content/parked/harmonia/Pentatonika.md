@@ -15,7 +15,7 @@ C-dur<!-- link nie odnosił się do niczego: 'Pentatonika' ('content/parked/harm
 stopni gamy: 1, 2, 3, 5, 6. W przypadku pentatoniki
 C-dur<!-- link nie odnosił się do niczego: 'Pentatonika' ('content/parked/harmonia/Pentatonika.md') links to 'pentatonika_C-dur' ('content/parked/harmonia/pentatonika_C-dur.md') and that does not exist --> będą to dźwięki: C, D, E, G, A.
 
-W improwizacjach bluesowych<!-- link nie odnosił się do niczego: 'Pentatonika' ('content/parked/harmonia/Pentatonika.md') links to 'blues' ('content/parked/harmonia/blues.md') and that does not exist --> bardzo często do
+W improwizacjach [bluesowych]({{< relref "Blues.md" >}}) bardzo często do
 pentatoniki dodaje się [kwintę
 zmniejszoną]({{< relref "Kwinta_zmniejszona.md" >}}). W przypadku pentatoniki
 C-dur będzie to dźwięk G♭.

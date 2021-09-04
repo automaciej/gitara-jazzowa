@@ -6,7 +6,7 @@ kategorie: ['Akordy zmniejszone', 'Tabele chwytów']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: []
-aliases: ['/gitara/B♭dim', 'Bbdim.md/bbdim', 'b-dim']
+aliases: ['/gitara/B♭dim', 'b-dim', 'parked/bbdim']
 ---
 B♭-zmniejszony.
 

@@ -42,6 +42,6 @@ tonik w tonacji C-dur.
 **Zobacz też**
 
   - [Funkcja harmoniczna]({{< relref "Funkcja_harmoniczna.md" >}})
-  - Subdominanta<!-- link nie odnosił się do niczego: 'Tonika' ('content/parked/teoria-muzyki/Tonika.md') links to 'Subdominanta' ('content/parked/teoria-muzyki/Subdominanta.md') and that does not exist -->
+  - [Subdominanta]({{< relref "Funkcje_harmoniczne" >}})
   - Dominanta<!-- link nie odnosił się do niczego: 'Tonika' ('content/parked/teoria-muzyki/Tonika.md') links to 'Dominanta' ('content/parked/teoria-muzyki/Dominanta.md') and that does not exist -->
 

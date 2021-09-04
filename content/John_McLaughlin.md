@@ -28,7 +28,7 @@ rozszerzając paletę barw i możliwości artykulacyjne [gitary
 elektrycznej]({{< relref "Gitara_elektryczna.md" >}}).
 
 W technice gry wykorzystuje wszelkie zdobycze tech­niki gitarowej, np.
-[bluesowe]({{< relref "Blues.md" >}}) podciąganie strun pół i całotonowe oraz
+bluesowe<!-- link nie odnosił się do niczego: 'John McLaughlin' ('content/John_McLaughlin.md') links to 'blues' ('content/blues.md') and that does not exist --> podciąganie strun pół i całotonowe oraz
 wiele efektów zaczerpniętych z techniki hinduskich instrumentów
 strunowych.
 

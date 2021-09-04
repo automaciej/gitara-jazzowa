@@ -19,8 +19,8 @@ Poprzednia wersja jest dostępna pod tym adresem:
         muzyki<!-- link nie odnosił się do niczego: 'Harmonia Jazzowa na Gitarze' ('content/parked/harmonia/Harmonia_Jazzowa_na_Gitarze.md') links to 'Czym_jest,_a_czym_nie_jest_teoria_muzyki' ('content/parked/harmonia/Czym_jest,_a_czym_nie_jest_teoria_muzyki.md') and that does not exist -->
     2.  Po co jest teoria muzyki<!-- link nie odnosił się do niczego: 'Harmonia Jazzowa na Gitarze' ('content/parked/harmonia/Harmonia_Jazzowa_na_Gitarze.md') links to 'Po_co_jest_teoria_muzyki' ('content/parked/harmonia/Po_co_jest_teoria_muzyki.md') and that does not exist -->
     3.  Podstawy teorii muzyki<!-- link nie odnosił się do niczego: 'Harmonia Jazzowa na Gitarze' ('content/parked/harmonia/Harmonia_Jazzowa_na_Gitarze.md') links to 'Podstawy_teorii_muzyki' ('content/parked/harmonia/Podstawy_teorii_muzyki.md') and that does not exist -->
-2.  Wprowadzenie do budowania
-    akordów<!-- link nie odnosił się do niczego: 'Harmonia Jazzowa na Gitarze' ('content/parked/harmonia/Harmonia_Jazzowa_na_Gitarze.md') links to 'Wprowadzenie_do_budowania_akordów' ('content/parked/harmonia/Wprowadzenie_do_budowania_akordów.md') and that does not exist -->
+2.  [Wprowadzenie do budowania
+    akordów]({{< relref "Wprowadzenie_do_budowania_akordów.md" >}})
 3.  Oznaczenia akordów<!-- link nie odnosił się do niczego: 'Harmonia Jazzowa na Gitarze' ('content/parked/harmonia/Harmonia_Jazzowa_na_Gitarze.md') links to 'Oznaczenia_akordów' ('content/parked/harmonia/Oznaczenia_akordów.md') and that does not exist -->
 4.  Funkcje harmoniczne<!-- link nie odnosił się do niczego: 'Harmonia Jazzowa na Gitarze' ('content/parked/harmonia/Harmonia_Jazzowa_na_Gitarze.md') links to 'Funkcje_harmoniczne' ('content/parked/harmonia/Funkcje_harmoniczne.md') and that does not exist -->
 5.  Chwytanie i łączenie

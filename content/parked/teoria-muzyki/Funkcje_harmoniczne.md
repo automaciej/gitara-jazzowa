@@ -6,12 +6,12 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Funkcja_harmoniczna', 'Funkcje_poboczne', 'II-V-I_(dwa_pi%C4%99%C4%87_jeden)', 'Wtr%C4%85cenia', 'akord', 'tonacja']
-aliases: ['/gitara/Funkcje_harmoniczne', 'Dominanta.md/dominanta', 'Subdominanta.md/subdominanta']
+aliases: ['/gitara/Funkcje_harmoniczne', 'parked/subdominanta']
 ---
-Pojęcie funkcji harmonicznej<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/Funkcje_harmoniczne.md') links to 'Funkcja_harmoniczna' ('content/Funkcja_harmoniczna.md') and that does not exist --> ma sens
-tylko w kontekście tonacji<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/Funkcje_harmoniczne.md') links to 'tonacja' ('content/tonacja.md') and that does not exist -->. Zakładając, że
+Pojęcie [funkcji harmonicznej]({{< relref "Funkcja_harmoniczna.md" >}}) ma sens
+tylko w kontekście [tonacji]({{< relref "Tonacja.md" >}}). Zakładając, że
 poruszamy się w określonej tonacji, możemy wskazać pewne
-akordy<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/Funkcje_harmoniczne.md') links to 'akord' ('content/akord.md') and that does not exist --> jako funkcje harmoniczne. Na przykład, weźmy
+[akordy]({{< relref "Akord.md" >}}) jako funkcje harmoniczne. Na przykład, weźmy
 tonację F-dur. Możemy zapytać, jaką funkcją harmoniczną w F-dur jest
 akord C7. Dowiemy się, że dominantą. Jest więcej akordów, które są
 funkcjami harmonicznymi w F-dur, jednak nie wszystkie nimi są.
@@ -51,6 +51,6 @@ kadencji, ale żadna inna nie jest nazywana kadencją wielką doskonałą.
 
 ## Zobacz też
 
-  - Funkcje poboczne<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/Funkcje_harmoniczne.md') links to 'Funkcje_poboczne' ('content/Funkcje_poboczne.md') and that does not exist -->
-  - Wtrącenia<!-- link nie odnosił się do niczego: 'content/Wtrącenia.md' wants to redirect to 'content/Wtrącenia.md', but 'content/Wtrącenia.md' will be deleted -->
-  - II-V-I (dwa pięć jeden)<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/Funkcje_harmoniczne.md') links to 'II-V-I_\\(dwa_pięć_jeden\\)' ('content/II-V-I_\\(dwa_pięć_jeden\\).md') and that does not exist -->
+  - Funkcje poboczne<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/parked/teoria-muzyki/Funkcje_harmoniczne.md') links to 'Funkcje_poboczne' ('content/parked/teoria-muzyki/Funkcje_poboczne.md') and that does not exist -->
+  - Wtrącenia<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/parked/teoria-muzyki/Funkcje_harmoniczne.md') links to 'Wtrącenia' ('content/parked/teoria-muzyki/Wtrącenia.md') and that does not exist -->
+  - II-V-I (dwa pięć jeden)<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/parked/teoria-muzyki/Funkcje_harmoniczne.md') links to 'II-V-I_\\(dwa_pięć_jeden\\)' ('content/parked/teoria-muzyki/II-V-I_\\(dwa_pięć_jeden\\).md') and that does not exist -->

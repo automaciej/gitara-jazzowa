@@ -10,4 +10,4 @@ aliases: ['/gitara/Sztuczki_harmoniczne']
 ---
   - Substytut dominanty<!-- link nie odnosił się do niczego: 'Sztuczki harmoniczne' ('content/Sztuczki_harmoniczne.md') links to 'Substytut_dominanty' ('content/Substytut_dominanty.md') and that does not exist -->
   - Te same dźwięki, różne
-    akordy<!-- link nie odnosił się do niczego: 'content/Te_same_dźwięki,_różne_akordy.md' wants to redirect to 'content/Te_same_dźwięki,_różne_akordy.md', but 'content/Te_same_dźwięki,_różne_akordy.md' will be deleted -->
+    akordy<!-- link nie odnosił się do niczego: 'Sztuczki harmoniczne' ('content/Sztuczki_harmoniczne.md') links to 'Te_same_dźwięki,_różne_akordy' ('content/Te_same_dźwięki,_różne_akordy.md') and that does not exist -->

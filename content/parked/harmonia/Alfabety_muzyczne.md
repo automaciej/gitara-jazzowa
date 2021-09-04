@@ -13,7 +13,7 @@ tym:
 
   - europejskie oznaczenie akordu H = amerykańskiemu B
   - europejskie oznaczenie akordu B = amerykańskiemu B♭ (B z
-    bemolem<!-- link nie odnosił się do niczego: 'Alfabety muzyczne' ('content/parked/harmonia/Alfabety_muzyczne.md') links to 'bemol' ('content/parked/harmonia/bemol.md') and that does not exist -->)
+    [bemolem]({{< relref "Bemol.md" >}}))
 
 We Włoszech można znaleźć w roli symboli akordów<!-- link nie odnosił się do niczego: 'Alfabety muzyczne' ('content/parked/harmonia/Alfabety_muzyczne.md') links to 'akord' ('content/parked/harmonia/akord.md') and that does not exist -->
 nazwy solmizacyjne<!-- link nie odnosił się do niczego: 'Alfabety muzyczne' ('content/parked/harmonia/Alfabety_muzyczne.md') links to 'Solmizacja' ('content/parked/harmonia/Solmizacja.md') and that does not exist -->. Jeśli chodzi o oznaczenia

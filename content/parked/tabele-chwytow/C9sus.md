@@ -6,7 +6,7 @@ kategorie: ['Tabele chwytów']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['B%E2%99%AD', 'B%E2%99%AD/C', 'nona_wielka', 'septyma_ma%C5%82a']
-aliases: ['/gitara/C9sus', 'B♭/b-c']
+aliases: ['/gitara/C9sus', 'parked/bb-na-c']
 ---
 C-sus (suspended, bez tercji) z septymą małą<!-- link nie odnosił się do niczego: 'C9sus' ('content/parked/tabele-chwytow/C9sus.md') links to 'septyma_mała' ('content/parked/tabele-chwytow/septyma_mała.md') and that does not exist -->
 i noną wielką<!-- link nie odnosił się do niczego: 'C9sus' ('content/parked/tabele-chwytow/C9sus.md') links to 'nona_wielka' ('content/parked/tabele-chwytow/nona_wielka.md') and that does not exist -->. Inaczej można oznaczyć ten

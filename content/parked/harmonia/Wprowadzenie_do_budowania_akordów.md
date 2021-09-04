@@ -11,8 +11,8 @@ images:
   - path: "/images/Chord-eb-major.png"
 ---
 Nauka harmonii jest trudniejsza na gitarze niż na klawiaturze
-fortepianu. Jest tak głównie dlatego, że gryf [nie daje
-swobody]({{< relref "Ograniczenia_gitary.md" >}}) w budowaniu i łączeniu akordów.
+fortepianu. Jest tak głównie dlatego, że gryf nie daje
+swobody<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/parked/harmonia/Wprowadzenie_do_budowania_akordów.md') links to 'ograniczenia_gitary' ('content/parked/harmonia/ograniczenia_gitary.md') and that does not exist --> w budowaniu i łączeniu akordów.
 Początkujący gitarzyści uczą się *chwytów*, zapamiętując każdy z nich
 jako coś osobnego. Rzeczywiście, nie jest łatwo połączyć w spójną całość
 wiedzę na temat harmonii z chwytami gitarowymi.
@@ -87,7 +87,7 @@ struktury. W pierwszym kroku uprościmy ją, zostawiając cztery dźwięki.
 {{< figure src="/images/Chord-eb-major.png" >}}
 
 Tak uproszczony akord można dość prosto modyfikować. Najprostsza
-modyfikacja to przejście z G-dur na Gmaj7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'Gmaj7' ('content/Gmaj7.md') and that does not exist -->, poprzez
+modyfikacja to przejście z G-dur na Gmaj7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/parked/harmonia/Wprowadzenie_do_budowania_akordów.md') links to 'Gmaj7' ('content/parked/harmonia/Gmaj7.md') and that does not exist -->, poprzez
 przesunięcie prymy na septymę wielką.
 
 
@@ -101,7 +101,7 @@ E |―――|―――|―――1―――|―――|―――|―――|――
 ```
 
 
-Akord z septymą małą, czyli G7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'G7' ('content/G7.md') and that does not exist -->, można uzyskać w podobny
+Akord z septymą małą, czyli G7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/parked/harmonia/Wprowadzenie_do_budowania_akordów.md') links to 'G7' ('content/parked/harmonia/G7.md') and that does not exist -->, można uzyskać w podobny
 sposób.
 
 
@@ -116,7 +116,7 @@ E |―――|―――|―――1―――|―――|―――|―――|――
 
 
 Pół tonu pod septymą małą znajduje się seksta akordu, więc
-G6<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'G6' ('content/G6.md') and that does not exist --> można zagrać tak:
+G6<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/parked/harmonia/Wprowadzenie_do_budowania_akordów.md') links to 'G6' ('content/parked/harmonia/G6.md') and that does not exist --> można zagrać tak:
 
 
 ```
@@ -130,7 +130,7 @@ E |―――|―――|―――1―――|―――|―――|―――|――
 
 
 Inny przydatny akord to akord mollowy z septymą małą. W tym przypadku
-będzie to Gm7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'Gm7' ('content/Gm7.md') and that does not exist -->.
+będzie to Gm7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/parked/harmonia/Wprowadzenie_do_budowania_akordów.md') links to 'Gm7' ('content/parked/harmonia/Gm7.md') and that does not exist -->.
 
 
 ```
@@ -145,7 +145,7 @@ E |―――|―――|―――1―――|―――|―――|―――|――
 
 W muzyce w stylu bossa nova często mamy do czynienia z akordem mollowym
 z obniżoną kwintą. W tonacji mollowej jest to subdominanta drugiego
-stopnia, z mollowego II-V-I<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'II-V-I' ('content/II-V-I.md') and that does not exist -->.
+stopnia, z mollowego II-V-I<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/parked/harmonia/Wprowadzenie_do_budowania_akordów.md') links to 'II-V-I' ('content/parked/harmonia/II-V-I.md') and that does not exist -->.
 
 
 ```
@@ -213,7 +213,7 @@ E |―――|―――|―――|―――|―――|―――|―――|――
 ```
 
 
-Zamiana C-dur na Cmaj7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'Cmaj7' ('content/Cmaj7.md') and that does not exist --> polega zmianie prymy na
+Zamiana C-dur na Cmaj7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/parked/harmonia/Wprowadzenie_do_budowania_akordów.md') links to 'Cmaj7' ('content/parked/harmonia/Cmaj7.md') and that does not exist --> polega zmianie prymy na
 septymę wielką.
 
 
@@ -227,7 +227,7 @@ E |―――|―――|―――|―――|―――|―――|―――|――
 ```
 
 
-C7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'C7' ('content/C7.md') and that does not exist --> z kolei będzie miał septymę małą.
+C7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/parked/harmonia/Wprowadzenie_do_budowania_akordów.md') links to 'C7' ('content/parked/harmonia/C7.md') and that does not exist --> z kolei będzie miał septymę małą.
 
 
 ```
@@ -240,7 +240,7 @@ E |―――|―――|―――|―――|―――|―――|―――|――
 ```
 
 
-A dość niewygodny do chwycenia C6<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'C6' ('content/C6.md') and that does not exist --> będzie wyglądać tak:
+A dość niewygodny do chwycenia C6<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/parked/harmonia/Wprowadzenie_do_budowania_akordów.md') links to 'C6' ('content/parked/harmonia/C6.md') and that does not exist --> będzie wyglądać tak:
 
 
 ```
@@ -254,7 +254,7 @@ E |―――|―――|―――|―――|―――|―――|―――|――
 
 
 Z grupy akordów z prymą na strunie A warto pokazać
-Cm7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'Cm7' ('content/Cm7.md') and that does not exist -->:
+Cm7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/parked/harmonia/Wprowadzenie_do_budowania_akordów.md') links to 'Cm7' ('content/parked/harmonia/Cm7.md') and that does not exist -->:
 
 
 ```
@@ -267,5 +267,5 @@ E |―――|―――|―――|―――|―――|―――|―――|――
 ```
 
 
-Jak chwycić Cm6<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'Cm6' ('content/Cm6.md') and that does not exist --> (akord z tercją małą i sekstą wielką),
+Jak chwycić Cm6<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/parked/harmonia/Wprowadzenie_do_budowania_akordów.md') links to 'Cm6' ('content/parked/harmonia/Cm6.md') and that does not exist --> (akord z tercją małą i sekstą wielką),
 pozostawiam Czytelnikowi jako ćwiczenie.

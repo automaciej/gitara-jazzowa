@@ -6,7 +6,7 @@ kategorie: ['Akordy zmniejszone', 'Tabele chwytów']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['akord_zmniejszony']
-aliases: ['/gitara/Bdim', 'Akord_Bdim.md/akord-bdim']
+aliases: ['/gitara/Bdim']
 ---
 Akord Bdim jest akordem zmniejszonym<!-- link nie odnosił się do niczego: 'Bdim' ('content/parked/tabele-chwytow/Bdim.md') links to 'akord_zmniejszony' ('content/parked/tabele-chwytow/akord_zmniejszony.md') and that does not exist -->.
 

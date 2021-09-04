@@ -10,7 +10,7 @@ aliases: ['/gitara/Akord_zmniejszony']
 ---
 **Akord zmniejszony** to akord<!-- link nie odnosił się do niczego: 'Akord zmniejszony' ('content/parked/harmonia/Akord_zmniejszony.md') links to 'akord' ('content/parked/harmonia/akord.md') and that does not exist --> składający się z
 samych tercji małych<!-- link nie odnosił się do niczego: 'Akord zmniejszony' ('content/parked/harmonia/Akord_zmniejszony.md') links to 'tercja_mała' ('content/parked/harmonia/tercja_mała.md') and that does not exist -->. Na przykład spotykany w
-bluesie<!-- link nie odnosił się do niczego: 'Akord zmniejszony' ('content/parked/harmonia/Akord_zmniejszony.md') links to 'blues' ('content/parked/harmonia/blues.md') and that does not exist --> akord Bdim to dźwięki: B, D, F, A♭
+[bluesie]({{< relref "Blues.md" >}}) akord Bdim to dźwięki: B, D, F, A♭
 
 **Zobacz też**
 

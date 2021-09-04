@@ -6,7 +6,7 @@ kategorie: ['Teoria muzyki']
 draft: false
 contributor: 'Nistrz Umysł'
 wikilinks: ['d%C5%BAwi%C4%99k']
-aliases: ['/gitara/Częstotliwość_drgań', 'Częstotliwość.md/czestotliwosc', 'częstotliwość-drgań']
+aliases: ['/gitara/Częstotliwość_drgań', 'częstotliwość-drgań', 'parked/czestotliwosc']
 ---
 Częstotliwość drgań to liczba cykli wykonywanych przez drgające
 środowisko w ciągu jednej sekundy. Częstotliwość określa się w hercach

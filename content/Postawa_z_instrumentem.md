@@ -27,7 +27,7 @@ dźwiękowo<!-- link nie odnosił się do niczego: 'Postawa z instrumentem' ('co
 Wśród gitarzystów jazzowych istnieje wiele różnych metod gry i wiele
 różnych postaw z instrumentem. Nie wszystkie jednak, moim zdaniem,
 godne są polecenia. Zwłaszcza niektórzy muzycy
-[bluesowi]({{< relref "Blues.md" >}}) traktują instrument bardzo specyficznie,
+bluesowi<!-- link nie odnosił się do niczego: 'Postawa z instrumentem' ('content/Postawa_z_instrumentem.md') links to 'blues' ('content/blues.md') and that does not exist --> traktują instrument bardzo specyficznie,
 zgodnie może z wymogami tego gatunku muzycznego, ale zawężają tym
 potencjalne możliwości wykonywania innych gatunków jazzu.
 

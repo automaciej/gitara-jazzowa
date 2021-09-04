@@ -12,7 +12,7 @@ Funkcja harmoniczna jest [akordem]({{< relref "Akord.md" >}}), zbudowanym na
 określonym stopniu [tonacji]({{< relref "Tonacja.md" >}}). Podstawowe funkcje
 harmoniczne to [tonika]({{< relref "Tonika.md" >}}),
 dominanta<!-- link nie odnosił się do niczego: 'Funkcja harmoniczna' ('content/parked/teoria-muzyki/Funkcja_harmoniczna.md') links to 'dominanta' ('content/parked/teoria-muzyki/dominanta.md') and that does not exist --> i
-subdominanta<!-- link nie odnosił się do niczego: 'Funkcja harmoniczna' ('content/parked/teoria-muzyki/Funkcja_harmoniczna.md') links to 'subdominanta' ('content/parked/teoria-muzyki/subdominanta.md') and that does not exist -->.
+[subdominanta]({{< relref "Funkcje_harmoniczne.md" >}}).
 
 Funkcja składa się z pary uporządkowanej
 
