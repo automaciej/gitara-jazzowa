@@ -1,12 +1,5 @@
 <footer>
   <p>
-  {{ define "pageLink" -}}
-    <a href="{{ .RelPermalink }}">{{ .Title | lower }}</a>
-  {{- end }}
-  [ {{ template "pageLink" .Site.GetPage "/książka/Spis_treści.md" }}
-  | {{ template "pageLink" .Site.GetPage "/o-autorze/index.md" }}
-  ]
-
   {{ with (.GetTerms "kategorie") }}
   &mdash;
 
