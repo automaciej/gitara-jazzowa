@@ -8,4 +8,4 @@ contributor: 'MaciejBlizinski'
 wikilinks: ['Cz%C4%99stotliwo%C5%9B%C4%87_drga%C5%84']
 aliases: ['/gitara/Częstotliwość', 'częstotliwość']
 ---
-1.  REDIRECT [Częstotliwość drgań]({{< relref "Częstotliwość_drgań.md" >}})
+1.  REDIRECT Częstotliwość drgań<!-- link nie odnosił się do niczego: 'Częstotliwość' ('content/Częstotliwość.md') links to 'Częstotliwość_drgań' ('content/Częstotliwość_drgań.md') and that does not exist -->

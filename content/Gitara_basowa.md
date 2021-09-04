@@ -9,7 +9,7 @@ wikilinks: ['d%C5%BAwi%C4%99k', 'gitara_akustyczna', 'gitara_elektryczna', 'gita
 aliases: ['/gitara/Gitara_basowa']
 ---
 **Gitara basowa** to czterostrunowa gitara o obniżonej o
-[oktawę]({{< relref "Oktawa.md" >}}) skali dźwięków (najniższy należy do oktawy
+oktawę<!-- link nie odnosił się do niczego: 'Gitara basowa' ('content/Gitara_basowa.md') links to 'oktawa' ('content/oktawa.md') and that does not exist --> skali dźwięków (najniższy należy do oktawy
 kontra). Najczęściej spotykane są instrumenty czterostrunowe, choć
 produkuje się również gitary basowe pięciostrunowe,
 [sześciostrunowe]({{< relref "Sześciostrunowa_gitara_basowa.md" >}}),
@@ -18,7 +18,7 @@ wyżej) i dwunastostrunowe.
 
 W standardowym [strojeniu]({{< relref "Strojenie_gitary.md" >}}) puste
 [struny]({{< relref "Struna.md" >}}) posiadają następujące
-[dźwięki]({{< relref "Dźwięk.md" >}}):
+dźwięki<!-- link nie odnosił się do niczego: 'Gitara basowa' ('content/Gitara_basowa.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist -->:
 
   - **G** (98 Hz)
   - **D** (73,4 Hz)

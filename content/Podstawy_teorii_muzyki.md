@@ -12,7 +12,7 @@ Niniejsza część jest próbą możliwie ścisłego zdefiniowania pojęć
 muzycznych i opisania ich językiem matematyki. Nie jest to wiedza
 konieczna muzykowi do grania, więc niezainteresowanych zapraszam do
 przejścia do Rozdziału 2. Jeżeli natomiast zastanawiasz się nad tym,
-czymże *u diabła* jest ten [interwał]({{< relref "Interwał.md" >}}), a przy
+czymże *u diabła* jest ten interwał<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'interwał' ('content/interwał.md') and that does not exist -->, a przy
 okazji znasz odrobinę działania na zbiorach, to jest to część dla
 Ciebie.
 
@@ -34,35 +34,35 @@ muzycznych:
 
   - Dźwięk (w rozumieniu
     akustyki)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Dźwięk_\\(w_rozumieniu_akustyki\\)' ('content/Dźwięk_\\(w_rozumieniu_akustyki\\).md') and that does not exist -->
-  - [Częstotliwość drgań]({{< relref "Częstotliwość_drgań.md" >}})
-  - [Ton]({{< relref "Ton.md" >}})
-  - [Dźwięk o określonej
-    wysokości]({{< relref "Dźwięk_o_określonej_wysokości.md" >}})
-  - [Oktawowa miara odległości między
-    częstotliwościami]({{< relref "Oktawowa_miara_odległości_między_częstotliwościami.md" >}})
-  - [System równomiernie
-    temperowany]({{< relref "System_równomiernie_temperowany.md" >}})
-  - [Znaki chromatyczne]({{< relref "Znaki_chromatyczne.md" >}})
-  - [Nazwy literowe dźwięków]({{< relref "Nazwy_literowe_dźwięków.md" >}})
-  - [Pełna przestrzeń nazw
-    dźwięków]({{< relref "Pełna_przestrzeń_nazw_dźwięków.md" >}})
-  - [Przestrzeń naturalnych nazw
-    dźwięków]({{< relref "Przestrzeń_naturalnych_nazw_dźwięków.md" >}})
-  - [Przestrzeń nazw dźwięków bez
-    oktawy]({{< relref "Przestrzeń_nazw_dźwięków_bez_oktawy.md" >}})
+  - Częstotliwość drgań<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Częstotliwość_drgań' ('content/Częstotliwość_drgań.md') and that does not exist -->
+  - Ton<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Ton' ('content/Ton.md') and that does not exist -->
+  - Dźwięk o określonej
+    wysokości<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Dźwięk_o_określonej_wysokości' ('content/Dźwięk_o_określonej_wysokości.md') and that does not exist -->
+  - Oktawowa miara odległości między
+    częstotliwościami<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Oktawowa_miara_odległości_między_częstotliwościami' ('content/Oktawowa_miara_odległości_między_częstotliwościami.md') and that does not exist -->
+  - System równomiernie
+    temperowany<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'System_równomiernie_temperowany' ('content/System_równomiernie_temperowany.md') and that does not exist -->
+  - Znaki chromatyczne<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Znaki_chromatyczne' ('content/Znaki_chromatyczne.md') and that does not exist -->
+  - Nazwy literowe dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Nazwy_literowe_dźwięków' ('content/Nazwy_literowe_dźwięków.md') and that does not exist -->
+  - Pełna przestrzeń nazw
+    dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Pełna_przestrzeń_nazw_dźwięków' ('content/Pełna_przestrzeń_nazw_dźwięków.md') and that does not exist -->
+  - Przestrzeń naturalnych nazw
+    dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Przestrzeń_naturalnych_nazw_dźwięków' ('content/Przestrzeń_naturalnych_nazw_dźwięków.md') and that does not exist -->
+  - Przestrzeń nazw dźwięków bez
+    oktawy<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Przestrzeń_nazw_dźwięków_bez_oktawy' ('content/Przestrzeń_nazw_dźwięków_bez_oktawy.md') and that does not exist -->
   - Dźwięk (w rozumieniu
     harmonii)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Dźwięk_\\(w_rozumieniu_harmonii\\)' ('content/Dźwięk_\\(w_rozumieniu_harmonii\\).md') and that does not exist -->
-  - [Wysokość dźwięku]({{< relref "Wysokość_dźwięku.md" >}})
-  - [A razkreślne]({{< relref "A_razkreślne.md" >}})
-  - [Częstotliwości dźwięków]({{< relref "Częstotliwości_dźwięków.md" >}})
-  - [Interwał]({{< relref "Interwał.md" >}})
-  - [Skala]({{< relref "Skala.md" >}})
-  - [Skale kościelne]({{< relref "Skale_kościelne.md" >}})
-  - [Akord]({{< relref "Akord.md" >}})
-  - [Stopień]({{< relref "Stopień.md" >}})
-  - [Tryb]({{< relref "Tryb.md" >}})
-  - [Tonacja]({{< relref "Tonacja.md" >}})
-  - [Akord o budowie tercjowej]({{< relref "Akord_o_budowie_tercjowej.md" >}})
-  - [Funkcja harmoniczna]({{< relref "Funkcja_harmoniczna.md" >}})
+  - Wysokość dźwięku<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Wysokość_dźwięku' ('content/Wysokość_dźwięku.md') and that does not exist -->
+  - A razkreślne<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'A_razkreślne' ('content/A_razkreślne.md') and that does not exist -->
+  - Częstotliwości dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Częstotliwości_dźwięków' ('content/Częstotliwości_dźwięków.md') and that does not exist -->
+  - Interwał<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Interwał' ('content/Interwał.md') and that does not exist -->
+  - Skala<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Skala' ('content/Skala.md') and that does not exist -->
+  - Skale kościelne<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Skale_kościelne' ('content/Skale_kościelne.md') and that does not exist -->
+  - Akord<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Akord' ('content/Akord.md') and that does not exist -->
+  - Stopień<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Stopień' ('content/Stopień.md') and that does not exist -->
+  - Tryb<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Tryb' ('content/Tryb.md') and that does not exist -->
+  - Tonacja<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Tonacja' ('content/Tonacja.md') and that does not exist -->
+  - Akord o budowie tercjowej<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Akord_o_budowie_tercjowej' ('content/Akord_o_budowie_tercjowej.md') and that does not exist -->
+  - Funkcja harmoniczna<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Funkcja_harmoniczna' ('content/Funkcja_harmoniczna.md') and that does not exist -->
   - Zapis amerykański i niemiecki
     (europejski)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Zapis_amerykański_i_niemiecki_\\(europejski\\)' ('content/Zapis_amerykański_i_niemiecki_\\(europejski\\).md') and that does not exist -->

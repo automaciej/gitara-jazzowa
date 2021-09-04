@@ -9,7 +9,7 @@ wikilinks: ['Gitara_klasyczna', 'gitara_elektryczna', 'sprz%C4%99%C5%BCenie_zwro
 aliases: ['/gitara/Wybrzmienie']
 ---
 **Wybrzmienie** (ang. *sustain*) - czas, w którym struna drga,
-produkując [sygnał]({{< relref "Sygnał.md" >}}). [Gitara
+produkując sygnał<!-- link nie odnosił się do niczego: 'Wybrzmienie' ('content/Wybrzmienie.md') links to 'sygnał' ('content/sygnał.md') and that does not exist -->. [Gitara
 klasyczna]({{< relref "Gitara_klasyczna.md" >}}) charakteryzuje się bardzo
 krótkim wybrzmieniem. Najdłuższe wybrzmienie ma [gitara
 elektryczna]({{< relref "Gitara_elektryczna.md" >}}), szczególnie jeżeli pracuje

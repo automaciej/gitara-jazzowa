@@ -9,7 +9,7 @@ wikilinks: ['%C5%81%C4%85czenie_najbli%C5%BCsz%C4%85_drog%C4%85', ':Kategoria:Ta
 aliases: ['/gitara/Chwytanie_i_łączenie_akordów', 'chwytanie-i-łączenie-akordów']
 ---
   - [Ograniczenia gitary]({{< relref "Ograniczenia_gitary.md" >}})
-  - [Łączenie najbliższą drogą]({{< relref "Łączenie_najbliższą_drogą.md" >}})
-  - [Układ rozległy]({{< relref "Układ_rozległy.md" >}})
+  - Łączenie najbliższą drogą<!-- link nie odnosił się do niczego: 'Chwytanie i łączenie akordów' ('content/Chwytanie_i_łączenie_akordów.md') links to 'Łączenie_najbliższą_drogą' ('content/Łączenie_najbliższą_drogą.md') and that does not exist -->
+  - Układ rozległy<!-- link nie odnosił się do niczego: 'Chwytanie i łączenie akordów' ('content/Chwytanie_i_łączenie_akordów.md') links to 'Układ_rozległy' ('content/Układ_rozległy.md') and that does not exist -->
   - [Tabele chwytów](/kategorie/tabele-chwytow "Kategoria Tabele chwytów")
 

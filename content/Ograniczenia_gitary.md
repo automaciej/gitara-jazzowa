@@ -10,7 +10,7 @@ aliases: ['/gitara/Ograniczenia_gitary']
 ---
 Gitara stawia przed muzykami pewne ograniczenia. Z tymi ograniczeniami
 musimy się pogodzić. Fortepian ma tu zdecydowaną przewagę i może grać
-układy [dźwięków]({{< relref "Dźwięk.md" >}}), o których gitara może tylko
+układy dźwięków<!-- link nie odnosił się do niczego: 'Ograniczenia gitary' ('content/Ograniczenia_gitary.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist -->, o których gitara może tylko
 pomarzyć. Jednak nie martwiłbym sie tym zbytnio, ponieważ i on ma swoje
 ograniczenia, głównie na polu barwy dźwięku i
 [artykulacji]({{< relref "Artykulacja.md" >}}).
@@ -23,7 +23,7 @@ wspominając o sześciodźwiękach. Czterodźwięk jest standardem.
 
 ### Liczba palców
 
-Czasami nie można zagrać jakiegoś [akordu]({{< relref "Akord.md" >}}), ponieważ
+Czasami nie można zagrać jakiegoś akordu<!-- link nie odnosił się do niczego: 'Ograniczenia gitary' ('content/Ograniczenia_gitary.md') links to 'akord' ('content/akord.md') and that does not exist -->, ponieważ
 brakuje palca, którym można by przycisnąć strunę do progu.
 
 ### Odległości między strunami

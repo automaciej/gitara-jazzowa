@@ -8,6 +8,6 @@ contributor: 'MaciejBlizinski'
 wikilinks: ['Substytut_dominanty', 'Te_same_d%C5%BAwi%C4%99ki,_r%C3%B3%C5%BCne_akordy']
 aliases: ['/gitara/Sztuczki_harmoniczne']
 ---
-  - [Substytut dominanty]({{< relref "Substytut_dominanty.md" >}})
-  - [Te same dźwięki, różne
-    akordy]({{< relref "Akordy_bez_prymy" >}})
+  - Substytut dominanty<!-- link nie odnosił się do niczego: 'Sztuczki harmoniczne' ('content/Sztuczki_harmoniczne.md') links to 'Substytut_dominanty' ('content/Substytut_dominanty.md') and that does not exist -->
+  - Te same dźwięki, różne
+    akordy<!-- link nie odnosił się do niczego: 'content/Te_same_dźwięki,_różne_akordy.md' wants to redirect to 'content/Te_same_dźwięki,_różne_akordy.md', but 'content/Te_same_dźwięki,_różne_akordy.md' will be deleted -->

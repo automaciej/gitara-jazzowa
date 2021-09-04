@@ -21,7 +21,7 @@ dobrze pokazuje następujący schemat harmoniczny:
 
 Gdzie:
 
-  - I oznacza [tonikę]({{< relref "Tonika.md" >}}) (akord na pierwszym stopniu
+  - I oznacza tonikę<!-- link nie odnosił się do niczego: 'Blues' ('content/Blues.md') links to 'tonika' ('content/tonika.md') and that does not exist --> (akord na pierwszym stopniu
     gamy)
   - IV oznacza [subdominantę]({{< relref "Funkcje_harmoniczne.md" >}}) (akord na
     czwartym stopniu gamy)

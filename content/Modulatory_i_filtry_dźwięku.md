@@ -75,7 +75,7 @@ szumów<!-- link nie odnosił się do niczego: 'Modulatory i filtry dźwięku' (
 gdy instrument nie gra (a wtedy najbardziej słyszalne są wszelkie
 zakłócenia), odcinają dopływ sygnałów (a więc i szumów) do
 wzmacniacza. Gdy zaczyna się grać, urządzenie automatycznie przepuszcza
-[sygnał]({{< relref "Sygnał.md" >}}) z instrumentu.
+sygnał<!-- link nie odnosił się do niczego: 'Modulatory i filtry dźwięku' ('content/Modulatory_i_filtry_dźwięku.md') links to 'sygnał' ('content/sygnał.md') and that does not exist --> z instrumentu.
 
 Noise Gate należy instalować zawsze między inne urządzenia a
 [wzmacniacz]({{< relref "Wzmacniacz.md" >}}). Nietóre przetworniki dźwięku mają

@@ -27,7 +27,7 @@ lekkość frazie muzycznej.
 
 Stosując zróżnicowaną [artykulację]({{< relref "Artykulacja.md" >}}) - grając
 głównie legato długie frazy<!-- link nie odnosił się do niczego: 'Pat Metheny' ('content/Pat_Metheny.md') links to 'fraza' ('content/fraza.md') and that does not exist -->, wykonuje krótkie,
-[półtonowe]({{< relref "Półton.md" >}}) [glissanda]({{< relref "Glissando.md" >}}),
+półtonowe<!-- link nie odnosił się do niczego: 'Pat Metheny' ('content/Pat_Metheny.md') links to 'półton' ('content/półton.md') and that does not exist --> [glissanda]({{< relref "Glissando.md" >}}),
 portamenta<!-- link nie odnosił się do niczego: 'Pat Metheny' ('content/Pat_Metheny.md') links to 'portamento' ('content/portamento.md') and that does not exist -->, oplatając nimi linię
 melodyczną<!-- link nie odnosił się do niczego: 'Pat Metheny' ('content/Pat_Metheny.md') links to 'linia_melodyczna' ('content/linia_melodyczna.md') and that does not exist -->.
 

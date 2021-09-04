@@ -8,4 +8,4 @@ contributor: 'MaciejBlizinski'
 wikilinks: ['Ogrywanie_akordu']
 aliases: ['/gitara/Ogrywanie']
 ---
-1.  REDIRECT [Ogrywanie akordu]({{< relref "Ogrywanie_akordu.md" >}})
+1.  REDIRECT Ogrywanie akordu<!-- link nie odnosił się do niczego: 'Ogrywanie' ('content/Ogrywanie.md') links to 'Ogrywanie_akordu' ('content/Ogrywanie_akordu.md') and that does not exist -->

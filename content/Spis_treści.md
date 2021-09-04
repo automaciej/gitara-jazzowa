@@ -54,8 +54,8 @@ aliases: ['/gitara/Spis_treści', 'spis-treści']
     4.  [Flażolety]({{< relref "Flażolet.md" >}})
 10. [Różne techniki gry na
     gitarze]({{< relref "Technika" >}})
-11. [Wprowadzenie do harmonii
-    jazzowej]({{< relref "Wprowadzenie_do_harmonii_jazzowej.md" >}})
+11. Wprowadzenie do harmonii
+    jazzowej<!-- link nie odnosił się do niczego: 'Spis treści' ('content/Spis_treści.md') links to 'Wprowadzenie_do_harmonii_jazzowej' ('content/Wprowadzenie_do_harmonii_jazzowej.md') and that does not exist -->
 12. [Ćwiczenia techniczne]({{< relref "Ćwiczenia_techniczne.md" >}})
 
 

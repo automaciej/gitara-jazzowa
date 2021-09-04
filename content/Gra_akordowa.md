@@ -8,7 +8,7 @@ contributor: 'MaciejBlizinski'
 wikilinks: ['Joe_Pass', 'akord', 'd%C5%BAwi%C4%99k']
 aliases: ['/gitara/Gra_akordowa']
 ---
-**Gra akordowa** polega na graniu [akordów]({{< relref "Akord.md" >}}), czyli
-kilku brzmiących jednocześnie [dźwięków]({{< relref "Dźwięk.md" >}}). Mistrzem
+**Gra akordowa** polega na graniu akordów<!-- link nie odnosił się do niczego: 'Gra akordowa' ('content/Gra_akordowa.md') links to 'akord' ('content/akord.md') and that does not exist -->, czyli
+kilku brzmiących jednocześnie dźwięków<!-- link nie odnosił się do niczego: 'Gra akordowa' ('content/Gra_akordowa.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist -->. Mistrzem
 gry akordowej był [Joe Pass]({{< relref "Joe_Pass.md" >}}).
 

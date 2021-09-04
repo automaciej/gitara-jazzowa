@@ -8,4 +8,4 @@ contributor: 'MaciejBlizinski'
 wikilinks: ['B%E2%99%ADdim']
 aliases: ['/gitara/Bbdim']
 ---
-1.  REDIRECT [B♭dim]({{< relref "B♭dim.md" >}})
+1.  REDIRECT B♭dim<!-- link nie odnosił się do niczego: 'Bbdim' ('content/Bbdim.md') links to 'B♭dim' ('content/B♭dim.md') and that does not exist -->

@@ -75,7 +75,7 @@ możemy to zrobić nie używając strun pustych. Porównujemy np.:
     wydobytym na strunie E-6 w pozycji VIII
 
 i na koniec sprawdzamy struny skrajne - E-1 i E-6, czy podwójna
-[oktawa]({{< relref "Oktawa.md" >}}) jest czysta. W nawiasie należy dodać, że w
+oktawa<!-- link nie odnosił się do niczego: 'Proste strojenie' ('content/Proste_strojenie.md') links to 'oktawa' ('content/oktawa.md') and that does not exist --> jest czysta. W nawiasie należy dodać, że w
 tym wypadku numer pozycji nie określa położenia dłoni, a jedynie miejsce
 dociśnięcia struny. Tutaj w wyższych pozycjach wygodniej jest operować
 palcem 4.

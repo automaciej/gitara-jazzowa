@@ -47,7 +47,7 @@ drewna, [gryf]({{< relref "Gryf.md" >}}) przykręcany do korpusu śrubami oraz
 [mostek]({{< relref "Mostek.md" >}}) z systemem tremolo skonstruowany również
 przez Leo Fendera<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/Gitara_elektryczna.md') links to 'Leo_Fender' ('content/Leo_Fender.md') and that does not exist -->. Umożliwiał
 [wibrowanie]({{< relref "Wibracja.md" >}}) i obniżanie dźwięku pojedynczych strun
-i całych [akordów]({{< relref "Akord.md" >}}).
+i całych akordów<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/Gitara_elektryczna.md') links to 'akord' ('content/akord.md') and that does not exist -->.
 
 # Mostek
 

@@ -16,7 +16,7 @@ Tę technikę opanował do tego stopnia, że kciukiem posługiwał się jak
 kostką, a więc stosował uderzenia nie tylko z góry w dół, ale i z dołu
 do góry, uzyskiwał [tremolo]({{< relref "Tremolo.md" >}}), grał [single
 note]({{< relref "Single_note.md" >}}), akordami i przede wszystkim
-[oktawami]({{< relref "Oktawa.md" >}}). Stosował on taką metodę: grając oktawę
+oktawami<!-- link nie odnosił się do niczego: 'Wes Montgomery' ('content/Wes_Montgomery.md') links to 'oktawa' ('content/oktawa.md') and that does not exist -->. Stosował on taką metodę: grając oktawę
 np. na strunie D-4 i H-2 uderzeniem kciuka atakował również strunę G-3,
 której brzmienie było niepożądane. Tę środkową strunę tłumił palcami
 [lewej ręki]({{< relref "Lewa_ręka.md" >}}).

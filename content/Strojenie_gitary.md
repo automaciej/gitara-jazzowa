@@ -42,5 +42,5 @@ dawała najlepsze rezultaty.
   - [Wysokość stroju]({{< relref "Wysokość_stroju.md" >}})
   - [Odchylenia od stroju]({{< relref "Odchylenia_od_stroju.md" >}})
   - [Jak często stroić gitarę]({{< relref "Jak_często_stroić_gitarę.md" >}})
-  - [Instrument transponujący]({{< relref "Instrument_transponujący.md" >}})
+  - Instrument transponujący<!-- link nie odnosił się do niczego: 'Strojenie gitary' ('content/Strojenie_gitary.md') links to 'Instrument_transponujący' ('content/Instrument_transponujący.md') and that does not exist -->
 

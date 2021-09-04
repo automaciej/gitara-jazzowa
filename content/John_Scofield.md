@@ -20,11 +20,11 @@ energią.
 Uchodzi za najintensywniej swingującego<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'swingowanie' ('content/swingowanie.md') and that does not exist -->
 gitarzystę. Improwizuje<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'Improwizacja' ('content/Improwizacja.md') and that does not exist --> swobodnie i
 żywiołowo, a z drugiej strony jego świadomość miejsca każdego
-[dźwięku]({{< relref "Dźwięk.md" >}}) w strukturze
+dźwięku<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist --> w strukturze
 harmonicznej<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'schemat_harmoniczny' ('content/schemat_harmoniczny.md') and that does not exist --> utworu jest imponująca.
 
 Charakterystycznym przykładem może być temat z utworu „Techno" z płyty
-„Still Warm". Oparty jest na dwóch akordach: [B♭m7]({{< relref "B♭m7.md" >}}) i
+„Still Warm". Oparty jest na dwóch akordach: B♭m7<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'B♭m7' ('content/B♭m7.md') and that does not exist --> i
 D♭7<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'D♭7' ('content/D♭7.md') and that does not exist -->. Zbudowany jest z krótkich, gęstych rytmicznie
 fraz wykonanych [staccato]({{< relref "Staccato.md" >}}). Motyw gi­tary ściśle
 koresponduje z szesnastkowym podziałem [gi­tary

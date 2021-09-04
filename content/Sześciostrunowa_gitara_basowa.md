@@ -21,7 +21,7 @@ brzmiące o oktawę niżej. W standardowym
 
 Gitary takie posiadają nieco szerszy [gryf]({{< relref "Gryf.md" >}}), dłuższą
 menzurę<!-- link nie odnosił się do niczego: 'Sześciostrunowa gitara basowa' ('content/Sześciostrunowa_gitara_basowa.md') links to 'menzura' ('content/menzura.md') and that does not exist --> i na ogół pełny korpus. Ze względu na
-niskie brzmienie unika się stosowania [akordów]({{< relref "Akord.md" >}}).
+niskie brzmienie unika się stosowania akordów<!-- link nie odnosił się do niczego: 'Sześciostrunowa gitara basowa' ('content/Sześciostrunowa_gitara_basowa.md') links to 'akord' ('content/akord.md') and that does not exist -->.
 Używane są do charakterystycznych partii melodycznych oraz do gry w
 sekcji rytmicznej, wzbogacają i ułatwiają grę solową.
 

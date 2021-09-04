@@ -9,7 +9,7 @@ wikilinks: ['blues', 'd%C5%BAwi%C4%99k', 'teoria_muzyki']
 aliases: ['/gitara/Po_co_jest_teoria_muzyki']
 ---
 Muzyka to dziedzina która łączy ze sobą dwa odległe światy. Z jednej
-strony jest to świat [dźwięków]({{< relref "Dźwięk.md" >}}), który może być
+strony jest to świat dźwięków<!-- link nie odnosił się do niczego: 'Po co jest teoria muzyki' ('content/Po_co_jest_teoria_muzyki.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist -->, który może być
 odbierany całkowicie intuicyjnie. Można po prostu pozwalać muzyce
 pieścić swoje uszy, nie dotykając kory mózgowej. Z drugiej strony,
 można znajdywać z muzyce całą masę elementów intelektualnych i

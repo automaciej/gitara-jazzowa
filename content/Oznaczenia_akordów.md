@@ -17,13 +17,13 @@ płynnie czytać wszystkie konwencje zapisu.
 
 Większość muzyków nie czyta akordów z kwitów dosłownie, lecz
 interpretuje i dodaje coś od siebie. Na przykład widząc akord
-[Cmaj7]({{< relref "Cmaj7.md" >}}) muzyk jazzowy bez większego zastanowienia gra
-[Cmaj9]({{< relref "Cmaj9.md" >}}). Nie ma w tym nic złego, o ile robi to
+Cmaj7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Cmaj7' ('content/Cmaj7.md') and that does not exist --> muzyk jazzowy bez większego zastanowienia gra
+Cmaj9<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Cmaj9' ('content/Cmaj9.md') and that does not exist -->. Nie ma w tym nic złego, o ile robi to
 świadomie.
 
 Jednak, czy przypadkiem nie było tak, że autor kwitu, pisząc Cmaj7 miał
-na myśli, że ma być to dokładnie [Cmaj7]({{< relref "Cmaj7.md" >}}) a nie
-[Cmaj9]({{< relref "Cmaj9.md" >}})?
+na myśli, że ma być to dokładnie Cmaj7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Cmaj7' ('content/Cmaj7.md') and that does not exist --> a nie
+Cmaj9<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Cmaj9' ('content/Cmaj9.md') and that does not exist -->?
 
 Czytając kwity musimy pamiętać o jednej rzeczy: jedne zapisane akordy
 można interpretować, a innych nie. Są takie akordy, które trzeba zagrać
@@ -61,14 +61,14 @@ jazzowego]({{< relref "Blues_jazzowy.md" >}}).
 
 |   |                       |  |   |                         |                         |   |                     |                     |   |                       |                     |   |
 | - | --------------------- |  | - | ----------------------- | ----------------------- | - | ------------------- | ------------------- | - | --------------------- | ------------------- | - |
-| | | [F7]({{< relref "F7.md" >}})   |  | | | [B♭7]({{< relref "B♭7.md" >}})   | [Bdim]({{< relref "Bdim.md" >}}) | | | [F7]({{< relref "F7.md" >}}) |                     | | | [Cm7]({{< relref "Cm7.md" >}}) | [F7]({{< relref "F7.md" >}}) | | |
-| | | [B♭7]({{< relref "B♭7.md" >}}) |  | | | [Bdim]({{< relref "Bdim.md" >}}) |                         | | | [F7]({{< relref "F7.md" >}}) |                     | | | [Am7]({{< relref "Am7.md" >}}) | [D7]({{< relref "D7.md" >}}) | | |
-| | | [Gm7]({{< relref "Gm7.md" >}}) |  | | | [C7]({{< relref "C7.md" >}})     |                         | | | [F7]({{< relref "F7.md" >}}) | [D7]({{< relref "D7.md" >}}) | | | [Gm7]({{< relref "Gm7.md" >}}) | [C7]({{< relref "C7.md" >}}) | | |
+| | | F7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'F7' ('content/F7.md') and that does not exist -->   |  | | | B♭7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'B♭7' ('content/B♭7.md') and that does not exist -->   | Bdim<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Bdim' ('content/Bdim.md') and that does not exist --> | | | F7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'F7' ('content/F7.md') and that does not exist --> |                     | | | Cm7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Cm7' ('content/Cm7.md') and that does not exist --> | F7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'F7' ('content/F7.md') and that does not exist --> | | |
+| | | B♭7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'B♭7' ('content/B♭7.md') and that does not exist --> |  | | | Bdim<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Bdim' ('content/Bdim.md') and that does not exist --> |                         | | | F7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'F7' ('content/F7.md') and that does not exist --> |                     | | | Am7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Am7' ('content/Am7.md') and that does not exist --> | D7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'D7' ('content/D7.md') and that does not exist --> | | |
+| | | Gm7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Gm7' ('content/Gm7.md') and that does not exist --> |  | | | C7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'C7' ('content/C7.md') and that does not exist -->     |                         | | | F7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'F7' ('content/F7.md') and that does not exist --> | D7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'D7' ('content/D7.md') and that does not exist --> | | | Gm7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Gm7' ('content/Gm7.md') and that does not exist --> | C7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'C7' ('content/C7.md') and that does not exist --> | | |
 
 Jak to się stało, że blues ten przeszedł taką transformację? Z całą
 pewnością nie jest to dziełem przypadku. Jedną z podstawowych zmian jest
 rozwijanie prostej dominanty, (np. C7) w zestaw dwóch akordów (np.
-[Gm7]({{< relref "Gm7.md" >}}), [C7]({{< relref "C7.md" >}})). Taki dodatek nie zmienia
+Gm7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Gm7' ('content/Gm7.md') and that does not exist -->, C7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'C7' ('content/C7.md') and that does not exist -->). Taki dodatek nie zmienia
 harmonii zasadniczo, a jedynie ją koloryzuje. Poprzedzenie C7 przez Gm7
 można uzasadnić w nastepujący sposób: C7 jest dominantą w tonacji
 F-dur2.1 i rozwiązuje się na akord F. Jest to typowe przejście V-I
@@ -95,9 +95,9 @@ kwity a vista, na jamie lub w stresie.
 
 |                       |                                                 |
 | --------------------- | ----------------------------------------------- |
-| major                 | [Cmaj7]({{< relref "Cmaj7.md" >}}), CM7, CMA7, C7+, CΔ   |
+| major                 | Cmaj7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Cmaj7' ('content/Cmaj7.md') and that does not exist -->, CM7, CMA7, C7+, CΔ   |
 | siedem                | C7                                              |
-| mol siedem            | [Cm7]({{< relref "Cm7.md" >}}), CMI7, C-7                |
+| mol siedem            | Cm7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Cm7' ('content/Cm7.md') and that does not exist -->, CMI7, C-7                |
 | mol siedem pięć minus | Cm7♭5<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Cm7♭5' ('content/Cm7♭5.md') and that does not exist -->, C-<sup>7♭5</sup>, C⊘ |
 
 Oto podstawowe oznaczenia, z jakimi się spotykałem. Podziwiam autorów
@@ -108,11 +108,11 @@ poradzić, że akordy zapisuje się na tyle różnych sposobów.
 ## Dodatkowe składniki
 
 Podstawowe typu akordów mogą być uzupełniane o dodatkowe składniki. Na
-przykład zamiast [C7]({{< relref "C7.md" >}}) może pojawić się
-[C9]({{< relref "C9.md" >}}). Składniki podwyższone o pół tonu oznacza się
+przykład zamiast C7<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'C7' ('content/C7.md') and that does not exist --> może pojawić się
+C9<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'C9' ('content/C9.md') and that does not exist -->. Składniki podwyższone o pół tonu oznacza się
 poprzedzając składnik znakiem ♯ (krzyżyk, ang. sharp). Na przykład
 D7♯9<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'D7♯9' ('content/D7♯9.md') and that does not exist -->. Składniki obniżone o pół tonu oznacza się ♭
-(bemol, ang. flat). Na przykład [C7♭9]({{< relref "C7♭9.md" >}}).
+(bemol, ang. flat). Na przykład C7♭9<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'C7♭9' ('content/C7♭9.md') and that does not exist -->.
 
 ## Uzupełnianie akordów
 
@@ -130,5 +130,5 @@ wie, co robi.
 | **mol siedem**     | zawsze czysta         | zawsze czysta     | zawsze wielka         |
 | **mol siedem, ♭5** | nie dodaje się        | zawsze czysta     | raczej obniżona       |
 
-Zobacz też: [interpretacja
-harmoniczna]({{< relref "Interpretacja_harmoniczna.md" >}})
+Zobacz też: interpretacja
+harmoniczna<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'interpretacja_harmoniczna' ('content/interpretacja_harmoniczna.md') and that does not exist -->

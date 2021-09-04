@@ -87,7 +87,7 @@ struktury. W pierwszym kroku uprościmy ją, zostawiając cztery dźwięki.
 {{< figure src="/images/Chord-eb-major.png" >}}
 
 Tak uproszczony akord można dość prosto modyfikować. Najprostsza
-modyfikacja to przejście z G-dur na [Gmaj7]({{< relref "Gmaj7.md" >}}), poprzez
+modyfikacja to przejście z G-dur na Gmaj7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'Gmaj7' ('content/Gmaj7.md') and that does not exist -->, poprzez
 przesunięcie prymy na septymę wielką.
 
 
@@ -101,7 +101,7 @@ E |―――|―――|―――1―――|―――|―――|―――|――
 ```
 
 
-Akord z septymą małą, czyli [G7]({{< relref "G7.md" >}}), można uzyskać w podobny
+Akord z septymą małą, czyli G7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'G7' ('content/G7.md') and that does not exist -->, można uzyskać w podobny
 sposób.
 
 
@@ -130,7 +130,7 @@ E |―――|―――|―――1―――|―――|―――|―――|――
 
 
 Inny przydatny akord to akord mollowy z septymą małą. W tym przypadku
-będzie to [Gm7]({{< relref "Gm7.md" >}}).
+będzie to Gm7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'Gm7' ('content/Gm7.md') and that does not exist -->.
 
 
 ```
@@ -213,7 +213,7 @@ E |―――|―――|―――|―――|―――|―――|―――|――
 ```
 
 
-Zamiana C-dur na [Cmaj7]({{< relref "Cmaj7.md" >}}) polega zmianie prymy na
+Zamiana C-dur na Cmaj7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'Cmaj7' ('content/Cmaj7.md') and that does not exist --> polega zmianie prymy na
 septymę wielką.
 
 
@@ -227,7 +227,7 @@ E |―――|―――|―――|―――|―――|―――|―――|――
 ```
 
 
-[C7]({{< relref "C7.md" >}}) z kolei będzie miał septymę małą.
+C7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'C7' ('content/C7.md') and that does not exist --> z kolei będzie miał septymę małą.
 
 
 ```
@@ -254,7 +254,7 @@ E |―――|―――|―――|―――|―――|―――|―――|――
 
 
 Z grupy akordów z prymą na strunie A warto pokazać
-[Cm7]({{< relref "Cm7.md" >}}):
+Cm7<!-- link nie odnosił się do niczego: 'Wprowadzenie do budowania akordów' ('content/Wprowadzenie_do_budowania_akordów.md') links to 'Cm7' ('content/Cm7.md') and that does not exist -->:
 
 
 ```

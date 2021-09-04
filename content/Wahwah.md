@@ -11,7 +11,7 @@ aliases: ['/gitara/Wahwah']
 Urządzenie zmieniające [barwę dźwięku]({{< relref "Barwa_dźwięku.md" >}}),
 sterowane nożnie za pomocą specjalnego pedału. Wahwah podbija wąskie
 pasmo częstotliwości. Poruszanie pedałem powoduje przesuwanie tego pasma
-po skali [częstotliwości]({{< relref "Częstotliwość_drgań.md" >}}). Pasmo to jest
+po skali częstotliwości<!-- link nie odnosił się do niczego: 'content/częstotliwość.md' wants to redirect to 'content/Częstotliwość.md', but 'content/Częstotliwość.md' will be deleted -->. Pasmo to jest
 przesuwane mniej więcej w zakresie 500Hz - 1500Hz, co odpowiada
 formantom samogłosek w mowie ludzkiej. 500Hz odpowiada samogłosce "u" a
 1000Hz samogłosce "a" - stąd nazwa urządzenia, wymawiana *łała*.

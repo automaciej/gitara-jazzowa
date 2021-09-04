@@ -13,7 +13,7 @@ Schemat najprostszego bluesa w F-dur.
 |   |                     |  |   |    |  |   |                   |  |   |   |  |   |
 | - | ------------------- |  | - | -- |  | - | ----------------- |  | - | - |  | - |
 | | | F<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/Blues_w_F-dur.md') links to 'F' ('content/F.md') and that does not exist -->   |  | | | F  |  | | | F                 |  | | | F |  | | |
-| | | [B♭]({{< relref "content/B♭.md" >}}) |  | | | B♭ |  | | | F<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/Blues_w_F-dur.md') links to 'F' ('content/F.md') and that does not exist --> |  | | | F |  | | |
+| | | B♭<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/Blues_w_F-dur.md') links to 'B♭' ('content/B♭.md') and that does not exist --> |  | | | B♭ |  | | | F<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/Blues_w_F-dur.md') links to 'F' ('content/F.md') and that does not exist --> |  | | | F |  | | |
 | | | C<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/Blues_w_F-dur.md') links to 'C' ('content/C.md') and that does not exist -->   |  | | | C  |  | | | F<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/Blues_w_F-dur.md') links to 'F' ('content/F.md') and that does not exist --> |  | | | F |  | | |
 
 Na tym schemacie widać wyraźnie podstawową strukturę
@@ -23,8 +23,8 @@ Nieco inny, szerzej znany schemat bluesa wygląda następująco:
 
 |   |                       |  |   |                       |  |   |                     |  |   |    |  |   |
 | - | --------------------- |  | - | --------------------- |  | - | ------------------- |  | - | -- |  | - |
-| | | [F7]({{< relref "F7.md" >}})   |  | | | F7                    |  | | | F7                  |  | | | F7 |  | | |
-| | | [B♭7]({{< relref "B♭7.md" >}}) |  | | | B♭7                   |  | | | [F7]({{< relref "F7.md" >}}) |  | | | F7 |  | | |
-| | | [C7]({{< relref "C7.md" >}})   |  | | | [B♭7]({{< relref "B♭7.md" >}}) |  | | | [F7]({{< relref "F7.md" >}}) |  | | | F7 |  | | |
+| | | F7<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/Blues_w_F-dur.md') links to 'F7' ('content/F7.md') and that does not exist -->   |  | | | F7                    |  | | | F7                  |  | | | F7 |  | | |
+| | | B♭7<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/Blues_w_F-dur.md') links to 'B♭7' ('content/B♭7.md') and that does not exist --> |  | | | B♭7                   |  | | | F7<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/Blues_w_F-dur.md') links to 'F7' ('content/F7.md') and that does not exist --> |  | | | F7 |  | | |
+| | | C7<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/Blues_w_F-dur.md') links to 'C7' ('content/C7.md') and that does not exist -->   |  | | | B♭7<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/Blues_w_F-dur.md') links to 'B♭7' ('content/B♭7.md') and that does not exist --> |  | | | F7<!-- link nie odnosił się do niczego: 'Blues w F-dur' ('content/Blues_w_F-dur.md') links to 'F7' ('content/F7.md') and that does not exist --> |  | | | F7 |  | | |
 
 **Zobacz też**

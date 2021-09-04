@@ -9,7 +9,7 @@ aliases: ['/gitara/Gitara_dwunastostrunowa']
 ---
 **Gitara dwunastostrunowa** ma podwójny naciąg strun, które tak jak w
 mandolinie połączone są w pary. Cztery dolne struny są zdwojone w
-[oktawie]({{< relref "Oktawa.md" >}}), a dwie górne w
+oktawie<!-- link nie odnosił się do niczego: 'Gitara dwunastostrunowa' ('content/Gitara_dwunastostrunowa.md') links to 'oktawa' ('content/oktawa.md') and that does not exist -->, a dwie górne w
 unisonie<!-- link nie odnosił się do niczego: 'Gitara dwunastostrunowa' ('content/Gitara_dwunastostrunowa.md') links to 'unison' ('content/unison.md') and that does not exist -->. Strój instrumentu w zasadzie jest taki
 sam jak w gitarze sześciostrunowej, z tym że czasami ze względu na
 zwiększoną siłę naciągu stosuje się obniżenie stroju o cały ton. Z

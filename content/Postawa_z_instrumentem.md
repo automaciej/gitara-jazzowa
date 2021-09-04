@@ -20,7 +20,7 @@ gitary. dłoni i palców, bez czego nie osiągnie się perfekcji w grze.
 
 Dobry gitarzysta jest zespolony ze swoim instrumentem, a każdy ruch rąk
 związany jest z dźwiękiem. Grający nie powinien myśleć manualnie lecz
-[dźwiękowo]({{< relref "Dźwięk.md" >}}).
+dźwiękowo<!-- link nie odnosił się do niczego: 'Postawa z instrumentem' ('content/Postawa_z_instrumentem.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist -->.
 
 ### Muzycy bluesowi
 
