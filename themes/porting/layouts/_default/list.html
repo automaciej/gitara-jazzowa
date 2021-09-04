@@ -1,13 +1,34 @@
 {{ define "main" }}
 
 <main>
+
+  {{ $initial := "" }}
+  {{- with .Site.GetPage "książka" }}
+  {{- range .Pages.ByTitle }}
+  {{ $currentInitial := substr .Title 0 1 -}}
+  {{- if ne $initial $currentInitial -}}
+  {{- if ne $initial "" -}}
+  </p>
+  {{ end }}
+  <p>
+  {{- $initial = $currentInitial -}}
+  <strong>{{ $initial }}</strong>
+  {{- end -}}
+  | <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  {{- end }}
+  {{- end }}
+  </p>
+
+
   <ul>
-  {{ range .Pages }}
+  {{ range .Pages.ByTitle }}
   <li>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    {{- range .Params.categories }}
-    <a href="/categories/{{ . }}">{{ . }}</a>
-    {{ end -}}
+    <small>
+      {{- range .Params.kategorie }}
+      <a href="/kategorie/{{ . | urlize }}">{{ . | lower }}</a>
+      {{ end -}}
+    </small>
   </li>
   {{ end }}
   </ul>
