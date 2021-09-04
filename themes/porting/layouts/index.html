@@ -1,29 +1,25 @@
 {{ define "main" }}
 
 <main>
-  {{ $initial := "" }}
-  {{- with .Site.GetPage "książka" }}
-  {{- range .Pages.ByTitle }}
-  {{ $currentInitial := substr .Title 0 1 -}}
-  {{- if ne $initial $currentInitial -}}
-  {{- if ne $initial "" -}}
-  </p>
-  {{ end }}
-  <p>
-  {{- $initial = $currentInitial -}}
-  <strong>{{ $initial }}</strong>
-  {{- end -}}
-  | <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  {{- end }}
-  {{- end }}
-  </p>
 
-  <hr>
+  <h2><a href="https://gitara-jazzowa.pl">Gitara Jazzowa → gitara-jazzowa.pl</a></h2>
+
+  <p>Książka Marka Blizińskiego <i>Gitara Jazzowa</i> znajduje się pod adresem
+  <a href="https://gitara-jazzowa.pl" style="appearance: button;">gitara-jazzowa.pl</a>.</p>
+
+
+  <h2><a href="/książka">Harmonia Jazzowa</a></h2>
+
+  <hr />
+
+  <i>Aktualizacje</i>
 
   {{ with .Site.GetPage "section" "blog" }}
-  {{ range first 1 .Pages }}
-  <h2>{{ .Title }}</h2>
-  <a href="{{ .RelPermalink }}">{{ .Date.Format "2006-01-02" }}</a>
+  {{ range first 2 .Pages }}
+  <h3>
+    {{ .Title }}
+    <a href="{{ .RelPermalink }}">{{ .Date.Format "2006-01-02" }}</a>
+  </h3>
   {{ .Content }}
   {{ end }}
   {{ end }}
