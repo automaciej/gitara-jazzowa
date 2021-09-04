@@ -50,10 +50,7 @@ muzycznych:
     dźwięków]({{< relref "Przestrzeń_naturalnych_nazw_dźwięków.md" >}})
   - [Przestrzeń nazw dźwięków bez
     oktawy]({{< relref "Przestrzeń_nazw_dźwięków_bez_oktawy.md" >}})
-  - Dźwięk (w rozumieniu
-    harmonii)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/książka/Podstawy_teorii_muzyki.md') links to 'Dźwięk_\\(w_rozumieniu_harmonii\\)' ('content/książka/Dźwięk_\\(w_rozumieniu_harmonii\\).md') and that does not exist -->
-  - [Wysokość dźwięku]({{< relref "Wysokość_dźwięku.md" >}})
-  - [A razkreślne]({{< relref "A_razkreślne.md" >}})
+  - Dźwięk (w rozumieniu harmonii)  - [A razkreślne]({{< relref "A_razkreślne.md" >}})
   - [Częstotliwości dźwięków]({{< relref "Częstotliwości_dźwięków.md" >}})
   - [Interwał]({{< relref "Interwał.md" >}})
   - [Skala]({{< relref "Skala.md" >}})
