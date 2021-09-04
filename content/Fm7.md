@@ -1,11 +1,24 @@
-**F-moll** z [septymą małą](septyma_mała "wikilink") .
+---
+title: "Fm7"
+slug: "fm7"
+date: 2005-06-04T08:38:58Z
+kategorie: ['Akordy mollowe', 'Tabele chwytów']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['septyma_ma%C5%82a']
+aliases: ['/gitara/Fm7']
+---
+**F-moll** z [septymą małą]({{< relref "Septyma_mała.md" >}}) .
 
-`E |---|---|---|---|---|---|---`
-`B |---C---|---|---|---|---|---`
-`G |---A♭--|---|---|---|---|---`
-`D |---E♭--|---|---|---|---|---`
-`A |---|---|---|---|---|---|---`
-`E |---F---|---|---|---|---|---`
 
-[kategoria:tabele chwytów](kategoria:tabele_chwytów "wikilink")
-[kategoria:akordy mollowe](kategoria:akordy_mollowe "wikilink")
+```
+E |---|---|---|---|---|---|---
+B |---C---|---|---|---|---|---
+G |---A♭--|---|---|---|---|---
+D |---E♭--|---|---|---|---|---
+A |---|---|---|---|---|---|---
+E |---F---|---|---|---|---|---
+```
+
+
+

@@ -1,3 +1,13 @@
+---
+title: "Wysokość stroju"
+slug: "wysokość-stroju"
+date: 2005-05-23T21:01:10Z
+kategorie: ['Strojenie gitary']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Strojenie_gitary', 'struna']
+aliases: ['/gitara/Wysokość_stroju', 'wysokosc-stroju']
+---
 Gitara jazzowa brzmi najlepiej przy a = 440 Hz. Taki też strój mają
 organy Hammonda, Fender-piano. W Polsce często spotyka się jednak
 fortepiany akustyczne strojone wyżej, niekiedy aż o ćwierć tonu, na ogół
@@ -16,7 +26,7 @@ zwiększy się naciąg pozostałych. Jest na to jedna rada: musimy najpierw
 prowizorycznie wyrównać strój wszystkich strun do wymaganej wysokości i
 dopiero wtedy dokładnie dostroić gitarę według opracowanej metody.
 
-Ta sama zasada obowiązuje po zmianie [strun](struna "wikilink"). Wówczas
+Ta sama zasada obowiązuje po zmianie [strun]({{< relref "Struna.md" >}}). Wówczas
 przez kilka dni dopasowują one swoje ułożenie i obniżają strój. Należy
 go podciągać zawsze do właściwej wysokości. Jeśli będziemy pamiętać o
 powyższych uwagach, gitara nasza będzie stroić precyzyjnie nie tylko ,,w
@@ -24,6 +34,5 @@ sobie", ale i do innych instrumentów.
 
 **Zobacz też**
 
-  - [Strojenie gitary](Strojenie_gitary "wikilink")
+  - [Strojenie gitary]({{< relref "Strojenie_gitary.md" >}})
 
-[kategoria:strojenie gitary](kategoria:strojenie_gitary "wikilink")

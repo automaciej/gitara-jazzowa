@@ -1,5 +1,15 @@
+---
+title: "Znaki chromatyczne"
+slug: "znaki-chromatyczne"
+date: 2010-04-13T06:37:51Z
+kategorie: ['Teoria muzyki']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['d%C5%BAwi%C4%99k']
+aliases: ['/gitara/Znaki_chromatyczne']
+---
 Znaki chromatyczne są to oznaczenia wskazujące na zmianę wysokości
-[dźwięku](dźwięk "wikilink").
+[dźwięku]({{< relref "Dźwięk.md" >}}).
 
 1.  Krzyżyk \(\sharp\) wskazuje na podwyższenie dźwięku o jeden półton.
 2.  Bemol \(\flat\) wskazuje na obniżenie dźwięku o jeden półton.
@@ -16,4 +26,3 @@ w zapisie harmonicznym - za literowymi nazwami dźwięków.
 Zbiór znaków chromatycznych oznaczymy w następujący sposób:
 \(\Delta = \{ \sharp, \flat, \natural\}\)
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

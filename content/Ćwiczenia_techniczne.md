@@ -1,3 +1,12 @@
+---
+title: "Ćwiczenia techniczne"
+slug: "ćwiczenia-techniczne"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['Technika gry']
+draft: false
+wikilinks: ['Akcentowanie', 'Palcowanie', 'artykulacja']
+aliases: ['/gitara/Ćwiczenia_techniczne', 'cwiczenia-techniczne']
+---
 **Ćwiczenia techniczne** mają na celu wyrobienie sprawności manualnej,
 umożliwiającej realizację każdego zamysłu muzycznego. Istnieją różne
 ćwiczenia, których celem jest opanowanie poszczególnych składników
@@ -23,7 +32,7 @@ tu wszystkich problemów technicznych. Byłoby to zresztą niemożliwe,
 ponieważ każdy gitarzysta potrzebuje czego innego.
 
 Ćwiczenia podane w rozdziale pt.
-„[Akcentowanie](Akcentowanie "wikilink")" opracowane są pod kątem
+„[Akcentowanie]({{< relref "Akcentowanie.md" >}})" opracowane są pod kątem
 prawej ręki. Większość z nich opiera się na inierwałach powyżej kwinty,
 których nie można grać na sąsiednich strunach.
 
@@ -80,8 +89,7 @@ dźwiękowym. Są to te same gamy i pasaże, które są „piłowane" w szkołac
 muzycznych. Podaję je, ponieważ z ich pomocą można pokazać podstawowe
 problemy techniczne i palcowanie, na które należy zwrócić uwagę.
 Ćwiczenia te są też uzupełnieniem do rozdziału pt.
-„[Palcowanie](Palcowanie "wikilink")". Pragnę również podkreślić, że
-muzyk jazzowy za pomocą [artykulacji](artykulacja "wikilink") potrafi
+„[Palcowanie]({{< relref "Palcowanie.md" >}})". Pragnę również podkreślić, że
+muzyk jazzowy za pomocą [artykulacji]({{< relref "Artykulacja.md" >}}) potrafi
 ożywić każdą gamę.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

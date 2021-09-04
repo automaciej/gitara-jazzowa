@@ -1,7 +1,16 @@
+---
+title: "Sześciostrunowa gitara basowa"
+slug: "sześciostrunowa-gitara-basowa"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['Rodzaje gitar']
+draft: false
+wikilinks: ['akord', 'gryf', 'menzura', 'strojenie_gitary', 'struny']
+aliases: ['/gitara/Sześciostrunowa_gitara_basowa', 'szesciostrunowa-gitara-basowa']
+---
 Bywają też, choć mało popularne **sześciostrunowe gitary basowe** -
 brzmiące o oktawę niżej. W standardowym
-[strojeniu](strojenie_gitary "wikilink") puste
-[struny](struny "wikilink") posiadają następujące dźwięki:
+[strojeniu]({{< relref "Strojenie_gitary.md" >}}) puste
+[struny]({{< relref "Struna.md" >}}) posiadają następujące dźwięki:
 
   - **c** (130,8 Hz)
   - **G** (98,0 Hz)
@@ -10,10 +19,10 @@ brzmiące o oktawę niżej. W standardowym
   - **E<sub>1</sub>** (41,2 Hz)
   - **H<sub>2</sub>** (30,9 Hz)
 
-Gitary takie posiadają nieco szerszy [gryf](gryf "wikilink"), dłuższą
-[menzurę](menzura "wikilink") i na ogół pełny korpus. Ze względu na
-niskie brzmienie unika się stosowania [akordów](akord "wikilink").
+Gitary takie posiadają nieco szerszy [gryf]({{< relref "Gryf.md" >}}), dłuższą
+menzurę<!-- link nie odnosił się do niczego: 'Sześciostrunowa gitara basowa' ('content/Sześciostrunowa_gitara_basowa.md') links to 'menzura' ('content/menzura.md') and that does not exist --> i na ogół pełny korpus. Ze względu na
+niskie brzmienie unika się stosowania [akordów]({{< relref "Akord.md" >}}).
 Używane są do charakterystycznych partii melodycznych oraz do gry w
 sekcji rytmicznej, wzbogacają i ułatwiają grę solową.
 
-[Basowa, sześciostrunowa, gitara](kategoria:rodzaje_gitar "wikilink")
+Basowa, sześciostrunowa, gitara<!-- link nie odnosił się do niczego: 'Sześciostrunowa gitara basowa' ('content/Sześciostrunowa_gitara_basowa.md') links to 'kategoria:rodzaje_gitar' ('content/kategoria:rodzaje_gitar.md') and that does not exist -->

@@ -1,5 +1,18 @@
+---
+title: "Strojenie flażoletami"
+slug: "strojenie-flażoletami"
+date: 2005-06-05T06:44:42Z
+kategorie: ['Strojenie gitary']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Fla%C5%BColet', 'Grafika:NutyStrojenieFlazoletami.png', 'Grafika:StrojenieFlazoletami.png', 'fla%C5%BColet']
+aliases: ['/gitara/Strojenie_flażoletami', 'strojenie-flazoletami']
+images:
+  - path: "/images/NutyStrojenieFlazoletami.png"
+  - path: "/images/StrojenieFlazoletami.png"
+---
 Bardzo precyzyjną metodą jest strojenie
-[flażoletami](flażolet "wikilink") naturalnymi. Flażolety są zawsze
+[flażoletami]({{< relref "Flażolet.md" >}}) naturalnymi. Flażolety są zawsze
 wyższe od dźwięku podstawowego, będącego w tym wypadku dźwiękiem pustej
 struny. Jest to korzystne, ponieważ ucho ludzkie na ogół precyzyjniej
 odbiera unison dźwięków wyższych niż niższych. Poza tym, używając tylko
@@ -8,9 +21,9 @@ brzmienia unisonu.
 
 Strojenie flażoletami przebiega następująco:
 
-[frame](Grafika:StrojenieFlazoletami.png "wikilink")
+{{< figure src="/images/StrojenieFlazoletami.png" >}}
 
-[Strojenie flażoletami](Grafika:NutyStrojenieFlazoletami.png "wikilink")
+{{< figure src="/images/NutyStrojenieFlazoletami.png" >}}
 
 do a , podanego np. z kamertonu, stroimy strunę D-4 za pomocą flażoletu
 w pozycji VII. Następnie stroimy strunę A-5 za pomocą flażoletu w
@@ -56,6 +69,5 @@ wygodniejszymi są: a, e, d, g.
 
 **Zobacz też**
 
-  - [Flażolet](Flażolet "wikilink")
+  - [Flażolet]({{< relref "Flażolet.md" >}})
 
-[kategoria:strojenie gitary](kategoria:strojenie_gitary "wikilink")

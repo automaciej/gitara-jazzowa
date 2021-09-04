@@ -1,3 +1,13 @@
+---
+title: "Oznaczenia akordów"
+slug: "oznaczenia-akordów"
+date: 2005-10-03T07:40:15Z
+kategorie: []
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Am7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'Bdim', 'Bdim', 'C7', 'C7', 'C7', 'C7', 'C7%E2%99%AD9', 'C9', 'Cm7', 'Cm7', 'Cm7%E2%99%AD5', 'Cmaj7', 'Cmaj7', 'Cmaj7', 'Cmaj9', 'Cmaj9', 'D7', 'D7', 'D7%E2%99%AF9', 'F7', 'F7', 'F7', 'F7', 'F7', 'Gm7', 'Gm7', 'Gm7', 'blues_jazzowy', 'dwa_pi%C4%99%C4%87_jeden', 'interpretacja_harmoniczna']
+aliases: ['/gitara/Oznaczenia_akordów', 'oznaczenia-akordow']
+---
 Ten rozdział pomoże Ci w czytaniu "kwitów". Istnieje wiele różnych
 źródeł kwitów: Realbook, Fakebook, mnóstwo różnych wydawnictw. Każde
 wydawnictwo zdaje się mieć własne oznaczenia akordów. Muzyk musi znać i
@@ -7,13 +17,13 @@ płynnie czytać wszystkie konwencje zapisu.
 
 Większość muzyków nie czyta akordów z kwitów dosłownie, lecz
 interpretuje i dodaje coś od siebie. Na przykład widząc akord
-[Cmaj7](Cmaj7 "wikilink") muzyk jazzowy bez większego zastanowienia gra
-[Cmaj9](Cmaj9 "wikilink"). Nie ma w tym nic złego, o ile robi to
+[Cmaj7]({{< relref "Cmaj7.md" >}}) muzyk jazzowy bez większego zastanowienia gra
+[Cmaj9]({{< relref "Cmaj9.md" >}}). Nie ma w tym nic złego, o ile robi to
 świadomie.
 
 Jednak, czy przypadkiem nie było tak, że autor kwitu, pisząc Cmaj7 miał
-na myśli, że ma być to dokładnie [Cmaj7](Cmaj7 "wikilink") a nie
-[Cmaj9](Cmaj9 "wikilink")?
+na myśli, że ma być to dokładnie [Cmaj7]({{< relref "Cmaj7.md" >}}) a nie
+[Cmaj9]({{< relref "Cmaj9.md" >}})?
 
 Czytając kwity musimy pamiętać o jednej rzeczy: jedne zapisane akordy
 można interpretować, a innych nie. Są takie akordy, które trzeba zagrać
@@ -47,24 +57,24 @@ Nawet bardziej skomplikowane bluesy, takie jak Blues For Alice, zostały
 wyprowadzone z tego schematu.
 
 Weźmy teraz jedną z możliwych mutacji [bluesa
-jazzowego](blues_jazzowy "wikilink").
+jazzowego]({{< relref "Blues_jazzowy.md" >}}).
 
 |   |                       |  |   |                         |                         |   |                     |                     |   |                       |                     |   |
 | - | --------------------- |  | - | ----------------------- | ----------------------- | - | ------------------- | ------------------- | - | --------------------- | ------------------- | - |
-| | | [F7](F7 "wikilink")   |  | | | [B♭7](B♭7 "wikilink")   | [Bdim](Bdim "wikilink") | | | [F7](F7 "wikilink") |                     | | | [Cm7](Cm7 "wikilink") | [F7](F7 "wikilink") | | |
-| | | [B♭7](B♭7 "wikilink") |  | | | [Bdim](Bdim "wikilink") |                         | | | [F7](F7 "wikilink") |                     | | | [Am7](Am7 "wikilink") | [D7](D7 "wikilink") | | |
-| | | [Gm7](Gm7 "wikilink") |  | | | [C7](C7 "wikilink")     |                         | | | [F7](F7 "wikilink") | [D7](D7 "wikilink") | | | [Gm7](Gm7 "wikilink") | [C7](C7 "wikilink") | | |
+| | | [F7]({{< relref "F7.md" >}})   |  | | | [B♭7]({{< relref "B♭7.md" >}})   | [Bdim]({{< relref "Bdim.md" >}}) | | | [F7]({{< relref "F7.md" >}}) |                     | | | [Cm7]({{< relref "Cm7.md" >}}) | [F7]({{< relref "F7.md" >}}) | | |
+| | | [B♭7]({{< relref "B♭7.md" >}}) |  | | | [Bdim]({{< relref "Bdim.md" >}}) |                         | | | [F7]({{< relref "F7.md" >}}) |                     | | | [Am7]({{< relref "Am7.md" >}}) | [D7]({{< relref "D7.md" >}}) | | |
+| | | [Gm7]({{< relref "Gm7.md" >}}) |  | | | [C7]({{< relref "C7.md" >}})     |                         | | | [F7]({{< relref "F7.md" >}}) | [D7]({{< relref "D7.md" >}}) | | | [Gm7]({{< relref "Gm7.md" >}}) | [C7]({{< relref "C7.md" >}}) | | |
 
 Jak to się stało, że blues ten przeszedł taką transformację? Z całą
 pewnością nie jest to dziełem przypadku. Jedną z podstawowych zmian jest
 rozwijanie prostej dominanty, (np. C7) w zestaw dwóch akordów (np.
-[Gm7](Gm7 "wikilink"), [C7](C7 "wikilink")). Taki dodatek nie zmienia
+[Gm7]({{< relref "Gm7.md" >}}), [C7]({{< relref "C7.md" >}})). Taki dodatek nie zmienia
 harmonii zasadniczo, a jedynie ją koloryzuje. Poprzedzenie C7 przez Gm7
 można uzasadnić w nastepujący sposób: C7 jest dominantą w tonacji
 F-dur2.1 i rozwiązuje się na akord F. Jest to typowe przejście V-I
 (czyt. pięć-jeden), czyli rozwiązanie dominanty na tonikę. Takie
 rozwiązanie można uzupełnić o subdominantę drugiego stopnia, tworząc
-II-V-I (czyt. *[dwa pięć jeden](dwa_pięć_jeden "wikilink")*). W tonacji
+II-V-I (czyt. *dwa pięć jeden<!-- link nie odnosił się do niczego: 'content/dwa_pięć_jeden.md' wants to redirect to 'content/Dwa_pięć_jeden.md', but 'content/Dwa_pięć_jeden.md' will be deleted -->*). W tonacji
 F-dur subdominantą drugiego stopnia jest akord Gm. W jazzie akordy gra
 się (prawie) zawsze z septymami, więc używamy akordu Gm7.
 
@@ -85,10 +95,10 @@ kwity a vista, na jamie lub w stresie.
 
 |                       |                                                 |
 | --------------------- | ----------------------------------------------- |
-| major                 | [Cmaj7](Cmaj7 "wikilink"), CM7, CMA7, C7+, CΔ   |
+| major                 | [Cmaj7]({{< relref "Cmaj7.md" >}}), CM7, CMA7, C7+, CΔ   |
 | siedem                | C7                                              |
-| mol siedem            | [Cm7](Cm7 "wikilink"), CMI7, C-7                |
-| mol siedem pięć minus | [Cm7♭5](Cm7♭5 "wikilink"), C-<sup>7♭5</sup>, C⊘ |
+| mol siedem            | [Cm7]({{< relref "Cm7.md" >}}), CMI7, C-7                |
+| mol siedem pięć minus | Cm7♭5<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Cm7♭5' ('content/Cm7♭5.md') and that does not exist -->, C-<sup>7♭5</sup>, C⊘ |
 
 Oto podstawowe oznaczenia, z jakimi się spotykałem. Podziwiam autorów
 kwitów za niespotykaną pomysłowość, np. oznaczenie akordu major poprzez
@@ -98,11 +108,11 @@ poradzić, że akordy zapisuje się na tyle różnych sposobów.
 ## Dodatkowe składniki
 
 Podstawowe typu akordów mogą być uzupełniane o dodatkowe składniki. Na
-przykład zamiast [C7](C7 "wikilink") może pojawić się
-[C9](C9 "wikilink"). Składniki podwyższone o pół tonu oznacza się
+przykład zamiast [C7]({{< relref "C7.md" >}}) może pojawić się
+[C9]({{< relref "C9.md" >}}). Składniki podwyższone o pół tonu oznacza się
 poprzedzając składnik znakiem ♯ (krzyżyk, ang. sharp). Na przykład
-[D7♯9](D7♯9 "wikilink"). Składniki obniżone o pół tonu oznacza się ♭
-(bemol, ang. flat). Na przykład [C7♭9](C7♭9 "wikilink").
+D7♯9<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'D7♯9' ('content/D7♯9.md') and that does not exist -->. Składniki obniżone o pół tonu oznacza się ♭
+(bemol, ang. flat). Na przykład [C7♭9]({{< relref "C7♭9.md" >}}).
 
 ## Uzupełnianie akordów
 
@@ -121,4 +131,4 @@ wie, co robi.
 | **mol siedem, ♭5** | nie dodaje się        | zawsze czysta     | raczej obniżona       |
 
 Zobacz też: [interpretacja
-harmoniczna](interpretacja_harmoniczna "wikilink")
+harmoniczna]({{< relref "Interpretacja_harmoniczna.md" >}})

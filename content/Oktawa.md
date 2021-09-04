@@ -1,14 +1,23 @@
-**Oktawa** to podstawowy [interwał](interwał "wikilink") muzyczny o
+---
+title: "Oktawa"
+slug: "oktawa"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['Teoria muzyki']
+draft: false
+wikilinks: ['gitara', 'interwa%C5%82', 'konsonans', 'p%C3%B3%C5%82ton', 'skala_diatoniczna', 'strojenie_gitary', 'struna']
+aliases: ['/gitara/Oktawa']
+---
+**Oktawa** to podstawowy [interwał]({{< relref "Interwał.md" >}}) muzyczny o
 stosunku częstotliwości drgań 2:1, występujący między pierwszym a ósmym
-stopniem [skali diatonicznej](skala_diatoniczna "wikilink"), zawierający
-12 [półtonów](półton "wikilink"). Dźwięki odległe o oktawę zlewając się
-w doskonały [konsonans](konsonans "wikilink") wywołują wrażenie
+stopniem skali diatonicznej<!-- link nie odnosił się do niczego: 'Oktawa' ('content/Oktawa.md') links to 'skala_diatoniczna' ('content/skala_diatoniczna.md') and that does not exist -->, zawierający
+12 [półtonów]({{< relref "Półton.md" >}}). Dźwięki odległe o oktawę zlewając się
+w doskonały konsonans<!-- link nie odnosił się do niczego: 'Oktawa' ('content/Oktawa.md') links to 'konsonans' ('content/konsonans.md') and that does not exist --> wywołują wrażenie
 podobieństwa, dlatego stanową podstawę podziału stosowanej w muzyce
 skali częstotliwości dźwięku na ***oktawy***, składające się z siedmiu
 kolejnych dźwięków skali diatonicznej. Zakres dźwięków typowej
-[gitary](gitara "wikilink") obejmuje ponad trzy oktawy, od dźwięku E
-(pusta najniższa [struna](struna "wikilink") w standardowym
-[strojeniu](strojenie_gitary "wikilink")) do c<sup>3</sup> (uzyskiwanego
+[gitary]({{< relref "Gitara.md" >}}) obejmuje ponad trzy oktawy, od dźwięku E
+(pusta najniższa [struna]({{< relref "Struna.md" >}}) w standardowym
+[strojeniu]({{< relref "Strojenie_gitary.md" >}})) do c<sup>3</sup> (uzyskiwanego
 przez skrócenie struny e<sup>1</sup> na 20. progu).
 
 
@@ -280,4 +289,3 @@ indeksów numerycznych odpowiednio podwójne i pojedyncze podkreślenie.
 
 </table>
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

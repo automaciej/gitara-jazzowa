@@ -1,21 +1,31 @@
+---
+title: "Blues jazzowy"
+slug: "blues-jazzowy"
+date: 2013-06-21T13:20:09Z
+kategorie: []
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['A%E2%99%AD7', 'A%E2%99%ADdim', 'A%E2%99%ADdim', 'Am7', 'Am7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'B%E2%99%ADdim', 'Bdim', 'Bdim', 'Bdim', 'C7', 'C7', 'C9', 'C9sus', 'Cm7', 'D7', 'D7', 'D9', 'E%E2%99%AD9', 'E9', 'F7', 'F7', 'F7', 'F7', 'F7', 'F7', 'F7', 'F7', 'F7/A', 'F7/A', 'F9', 'Gm7', 'Gm7', 'Gm7', 'Gm7', 'Gm9', 'dwa_pi%C4%99%C4%87_jeden', 'ogrywanie', 'pentatonika']
+aliases: ['/gitara/Blues_jazzowy']
+---
 **Blues jazzowy** jest grany na niemal każdym jazzowym jam sesion. Jest
 podstawą do wspólnych improwizacji oraz do nauki
-[ogrywania](ogrywanie "wikilink") kadencji [dwa pięć
-jeden](dwa_pięć_jeden "wikilink"). Improwizacje w bluesie gra się
-często po [pentatonice](pentatonika "wikilink").
+[ogrywania]({{< relref "Ogrywanie_akordu.md" >}}) kadencji dwa pięć
+jeden<!-- link nie odnosił się do niczego: 'content/dwa_pięć_jeden.md' wants to redirect to 'content/Dwa_pięć_jeden.md', but 'content/Dwa_pięć_jeden.md' will be deleted -->. Improwizacje w bluesie gra się
+często po [pentatonice]({{< relref "Pentatonika.md" >}}).
 
 |   |                       |  |   |                         |                         |   |                     |                     |   |                       |                     |   |
 | - | --------------------- |  | - | ----------------------- | ----------------------- | - | ------------------- | ------------------- | - | --------------------- | ------------------- | - |
-| | | [F7](F7 "wikilink")   |  | | | [B♭7](B♭7 "wikilink")   | [Bdim](Bdim "wikilink") | | | [F7](F7 "wikilink") |                     | | | [Cm7](Cm7 "wikilink") | [F7](F7 "wikilink") | | |
-| | | [B♭7](B♭7 "wikilink") |  | | | [Bdim](Bdim "wikilink") |                         | | | [F7](F7 "wikilink") |                     | | | [Am7](Am7 "wikilink") | [D7](D7 "wikilink") | | |
-| | | [Gm7](Gm7 "wikilink") |  | | | [C7](C7 "wikilink")     |                         | | | [F7](F7 "wikilink") | [D7](D7 "wikilink") | | | [Gm7](Gm7 "wikilink") | [C7](C7 "wikilink") | | |
+| | | [F7]({{< relref "F7.md" >}})   |  | | | [B♭7]({{< relref "B♭7.md" >}})   | [Bdim]({{< relref "Bdim.md" >}}) | | | [F7]({{< relref "F7.md" >}}) |                     | | | [Cm7]({{< relref "Cm7.md" >}}) | [F7]({{< relref "F7.md" >}}) | | |
+| | | [B♭7]({{< relref "B♭7.md" >}}) |  | | | [Bdim]({{< relref "Bdim.md" >}}) |                         | | | [F7]({{< relref "F7.md" >}}) |                     | | | [Am7]({{< relref "Am7.md" >}}) | [D7]({{< relref "D7.md" >}}) | | |
+| | | [Gm7]({{< relref "Gm7.md" >}}) |  | | | [C7]({{< relref "C7.md" >}})     |                         | | | [F7]({{< relref "F7.md" >}}) | [D7]({{< relref "D7.md" >}}) | | | [Gm7]({{< relref "Gm7.md" >}}) | [C7]({{< relref "C7.md" >}}) | | |
 
 Istnieją mutacje tego bluesa, na przykład:
 
 |   |                                                 |                                                 |   |                           |                         |   |                     |                       |   |                           |                         |   |
 | - | ----------------------------------------------- | ----------------------------------------------- | - | ------------------------- | ----------------------- | - | ------------------- | --------------------- | - | ------------------------- | ----------------------- | - |
-| | | [F7](F7 "wikilink")                             | [F7/A](F7/A "wikilink")                         | | | [B♭7](B♭7 "wikilink")     | [Bdim](Bdim "wikilink") | | | [F7](F7 "wikilink") | [Gm7](Gm7 "wikilink") | | | [A♭dim](A♭dim "wikilink") | [F7/A](F7/A "wikilink") | | |
-| | | [B♭7](B♭7 "wikilink")                           |                                                 | | | B♭7                       |                         | | | [F9](F9 "wikilink") | [E9](E9 "wikilink")   | | | [E♭9](E♭9 "wikilink")     | [D9](D9 "wikilink")     | | |
-| | | [Gm9](Gm9 "wikilink") [A♭dim](A♭dim "wikilink") | [Am7](Am7 "wikilink") [B♭dim](B♭dim "wikilink") | | | [C9sus](C9sus "wikilink") |                         | | | [F7](F7 "wikilink") | [A♭7](A♭7 "wikilink") | | | [Gm7](Gm7 "wikilink")     | [C9](C9 "wikilink")     | | |
+| | | [F7]({{< relref "F7.md" >}})                             | [F7/A]({{< relref "F7/A.md" >}})                         | | | [B♭7]({{< relref "B♭7.md" >}})     | [Bdim]({{< relref "Bdim.md" >}}) | | | [F7]({{< relref "F7.md" >}}) | [Gm7]({{< relref "Gm7.md" >}}) | | | [A♭dim]({{< relref "A♭dim.md" >}}) | [F7/A]({{< relref "F7/A.md" >}}) | | |
+| | | [B♭7]({{< relref "B♭7.md" >}})                           |                                                 | | | B♭7                       |                         | | | [F9]({{< relref "F9.md" >}}) | [E9]({{< relref "E9.md" >}})   | | | [E♭9]({{< relref "E♭9.md" >}})     | [D9]({{< relref "D9.md" >}})     | | |
+| | | [Gm9]({{< relref "Gm9.md" >}}) [A♭dim]({{< relref "A♭dim.md" >}}) | [Am7]({{< relref "Am7.md" >}}) [B♭dim]({{< relref "B♭dim.md" >}}) | | | [C9sus]({{< relref "C9sus.md" >}}) |                         | | | [F7]({{< relref "F7.md" >}}) | [A♭7]({{< relref "A♭7.md" >}}) | | | [Gm7]({{< relref "Gm7.md" >}})     | [C9]({{< relref "C9.md" >}})     | | |
 
 **Zobacz też**
