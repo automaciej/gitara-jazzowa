@@ -1,12 +1,22 @@
-Tak zwany **blues parkerowski** pochodzi od [schematu
-harmonicznego](schemat_harmoniczny "wikilink")
-[standardu](standard_jazzowy "wikilink") *Blues for Alice* [Charliego
-Parkera](Charlie_Parker "wikilink").
+---
+title: "Blues parkerowski"
+slug: "blues-parkerowski"
+date: 2005-05-22T21:15:33Z
+kategorie: []
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['A%E2%99%ADm7', 'A7', 'Am7', 'B%E2%99%AD7', 'B%E2%99%ADm7', 'C7', 'C7', 'Charlie_Parker', 'Cm7', 'D%E2%99%AD7', 'D7', 'Dm7', 'Dm7', 'E%E2%99%AD7', 'Em7', 'F7', 'Fmaj7', 'Fmaj7', 'G7', 'Gm7', 'Gm7', 'schemat_harmoniczny', 'standard_jazzowy']
+aliases: ['/gitara/Blues_parkerowski']
+---
+Tak zwany **blues parkerowski** pochodzi od schematu
+harmonicznego<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'schemat_harmoniczny' ('content/schemat_harmoniczny.md') and that does not exist -->
+standardu<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'standard_jazzowy' ('content/standard_jazzowy.md') and that does not exist --> *Blues for Alice* [Charliego
+Parkera]({{< relref "Charlie_Parker.md" >}}).
 
 |   |                           |  |   |                         |                       |   |                           |                       |   |                         |                       |   |
 | - | ------------------------- |  | - | ----------------------- | --------------------- | - | ------------------------- | --------------------- | - | ----------------------- | --------------------- | - |
-| | | [Fmaj7](Fmaj7 "wikilink") |  | | | [Em7](Em7 "wikilink")   | [A7](A7 "wikilink")   | | | [Dm7](Dm7 "wikilink")     | [G7](G7 "wikilink")   | | | [Cm7](Cm7 "wikilink")   | [F7](F7 "wikilink")   | | |
-| | | [B♭7](B♭7 "wikilink")     |  | | | [B♭m7](B♭m7 "wikilink") | [E♭7](E♭7 "wikilink") | | | [Am7](Am7 "wikilink")     | [D7](D7 "wikilink")   | | | [A♭m7](A♭m7 "wikilink") | [D♭7](D♭7 "wikilink") | | |
-| | | [Gm7](Gm7 "wikilink")     |  | | | [C7](C7 "wikilink")     |                       | | | [Fmaj7](Fmaj7 "wikilink") | [Dm7](Dm7 "wikilink") | | | [Gm7](Gm7 "wikilink")   | [C7](C7 "wikilink")   | | |
+| | | Fmaj7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'Fmaj7' ('content/Fmaj7.md') and that does not exist --> |  | | | Em7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'Em7' ('content/Em7.md') and that does not exist -->   | A7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'A7' ('content/A7.md') and that does not exist -->   | | | Dm7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'Dm7' ('content/Dm7.md') and that does not exist -->     | G7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'G7' ('content/G7.md') and that does not exist -->   | | | Cm7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'Cm7' ('content/Cm7.md') and that does not exist -->   | F7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'F7' ('content/F7.md') and that does not exist -->   | | |
+| | | B♭7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'B♭7' ('content/B♭7.md') and that does not exist -->     |  | | | B♭m7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'B♭m7' ('content/B♭m7.md') and that does not exist --> | E♭7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'E♭7' ('content/E♭7.md') and that does not exist --> | | | Am7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'Am7' ('content/Am7.md') and that does not exist -->     | D7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'D7' ('content/D7.md') and that does not exist -->   | | | A♭m7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'A♭m7' ('content/A♭m7.md') and that does not exist --> | D♭7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'D♭7' ('content/D♭7.md') and that does not exist --> | | |
+| | | Gm7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'Gm7' ('content/Gm7.md') and that does not exist -->     |  | | | C7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'C7' ('content/C7.md') and that does not exist -->     |                       | | | Fmaj7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'Fmaj7' ('content/Fmaj7.md') and that does not exist --> | Dm7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'Dm7' ('content/Dm7.md') and that does not exist --> | | | Gm7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'Gm7' ('content/Gm7.md') and that does not exist -->   | C7<!-- link nie odnosił się do niczego: 'Blues parkerowski' ('content/Blues_parkerowski.md') links to 'C7' ('content/C7.md') and that does not exist -->   | | |
 
 **Zobacz też**

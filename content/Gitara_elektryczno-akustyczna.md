@@ -1,8 +1,20 @@
+---
+title: "Gitara elektryczno-akustyczna"
+slug: "gitara-elektryczno-akustyczna"
+date: 2007-11-28T13:19:49Z
+kategorie: ['Rodzaje gitar']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Gibson', 'gitara_elektryczna', 'grafika:GitaraGibsonES-3451D.jpg', 'gryf', 'przetworniki_elektromagnetyczne', 'przystawka', 'pud%C5%82o_rezonansowe', 'pud%C5%82o_rezonansowe', 'pud%C5%82o_rezonansowe']
+aliases: ['/gitara/Gitara_elektryczno-akustyczna']
+images:
+  - path: "/images/GitaraGibsonES-3451D.jpg"
+---
 **Gitara elektryczno-akustyczna**
 *(Electric acoustic guitar, Acoustic electric hollow-body, Acoustic
 electric arch top)*
 
-[right](grafika:GitaraGibsonES-3451D.jpg "wikilink") Jest to gitara
+{{< figure src="/images/GitaraGibsonES-3451D.jpg" >}} Jest to gitara
 akustyczna typu „gibsonka" wyposażona w przetworniki elektromagnetyczne.
 
 Jak pamiętamy, już w samej budowie gitar,,orkiestrowych" nie kładziono
@@ -11,20 +23,20 @@ wygodę gry. W przypadku gitary elektryczno-akustycznej płyta rezonansowa
 obciążona jest najczęściej dwiema przystawkami, czterema
 potencjometrami, przełącznikiem przystawek, nieraz gniazdem wyjściowym,
 a na dodatek elementami elektronicznymi wewnątrz [pudła
-rezonansowego](pudło_rezonansowe "wikilink"). Osłabienie brzmienia
+rezonansowego]({{< relref "Pudło_rezonansowe.md" >}}). Osłabienie brzmienia
 akustycznego nie ma tu jednak takiego znaczenia, bowiem wzmacniany
 elektrycznie jest jedynie dźwięk strun gitary.
 
 ## Pudło rezonansowe
 
-Wydawałoby się, że [pudło rezonansowe](pudło_rezonansowe "wikilink")
-jest zbędne, skoro [przystawka](przystawka "wikilink") elektryczna
+Wydawałoby się, że [pudło rezonansowe]({{< relref "Pudło_rezonansowe.md" >}})
+jest zbędne, skoro przystawka<!-- link nie odnosił się do niczego: 'Gitara elektryczno-akustyczna' ('content/Gitara_elektryczno-akustyczna.md') links to 'przystawka' ('content/przystawka.md') and that does not exist --> elektryczna
 odbiera tylko drgania strun, a rezonans płyty nie ma żadnego wpływu na
 przystawki (w droższych modelach przystawki umieszczane są nawet na
 specjalnych izolujących je od drgań płyty rezonansowej amortyzatorach).
 Bezpośredniego wpływu drgań płyty na przystawki rzeczywiście nie ma, ale
 za to jest pośredni. Inaczej drga struna mająca pod sobą [pudło
-rezonansowe](pudło_rezonansowe "wikilink"), a inaczej gdy go nie ma.
+rezonansowe]({{< relref "Pudło_rezonansowe.md" >}}), a inaczej gdy go nie ma.
 Różnica charakterystyki drgań jest wystarczająca, aby odróżnić barwę
 gitary elektryczno-akustycznej od tzw. „deski", słysząc dźwięki jedynie
 za pośrednictwem przystawki elektrycznej i wzmacniacza z głośnikiem.
@@ -39,8 +51,8 @@ elektrycznej jest jednak bardzo „akustyczny".
 ## Przetworniki
 
 Najczęściej gitara elektryczno-akustyczna wyposażona jest w dwa
-[przetworniki
-elektromagnetyczne](przetworniki_elektromagnetyczne "wikilink")
+przetworniki
+elektromagnetyczne<!-- link nie odnosił się do niczego: 'Gitara elektryczno-akustyczna' ('content/Gitara_elektryczno-akustyczna.md') links to 'przetworniki_elektromagnetyczne' ('content/przetworniki_elektromagnetyczne.md') and that does not exist -->
 umieszczone: jeden przy podstawku o ostrym i wysokim brzmieniu oraz
 drugi, umieszczony przy końcu gryfu, dający brzmienie miękkie i ciemne.
 Odległość przystawek od strun na ogół jest regulowana przez podwyższanie
@@ -63,7 +75,7 @@ krawędzi, są nieraz poszerzone do 3 mm, a ich ilość zwiększona do 20 lub
 22. Z reguły oprócz wysunięcia gryfu co najmniej do XIV pozycji, stosuje
 się wycięcie pudła rezonansowego pod gryfem, co razem znakomicie ułatwia
 praktyczne rozszerzenie skali gitary w górę. Zaokrąglony
-[gryf](gryf "wikilink"), węższa szyjka ułatwia pracę lewej ręki i
+[gryf]({{< relref "Gryf.md" >}}), węższa szyjka ułatwia pracę lewej ręki i
 stwarza większe możliwości techniczne. Wewnątrz szyjki instrumentu
 umieszcza się zazwyczaj stalowy pręt, który za pomocą specjalnej
 nakrętki można skracać lub wydłużać, przez co w mniejszym lub większym
@@ -91,7 +103,7 @@ najwłaściwszy moim zdaniem dla muzyki jazzowej, selektywny ton w dole,
 wyrazistą średnicę oraz śpiewną górę. Cechy te sprawiły, że prawie
 wszyscy wybitni gitarzyści grający główny nurt jazzu, używają gitar
 elektryczno-akustycznych. Często są to instrumenty firmy
-[Gibson](Gibson "wikilink"), odznaczające się bardzo wysoką jakością.
+[Gibson]({{< relref "Gibson.md" >}}), odznaczające się bardzo wysoką jakością.
 
 ## Półpudło
 
@@ -104,6 +116,6 @@ się wzmocnienia płyty wierzchniej grubymi, drewnianymi blokami. Wielu
 gitarzystów jednak grywa na tego typu gitarach, a jednym z powodów jest
 dość duża uniwersalność tych instrumentów. Półpudło jest to forma
 przejściowa do następnego typu gitary - [gitary
-elektrycznej](gitara_elektryczna "wikilink").
+elektrycznej]({{< relref "Gitara_elektryczna.md" >}}).
 
-[Elektryczno-akustyczna, gitara](kategoria:rodzaje_gitar "wikilink")
+Elektryczno-akustyczna, gitara<!-- link nie odnosił się do niczego: 'Gitara elektryczno-akustyczna' ('content/Gitara_elektryczno-akustyczna.md') links to 'kategoria:rodzaje_gitar' ('content/kategoria:rodzaje_gitar.md') and that does not exist -->

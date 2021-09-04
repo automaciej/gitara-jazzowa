@@ -1,3 +1,13 @@
+---
+title: "Funkcje poboczne"
+slug: "funkcje-poboczne"
+date: 2005-05-22T17:34:05Z
+kategorie: ['Harmonia jazzowa']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: []
+aliases: ['/gitara/Funkcje_poboczne']
+---
 Oprócz *Wielkiej Trójcy*, czyli toniki, subdominanty i dominanty, są
 jeszcze inne akordy, które należą do tonacji, i są budowane na
 pozostałych dźwiękach skali. Funkcje zbudowane na stopniach innych niż
@@ -11,4 +21,3 @@ dźwięków {D, F, A}, więc ma dwa wspólne dźwięki z akordem F-dur {F, A,
 C}. Akord F jest w tonacji C-dur subdominantą. Stąd, akord Dm jest
 subdominantą drugiego stopnia.
 
-[kategoria:harmonia jazzowa](kategoria:harmonia_jazzowa "wikilink")

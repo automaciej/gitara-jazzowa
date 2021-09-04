@@ -1,5 +1,15 @@
+---
+title: "Po co jest teoria muzyki"
+slug: "po-co-jest-teoria-muzyki"
+date: 2013-06-21T23:36:18Z
+kategorie: []
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['blues', 'd%C5%BAwi%C4%99k', 'teoria_muzyki']
+aliases: ['/gitara/Po_co_jest_teoria_muzyki']
+---
 Muzyka to dziedzina która łączy ze sobą dwa odległe światy. Z jednej
-strony jest to świat [dźwięków](dźwięk "wikilink"), który może być
+strony jest to świat dźwięków<!-- link nie odnosił się do niczego: 'Po co jest teoria muzyki' ('content/Po_co_jest_teoria_muzyki.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist -->, który może być
 odbierany całkowicie intuicyjnie. Można po prostu pozwalać muzyce
 pieścić swoje uszy, nie dotykając kory mózgowej. Z drugiej strony,
 można znajdywać z muzyce całą masę elementów intelektualnych i
@@ -27,7 +37,7 @@ jakie czyhają na muzyka nie znającego teorii:
     dla innych muzyków (bardziej oczytanych) jest piaskownicą.
 3.  **Pułapka schematyczności**. Nieświadomość tego, że wpadło się w
     koleiny schematu. Paradoksalnie właśnie [teoria
-    muzyki](teoria_muzyki "wikilink"), pokazując wiele różnych
+    muzyki]({{< relref "Teoria_muzyki.md" >}}), pokazując wiele różnych
     schematów, pozwala ich później unikać.
 
 Na temat każdego z tych punktów można by napisać osobny artykuł, dlatego
@@ -36,6 +46,6 @@ nie chcę tutaj wchodzić w szczegóły.
 Od czego zacząć naukę teorii? Przede wszystkim trzeba zapomnieć o tym,
 że można wszystko. Należy zacząć od podstaw i rozwijać się tak, jak
 rozwijała się sama muzyka. Na początku dobrze jest poznać proste
-[bluesy](blues "wikilink"), aby poczuć ich harmonię, następnie proste
+[bluesy]({{< relref "Blues.md" >}}), aby poczuć ich harmonię, następnie proste
 standardy jazzowe, które można później rozbudowywać pod względem
 harmonicznym.

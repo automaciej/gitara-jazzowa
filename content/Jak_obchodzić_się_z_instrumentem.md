@@ -1,5 +1,15 @@
+---
+title: "Jak obchodzić się z instrumentem"
+slug: "jak-obchodzic-sie-z-instrumentem"
+date: 2005-05-22T16:45:18Z
+kategorie: ['Konserwacja gitary']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['szyjka']
+aliases: ['/gitara/Jak_obchodzić_się_z_instrumentem', 'jak-obchodzić-się-z-instrumentem']
+---
 Jak obchodzić się z instrumentem? Wiadomo, że delikatnie, tak aby go nie
-uszkodzić. Podnosić zawsze i tylko za [szyjkę](szyjka "wikilink"). Kłaść
+uszkodzić. Podnosić zawsze i tylko za [szyjkę]({{< relref "Gryf.md" >}}). Kłaść
 i przechowywać w miejscach nie narażonych na wpływy atmosferyczne,
 uszkodzenia mechaniczne itp. (w mieszkaniach nie przy kaloryferze\!).
 
@@ -28,4 +38,3 @@ zbyt często, wystarczy jeśli utrzymamy estetyczny wygląd instrumentu.
 Nie trzeba zapominać o maszynkach, które oliwimy co pewien czas, jeżeli
 ich konstrukcja tego wymaga.
 
-[kategoria:konserwacja gitary](kategoria:konserwacja_gitary "wikilink")

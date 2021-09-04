@@ -1,7 +1,18 @@
+---
+title: "Struna"
+slug: "struna"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['Budowa gitary']
+draft: false
+wikilinks: ['Fender', 'Gibson', 'Kenny_Burrell', 'dynamika', 'gitara_akustyczna', 'gitara_akustyczna', 'gitara_dwunastostrunowa', 'gitara_klasyczna', 'grafika:StrunaNaKolku.jpg']
+aliases: ['/gitara/Struna', 'Struny.md/struny']
+images:
+  - path: "/images/StrunaNaKolku.jpg"
+---
 Niezmiernie ważny jest dobór odpowiednich strun. Różne ich rodzaje są
 używane do różnych gatunków muzyki. Pierwszy podział wyłania struny
 nylonowe i metalowe. Jak wiadomo, struny nylonowe używane są tylko w
-[gitarach klasycznych](gitara_klasyczna "wikilink"), nie będziemy się
+[gitarach klasycznych]({{< relref "Gitara_klasyczna.md" >}}), nie będziemy się
 więc nimi zajmować.
 
 Struny metalowe możemy podzielić na ich grubość, materiał oraz sposób
@@ -11,15 +22,15 @@ wykończenia.
 
 Firmy produkujące struny, oferują komplety o różnych grubościach.
 Grubości podane są w ułamkach cala (1 cal = 2,54 cm). Dla przykładu
-podaję komplet miękki firmy [Fender](Fender "wikilink") (F-150set Light,
+podaję komplet miękki firmy [Fender]({{< relref "Fender.md" >}}) (F-150set Light,
 rock'n roll): E-.010, H-.013, G-.015, D-.026, A-.032, E-.038.
 
-Natomiast twardy komplet firmy [Gibson](Gibson "wikilink") przedstawia
+Natomiast twardy komplet firmy [Gibson]({{< relref "Gibson.md" >}}) przedstawia
 się następująco: E-.013. H-.016, G-.024, D-.028, A-.046, E-.058. Trzeba
 zaznaczyć, że w kompletach miękkich struny G-3 nie mają owijki, a w
 twardych są owijane.
 
-Dla [gitar dwunastostrunowych](gitara_dwunastostrunowa "wikilink") firma
+Dla [gitar dwunastostrunowych]({{< relref "Gitara_dwunastostrunowa.md" >}}) firma
 Fender proponuje między innymi taki komplet (F-1450 set Light & bright):
 E-.010/.010, H-.013/.013, G-.022/.010, D-.026/.013,
 A-.034/.016,E-.044/.022.
@@ -37,17 +48,17 @@ struny kompletują sobie sami.
 Struny miękkie - podatne na wibrację i lekkie w grze - nadają się
 najlepiej do muzyki, w której stosuje się technikę bluesową. Brzmieniowo
 ustępują jednak strunom twardszym, gorzej oddają
-[dynamikę](dynamika "wikilink"), a przy mocnym uderzeniu wydają dźwięk
+[dynamikę]({{< relref "Dynamika.md" >}}), a przy mocnym uderzeniu wydają dźwięk
 zduszony. Zjawisko to jest spotęgowane, gdy założymy struny zbyt miękkie
-na [gitarę akustyczną](gitara_akustyczna "wikilink"). Trzeba pamiętać,
+na [gitarę akustyczną]({{< relref "Gitara_akustyczna.md" >}}). Trzeba pamiętać,
 że o ile w gitarze elektrycznej można używać komplety miękkie, z
 powodzeniem wykorzystując ich zalety, o tyle [gitara
-akustyczna](gitara_akustyczna "wikilink"), dla dobra brzmienia, wymaga
+akustyczna]({{< relref "Gitara_akustyczna.md" >}}), dla dobra brzmienia, wymaga
 strun twardszych, które swoją masą są w stanie pobudzić rezonans pudła.
 Na ogół gitarzyści jazz-rockowi preferują raczej struny małej lub
 średniej grubości. Gitarzyści jazzowi używają strun średnich i
 twardych. Gra na nich jest nieco cięższa, ale efekt brzmieniowy wart
-jest tego. [Kenny Burrell](Kenny_Burrell "wikilink"), który ma opinię
+jest tego. [Kenny Burrell]({{< relref "Kenny_Burrell.md" >}}), który ma opinię
 jednego z najbardziej wyrafinowanych brzmieniowo gitarzystów jazzowych,
 używa właśnie bardzo twardych strun.
 
@@ -102,7 +113,7 @@ odpowiednią długość. Wprawdzie menzura wszystkich gitar jest zbliżona,
 ale różne są odległości strunnika od mostka i siodełka od kołków. Struna
 właściwie nawinięta na kołek ma kilka zwojów, tak jak pokazuje zdjęcie.
 
-[right](grafika:StrunaNaKolku.jpg "wikilink")
+{{< figure src="/images/StrunaNaKolku.jpg" >}}
 
 Np. struna E-6 powinna być nawinięta na kołek dwa-trzy razy: struny cieńsze
 mogą mieć większą ilość zwojów, ale nie więcej niż kilka (np. 3-4) przy strunie
@@ -127,4 +138,4 @@ struny na kołek starannie i ciasno.
 Dobrze pamiętać o tym, że każdy gitarzysta powinien mieć zawsze, w razie
 zerwania się struny, co najmniej jeden zapasowy komplet.
 
-[Kategoria:Budowa gitary](Kategoria:Budowa_gitary "wikilink")
+
