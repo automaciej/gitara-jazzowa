@@ -6,17 +6,21 @@ kategorie: ['Akordy zmniejszone', 'Tabele chwytów']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: []
-aliases: ['/gitara/B♭dim', 'bdim', 'książka/bbdim']
+aliases: ['/gitara/B♭dim', 'Bbdim.md/bbdim', 'bdim']
 ---
 B♭-zmniejszony.
 
 ## B♭dim w VI pozycji
 
-`E |---|---|---|---|---|---|---`
-`B |---|---|---|---|---E---|---`
-`G |---|---|---|---|---|---D♭--`
-`D |---|---|---|---|---G---|---`
-`A |---|---|---|---|---|---|---`
-`E |---|---|---|---|---|---B♭--`
+
+```
+E |---|---|---|---|---|---|---
+B |---|---|---|---|---E---|---
+G |---|---|---|---|---|---D♭--
+D |---|---|---|---|---G---|---
+A |---|---|---|---|---|---|---
+E |---|---|---|---|---|---B♭--
+```
+
 
 

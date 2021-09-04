@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Rodzaje gitar']
 draft: false
 wikilinks: ['Fender_Stratocaster', 'Floyd_Rose', 'Gibson', 'Leo_Fender', 'Les_Paul', 'Szyjka', 'akord', 'chorus', 'flanger', 'fuzz', 'gitara_akustyczna', 'gitara_elektryczno-akustyczna', 'grafika:GitaraElektrycznaBudowa.png', 'grafika:MostekFloydRose.jpg', 'gryf', 'gryf', 'gryf', 'menzura', 'mikrostrojnik', 'mostek', 'potencjometr', 'pr%C3%B3g', 'przesterowanie', 'przetwornik', 'pud%C5%82o_rezonansowe', 'pud%C5%82o_rezonansowe', 'sprz%C4%99%C5%BCenie_zwrotne', 'struna', 'wahwah', 'wibrato', 'wybrzmienie', 'wzmacniacz', 'wzmacniacz']
-aliases: ['/gitara/Gitara_elektryczna', 'książka/solid-body']
+aliases: ['/gitara/Gitara_elektryczna', 'Solid_body.md/solid-body']
 images:
   - path: "/images/GitaraElektrycznaBudowa.png"
   - path: "/images/MostekFloydRose.jpg"
@@ -24,7 +24,7 @@ a czasem i wstawkę z twardego drewna zapobiegającą skręcaniu się.
 [Szyjka]({{< relref "Gryf" >}}), podobnie jak w [gitarach
 akustycznych]({{< relref "Gitara_akustyczna.md" >}}), jest wąska, a
 [gryf]({{< relref "Gryf.md" >}}) zaokrąglony, ale na ogół ilość
-progów<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'próg' ('content/książka/próg.md') and that does not exist --> jest nie mniejsza niż 22, choć zdarza się
+progów<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/Gitara_elektryczna.md') links to 'próg' ('content/próg.md') and that does not exist --> jest nie mniejsza niż 22, choć zdarza się
 też i więcej. Dostęp do najwyższych pozycji jest lepszy niż w [gitarach
 elektryczno-akustycznych]({{< relref "Gitara_elektryczno-akustyczna.md" >}}),
 nawet tych z wycięciem.
@@ -45,7 +45,7 @@ Stratocaster]({{< relref "Fender_Stratocaster.md" >}}). Na rysunku pokazane są
 wszystkie elementy tego instrumentu. Korpus wymodelowany z pełnego
 drewna, [gryf]({{< relref "Gryf.md" >}}) przykręcany do korpusu śrubami oraz
 [mostek]({{< relref "Mostek.md" >}}) z systemem tremolo skonstruowany również
-przez Leo Fendera<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'Leo_Fender' ('content/książka/Leo_Fender.md') and that does not exist -->. Umożliwiał
+przez Leo Fendera<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/Gitara_elektryczna.md') links to 'Leo_Fender' ('content/Leo_Fender.md') and that does not exist -->. Umożliwiał
 [wibrowanie]({{< relref "Wibracja.md" >}}) i obniżanie dźwięku pojedynczych strun
 i całych [akordów]({{< relref "Akord.md" >}}).
 
@@ -58,8 +58,8 @@ mostek z systemem tremolo skonstruowany przez gitarzystę - konstruktora
 [Floyd Rose]({{< relref "Floyd_Rose.md" >}})'a. Jest to mostek swobodnie
 zawieszony, przystosowany do podwójnej akcji - podciągania i
 opuszczania. Jest wyposażony w
-mikrostrojniki<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'mikrostrojnik' ('content/książka/mikrostrojnik.md') and that does not exist -->, regulację
-menzury<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'menzura' ('content/książka/menzura.md') and that does not exist --> i mini-imadełko do zamocowania struny.
+mikrostrojniki<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/Gitara_elektryczna.md') links to 'mikrostrojnik' ('content/mikrostrojnik.md') and that does not exist -->, regulację
+menzury<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/Gitara_elektryczna.md') links to 'menzura' ('content/menzura.md') and that does not exist --> i mini-imadełko do zamocowania struny.
 Gitary z takim mostem posiadają na siodełku [gryfu]({{< relref "Gryf.md" >}})
 blokadę strun, zwiększająca stabilność stroju.
 
@@ -69,7 +69,7 @@ Pod [strunami]({{< relref "Struna.md" >}}) gitara elektryczna ma umieszczone
 przeważnie trzy [przetworniki]({{< relref "Przetwornik.md" >}})
 elektromagnetyczne na ogół z regulowana wysokością i to często na każdą
 strunę z osobna. Na korpusie gitary zamocowane są
-potencjometry<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'potencjometr' ('content/książka/potencjometr.md') and that does not exist --> siły głosu, barwy tonu,
+potencjometry<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/Gitara_elektryczna.md') links to 'potencjometr' ('content/potencjometr.md') and that does not exist --> siły głosu, barwy tonu,
 przełącznik przystawek, gniazdo wyjściowe, a czasem dodatkowe
 przełączniki kilkupozycyjne, zawierające gotowe mikstury barwowe.
 Nieliczne modele zawierają również urządzenia elektroniczne w rodzaju
@@ -82,12 +82,12 @@ jaskrawym w górze, głębokim w dole (oczywiście jest to uzależnione od
 ustawienia korekcji [wzmacniacza]({{< relref "Wzmacniacz.md" >}})). Instrumenty
 te nie ,,sprzęgają się" ze wzmacniaczem lak łatwo, jak gitary
 posiadające [pudło rezonansowe]({{< relref "Pudło_rezonansowe.md" >}}), przez co
-łatwiej dźwięk przesterować<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'przesterowanie' ('content/książka/przesterowanie.md') and that does not exist --> i grać
+łatwiej dźwięk przesterować<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/Gitara_elektryczna.md') links to 'przesterowanie' ('content/przesterowanie.md') and that does not exist --> i grać
 kontrolowanym [sprzężeniem zwrotnym]({{< relref "Sprzężenie_zwrotne.md" >}}).
 Dobrze współpracują ze [wzmacniaczem]({{< relref "Wzmacniacz.md" >}}) dużej mocy,
 są wygodne, trwałe i łatwe w transporcie. Najlepiej też współpracują z
 różnego rodzaju przetwornikami dźwięku jak:
 [wahwah]({{< relref "Wahwah.md" >}}), [fuzz]({{< relref "Fuzz.md" >}}),
-flanger<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'flanger' ('content/książka/flanger.md') and that does not exist -->, [chorus]({{< relref "Chorus.md" >}}) itp.
+flanger<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/Gitara_elektryczna.md') links to 'flanger' ('content/flanger.md') and that does not exist -->, [chorus]({{< relref "Chorus.md" >}}) itp.
 
-Elektryczna, gitara<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/książka/Gitara_elektryczna.md') links to 'kategoria:rodzaje_gitar' ('content/książka/kategoria:rodzaje_gitar.md') and that does not exist -->
+Elektryczna, gitara<!-- link nie odnosił się do niczego: 'Gitara elektryczna' ('content/Gitara_elektryczna.md') links to 'kategoria:rodzaje_gitar' ('content/kategoria:rodzaje_gitar.md') and that does not exist -->

@@ -6,7 +6,7 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Funkcja_harmoniczna', 'Funkcje_poboczne', 'II-V-I_(dwa_pi%C4%99%C4%87_jeden)', 'Wtr%C4%85cenia', 'akord', 'tonacja']
-aliases: ['/gitara/Funkcje_harmoniczne', 'książka/dominanta', 'książka/subdominanta']
+aliases: ['/gitara/Funkcje_harmoniczne', 'Dominanta.md/dominanta', 'Subdominanta.md/subdominanta']
 ---
 Pojęcie [funkcji harmonicznej]({{< relref "Funkcja_harmoniczna.md" >}}) ma sens
 tylko w kontekście [tonacji]({{< relref "Tonacja.md" >}}). Zakładając, że
@@ -53,4 +53,4 @@ kadencji, ale żadna inna nie jest nazywana kadencją wielką doskonałą.
 
   - [Funkcje poboczne]({{< relref "Funkcje_poboczne.md" >}})
   - [Wtrącenia]({{< relref "Wtrącenie" >}})
-  - II-V-I (dwa pięć jeden)<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/książka/Funkcje_harmoniczne.md') links to 'II-V-I_\\(dwa_pięć_jeden\\)' ('content/książka/II-V-I_\\(dwa_pięć_jeden\\).md') and that does not exist -->
+  - II-V-I (dwa pięć jeden)<!-- link nie odnosił się do niczego: 'Funkcje harmoniczne' ('content/Funkcje_harmoniczne.md') links to 'II-V-I_\\(dwa_pięć_jeden\\)' ('content/II-V-I_\\(dwa_pięć_jeden\\).md') and that does not exist -->

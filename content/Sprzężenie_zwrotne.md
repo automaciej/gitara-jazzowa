@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['alikwot', 'fla%C5%BColet', 'pud%C5%82o_rezonansowe', 'solid_body', 'wybrzmienie']
-aliases: ['/gitara/Sprzężenie_zwrotne', 'książka/sprzężenia', 'sprzezenie-zwrotne']
+aliases: ['/gitara/Sprzężenie_zwrotne', 'Sprzężenia.md/sprzężenia', 'sprzezenie-zwrotne']
 ---
 Jest to efekt, który w praktyce pozwala na osiąganie dowolnie [długo
 brzmiących]({{< relref "Wybrzmienie.md" >}}) dźwięków.
@@ -53,7 +53,7 @@ niezamierzoną kakofonię.
 
 Przy niektórych dźwiękach w pewnym ustawieniu, można osiągnąć ciekawe
 [flażolety]({{< relref "Flażolet.md" >}}), gdyż podczas trwania dźwięku ze
-sprzężeniem, niektóre alikwoty<!-- link nie odnosił się do niczego: 'Sprzężenie zwrotne' ('content/książka/Sprzężenie_zwrotne.md') links to 'alikwot' ('content/książka/alikwot.md') and that does not exist --> stają się
+sprzężeniem, niektóre alikwoty<!-- link nie odnosił się do niczego: 'Sprzężenie zwrotne' ('content/Sprzężenie_zwrotne.md') links to 'alikwot' ('content/alikwot.md') and that does not exist --> stają się
 głośniejsze od dźwięku podstawowego. Wykorzystywanie wszystkich
 możliwości sprzężenia zwrotnego da pozytywny efekt muzyczny tylko pod
 warunkiem dużej wrażliwości i poczucia muzycznego smaku gitarzysty.

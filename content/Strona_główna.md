@@ -8,3 +8,4 @@ contributor: 'MaciejBlizinski'
 wikilinks: []
 aliases: ['/gitara/Strona_główna', 'strona-glowna']
 ---
+

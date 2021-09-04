@@ -16,7 +16,7 @@ W rozdziale tym chciałbym zwrócić uwagę na znaczenie właściwego doboru
 To, że należy dopasowywać wzmacniacz do gitary, a nie odwrotnie, jest
 rzeczą oczywistą. Gitara jako właściwy instrument determinuje rodzaj
 wykonywanej muzyki. Wiadomo, że gitarzysta rockowy zaopatrzy się w
-gitarę elektryczną, gitarzysta grający bebop<!-- link nie odnosił się do niczego: 'Wzmacniacz' ('content/książka/Wzmacniacz.md') links to 'bebop' ('content/książka/bebop.md') and that does not exist --> - kupi
+gitarę elektryczną, gitarzysta grający bebop<!-- link nie odnosił się do niczego: 'Wzmacniacz' ('content/Wzmacniacz.md') links to 'bebop' ('content/bebop.md') and that does not exist --> - kupi
 sobie [gitarę
 elektryczno-akustyczną]({{< relref "Gitara_elektryczno-akustyczna.md" >}}) itd.
 
@@ -91,7 +91,7 @@ jego przewozu w samochodzie osobowym.
 
 Nie trzeba dodawać, że mniejszy problem jest ze wzmacniaczem zmontowanym
 w jedną całość z głośnikami niż oddzielnie. Wzmacniacz powinien posiadać
-mocny pokrowiec<!-- link nie odnosił się do niczego: 'Wzmacniacz' ('content/książka/Wzmacniacz.md') links to 'pokrowiec_na_wzmacniacz' ('content/książka/pokrowiec_na_wzmacniacz.md') and that does not exist --> wykonany z
+mocny pokrowiec<!-- link nie odnosił się do niczego: 'Wzmacniacz' ('content/Wzmacniacz.md') links to 'pokrowiec_na_wzmacniacz' ('content/pokrowiec_na_wzmacniacz.md') and that does not exist --> wykonany z
 materiału wodoodpornego. Dużym ułatwieniem jest wyposażenie wzmacniacza
 w kółka skrętne oraz wygodne uchwyty. Na wszystko to trzeba zwrócić
 baczną uwagę, ponieważ gitarzysta często zmuszony jest sam transportować
@@ -107,7 +107,7 @@ powinien stać lub siedzieć w takim miejscu, aby dobrze słyszał resztę
 zespołu. Poza tym wzmacniacz ustawia się w zależności od sposobu
 traktowania dźwięku. Jeśli chce się uzyskiwać [sprzężenia
 zwrotne]({{< relref "Sprzężenie_zwrotne.md" >}}), gitara musi być dość blisko
-głośników. Przy graniu mainstreamowym<!-- link nie odnosił się do niczego: 'Wzmacniacz' ('content/książka/Wzmacniacz.md') links to 'mainstream' ('content/książka/mainstream.md') and that does not exist --> dobrze
+głośników. Przy graniu mainstreamowym<!-- link nie odnosił się do niczego: 'Wzmacniacz' ('content/Wzmacniacz.md') links to 'mainstream' ('content/mainstream.md') and that does not exist --> dobrze
 sprawdza się ustawienie wzmacniacza 2-4 m od gitarzysty, tak by głośniki
 skierowane były w jego stronę lub nieco z boku. Daje to dobrą kontrolę
 dźwięku własnego instrumentu oraz orientację w proporcji siły głosu w

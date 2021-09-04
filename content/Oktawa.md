@@ -9,9 +9,9 @@ aliases: ['/gitara/Oktawa']
 ---
 **Oktawa** to podstawowy [interwał]({{< relref "Interwał.md" >}}) muzyczny o
 stosunku częstotliwości drgań 2:1, występujący między pierwszym a ósmym
-stopniem skali diatonicznej<!-- link nie odnosił się do niczego: 'Oktawa' ('content/książka/Oktawa.md') links to 'skala_diatoniczna' ('content/książka/skala_diatoniczna.md') and that does not exist -->, zawierający
+stopniem skali diatonicznej<!-- link nie odnosił się do niczego: 'Oktawa' ('content/Oktawa.md') links to 'skala_diatoniczna' ('content/skala_diatoniczna.md') and that does not exist -->, zawierający
 12 [półtonów]({{< relref "Półton.md" >}}). Dźwięki odległe o oktawę zlewając się
-w doskonały konsonans<!-- link nie odnosił się do niczego: 'Oktawa' ('content/książka/Oktawa.md') links to 'konsonans' ('content/książka/konsonans.md') and that does not exist --> wywołują wrażenie
+w doskonały konsonans<!-- link nie odnosił się do niczego: 'Oktawa' ('content/Oktawa.md') links to 'konsonans' ('content/konsonans.md') and that does not exist --> wywołują wrażenie
 podobieństwa, dlatego stanową podstawę podziału stosowanej w muzyce
 skali częstotliwości dźwięku na ***oktawy***, składające się z siedmiu
 kolejnych dźwięków skali diatonicznej. Zakres dźwięków typowej

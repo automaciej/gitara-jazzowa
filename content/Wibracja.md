@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['blues', 'gryf', 'lewa_r%C4%99ka', 'wzmacniacz']
-aliases: ['/gitara/Wibracja', 'książka/wibrato']
+aliases: ['/gitara/Wibracja', 'Wibrato.md/wibrato']
 ---
 Są różne rodzaje wibracji. Jako pierwszą zajmiemy się wibracją
 realizowaną [lewą ręką]({{< relref "Lewa_ręka.md" >}}). Rozróżniamy tu dwie

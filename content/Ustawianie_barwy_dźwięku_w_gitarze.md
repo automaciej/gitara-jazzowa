@@ -10,7 +10,7 @@ aliases: ['/gitara/Ustawianie_barwy_dźwięku_w_gitarze', 'ustawianie-barwy-dzwi
 Ustawienie barwy dźwięku w samej gitarze uzależnione jest od jej układu
 elektrycznego. Najbardziej typowe i chyba najlepsze rozwiązanie dają
 dwie przystawki z przełącznikiem i do każdej z nich potencjometry siły i
-barwy tonu. Te drugie, to zazwyczaj tłumiki<!-- link nie odnosił się do niczego: 'Ustawianie barwy dźwięku w gitarze' ('content/książka/Ustawianie_barwy_dźwięku_w_gitarze.md') links to 'tłumik' ('content/książka/tłumik.md') and that does not exist -->, które
+barwy tonu. Te drugie, to zazwyczaj tłumiki<!-- link nie odnosił się do niczego: 'Ustawianie barwy dźwięku w gitarze' ('content/Ustawianie_barwy_dźwięku_w_gitarze.md') links to 'tłumik' ('content/tłumik.md') and that does not exist -->, które
 mogą tylko redukować wysokie częstotliwości. Wielu gitarzystów w ogóle
 ich nie używa, ponieważ dźwięk staje się wówczas bardzo matowy.
 Niektórzy gitarzyści jazzowi używają ich w sposób umiarkowany,

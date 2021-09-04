@@ -9,6 +9,6 @@ wikilinks: ['fraza', 'improwizacj']
 aliases: ['/gitara/Snakes']
 ---
 **Snakes** (ang. *węże*) - pogardliwe określenie dla wyeksploatowanych i
-powta­rzanych stale tak samo fraz<!-- link nie odnosił się do niczego: 'Snakes' ('content/książka/Snakes.md') links to 'fraza' ('content/książka/fraza.md') and that does not exist --> w
-improwizacjach<!-- link nie odnosił się do niczego: 'Snakes' ('content/książka/Snakes.md') links to 'improwizacj' ('content/książka/improwizacj.md') and that does not exist -->.
+powta­rzanych stale tak samo fraz<!-- link nie odnosił się do niczego: 'Snakes' ('content/Snakes.md') links to 'fraza' ('content/fraza.md') and that does not exist --> w
+improwizacjach<!-- link nie odnosił się do niczego: 'Snakes' ('content/Snakes.md') links to 'improwizacj' ('content/improwizacj.md') and that does not exist -->.
 

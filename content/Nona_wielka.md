@@ -12,7 +12,7 @@ Termin **nona wielka** może odnosić się do:
 
   - [interwału]({{< relref "Interwał.md" >}}) nony wielkiej, który wynosi tyle co
     [oktawa]({{< relref "Oktawa.md" >}}) i sekunda
-    wielka<!-- link nie odnosił się do niczego: 'Nona wielka' ('content/książka/Nona_wielka.md') links to 'sekunda_wielka' ('content/książka/sekunda_wielka.md') and that does not exist -->.
+    wielka<!-- link nie odnosił się do niczego: 'Nona wielka' ('content/Nona_wielka.md') links to 'sekunda_wielka' ('content/sekunda_wielka.md') and that does not exist -->.
   - składnika [akordu]({{< relref "Akord.md" >}}), będącego w odległości nony
     wielkiej od prymy akordu
 

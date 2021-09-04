@@ -13,10 +13,10 @@ Kansas City w USA - zmarł 12 marca 1955), saksofonista jazzowy, który
 wywarł znaczący wpływ na jazz.
 
 Czarnoskóry saksofonista altowy, uznawany za geniusza, aktywny w latach
-czterdziestych. Czołowa postać dla stylu bebop<!-- link nie odnosił się do niczego: 'Charlie Parker' ('content/książka/Charlie_Parker.md') links to 'bebop' ('content/książka/bebop.md') and that does not exist -->. Jego
+czterdziestych. Czołowa postać dla stylu bebop<!-- link nie odnosił się do niczego: 'Charlie Parker' ('content/Charlie_Parker.md') links to 'bebop' ('content/bebop.md') and that does not exist -->. Jego
 ulubionym interwałem była [kwinta
 zmniejszona]({{< relref "Kwinta_zmniejszona.md" >}})
-(tryton<!-- link nie odnosił się do niczego: 'Charlie Parker' ('content/książka/Charlie_Parker.md') links to 'tryton' ('content/książka/tryton.md') and that does not exist -->). Znane standardy skomponowane przez
+(tryton<!-- link nie odnosił się do niczego: 'Charlie Parker' ('content/Charlie_Parker.md') links to 'tryton' ('content/tryton.md') and that does not exist -->). Znane standardy skomponowane przez
 Charliego Parkera to między innymi *Billie's Bounce*, *Ornithology* i
 *Yardbird Suite*.
 

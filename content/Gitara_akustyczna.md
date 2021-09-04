@@ -64,4 +64,4 @@ przez duży otwór w górnej płycie. Instrumenty te mają bardzo mocny,
 nośny ton o dość jasnej barwie. Na gitarze Maccaferriego, modelu „Jazz"
 grał [Django Reinhardt]({{< relref "Django_Reinhardt.md" >}}).
 
-Akustyczna, gitara<!-- link nie odnosił się do niczego: 'Gitara akustyczna' ('content/książka/Gitara_akustyczna.md') links to 'kategoria:rodzaje_gitar' ('content/książka/kategoria:rodzaje_gitar.md') and that does not exist -->
+Akustyczna, gitara<!-- link nie odnosił się do niczego: 'Gitara akustyczna' ('content/Gitara_akustyczna.md') links to 'kategoria:rodzaje_gitar' ('content/kategoria:rodzaje_gitar.md') and that does not exist -->

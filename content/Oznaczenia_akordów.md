@@ -74,7 +74,7 @@ można uzasadnić w nastepujący sposób: C7 jest dominantą w tonacji
 F-dur2.1 i rozwiązuje się na akord F. Jest to typowe przejście V-I
 (czyt. pięć-jeden), czyli rozwiązanie dominanty na tonikę. Takie
 rozwiązanie można uzupełnić o subdominantę drugiego stopnia, tworząc
-II-V-I (czyt. *dwa pięć jeden<!-- link nie odnosił się do niczego: 'content/książka/dwa_pięć_jeden.md' wants to redirect to 'content/książka/Dwa_pięć_jeden.md', but 'content/książka/Dwa_pięć_jeden.md' will be deleted -->*). W tonacji
+II-V-I (czyt. *dwa pięć jeden<!-- link nie odnosił się do niczego: 'content/dwa_pięć_jeden.md' wants to redirect to 'content/Dwa_pięć_jeden.md', but 'content/Dwa_pięć_jeden.md' will be deleted -->*). W tonacji
 F-dur subdominantą drugiego stopnia jest akord Gm. W jazzie akordy gra
 się (prawie) zawsze z septymami, więc używamy akordu Gm7.
 
@@ -98,7 +98,7 @@ kwity a vista, na jamie lub w stresie.
 | major                 | [Cmaj7]({{< relref "Cmaj7.md" >}}), CM7, CMA7, C7+, CΔ   |
 | siedem                | C7                                              |
 | mol siedem            | [Cm7]({{< relref "Cm7.md" >}}), CMI7, C-7                |
-| mol siedem pięć minus | Cm7♭5<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/książka/Oznaczenia_akordów.md') links to 'Cm7♭5' ('content/książka/Cm7♭5.md') and that does not exist -->, C-<sup>7♭5</sup>, C⊘ |
+| mol siedem pięć minus | Cm7♭5<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'Cm7♭5' ('content/Cm7♭5.md') and that does not exist -->, C-<sup>7♭5</sup>, C⊘ |
 
 Oto podstawowe oznaczenia, z jakimi się spotykałem. Podziwiam autorów
 kwitów za niespotykaną pomysłowość, np. oznaczenie akordu major poprzez
@@ -111,7 +111,7 @@ Podstawowe typu akordów mogą być uzupełniane o dodatkowe składniki. Na
 przykład zamiast [C7]({{< relref "C7.md" >}}) może pojawić się
 [C9]({{< relref "C9.md" >}}). Składniki podwyższone o pół tonu oznacza się
 poprzedzając składnik znakiem ♯ (krzyżyk, ang. sharp). Na przykład
-D7♯9<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/książka/Oznaczenia_akordów.md') links to 'D7♯9' ('content/książka/D7♯9.md') and that does not exist -->. Składniki obniżone o pół tonu oznacza się ♭
+D7♯9<!-- link nie odnosił się do niczego: 'Oznaczenia akordów' ('content/Oznaczenia_akordów.md') links to 'D7♯9' ('content/D7♯9.md') and that does not exist -->. Składniki obniżone o pół tonu oznacza się ♭
 (bemol, ang. flat). Na przykład [C7♭9]({{< relref "C7♭9.md" >}}).
 
 ## Uzupełnianie akordów

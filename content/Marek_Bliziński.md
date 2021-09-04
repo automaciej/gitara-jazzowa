@@ -154,4 +154,4 @@ Potockiej w Warszawie, na sześć dni przed 42 urodzinami.
   - nuty.pl: książka Marka Blizińskiego p.t. [Gitara
     Jazzowa](http://nuty.pl/autorzy/autor-blizinski_marek.htm)
 
-Bliziński, Marek<!-- link nie odnosił się do niczego: 'Marek Bliziński' ('content/książka/Marek_Bliziński.md') links to 'Kategoria:Gitarzyści_jazzowi' ('content/książka/Kategoria:Gitarzyści_jazzowi.md') and that does not exist -->
+Bliziński, Marek<!-- link nie odnosił się do niczego: 'Marek Bliziński' ('content/Marek_Bliziński.md') links to 'Kategoria:Gitarzyści_jazzowi' ('content/Kategoria:Gitarzyści_jazzowi.md') and that does not exist -->

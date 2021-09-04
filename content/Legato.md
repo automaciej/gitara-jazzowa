@@ -78,14 +78,14 @@ Trzeba zaznaczyć, że ten sposób gry sporadycznie wykorzystywany był też
 jako samodzielny - w ogóle bez udziału prawej ręki. Utwory takie
 spotykane są w literaturze na [gitarę
 klasyczną]({{< relref "Gitara_klasyczna.md" >}}). Inspirowany tą metodą
-Amerykanin Emmet Chapman<!-- link nie odnosił się do niczego: 'Legato' ('content/książka/Legato.md') links to 'Emmet_Chapman' ('content/książka/Emmet_Chapman.md') and that does not exist --> skonstruował
+Amerykanin Emmet Chapman<!-- link nie odnosił się do niczego: 'Legato' ('content/Legato.md') links to 'Emmet_Chapman' ('content/Emmet_Chapman.md') and that does not exist --> skonstruował
 specjalny instrument dziesięciostrunowy o nazwie
 [Stick]({{< relref "Stick.md" >}}), na którym gra się z dwóch stron gryfu, a obie
 ręce samodzielnie skracają i pobudzają struny do drgań. Zobacz więcej:
 [Tapping]({{< relref "Tapping.md" >}}), [Stick]({{< relref "Stick.md" >}})
 
 Do perfekcji doprowadził technikę legatową Allan
-Holdsworth<!-- link nie odnosił się do niczego: 'Legato' ('content/książka/Legato.md') links to 'Allan_Holdsworth' ('content/książka/Allan_Holdsworth.md') and that does not exist -->. Długie, śpiewne frazy gra z
+Holdsworth<!-- link nie odnosił się do niczego: 'Legato' ('content/Legato.md') links to 'Allan_Holdsworth' ('content/Allan_Holdsworth.md') and that does not exist -->. Długie, śpiewne frazy gra z
 idealnie wyważoną dynamiką, niezauważalnie przechodząc ze struny na
 strunę, bez uderzenia kostką.
 

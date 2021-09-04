@@ -12,13 +12,13 @@ aliases: ['/gitara/John_McLaughlin']
 wielki improwizator gitary elektrycznej i aku­stycznej.
 
 W jego głośnym zespole Mahavishnu
-Orchestra<!-- link nie odnosił się do niczego: 'John McLaughlin' ('content/książka/John_McLaughlin.md') links to 'Mahavishnu_Orchestra' ('content/książka/Mahavishnu_Orchestra.md') and that does not exist --> stopiły się [eksperymenty
+Orchestra<!-- link nie odnosił się do niczego: 'John McLaughlin' ('content/John_McLaughlin.md') links to 'Mahavishnu_Orchestra' ('content/Mahavishnu_Orchestra.md') and that does not exist --> stopiły się [eksperymenty
 jazzu i witalność rocka]({{< relref "Jazzrock.md" >}}) lat siedemdziesiątych.
 Łączy cechy błyskotliwego improwizatora z rzetelnością i
 perfekcyjnością muzyka studyj­nego. Gra równie efektownie na gitarze
 elektrycznej co akustycznej, którą natchnął jazzowym blaskiem i
 inten­sywnością wyrazu jak nikt przedtem. Jego występy i na­grania w
-trio z Al Di Meolą<!-- link nie odnosił się do niczego: 'John McLaughlin' ('content/książka/John_McLaughlin.md') links to 'Al_Di_Meola' ('content/książka/Al_Di_Meola.md') and that does not exist --> i [Paco de
+trio z Al Di Meolą<!-- link nie odnosił się do niczego: 'John McLaughlin' ('content/John_McLaughlin.md') links to 'Al_Di_Meola' ('content/Al_Di_Meola.md') and that does not exist --> i [Paco de
 Lucią]({{< relref "Paco_de_Lucia.md" >}}), to nowy rozdział w historii jazzowej
 [gitary akustycznej]({{< relref "Gitara_akustyczna.md" >}}).
 
@@ -32,4 +32,4 @@ W technice gry wykorzystuje wszelkie zdobycze tech­niki gitarowej, np.
 wiele efektów zaczerpniętych z techniki hinduskich instrumentów
 strunowych.
 
-McLaughlin, John<!-- link nie odnosił się do niczego: 'John McLaughlin' ('content/książka/John_McLaughlin.md') links to 'kategoria:gitarzyści_jazzowi' ('content/książka/kategoria:gitarzyści_jazzowi.md') and that does not exist -->
+McLaughlin, John<!-- link nie odnosił się do niczego: 'John McLaughlin' ('content/John_McLaughlin.md') links to 'kategoria:gitarzyści_jazzowi' ('content/kategoria:gitarzyści_jazzowi.md') and that does not exist -->

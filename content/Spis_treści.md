@@ -58,3 +58,4 @@ aliases: ['/gitara/Spis_treści', 'spis-tresci']
     jazzowej]({{< relref "Wprowadzenie_do_harmonii_jazzowej.md" >}})
 12. [Ćwiczenia techniczne]({{< relref "Ćwiczenia_techniczne.md" >}})
 
+

@@ -8,6 +8,6 @@ contributor: 'MaciejBlizinski'
 wikilinks: ['Septyma_(interwa%C5%82)', 'Septyma_akordu']
 aliases: ['/gitara/Septyma']
 ---
-  - Septyma (interwał)<!-- link nie odnosił się do niczego: 'Septyma' ('content/książka/Septyma.md') links to 'Septyma_\\(interwał\\)' ('content/książka/Septyma_\\(interwał\\).md') and that does not exist -->
+  - Septyma (interwał)<!-- link nie odnosił się do niczego: 'Septyma' ('content/Septyma.md') links to 'Septyma_\\(interwał\\)' ('content/Septyma_\\(interwał\\).md') and that does not exist -->
   - [Septyma akordu]({{< relref "Septyma_akordu.md" >}})
 

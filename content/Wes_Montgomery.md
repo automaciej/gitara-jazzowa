@@ -27,4 +27,4 @@ lekki poświst, tak charakterystyczny dla dźwięku gitary Montgomery'ego.
 Jego doskonała sprawność techniczna jest dowodem tego, że istnieją różne
 metody gry i należy je zaakceptować.
 
-Montgomery, Wes<!-- link nie odnosił się do niczego: 'Wes Montgomery' ('content/książka/Wes_Montgomery.md') links to 'Kategoria:gitarzyści_jazzowi' ('content/książka/Kategoria:gitarzyści_jazzowi.md') and that does not exist -->
+Montgomery, Wes<!-- link nie odnosił się do niczego: 'Wes Montgomery' ('content/Wes_Montgomery.md') links to 'Kategoria:gitarzyści_jazzowi' ('content/Kategoria:gitarzyści_jazzowi.md') and that does not exist -->

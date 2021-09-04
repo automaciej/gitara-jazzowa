@@ -28,7 +28,7 @@ problemów palcowania.
 ## Staccato
 
 Przy grze [staccato]({{< relref "Staccato.md" >}}) lub non
-legato<!-- link nie odnosił się do niczego: 'Palcowanie' ('content/książka/Palcowanie.md') links to 'non_legato' ('content/książka/non_legato.md') and that does not exist --> należałoby pamiętać jedynie o tym, aby
+legato<!-- link nie odnosił się do niczego: 'Palcowanie' ('content/Palcowanie.md') links to 'non_legato' ('content/non_legato.md') and that does not exist --> należałoby pamiętać jedynie o tym, aby
 lewa ręka umieszczana była w wygodnych dla danych fraz pozycjach.
 Wygodnych, tj. takich, które umożliwiają dostęp do określonej grupy
 dźwięków. Zmiana pozycji uzasadniona jest wówczas, gdy w nowej zagramy

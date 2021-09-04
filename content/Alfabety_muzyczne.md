@@ -16,8 +16,8 @@ tym:
     [bemolem]({{< relref "Bemol.md" >}}))
 
 We Włoszech można znaleźć w roli symboli [akordów]({{< relref "Akord.md" >}})
-nazwy solmizacyjne<!-- link nie odnosił się do niczego: 'Alfabety muzyczne' ('content/książka/Alfabety_muzyczne.md') links to 'Solmizacja' ('content/książka/Solmizacja.md') and that does not exist -->. Jeśli chodzi o oznaczenia
-dźwięków obcych i alteracji<!-- link nie odnosił się do niczego: 'Alfabety muzyczne' ('content/książka/Alfabety_muzyczne.md') links to 'Dźwięki_alterowane' ('content/książka/Dźwięki_alterowane.md') and that does not exist --> również
+nazwy solmizacyjne<!-- link nie odnosił się do niczego: 'Alfabety muzyczne' ('content/Alfabety_muzyczne.md') links to 'Solmizacja' ('content/Solmizacja.md') and that does not exist -->. Jeśli chodzi o oznaczenia
+dźwięków obcych i alteracji<!-- link nie odnosił się do niczego: 'Alfabety muzyczne' ('content/Alfabety_muzyczne.md') links to 'Dźwięki_alterowane' ('content/Dźwięki_alterowane.md') and that does not exist --> również
 istnieje wiele systemów. Zamiast "+" i "-" można spotkać odpowiednio ♯ i
 ♭ lub \< i \>. Niektóre akordy mają specjalne oznaczenia.
 
@@ -26,10 +26,18 @@ istnieje wiele systemów. Zamiast "+" i "-" można spotkać odpowiednio ♯ i
 Łatwy sposób na zapamiętanie nazw dźwięków jest przez analogię z
 alfabetem, który zaczyna się:
 
-`A B C D E F G`
+
+```
+A B C D E F G
+```
+
 
 Amerykański alfabet muzyczny używa właśnie tych liter. Natomiast
 europejski alfabet używa, analogicznie:
 
-`A H C D E F G`
+
+```
+A H C D E F G
+```
+
 

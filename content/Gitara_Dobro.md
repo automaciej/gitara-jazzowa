@@ -25,4 +25,4 @@ udoskonalane stworzyło **gitarę Dobro**. Kształtem przypomina ona gitarę
 orkiestrową. Używana jest do wykonywania ludowego bluesa, country, a
 także do grania techniką „slide".
 
-Dobro<!-- link nie odnosił się do niczego: 'Gitara Dobro' ('content/książka/Gitara_Dobro.md') links to 'kategoria:rodzaje_gitar' ('content/książka/kategoria:rodzaje_gitar.md') and that does not exist -->
+Dobro<!-- link nie odnosił się do niczego: 'Gitara Dobro' ('content/Gitara_Dobro.md') links to 'kategoria:rodzaje_gitar' ('content/kategoria:rodzaje_gitar.md') and that does not exist -->

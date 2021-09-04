@@ -8,4 +8,4 @@ contributor: 'MaciejBlizinski'
 wikilinks: ['C9sus']
 aliases: ['/gitara/C']
 ---
-1.  REDIRECT C9sus<!-- link nie odnosił się do niczego: 'B♭/C' ('content/książka/B♭/C.md') links to 'C9sus' ('content/książka/B♭/C9sus.md') and that does not exist -->
+1.  REDIRECT C9sus<!-- link nie odnosił się do niczego: 'B♭/C' ('content/B♭/C.md') links to 'C9sus' ('content/B♭/C9sus.md') and that does not exist -->

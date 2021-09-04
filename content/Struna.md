@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Budowa gitary']
 draft: false
 wikilinks: ['Fender', 'Gibson', 'Kenny_Burrell', 'dynamika', 'gitara_akustyczna', 'gitara_akustyczna', 'gitara_dwunastostrunowa', 'gitara_klasyczna', 'grafika:StrunaNaKolku.jpg']
-aliases: ['/gitara/Struna', 'książka/struny']
+aliases: ['/gitara/Struna', 'Struny.md/struny']
 images:
   - path: "/images/StrunaNaKolku.jpg"
 ---
@@ -137,3 +137,5 @@ struny na kołek starannie i ciasno.
 
 Dobrze pamiętać o tym, że każdy gitarzysta powinien mieć zawsze, w razie
 zerwania się struny, co najmniej jeden zapasowy komplet.
+
+

@@ -10,7 +10,7 @@ aliases: ['/gitara/Gitara_dwunastostrunowa']
 **Gitara dwunastostrunowa** ma podwójny naciąg strun, które tak jak w
 mandolinie połączone są w pary. Cztery dolne struny są zdwojone w
 [oktawie]({{< relref "Oktawa.md" >}}), a dwie górne w
-unisonie<!-- link nie odnosił się do niczego: 'Gitara dwunastostrunowa' ('content/książka/Gitara_dwunastostrunowa.md') links to 'unison' ('content/książka/unison.md') and that does not exist -->. Strój instrumentu w zasadzie jest taki
+unisonie<!-- link nie odnosił się do niczego: 'Gitara dwunastostrunowa' ('content/Gitara_dwunastostrunowa.md') links to 'unison' ('content/unison.md') and that does not exist -->. Strój instrumentu w zasadzie jest taki
 sam jak w gitarze sześciostrunowej, z tym że czasami ze względu na
 zwiększoną siłę naciągu stosuje się obniżenie stroju o cały ton. Z
 uwagi na liczbę strun, szyjka z gryfem jest nieco szersza. Na
@@ -31,7 +31,7 @@ przechodzenia oktawy w unison, ale właśnie z tego powodu granic na
 gitarze 12-strunowej wywołuje odmienne skojarzenia harmoniczne, co może
 być przydatne np. przy komponowaniu. Jednym z nielicznych gitarzystów
 jazzowych grających na dwunastostrunowej gitarze jest Ralph
-Towner<!-- link nie odnosił się do niczego: 'Gitara dwunastostrunowa' ('content/książka/Gitara_dwunastostrunowa.md') links to 'Ralph_Towner' ('content/książka/Ralph_Towner.md') and that does not exist -->. Znajduje się on jednak poza głównym
+Towner<!-- link nie odnosił się do niczego: 'Gitara dwunastostrunowa' ('content/Gitara_dwunastostrunowa.md') links to 'Ralph_Towner' ('content/Ralph_Towner.md') and that does not exist -->. Znajduje się on jednak poza głównym
 nurtem jazzu.
 
-Dwunastostrunowa, gitara<!-- link nie odnosił się do niczego: 'Gitara dwunastostrunowa' ('content/książka/Gitara_dwunastostrunowa.md') links to 'kategoria:rodzaje_gitar' ('content/książka/kategoria:rodzaje_gitar.md') and that does not exist -->
+Dwunastostrunowa, gitara<!-- link nie odnosił się do niczego: 'Gitara dwunastostrunowa' ('content/Gitara_dwunastostrunowa.md') links to 'kategoria:rodzaje_gitar' ('content/kategoria:rodzaje_gitar.md') and that does not exist -->

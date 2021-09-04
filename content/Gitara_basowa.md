@@ -34,4 +34,4 @@ Gitara basowa może być skonstruowana w oparciu o gitarę
 klasycznym [pudłem rezonansowym]({{< relref "Pudło_rezonansowe.md" >}})), bądź
 [elektryczną]({{< relref "Gitara_elektryczna.md" >}}).
 
-Basowa, gitara<!-- link nie odnosił się do niczego: 'Gitara basowa' ('content/książka/Gitara_basowa.md') links to 'kategoria:rodzaje_gitar' ('content/książka/kategoria:rodzaje_gitar.md') and that does not exist -->
+Basowa, gitara<!-- link nie odnosił się do niczego: 'Gitara basowa' ('content/Gitara_basowa.md') links to 'kategoria:rodzaje_gitar' ('content/kategoria:rodzaje_gitar.md') and that does not exist -->

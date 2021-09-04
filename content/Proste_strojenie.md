@@ -83,6 +83,6 @@ palcem 4.
 Posługując się tylko strunami skróconymi w pozycjach, eliminujemy mylącą
 niekiedy różnicę barwy w brzmieniu pustych strun. Sposób ten jest jednak
 dość kłopotliwy, jeśli nie dysponujemy
-strojnikami<!-- link nie odnosił się do niczego: 'Proste strojenie' ('content/książka/Proste_strojenie.md') links to 'strojnik' ('content/książka/strojnik.md') and that does not exist --> i używamy tylko
-maszynek<!-- link nie odnosił się do niczego: 'Proste strojenie' ('content/książka/Proste_strojenie.md') links to 'maszynka' ('content/książka/maszynka.md') and that does not exist -->.
+strojnikami<!-- link nie odnosił się do niczego: 'Proste strojenie' ('content/Proste_strojenie.md') links to 'strojnik' ('content/strojnik.md') and that does not exist --> i używamy tylko
+maszynek<!-- link nie odnosił się do niczego: 'Proste strojenie' ('content/Proste_strojenie.md') links to 'maszynka' ('content/maszynka.md') and that does not exist -->.
 

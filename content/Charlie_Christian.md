@@ -27,4 +27,4 @@ Burrell]({{< relref "Kenny_Burrell.md" >}}), [Joe Pass]({{< relref "Joe_Pass.md"
 technika ich wywodzi się od Charlie Christiana. Jest to metoda gry
 bardzo jazzowa i można ją nazwać techniką standardową.
 
-Christian, Charlie<!-- link nie odnosił się do niczego: 'Charlie Christian' ('content/książka/Charlie_Christian.md') links to 'kategoria:gitarzyści_jazzowi' ('content/książka/kategoria:gitarzyści_jazzowi.md') and that does not exist -->
+Christian, Charlie<!-- link nie odnosił się do niczego: 'Charlie Christian' ('content/Charlie_Christian.md') links to 'kategoria:gitarzyści_jazzowi' ('content/kategoria:gitarzyści_jazzowi.md') and that does not exist -->

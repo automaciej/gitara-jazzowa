@@ -39,4 +39,4 @@ itp. Nie trzeba dodawać, że takie rozwiązanie nie daje już akustycznego
 brzmienia pudła rezonansowego, lecz zawiera przewagę brzmienia [gitary
 elektrycznej]({{< relref "Gitara_elektryczna.md" >}}).
 
-Akustyczno-elektryczna, gitara<!-- link nie odnosił się do niczego: 'Gitara akustyczno-elektryczna' ('content/książka/Gitara_akustyczno-elektryczna.md') links to 'kategoria:rodzaje_gitar' ('content/książka/kategoria:rodzaje_gitar.md') and that does not exist -->
+Akustyczno-elektryczna, gitara<!-- link nie odnosił się do niczego: 'Gitara akustyczno-elektryczna' ('content/Gitara_akustyczno-elektryczna.md') links to 'kategoria:rodzaje_gitar' ('content/kategoria:rodzaje_gitar.md') and that does not exist -->

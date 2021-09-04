@@ -33,7 +33,7 @@ muzycznych:
 ## Definicje
 
   - Dźwięk (w rozumieniu
-    akustyki)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/książka/Podstawy_teorii_muzyki.md') links to 'Dźwięk_\\(w_rozumieniu_akustyki\\)' ('content/książka/Dźwięk_\\(w_rozumieniu_akustyki\\).md') and that does not exist -->
+    akustyki)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Dźwięk_\\(w_rozumieniu_akustyki\\)' ('content/Dźwięk_\\(w_rozumieniu_akustyki\\).md') and that does not exist -->
   - [Częstotliwość drgań]({{< relref "Częstotliwość_drgań.md" >}})
   - [Ton]({{< relref "Ton.md" >}})
   - [Dźwięk o określonej
@@ -51,7 +51,7 @@ muzycznych:
   - [Przestrzeń nazw dźwięków bez
     oktawy]({{< relref "Przestrzeń_nazw_dźwięków_bez_oktawy.md" >}})
   - Dźwięk (w rozumieniu
-    harmonii)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/książka/Podstawy_teorii_muzyki.md') links to 'Dźwięk_\\(w_rozumieniu_harmonii\\)' ('content/książka/Dźwięk_\\(w_rozumieniu_harmonii\\).md') and that does not exist -->
+    harmonii)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Dźwięk_\\(w_rozumieniu_harmonii\\)' ('content/Dźwięk_\\(w_rozumieniu_harmonii\\).md') and that does not exist -->
   - [Wysokość dźwięku]({{< relref "Wysokość_dźwięku.md" >}})
   - [A razkreślne]({{< relref "A_razkreślne.md" >}})
   - [Częstotliwości dźwięków]({{< relref "Częstotliwości_dźwięków.md" >}})
@@ -65,4 +65,4 @@ muzycznych:
   - [Akord o budowie tercjowej]({{< relref "Akord_o_budowie_tercjowej.md" >}})
   - [Funkcja harmoniczna]({{< relref "Funkcja_harmoniczna.md" >}})
   - Zapis amerykański i niemiecki
-    (europejski)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/książka/Podstawy_teorii_muzyki.md') links to 'Zapis_amerykański_i_niemiecki_\\(europejski\\)' ('content/książka/Zapis_amerykański_i_niemiecki_\\(europejski\\).md') and that does not exist -->
+    (europejski)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Zapis_amerykański_i_niemiecki_\\(europejski\\)' ('content/Zapis_amerykański_i_niemiecki_\\(europejski\\).md') and that does not exist -->

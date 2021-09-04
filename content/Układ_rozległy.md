@@ -16,7 +16,7 @@ jakie [dźwięki]({{< relref "Dźwięk.md" >}}) chcemy zagrać. Niech będą to 
 G, B} (czyli [Cmaj7]({{< relref "Cmaj7.md" >}})). To jednak nie wszystko. Musimy
 zadecydować, w jaki sposób rozłożyć je w oktawach (oraz na
 [gryfie]({{< relref "Gryf.md" >}})). Można zagrać akord w układzie
-skupionym<!-- link nie odnosił się do niczego: 'Układ rozległy' ('content/książka/Układ_rozległy.md') links to 'układ_skupiony' ('content/książka/układ_skupiony.md') and that does not exist -->, czyli z dźwiękami ułożonymi
+skupionym<!-- link nie odnosił się do niczego: 'Układ rozległy' ('content/Układ_rozległy.md') links to 'układ_skupiony' ('content/układ_skupiony.md') and that does not exist -->, czyli z dźwiękami ułożonymi
 możliwie blisko siebie. Na gitarze najczęściej jest to niemożliwe.
 Dlatego stosuje się inne układy.
 

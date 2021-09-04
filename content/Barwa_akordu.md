@@ -22,8 +22,8 @@ i jak ona powstaje.
 
 Barwa akordu to coś trochę innego niż barwa instrumentu. Barwa akordu
 jest to coś co pozwala na przykład odróżnić akord
-mollowy<!-- link nie odnosił się do niczego: 'Barwa akordu' ('content/książka/Barwa_akordu.md') links to 'akord_mollowy' ('content/książka/akord_mollowy.md') and that does not exist --> od
-durowego<!-- link nie odnosił się do niczego: 'content/książka/akord_durowy.md' wants to redirect to 'content/książka/Akord_durowy.md', but 'content/książka/Akord_durowy.md' will be deleted -->, nawet jeżeli nie wiemy dokładnie,
+mollowy<!-- link nie odnosił się do niczego: 'Barwa akordu' ('content/Barwa_akordu.md') links to 'akord_mollowy' ('content/akord_mollowy.md') and that does not exist --> od
+durowego<!-- link nie odnosił się do niczego: 'content/akord_durowy.md' wants to redirect to 'content/Akord_durowy.md', but 'content/Akord_durowy.md' will be deleted -->, nawet jeżeli nie wiemy dokładnie,
 jakie [dźwięki]({{< relref "Dźwięk.md" >}}) są grane. Jest to coś co jest
 charakterystyczne w brzmieniu jakiegoś danego akordu, a co jest
 odbierane raczej intuicyjnie niż analitycznie i świadomie.
@@ -31,7 +31,7 @@ odbierane raczej intuicyjnie niż analitycznie i świadomie.
 Jeżeli mówi się o kimś, że ma on słuch harmoniczny, to może się to brać
 właśnie stąd, że osoba ta dobrze słyszy barwy akordów i w ten sposób
 potrafi je rozpoznawać. Jest to zupełnie inny rodzaj słuchu niż tzw.
-słuch absolutny<!-- link nie odnosił się do niczego: 'Barwa akordu' ('content/książka/Barwa_akordu.md') links to 'słuch_absolutny' ('content/książka/słuch_absolutny.md') and that does not exist -->, który polega na
+słuch absolutny<!-- link nie odnosił się do niczego: 'Barwa akordu' ('content/Barwa_akordu.md') links to 'słuch_absolutny' ('content/słuch_absolutny.md') and that does not exist -->, który polega na
 umiejętności określenia bezwzględnej wysokości dźwięku, a który nie
 musi iść w parze z dobrym słuchem harmonicznym.
 
@@ -42,8 +42,8 @@ musi iść w parze z dobrym słuchem harmonicznym.
 Wiemy, czym są [interwały]({{< relref "Interwał.md" >}}). Każdy interwał ma swoją
 barwę: inną barwę ma [tercja]({{< relref "Tercja.md" >}}), inną
 [kwinta]({{< relref "Kwinta.md" >}}), jeszcze inną nona
-mała<!-- link nie odnosił się do niczego: 'Barwa akordu' ('content/książka/Barwa_akordu.md') links to 'nona_mała' ('content/książka/nona_mała.md') and that does not exist -->. W momencie kiedy brzmi (wybrzmiewa) akord
-mamy<!-- link nie odnosił się do niczego: 'Barwa akordu' ('content/książka/Barwa_akordu.md') links to 'mamy' ('content/książka/mamy.md') and that does not exist --> do czynienia ze współbrzmieniem wszystkich
+mała<!-- link nie odnosił się do niczego: 'Barwa akordu' ('content/Barwa_akordu.md') links to 'nona_mała' ('content/nona_mała.md') and that does not exist -->. W momencie kiedy brzmi (wybrzmiewa) akord
+mamy<!-- link nie odnosił się do niczego: 'Barwa akordu' ('content/Barwa_akordu.md') links to 'mamy' ('content/mamy.md') and that does not exist --> do czynienia ze współbrzmieniem wszystkich
 interwałów które wchodzą w jego skład.
 
 Różne interwały mają różne barwy. Niektóre barwy są "puste", czyli
@@ -53,7 +53,7 @@ brzmienia akordu. Inne znów są "mocniejsze", ale za to często chropawe,
 
 ### Współbrzmienia interwałów w akordzie
 
-Powiedzmy, że gramy C<!-- link nie odnosił się do niczego: 'Barwa akordu' ('content/książka/Barwa_akordu.md') links to 'C' ('content/książka/C.md') and that does not exist -->-dur w postaci zasadniczej, czyli
+Powiedzmy, że gramy C<!-- link nie odnosił się do niczego: 'Barwa akordu' ('content/Barwa_akordu.md') links to 'C' ('content/C.md') and that does not exist -->-dur w postaci zasadniczej, czyli
 [dźwięki]({{< relref "Dźwięk.md" >}}) (C, E, G). Słyszymy wtedy następujące
 interwały:
 
@@ -94,13 +94,17 @@ akordu, żeby w miarę możliwości pomiędzy najbliższymi składnikami były
 kwarty. W takich akordach najczęściej w jednym miejscu jest jeszcze
 tercja wielka. Przykładowy układ akordu [Cmaj96]({{< relref "Cmaj96.md" >}}):
 
-`E ---O---|---|---|---|---|---`
-`B ---|---O---|---|---|---|---`
-`G ---O---|---|---|---|---|---`
-`D ---O---|---|---|---|---|---`
-`A ---O---|---|---|---|---|---`
-`E ---|---O---|---|---|---|---`
-`    VII VIII`
+
+```
+E ---O---|---|---|---|---|---
+B ---|---O---|---|---|---|---
+G ---O---|---|---|---|---|---
+D ---O---|---|---|---|---|---
+A ---O---|---|---|---|---|---
+E ---|---O---|---|---|---|---
+    VII VIII
+```
+
 
 Akord ten składa się z dźwięków: (C, E, A, D, G, B). Kwarty są pomiędzy
 parami dźwięków \(\Big\{ \{ E, A\}, \{ A, D\}, \{ D, G\} \Big\}\). Przy

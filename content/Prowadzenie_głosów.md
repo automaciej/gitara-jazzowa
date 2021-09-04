@@ -20,7 +20,7 @@ zmiany wysokości.
 
 Oczywiście sposób prowadzenia głosów w jazzie daleki jest od sztywnych
 reguł stosowanych w harmonii
-klasycznej<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' ('content/książka/Prowadzenie_głosów.md') links to 'harmonia_klasyczna' ('content/książka/harmonia_klasyczna.md') and that does not exist -->. W muzyce jazzowej tracą one
+klasycznej<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' ('content/Prowadzenie_głosów.md') links to 'harmonia_klasyczna' ('content/harmonia_klasyczna.md') and that does not exist -->. W muzyce jazzowej tracą one
 rację bytu jako nieuzasadnione. Interpretując prosty przebieg
 harmoniczny, trzeba pamiętać, że forma akordu powinna zależeć nie tylko
 od postaci akordów poprzednich, ale i od następującego. Najprostszym
@@ -31,7 +31,7 @@ molowej. Oto niektóre różnice wykazane w przykładach:
 |   |                         |   |                           |   |                             |   |                           |   |
 | - | ----------------------- | - | ------------------------- | - | --------------------------- | - | ------------------------- | - |
 | | | [G7]({{< relref "G7.md" >}})     | | | [Cmaj7]({{< relref "Cmaj7.md" >}}) | | | [G9]({{< relref "G9.md" >}})         | | | [Cmaj7]({{< relref "Cmaj7.md" >}}) | | |
-| | | [G7♭9]({{< relref "G7♭9.md" >}}) | | | [Cm7]({{< relref "Cm7.md" >}})     | | | G7♭5♭9<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' ('content/książka/Prowadzenie_głosów.md') links to 'G7♭5♭9' ('content/książka/G7♭5♭9.md') and that does not exist --> | | | [Cm7]({{< relref "Cm7.md" >}})     | | |
+| | | [G7♭9]({{< relref "G7♭9.md" >}}) | | | [Cm7]({{< relref "Cm7.md" >}})     | | | G7♭5♭9<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' ('content/Prowadzenie_głosów.md') links to 'G7♭5♭9' ('content/G7♭5♭9.md') and that does not exist --> | | | [Cm7]({{< relref "Cm7.md" >}})     | | |
 
 Analizując te przykłady, można dojść do wniosku, że tonika durowa wymaga
 w poprzedzającej ją subdominancie molowej drugiego stopnia kwinty
