@@ -2,10 +2,10 @@
 title: "Tabele chwytów"
 slug: "tabele-chwytów"
 date: 2005-10-10T15:20:12Z
-kategorie: ['Harmonia jazzowa', 'Tabele chwytów']
+kategorie: ['Harmonia jazzowa']
 draft: false
 contributor: 'MaciejBlizinski'
-wikilinks: ['akord']
+wikilinks: [':Kategoria:Tabele_chwyt%C3%B3w', 'akord']
 aliases: ['/gitara/Tabele_chwytów', 'tabele-chwytow']
 ---
 Przy okazji chciałbym ostrzec gitarzystów przed bezkrytycznym

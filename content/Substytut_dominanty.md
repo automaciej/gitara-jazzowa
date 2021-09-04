@@ -2,10 +2,10 @@
 title: "Substytut dominanty"
 slug: "substytut-dominanty"
 date: 2008-09-02T07:49:09Z
-kategorie: ['Gitarzyści jazzowi', 'Teoria muzyki']
+kategorie: ['Teoria muzyki']
 draft: false
 contributor: 'Ff'
-wikilinks: ['A%E2%99%AD7', 'A%E2%99%AD7', 'Am7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'B13', 'Bdim', 'Bdim', 'C13', 'C7', 'C7', 'C7', 'Cm7', 'F7', 'F7', 'F7', 'F7', 'G%E2%99%AD13', 'G%E2%99%AD7', 'G%E2%99%AD7', 'Gm7', 'Gm7', 'akord', 'akord', 'barwa_akordu', 'blues_jazzowy', 'd%C5%BAwi%C4%99k', 'd%C5%BAwi%C4%99k', 'dominanta', 'septyma', 'tercja', 'tonika', 'tryb']
+wikilinks: [':Kategoria:gitarzy%C5%9Bci_jazzowi', 'A%E2%99%AD7', 'A%E2%99%AD7', 'Am7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'B13', 'Bdim', 'Bdim', 'C13', 'C7', 'C7', 'C7', 'Cm7', 'F7', 'F7', 'F7', 'F7', 'G%E2%99%AD13', 'G%E2%99%AD7', 'G%E2%99%AD7', 'Gm7', 'Gm7', 'akord', 'akord', 'barwa_akordu', 'blues_jazzowy', 'd%C5%BAwi%C4%99k', 'd%C5%BAwi%C4%99k', 'dominanta', 'septyma', 'tercja', 'tonika', 'tryb']
 aliases: ['/gitara/Substytut_dominanty']
 ---
 W [akordzie]({{< relref "Akord.md" >}}) nie wszystkie
