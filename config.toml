@@ -1,6 +1,6 @@
 baseURL = "https://blizinski.pl/"
 languageCode = "pl-pl"
-title = "Harmonia jazzowa na gitarze"
+title = "blizinski.pl"
 defaultContentLanguage = "pl"
 theme = "porting"
 enableGitInfo = true
