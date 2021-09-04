@@ -1,19 +1,19 @@
 baseURL = "https://blizinski.pl/"
 languageCode = "pl-pl"
-title = "Gitara Jazzowa"
+title = "Harmonia jazzowa na gitarze"
 defaultContentLanguage = "pl"
 theme = "porting"
 enableGitInfo = true
 [taxonomies]
   kategoria = "kategorie"
 [params]
-  description = """książka polskiego gitarzysty jazzowego, Marka Blizińskiego"""
-  organization = "Marek Bliziński"
+  description = "Chwyty akordowe, dlaczego akurat takie, oraz jak je łączyć ze sobą."
+  organization = "Maciej Bliziński"
   logo = "/images/android-chrome-192x192.png"
 [params.author]
-  name = "Marek Bliziński"
-  url = "https://pl.wikipedia.org/wiki/Marek_Blizi%C5%84ski"
-  image = "/images/MarekBlizinski.jpg"
+  name = "Maciej Bliziński"
+  url = "https://instagram.com/automaciej"
+  image = ""
 [params.maintainer]
   name = "Maciej Bliziński"
   url = "https://www.facebook.com/maciej.blizinski"
