@@ -1,13 +1,22 @@
 {{ define "main" }}
 
 <main>
-
-  <!-- Manually inserted table of contents -->
-  {{ with .Site.GetPage "książka/" }}
-  {{ with .GetPage "Spis_treści.md" }}
-  {{ .Content }}
+  {{ $initial := "" }}
+  {{- with .Site.GetPage "książka" }}
+  {{- range .Pages.ByTitle }}
+  {{ $currentInitial := substr .Title 0 1 -}}
+  {{- if ne $initial $currentInitial -}}
+  {{- if ne $initial "" -}}
+  </p>
   {{ end }}
-  {{ end }}
+  <p>
+  {{- $initial = $currentInitial -}}
+  <strong>{{ $initial }}</strong>
+  {{- end -}}
+  | <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  {{- end }}
+  {{- end }}
+  </p>
 
   <hr>
 
