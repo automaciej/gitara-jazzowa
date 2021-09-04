@@ -1,1 +1,0 @@
-1.  REDIRECT [Akordy bez prymy](Akordy_bez_prymy "wikilink")

@@ -1,1 +1,0 @@
-1.  REDIRECT [Funkcje harmoniczne](Funkcje_harmoniczne "wikilink")
