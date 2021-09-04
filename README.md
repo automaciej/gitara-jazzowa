@@ -20,4 +20,4 @@ _Książka Marka Blizińskiego_
 - [ ] Nadanie stronie wyglądu
 - [ ] Dodanie przycisków do sieci społecznościowych
 - [ ] Ułożenie podrozdziałów w hierarchię
-- [ ] Lepsza konwersja diagramów akordowych
+- [x] Lepsza konwersja diagramów akordowych
