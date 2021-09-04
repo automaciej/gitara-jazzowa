@@ -17,27 +17,6 @@
   {{ end }}
   {{ end }}
 
-  <hr>
-
-  {{ range first 1 .Pages }}
-  <a href="{{ .RelPermalink }}" title="{{ .Description }}">{{ .Title | lower }}</a>
-  {{ end }}
-  {{ range after 1 .Pages }}
-  &ndash;
-  <a href="{{ .RelPermalink }}" title="{{ .Description }}">{{ .Title | lower }}</a>
-  {{ end }}
-
-
-  <!--
-  {{ range .Site.Taxonomies.kategorie }}
-  <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
-    ({{ .Count }})</li>
-  {{ end }}
-  -->
-
-  <!--
-  <a href="/kategorie">Kategorie stron</a>
-  -->
 </main>
 
 <!-- For now, hardcoded. -->
