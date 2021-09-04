@@ -1,51 +1,61 @@
-[Od autora](Od_autora "wikilink")
+---
+title: "Spis treści"
+slug: "spis-tresci"
+date: 2008-03-13T06:59:59Z
+kategorie: ['Strona główna']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['%C4%86wiczenia_techniczne', ':Kategoria:Rodzaje_gitar', 'Akcentowanie', 'Artykulacja', 'Barwa_d%C5%BAwi%C4%99ku', 'D%C5%BAwi%C4%99ki_markowane', 'D%C5%BAwi%C4%99ki_t%C5%82umione', 'Dynamika', 'Fla%C5%BColet', 'Futera%C5%82', 'Gitara', 'Korekcja_si%C5%82y_brzmienia_strun', 'Kostka', 'Kryteria_oceny_przy_wyborze_instrumentu_i_akcesori%C3%B3w', 'Kszta%C5%82towanie_d%C5%BAwi%C4%99ku', 'Legato', 'Lewa_r%C4%99ka', 'Modulatory_i_filtry_d%C5%BAwi%C4%99ku', 'Modulowanie_d%C5%BAwi%C4%99ku', 'Od_autora', 'Ozdobniki', 'Palcowanie', 'Pasek_do_gitary', 'Pog%C5%82os', 'Postawa_z_instrumentem', 'Praca_r%C4%85k', 'Prawa_r%C4%99ka', 'Przygotowanie_instrumentu_do_gry', 'R%C3%B3%C5%BCne_techniki_gry_na_gitarze', 'Regulacja_menzury_strun', 'Regulacja_szyjki_instrumentu', 'Rejestry_g%C5%82osowe', 'Sprz%C4%99%C5%BCenia', 'Strojenie_gitary', 'Struny', 'Uderzenia_kombinowane', 'Ustawianie_wysoko%C5%9Bci_strun_nad_gryfem', 'Wibracja', 'Wprowadzenie_do_harmonii_jazzowej', 'Wzmacniacz']
+aliases: ['/gitara/Spis_treści', 'spis-treści']
+---
+[Od autora]({{< relref "Od_autora.md" >}})
 
-1.  [Budowa gitar](:Kategoria:Rodzaje_gitar "wikilink")
+1.  [Budowa gitar](/kategorie/rodzaje-gitar "Kategoria Rodzaje gitar")
 2.  [Kryteria oceny przy wyborze instrumentu i
-    akcesoriów](Kryteria_oceny_przy_wyborze_instrumentu_i_akcesoriów "wikilink")
-    1.  [Gitara](Gitara "wikilink")
-    2.  [Wzmacniacz](Wzmacniacz "wikilink")
-    3.  [Struny](Struny "wikilink")
-    4.  [Kostka](Kostka "wikilink")
-    5.  [Pasek do gitary](Pasek_do_gitary "wikilink")
-    6.  [Futerał](Futerał "wikilink")
+    akcesoriów]({{< relref "Wybieranie_instrumentu_i_akcesoriów" >}})
+    1.  [Gitara]({{< relref "Gitara.md" >}})
+    2.  [Wzmacniacz]({{< relref "Wzmacniacz.md" >}})
+    3.  [Struny]({{< relref "Struna" >}})
+    4.  [Kostka]({{< relref "Kostka.md" >}})
+    5.  [Pasek do gitary]({{< relref "Pasek_do_gitary.md" >}})
+    6.  [Futerał]({{< relref "Futerał.md" >}})
 3.  [Przygotowanie instrumentu do
-    gry](Przygotowanie_instrumentu_do_gry "wikilink")
+    gry]({{< relref "Przygotowanie_instrumentu_do_gry.md" >}})
     1.  [Regulacja szyjki
-        instrumentu](Regulacja_szyjki_instrumentu "wikilink")
+        instrumentu]({{< relref "Regulacja_gryfu" >}})
     2.  [Ustawianie wysokości strun nad
-        gryfem](Ustawianie_wysokości_strun_nad_gryfem "wikilink")
-    3.  [Regulacja menzury strun](Regulacja_menzury_strun "wikilink")
+        gryfem]({{< relref "Ustawianie_wysokości_strun_nad_gryfem.md" >}})
+    3.  [Regulacja menzury strun]({{< relref "Regulacja_menzury" >}})
     4.  [Korekcja siły brzmienia
-        strun](Korekcja_siły_brzmienia_strun "wikilink")
-4.  [Postawa z instrumentem](Postawa_z_instrumentem "wikilink")
-5.  [Strojenie gitary](Strojenie_gitary "wikilink")
-6.  [Praca rąk](Praca_rąk "wikilink")
-    1.  [Prawa ręka](Prawa_ręka "wikilink")
-    2.  [Lewa ręka](Lewa_ręka "wikilink")
-    3.  [Palcowanie](Palcowanie "wikilink")
-7.  [Kształtowanie dźwięku](Kształtowanie_dźwięku "wikilink")
-    1.  [Dynamika](Dynamika "wikilink")
-    2.  [Barwa dźwięku](Barwa_dźwięku "wikilink")
-    3.  [Rejestry głosowe](Rejestry_głosowe "wikilink")
-    4.  [Uderzenia kombinowane](Uderzenia_kombinowane "wikilink")
-    5.  [Dźwięki tłumione](Dźwięki_tłumione "wikilink")
-    6.  [Dźwięki markowane](Dźwięki_markowane "wikilink")
-8.  [Modulowanie dźwięku](Modulowanie_dźwięku "wikilink")
-    1.  [Wibracja](Wibracja "wikilink")
-    2.  [Pogłos](Pogłos "wikilink")
+        strun]({{< relref "Korekcja_siły_brzmienia_strun.md" >}})
+4.  [Postawa z instrumentem]({{< relref "Postawa_z_instrumentem.md" >}})
+5.  [Strojenie gitary]({{< relref "Strojenie_gitary.md" >}})
+6.  [Praca rąk]({{< relref "Praca_rąk.md" >}})
+    1.  [Prawa ręka]({{< relref "Prawa_ręka.md" >}})
+    2.  [Lewa ręka]({{< relref "Lewa_ręka.md" >}})
+    3.  [Palcowanie]({{< relref "Palcowanie.md" >}})
+7.  [Kształtowanie dźwięku]({{< relref "Kształtowanie_dźwięku.md" >}})
+    1.  [Dynamika]({{< relref "Dynamika.md" >}})
+    2.  [Barwa dźwięku]({{< relref "Barwa_dźwięku.md" >}})
+    3.  [Rejestry głosowe]({{< relref "Rejestry_głosowe.md" >}})
+    4.  [Uderzenia kombinowane]({{< relref "Uderzenia_kombinowane.md" >}})
+    5.  [Dźwięki tłumione]({{< relref "Dźwięki_tłumione.md" >}})
+    6.  [Dźwięki markowane]({{< relref "Dźwięki_markowane.md" >}})
+8.  [Modulowanie dźwięku]({{< relref "Modulowanie_dźwięku.md" >}})
+    1.  [Wibracja]({{< relref "Wibracja.md" >}})
+    2.  [Pogłos]({{< relref "Pogłos.md" >}})
     3.  [Modulatory i filtry
-        dźwięku](Modulatory_i_filtry_dźwięku "wikilink")
-    4.  [Sprzężenia](Sprzężenia "wikilink")
-9.  [Artykulacja](Artykulacja "wikilink")
-    1.  [Legato](Legato "wikilink")
-    2.  [Akcentowanie](Akcentowanie "wikilink")
-    3.  [Ozdobniki](Ozdobniki "wikilink")
-    4.  [Flażolety](Flażolet "wikilink")
+        dźwięku]({{< relref "Modulatory_i_filtry_dźwięku.md" >}})
+    4.  [Sprzężenia]({{< relref "Sprzężenie_zwrotne" >}})
+9.  [Artykulacja]({{< relref "Artykulacja.md" >}})
+    1.  [Legato]({{< relref "Legato.md" >}})
+    2.  [Akcentowanie]({{< relref "Akcentowanie.md" >}})
+    3.  [Ozdobniki]({{< relref "Ozdobniki.md" >}})
+    4.  [Flażolety]({{< relref "Flażolet.md" >}})
 10. [Różne techniki gry na
-    gitarze](Różne_techniki_gry_na_gitarze "wikilink")
-11. [Wprowadzenie do harmonii
-    jazzowej](Wprowadzenie_do_harmonii_jazzowej "wikilink")
-12. [Ćwiczenia techniczne](Ćwiczenia_techniczne "wikilink")
+    gitarze]({{< relref "Technika" >}})
+11. Wprowadzenie do harmonii
+    jazzowej<!-- link nie odnosił się do niczego: 'Spis treści' ('content/Spis_treści.md') links to 'Wprowadzenie_do_harmonii_jazzowej' ('content/Wprowadzenie_do_harmonii_jazzowej.md') and that does not exist -->
+12. [Ćwiczenia techniczne]({{< relref "Ćwiczenia_techniczne.md" >}})
 
-[kategoria:strona główna](kategoria:strona_główna "wikilink")
+

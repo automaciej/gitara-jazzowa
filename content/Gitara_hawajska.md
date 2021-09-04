@@ -1,3 +1,13 @@
+---
+title: "Gitara hawajska"
+slug: "gitara-hawajska"
+date: 2005-06-05T07:53:19Z
+kategorie: ['Rodzaje gitar']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['A', 'pud%C5%82o_rezonansowe', 'technika']
+aliases: ['/gitara/Gitara_hawajska']
+---
 Bardzo specyficzną odmianą jest **gitara hawajska**, tzw. steelguitar. Z
 jazzem ma ona niewiele wspólnego, wykorzystywana jest na ogół w
 zespołach rozrywkowych i country. Elektryczna gitara hawajska jest
@@ -7,7 +17,7 @@ przed grającym na specjalnym stoliku lub też wyposażona jest w nóżki.
 Grający w lewej ręce trzyma metalowy suwak, którym skraca struny lekko
 je dociskając. Na prawą ma założone specjalne pierścienie zakończone
 piórkami, którymi zarywa struny. Strój gitary hawajskiej jest oparty na
-akordzie durowym e, cis, a, e, A, E ([A](A "wikilink")-dur). Dla
+akordzie durowym e, cis, a, e, A, E (A<!-- link nie odnosił się do niczego: 'Gitara hawajska' ('content/Gitara_hawajska.md') links to 'A' ('content/A.md') and that does not exist -->-dur). Dla
 ułatwienia gry i rozszerzenia możliwości produkowane są też całe
 zestawy gitar hawajskich, które można nastroić na różne tonacje i akordy
 oraz używać równolegle, przerzucając się tylko z gryfu na gryf.
@@ -17,11 +27,11 @@ budowie - rozszerzającej zakres ich możliwości.
 Zwykłą gitarę można zaadoptować do gry na sposób hawajski, podwyższając
 siodełko na tyle, aby operując suwakiem, nic dociskać strun do progów.
 Grający kładzie wówczas [pudło
-rezonansowe](pudło_rezonansowe "wikilink") na prawym udzie, a szyjkę na
+rezonansowe]({{< relref "Pudło_rezonansowe.md" >}}) na prawym udzie, a szyjkę na
 lewym.
 
-Zupełnie odmienna [technika](technika "wikilink") gry, jak i strój
+Zupełnie odmienna [technika]({{< relref "Technika.md" >}}) gry, jak i strój
 gitary hawajskiej tworzy specjalistów w tej dziedzinie, bowiem
 umiejętność gry na gitarze konwencjonalnej jest tu mało przydatna.
 
-[Hawajska, gitara](kategoria:rodzaje_gitar "wikilink")
+Hawajska, gitara<!-- link nie odnosił się do niczego: 'Gitara hawajska' ('content/Gitara_hawajska.md') links to 'kategoria:rodzaje_gitar' ('content/kategoria:rodzaje_gitar.md') and that does not exist -->

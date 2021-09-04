@@ -1,20 +1,30 @@
+---
+title: "Wes Montgomery"
+slug: "wes-montgomery"
+date: 2005-06-05T07:46:48Z
+kategorie: ['Gitarzyści jazzowi']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['kostka', 'lewa_r%C4%99ka', 'oktawa', 'pud%C5%82o_rezonansowe', 'single_note', 'tremolo']
+aliases: ['/gitara/Wes_Montgomery']
+---
 **Wes Montgomery** w zasadzie nie używał kostki. Uderzał w struny
 kciukiem prawej ręki. Pozostałe palce opierał na [pudle
-rezonansowym](pudło_rezonansowe "wikilink"), pod strunami.
+rezonansowym]({{< relref "Pudło_rezonansowe.md" >}}), pod strunami.
 
 Tę technikę opanował do tego stopnia, że kciukiem posługiwał się jak
 kostką, a więc stosował uderzenia nie tylko z góry w dół, ale i z dołu
-do góry, uzyskiwał [tremolo](tremolo "wikilink"), grał [single
-note](single_note "wikilink"), akordami i przede wszystkim
-[oktawami](oktawa "wikilink"). Stosował on taką metodę: grając oktawę
+do góry, uzyskiwał [tremolo]({{< relref "Tremolo.md" >}}), grał [single
+note]({{< relref "Single_note.md" >}}), akordami i przede wszystkim
+oktawami<!-- link nie odnosił się do niczego: 'Wes Montgomery' ('content/Wes_Montgomery.md') links to 'oktawa' ('content/oktawa.md') and that does not exist -->. Stosował on taką metodę: grając oktawę
 np. na strunie D-4 i H-2 uderzeniem kciuka atakował również strunę G-3,
 której brzmienie było niepożądane. Tę środkową strunę tłumił palcami
-[lewej ręki](lewa_ręka "wikilink").
+[lewej ręki]({{< relref "Lewa_ręka.md" >}}).
 
-Przy grze [kostką](kostka "wikilink") szczególnie twardą, słychać
+Przy grze [kostką]({{< relref "Kostka.md" >}}) szczególnie twardą, słychać
 uderzenie w tę tłumioną strunę. Natomiast opuszek kciuka daje tylko
 lekki poświst, tak charakterystyczny dla dźwięku gitary Montgomery'ego.
 Jego doskonała sprawność techniczna jest dowodem tego, że istnieją różne
 metody gry i należy je zaakceptować.
 
-[Montgomery, Wes](Kategoria:gitarzyści_jazzowi "wikilink")
+Montgomery, Wes<!-- link nie odnosił się do niczego: 'Wes Montgomery' ('content/Wes_Montgomery.md') links to 'Kategoria:gitarzyści_jazzowi' ('content/Kategoria:gitarzyści_jazzowi.md') and that does not exist -->
