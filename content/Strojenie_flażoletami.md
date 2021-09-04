@@ -1,12 +1,12 @@
 ---
 title: "Strojenie flażoletami"
-slug: "strojenie-flażoletami"
+slug: "strojenie-flazoletami"
 date: 2005-06-05T06:44:42Z
 kategorie: ['Strojenie gitary']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Fla%C5%BColet', 'Grafika:NutyStrojenieFlazoletami.png', 'Grafika:StrojenieFlazoletami.png', 'fla%C5%BColet']
-aliases: ['/gitara/Strojenie_flażoletami', 'strojenie-flazoletami']
+aliases: ['/gitara/Strojenie_flażoletami', 'strojenie-flażoletami']
 images:
   - path: "/images/NutyStrojenieFlazoletami.png"
   - path: "/images/StrojenieFlazoletami.png"

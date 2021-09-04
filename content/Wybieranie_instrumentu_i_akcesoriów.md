@@ -1,11 +1,11 @@
 ---
 title: "Wybieranie instrumentu i akcesoriów"
-slug: "wybieranie-instrumentu-i-akcesoriów"
+slug: "wybieranie-instrumentu-i-akcesoriow"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Akcesoria gitarzysty']
 draft: false
 wikilinks: ['%C5%9Aciereczka', 'Futera%C5%82', 'Gitara', 'Kabel_do_gitary', 'Kapodaster', 'Korbka', 'Kostka', 'Pasek_do_gitary', 'Sto%C5%82ek', 'Stojak_do_gitary', 'Struny', 'Wzmacniacz', 'kostka', 'mostek', 'struny', 'wzmacniacz']
-aliases: ['/gitara/Wybieranie_instrumentu_i_akcesoriów', 'Kryteria_oceny_przy_wyborze_instrumentu_i_akcesoriów.md/kryteria-oceny-przy-wyborze-instrumentu-i-akcesoriów', 'wybieranie-instrumentu-i-akcesoriow']
+aliases: ['/gitara/Wybieranie_instrumentu_i_akcesoriów', 'Kryteria_oceny_przy_wyborze_instrumentu_i_akcesoriów.md/kryteria-oceny-przy-wyborze-instrumentu-i-akcesoriow', 'wybieranie-instrumentu-i-akcesoriów']
 ---
   - [Gitara]({{< relref "Gitara.md" >}})
   - [Wzmacniacz]({{< relref "Wzmacniacz.md" >}})

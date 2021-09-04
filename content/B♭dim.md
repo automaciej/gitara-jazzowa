@@ -1,12 +1,12 @@
 ---
 title: "B♭dim"
-slug: "b-dim"
+slug: "bdim"
 date: 2005-05-26T11:56:42Z
 kategorie: ['Akordy zmniejszone', 'Tabele chwytów']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: []
-aliases: ['/gitara/B♭dim', 'Bbdim.md/bbdim', 'bdim']
+aliases: ['/gitara/B♭dim', 'Bbdim.md/bbdim', 'b-dim']
 ---
 B♭-zmniejszony.
 

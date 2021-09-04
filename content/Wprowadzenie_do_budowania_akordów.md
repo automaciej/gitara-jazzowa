@@ -1,12 +1,12 @@
 ---
 title: "Wprowadzenie do budowania akordów"
-slug: "wprowadzenie-do-budowania-akordów"
+slug: "wprowadzenie-do-budowania-akordow"
 date: 2007-08-16T08:19:22Z
 kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['C6', 'C7', 'Cm6', 'Cm7', 'Cmaj7', 'G6', 'G7', 'Gm7', 'Gmaj7', 'Grafika:Chord-eb-major.png', 'II-V-I', 'ograniczenia_gitary']
-aliases: ['/gitara/Wprowadzenie_do_budowania_akordów', 'wprowadzenie-do-budowania-akordow']
+aliases: ['/gitara/Wprowadzenie_do_budowania_akordów', 'wprowadzenie-do-budowania-akordów']
 images:
   - path: "/images/Chord-eb-major.png"
 ---

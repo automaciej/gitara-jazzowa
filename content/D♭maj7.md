@@ -1,12 +1,12 @@
 ---
 title: "D♭maj7"
-slug: "d-maj7"
+slug: "dmaj7"
 date: 2005-06-08T22:23:25Z
 kategorie: ['Akordy durowe', 'Tabele chwytów']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['septyma_wielka']
-aliases: ['/gitara/D♭maj7', 'dmaj7']
+aliases: ['/gitara/D♭maj7', 'd-maj7']
 ---
 **D♭-dur** z [septymą wielką]({{< relref "Septyma_wielka.md" >}}).
 

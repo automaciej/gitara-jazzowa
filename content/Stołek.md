@@ -1,12 +1,12 @@
 ---
 title: "Stołek"
-slug: "stołek"
+slug: "stolek"
 date: 2005-09-30T17:09:42Z
 kategorie: ['Akcesoria gitarzysty']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Postawa_z_instrumentem']
-aliases: ['/gitara/Stołek', 'stolek']
+aliases: ['/gitara/Stołek', 'stołek']
 ---
 Produkowane są specjalne **stołki** dla gitarzystów. Są wyższe od
 stołków perkusyjnych. Z tyłu mają niskie oparcie, z przodu - podpórkę

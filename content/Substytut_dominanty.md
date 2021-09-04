@@ -18,7 +18,7 @@ septyma kontekst ([toniczny]({{< relref "Tonika.md" >}}) lub
 [dominantowy]({{< relref "Funkcje_harmoniczne.md" >}})).
 
 W [akordach]({{< relref "Akord.md" >}}) dominantowych można spotkać się z tym, że
-[gitarzyści](/kategorie/gitarzyści-jazzowi "Kategoria gitarzyści jazzowi") grają jedynie
+[gitarzyści](/kategorie/gitarzysci-jazzowi "Kategoria gitarzyści jazzowi") grają jedynie
 tercję i septymę\! Gitarzysta, poproszony o zagranie akordu C7 gra
 dźwięki E i B♭. Zróbmy teraz takie ćwiczenie: zagrajmy tercję i
 septymę akordu C7... a teraz tercję i septymę akordu G♭7...

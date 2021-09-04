@@ -1,12 +1,12 @@
 ---
 title: "Flażolet sztuczny"
-slug: "flażolet-sztuczny"
+slug: "flazolet-sztuczny"
 date: 2005-05-22T16:57:22Z
 kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg', 'grafika:WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg']
-aliases: ['/gitara/Flażolet_sztuczny', 'flazolet-sztuczny']
+aliases: ['/gitara/Flażolet_sztuczny', 'flażolet-sztuczny']
 images:
   - path: "/images/PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg"
   - path: "/images/WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg"

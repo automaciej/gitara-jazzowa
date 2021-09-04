@@ -1,12 +1,12 @@
 ---
 title: "Pogłos"
-slug: "pogłos"
+slug: "poglos"
 date: 2005-10-01T16:20:12Z
 kategorie: ['Akcesoria gitarzysty']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['wzmacniacz']
-aliases: ['/gitara/Pogłos', 'poglos']
+aliases: ['/gitara/Pogłos', 'pogłos']
 ---
 ## Pogłos sprężynowy
 

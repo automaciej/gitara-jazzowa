@@ -1,12 +1,12 @@
 ---
 title: "Częstotliwości dźwięków"
-slug: "częstotliwości-dźwięków"
+slug: "czestotliwosci-dzwiekow"
 date: 2007-07-08T21:29:20Z
 kategorie: ['Teoria muzyki']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Znak_chromatyczny']
-aliases: ['/gitara/Częstotliwości_dźwięków', 'czestotliwosci-dzwiekow']
+aliases: ['/gitara/Częstotliwości_dźwięków', 'częstotliwości-dźwięków']
 ---
 Częstotliwości pozostałych dźwięków określone są następująco:
 

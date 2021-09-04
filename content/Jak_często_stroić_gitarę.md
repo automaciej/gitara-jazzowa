@@ -1,12 +1,12 @@
 ---
 title: "Jak często stroić gitarę"
-slug: "jak-często-stroić-gitarę"
+slug: "jak-czesto-stroic-gitare"
 date: 2005-07-04T15:44:30Z
 kategorie: ['Konserwacja gitary', 'Strojenie gitary']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['%C4%87wiczenie', 'Str%C3%B3j_gitary', 'Strojenie_gitary']
-aliases: ['/gitara/Jak_często_stroić_gitarę', 'jak-czesto-stroic-gitare']
+aliases: ['/gitara/Jak_często_stroić_gitarę', 'jak-często-stroić-gitarę']
 ---
 [Strój gitary]({{< relref "Strojenie_gitary" >}}) należy sprawdzać przed każdym
 użyciem instrumentu; również jeśli zabieramy się do

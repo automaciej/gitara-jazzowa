@@ -1,12 +1,12 @@
 ---
 title: "Siła uderzenia a barwa dźwięku"
-slug: "siła-uderzenia-a-barwa-dźwięku"
+slug: "sila-uderzenia-a-barwa-dzwieku"
 date: 2005-05-22T18:12:37Z
 kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['artykulacja', 'dynamika', 'kostka', 'wzmacniacz']
-aliases: ['/gitara/Siła_uderzenia_a_barwa_dźwięku', 'sila-uderzenia-a-barwa-dzwieku']
+aliases: ['/gitara/Siła_uderzenia_a_barwa_dźwięku', 'siła-uderzenia-a-barwa-dźwięku']
 ---
 W rozdziale o podstawowej barwie dźwięku wspomniałem o zależności
 pomiędzy ustawieniem siły głosu we wzmacniaczu, a barwą dźwięku.

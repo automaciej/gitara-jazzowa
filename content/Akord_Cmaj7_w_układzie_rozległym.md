@@ -1,12 +1,12 @@
 ---
 title: "Akord Cmaj7 w układzie rozległym"
-slug: "akord-cmaj7-w-układzie-rozległym"
+slug: "akord-cmaj7-w-ukladzie-rozleglym"
 date: 2005-05-26T07:30:07Z
 kategorie: ['Układ rozległy']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: []
-aliases: ['/gitara/Akord_Cmaj7_w_układzie_rozległym', 'akord-cmaj7-w-ukladzie-rozleglym']
+aliases: ['/gitara/Akord_Cmaj7_w_układzie_rozległym', 'akord-cmaj7-w-układzie-rozległym']
 ---
 Diagram ten wygląda bardzo sympatycznie...
 

@@ -1,12 +1,12 @@
 ---
 title: "Modulatory i filtry dźwięku"
-slug: "modulatory-i-filtry-dźwięku"
+slug: "modulatory-i-filtry-dzwieku"
 date: 2005-10-01T16:20:24Z
 kategorie: ['Akcesoria gitarzysty']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Chorus', 'Delay', 'Envelope_filter', 'Flanger', 'Fuzz', 'Grafika:Multiprocesor.jpg', 'John_McLaughlin', 'MIDI', 'Octaver', 'Pat_Metheny', 'Phaser', 'Ring_modulator', 'Sustainer', 'Tape_echo', 'Wahwah', 'bramka_szum%C3%B3w', 'gitara_elektryczna', 'sygna%C5%82', 'syntezator_gitarowy', 'wzmacniacz', 'wzmacniacz', 'wzmacniacz']
-aliases: ['/gitara/Modulatory_i_filtry_dźwięku', 'modulatory-i-filtry-dzwieku']
+aliases: ['/gitara/Modulatory_i_filtry_dźwięku', 'modulatory-i-filtry-dźwięku']
 images:
   - path: "/images/Multiprocesor.jpg"
 ---

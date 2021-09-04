@@ -1,12 +1,12 @@
 ---
 title: "A razkreślne"
-slug: "a-razkreślne"
+slug: "a-razkreslne"
 date: 2007-07-08T21:29:09Z
 kategorie: ['Teoria muzyki']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['d%C5%BAwi%C4%99k']
-aliases: ['/gitara/A_razkreślne', 'a-razkreslne']
+aliases: ['/gitara/A_razkreślne', 'a-razkreślne']
 ---
 \(A_4\) to [dźwięk]({{< relref "Dźwięk.md" >}}) o częstotliwości 440Hz
 

@@ -1,12 +1,12 @@
 ---
 title: "Akord 7 w układzie rozległym"
-slug: "akord-7-w-układzie-rozległym"
+slug: "akord-7-w-ukladzie-rozleglym"
 date: 2005-06-10T05:58:31Z
 kategorie: ['Układ rozległy']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['septyma_ma%C5%82a']
-aliases: ['/gitara/Akord_7_w_układzie_rozległym', 'akord-7-w-ukladzie-rozleglym']
+aliases: ['/gitara/Akord_7_w_układzie_rozległym', 'akord-7-w-układzie-rozległym']
 ---
 Akord durowy z [septymą małą]({{< relref "Septyma_mała.md" >}}).
 

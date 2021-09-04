@@ -1,12 +1,12 @@
 ---
 title: "Dźwięki tłumione"
-slug: "dźwięki-tłumione"
+slug: "dzwieki-tlumione"
 date: 2011-11-23T09:41:38Z
 kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['prawa_r%C4%99ka']
-aliases: ['/gitara/Dźwięki_tłumione', 'dzwieki-tlumione']
+aliases: ['/gitara/Dźwięki_tłumione', 'dźwięki-tłumione']
 ---
 W jazzie dźwięki tłumione, jako podstawowa barwa dźwięku używane są
 raczej rzadko. Częściej w muzyce rozrywkowej, soul, funky.

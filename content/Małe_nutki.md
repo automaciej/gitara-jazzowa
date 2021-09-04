@@ -1,12 +1,12 @@
 ---
 title: "Małe nutki"
-slug: "małe-nutki"
+slug: "male-nutki"
 date: 2005-05-22T16:58:16Z
 kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:NutyMaleNutki.png']
-aliases: ['/gitara/Małe_nutki', 'male-nutki']
+aliases: ['/gitara/Małe_nutki', 'małe-nutki']
 images:
   - path: "/images/NutyMaleNutki.png"
 ---

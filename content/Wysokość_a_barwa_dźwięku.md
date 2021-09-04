@@ -1,12 +1,12 @@
 ---
 title: "Wysokość a barwa dźwięku"
-slug: "wysokość-a-barwa-dźwięku"
+slug: "wysokosc-a-barwa-dzwieku"
 date: 2005-05-23T21:01:05Z
 kategorie: ['Strojenie gitary']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Barwa_d%C5%BAwi%C4%99ku', 'Strojenie_gitary']
-aliases: ['/gitara/Wysokość_a_barwa_dźwięku', 'wysokosc-a-barwa-dzwieku']
+aliases: ['/gitara/Wysokość_a_barwa_dźwięku', 'wysokość-a-barwa-dźwięku']
 ---
 Przystępując do strojenia, należy pamiętać o tym, że dźwięki o barwie
 ciemnej sprawiają wrażenie niższych niż w rzeczywistości, a dźwięki o

@@ -24,5 +24,5 @@ odleglosci tercji.
 **Zobacz też**
 
   - [Akord o budowie tercjowej]({{< relref "Akord_o_budowie_tercjowej.md" >}})
-  - [Tabele chwytów](/kategorie/tabele-chwytów "Kategoria Tabele chwytów")
+  - [Tabele chwytów](/kategorie/tabele-chwytow "Kategoria Tabele chwytów")
 

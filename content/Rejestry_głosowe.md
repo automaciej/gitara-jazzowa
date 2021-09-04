@@ -1,11 +1,11 @@
 ---
 title: "Rejestry głosowe"
-slug: "rejestry-głosowe"
+slug: "rejestry-glosowe"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['barwa_d%C5%BAwi%C4%99ku', 'gitara_akustyczna', 'mostek', 'prawa_r%C4%99ka', 'wzmacniacz']
-aliases: ['/gitara/Rejestry_głosowe', 'Rejestr_głosowy.md/rejestr-głosowy', 'rejestry-glosowe']
+aliases: ['/gitara/Rejestry_głosowe', 'Rejestr_głosowy.md/rejestr-glosowy', 'rejestry-głosowe']
 ---
 W zasadzie na gitarze jazzowej gra się za pomocą uderzenia w jedno
 określone miejsce strun: w pobliżu przystawki bliższej gryfu. Są też

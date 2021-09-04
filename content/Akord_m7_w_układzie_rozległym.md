@@ -1,12 +1,12 @@
 ---
 title: "Akord m7 w układzie rozległym"
-slug: "akord-m7-w-układzie-rozległym"
+slug: "akord-m7-w-ukladzie-rozleglym"
 date: 2005-06-10T05:58:36Z
 kategorie: ['Układ rozległy']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['septyma_ma%C5%82a']
-aliases: ['/gitara/Akord_m7_w_układzie_rozległym', 'akord-m7-w-ukladzie-rozleglym']
+aliases: ['/gitara/Akord_m7_w_układzie_rozległym', 'akord-m7-w-układzie-rozległym']
 ---
 Akord mollowy z [septymą małą]({{< relref "Septyma_mała.md" >}}).
 

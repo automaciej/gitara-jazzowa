@@ -1,12 +1,12 @@
 ---
 title: "Zapis amerykański i niemiecki (europejski)"
-slug: "zapis-amerykański-i-niemiecki-europejski"
+slug: "zapis-amerykanski-i-niemiecki-europejski"
 date: 2007-07-08T21:30:19Z
 kategorie: ['Teoria muzyki']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Alfabety_muzyczne']
-aliases: ['/gitara/Zapis_amerykański_i_niemiecki_(europejski)', 'zapis-amerykanski-i-niemiecki-europejski']
+aliases: ['/gitara/Zapis_amerykański_i_niemiecki_(europejski)', 'zapis-amerykański-i-niemiecki-europejski']
 ---
 Historia polskiej muzyki jest ściśle związana z historią muzyki
 europejskiej i właśnie z tych historycznych względów zwyczajowo stosuje

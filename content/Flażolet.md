@@ -1,12 +1,12 @@
 ---
 title: "Flażolet"
-slug: "flażolet"
+slug: "flazolet"
 date: 2005-09-20T06:01:23Z
 kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Fla%C5%BColet_sztuczny', 'Grafika:Flazolety.png', 'Strojenie_fla%C5%BColetami', 'grafika:NutyFlazolety01.png', 'grafika:NutyFlazolety02.png']
-aliases: ['/gitara/Flażolet', 'flazolet']
+aliases: ['/gitara/Flażolet', 'flażolet']
 images:
   - path: "/images/Flazolety.png"
   - path: "/images/NutyFlazolety01.png"

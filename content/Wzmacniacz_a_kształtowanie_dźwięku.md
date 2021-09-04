@@ -1,11 +1,11 @@
 ---
 title: "Wzmacniacz a kształtowanie dźwięku"
-slug: "wzmacniacz-a-kształtowanie-dźwięku"
+slug: "wzmacniacz-a-ksztaltowanie-dzwieku"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:EqualizerWzmacniacza.png', 'Sprz%C4%99%C5%BCenie_zwrotne', 'Wzmacniacz', 'barwa_d%C5%BAwi%C4%99ku', 'dynamika', 'dynamika', 'equalizer', 'mainstream', 'pasmo_cz%C4%99stotliwo%C5%9Bci', 'pud%C5%82o_rezonansowe', 'technika', 'wzmacniacz', 'wzmacniacz']
-aliases: ['/gitara/Wzmacniacz_a_kształtowanie_dźwięku', 'wzmacniacz-a-ksztaltowanie-dzwieku']
+aliases: ['/gitara/Wzmacniacz_a_kształtowanie_dźwięku', 'wzmacniacz-a-kształtowanie-dźwięku']
 images:
   - path: "/images/EqualizerWzmacniacza.png"
 ---

@@ -1,12 +1,12 @@
 ---
 title: "Instrument transponujący"
-slug: "instrument-transponujący"
+slug: "instrument-transponujacy"
 date: 2005-10-31T19:14:24Z
 kategorie: ['Strojenie gitary', 'Teoria muzyki']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Strojenie_gitary', 'oktawa', 'zapis_nutowy']
-aliases: ['/gitara/Instrument_transponujący', 'instrument-transponujacy']
+aliases: ['/gitara/Instrument_transponujący', 'instrument-transponujący']
 ---
 **Gitara jest instrumentem transponującym o [oktawę]({{< relref "Oktawa.md" >}})
 w dół**. Znaczy to, że nuty napisane np. na fortepian - na gitarze będą

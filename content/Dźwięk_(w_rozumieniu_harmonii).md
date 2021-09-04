@@ -1,11 +1,11 @@
 ---
 title: "Dźwięk (w rozumieniu harmonii)"
-slug: "dźwięk-w-rozumieniu-harmonii"
+slug: "dzwiek-w-rozumieniu-harmonii"
 date: 2005-01-01T00:00:00+01:00
 kategorie: ['Teoria muzyki']
 draft: false
 wikilinks: ['A_razkre%C5%9Blne', 'cz%C4%99stotliwo%C5%9B%C4%87', 'oktawa']
-aliases: ['/gitara/Dźwięk_(w_rozumieniu_harmonii)', 'dzwiek-w-rozumieniu-harmonii']
+aliases: ['/gitara/Dźwięk_(w_rozumieniu_harmonii)', 'dźwięk-w-rozumieniu-harmonii']
 ---
 **Dźwięk w rozumieniu harmonii** to konkretna nazwa literowa, na
 przykład *A* albo *G*. Można też podać dźwięk z oktawą, np. [A

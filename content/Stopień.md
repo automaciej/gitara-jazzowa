@@ -1,12 +1,12 @@
 ---
 title: "Stopień"
-slug: "stopień"
+slug: "stopien"
 date: 2007-07-08T21:29:54Z
 kategorie: ['Teoria muzyki']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Akord_o_budowie_tercjowej', 'akord', 'd%C5%BAwi%C4%99k', 'interwa%C5%82', 'tercja_akordu']
-aliases: ['/gitara/Stopień', 'stopien']
+aliases: ['/gitara/Stopień', 'stopień']
 ---
 Stopień odnosi się do różnych pojęć w muzyce, będących zbiorami
 [dźwięków]({{< relref "Dźwięk.md" >}}). Stopień czegoś oznacza ten element

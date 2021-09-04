@@ -1,12 +1,12 @@
 ---
 title: "Półton"
-slug: "półton"
+slug: "polton"
 date: 2005-06-26T17:26:30Z
 kategorie: ['Teoria muzyki']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['oktawa']
-aliases: ['/gitara/Półton', 'polton']
+aliases: ['/gitara/Półton', 'półton']
 ---
 **Półton** to jedna dwunasta [oktawy]({{< relref "Oktawa.md" >}}).
 

@@ -1,12 +1,12 @@
 ---
 title: "Składniki akordów"
-slug: "składniki-akordów"
+slug: "skladniki-akordow"
 date: 2005-05-21T15:24:53Z
 kategorie: ['Harmonia jazzowa']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Wikipedysta:MaciejBlizinski', 'akord', 'znaki_chromatyczne']
-aliases: ['/gitara/Składniki_akordów', 'skladniki-akordow']
+aliases: ['/gitara/Składniki_akordów', 'składniki-akordów']
 ---
 Jeśli nie chcemy aby brzmiał określony składnik
 [akordu]({{< relref "Akord.md" >}}) oznaczamy to za pomocą skreślenia, np.:
