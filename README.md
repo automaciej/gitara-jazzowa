@@ -21,3 +21,4 @@ _Książka Marka Blizińskiego_
 - [ ] Dodanie przycisków do sieci społecznościowych
 - [ ] Ułożenie podrozdziałów w hierarchię
 - [x] Lepsza konwersja diagramów akordowych
+- [ ] Przywrócenie rozdziału Wprowadzenie do harmonii jazzowej
