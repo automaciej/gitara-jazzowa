@@ -11,7 +11,7 @@ _Książka Marka Blizińskiego_
 - [x] Odtworzenie zdjęć i ilustracji (2021-08-22)
 - [x] Linki do stron kategorii (2021-08-23)
 - [x] Obsługa (przekierowania) URLi z poprzedniej wersji
-- [ ] Zablokowanie URLi które były tam przez przypadek
+- [x] Zablokowanie URLi które były tam przez przypadek
 - [ ] Pełna treść wpisów w RSS
 - [ ] Usunięcie stęchłych linków
 - [x] Uzupełnienie brakujących danych na podstawie XML z Mediawiki
