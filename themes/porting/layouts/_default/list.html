@@ -19,19 +19,6 @@
   {{- end }}
   </p>
 
-
-  <ul>
-  {{ range .Pages.ByTitle }}
-  <li>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    <small>
-      {{- range .Params.kategorie }}
-      <a href="/kategorie/{{ . | urlize }}">{{ . | lower }}</a>
-      {{ end -}}
-    </small>
-  </li>
-  {{ end }}
-  </ul>
 </main>
 
 {{ end }}
