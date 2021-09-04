@@ -1,5 +1,15 @@
+---
+title: "Składniki akordów"
+slug: "skladniki-akordow"
+date: 2005-05-21T15:24:53Z
+kategorie: ['Harmonia jazzowa']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Wikipedysta:MaciejBlizinski', 'akord', 'znaki_chromatyczne']
+aliases: ['/gitara/Składniki_akordów', 'składniki-akordów']
+---
 Jeśli nie chcemy aby brzmiał określony składnik
-[akordu](akord "wikilink") oznaczamy to za pomocą skreślenia, np.:
+[akordu]({{< relref "Akord.md" >}}) oznaczamy to za pomocą skreślenia, np.:
 
 (...)
 
@@ -28,7 +38,7 @@ jako:
 (......)
 
 Nie jest też regułą, że [znaki
-chromatyczne](znaki_chromatyczne "wikilink") umieszcza się za cyfrą,
+chromatyczne]({{< relref "Znaki_chromatyczne.md" >}}) umieszcza się za cyfrą,
 oznaczającą dany składnik akordu. Można spotkać znaki chromatyczne
 umieszczone przed cyframi, np.
 
@@ -47,8 +57,8 @@ Co ma począć gitarzysta w tej sytuacji?\!
 > Akord ten jest w rzeczywistości zapisany nieprawidłowo. Jeżeli jest to
 > Des-dziewięć, wtedy powinien wyglądać tak: D♭9. Jeżeli natomiast jest
 > to D-dur siedem z noną małą (często wymawiany "D siedem dziewięć
-> minus"), to powinien wyglądać tak: D7♭9 --[Maciej
-> Bliziński](Wikipedysta:MaciejBlizinski "wikilink") 17:24, 21 maj 2005
+> minus"), to powinien wyglądać tak: D7♭9 --Maciej
+> Bliziński<!-- link nie odnosił się do niczego: 'Składniki akordów' ('content/Składniki_akordów.md') links to 'Wikipedysta:MaciejBlizinski' ('content/Wikipedysta:MaciejBlizinski.md') and that does not exist --> 17:24, 21 maj 2005
 > (CEST)
 
 Istnienie różnych notacji harmonicznych stawia muzyków jazzowych w
@@ -56,4 +66,3 @@ konieczności przyswojenia sobie wszystkich systemów oznaczeń. W wypadku
 wątpliwości w odczytywaniu symbolu akordu z pomocą powinna przyjść
 wiedza i doświadczenie muzyczne.
 
-[kategoria:harmonia jazzowa](kategoria:harmonia_jazzowa "wikilink")

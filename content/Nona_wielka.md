@@ -1,9 +1,18 @@
+---
+title: "Nona wielka"
+slug: "nona-wielka"
+date: 2005-06-03T15:06:26Z
+kategorie: ['Harmonia jazzowa']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['akord', 'interwa%C5%82', 'oktawa', 'sekunda_wielka']
+aliases: ['/gitara/Nona_wielka']
+---
 Termin **nona wielka** może odnosić się do:
 
-  - [interwału](interwał "wikilink") nony wielkiej, który wynosi tyle co
-    [oktawa](oktawa "wikilink") i [sekunda
-    wielka](sekunda_wielka "wikilink").
-  - składnika [akordu](akord "wikilink"), będącego w odległości nony
+  - [interwału]({{< relref "Interwał.md" >}}) nony wielkiej, który wynosi tyle co
+    [oktawa]({{< relref "Oktawa.md" >}}) i sekunda
+    wielka<!-- link nie odnosił się do niczego: 'Nona wielka' ('content/Nona_wielka.md') links to 'sekunda_wielka' ('content/sekunda_wielka.md') and that does not exist -->.
+  - składnika [akordu]({{< relref "Akord.md" >}}), będącego w odległości nony
     wielkiej od prymy akordu
 
-[kategoria:harmonia jazzowa](kategoria:harmonia_jazzowa "wikilink")

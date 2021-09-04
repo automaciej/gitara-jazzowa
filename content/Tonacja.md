@@ -1,3 +1,13 @@
+---
+title: "Tonacja"
+slug: "tonacja"
+date: 2007-07-08T21:30:07Z
+kategorie: ['Teoria muzyki']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['tryb']
+aliases: ['/gitara/Tonacja']
+---
 **Tonacja** jest pojemnym pojęciem, to znaczy są mu przypisywane różne
 znaczenia. W różnych okresach muzyki tonacja była bardziej lub mniej
 ścisłym pojęciem. Bywało tak, że utwór musiał zawsze kończyć się
@@ -7,7 +17,7 @@ i skupić się na podstawowym, potrzebnym tutaj ze względów praktycznych.
 
 Tonacja jest punktem odniesienia, centrum do którego odnosi się harmonia
 utworu. Tonację określa się poprzez nazwę literową oraz
-[tryb](tryb "wikilink"). Na przykład można mówić o tonacji C-dur albo
+[tryb]({{< relref "Tryb.md" >}}). Na przykład można mówić o tonacji C-dur albo
 F-moll.
 
 Zdefiniujmy następujący zbiór
@@ -30,4 +40,3 @@ W tonacji możemy mówić o "stopniach". Ma to zastosowanie do określania
 np. akordów, budowanych na konkretnych stopniach. Możemy na przykład
 powiedzieć o akordzie zbudowanym na piątym stopniu tonacji.
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

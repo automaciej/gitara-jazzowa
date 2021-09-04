@@ -1,3 +1,13 @@
+---
+title: "Łączenie najbliższą drogą"
+slug: "laczenie-najblizsza-droga"
+date: 2007-08-11T09:14:59Z
+kategorie: ['Harmonia jazzowa', 'Technika gry']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Cmaj7', 'Dm7', 'G7']
+aliases: ['/gitara/Łączenie_najbliższą_drogą', 'łączenie-najbliższą-drogą']
+---
 Grając sekwencje następujących po sobie akordów powinniśmy starać się
 łączyć je w taki sposób, żeby minimalizować ruch głosów. Z grubsza
 oznacza to tyle, że jeżeli mamy dwa akordy, jeden po drugim, to
@@ -25,32 +35,43 @@ najmniejszy.
 
 Najbardziej typowym zestawieniem akordów jest w jazzie tzw. II-V-I
 (dwa-pięć-jeden), na przykład
-[Dm7](Dm7 "wikilink")-[G7](G7 "wikilink")-[Cmaj7](Cmaj7 "wikilink").
+[Dm7]({{< relref "Dm7.md" >}})-[G7]({{< relref "G7.md" >}})-[Cmaj7]({{< relref "Cmaj7.md" >}}).
 
-`E |---|---|---|---|---A---|---|---`
-`B |---|---|---D---|---|---|---|---`
-`G |---|---|---|---|---C---|---|---`
-`D |---|---|---F---|---|---|---|---`
-`A |---|---|---|---|---|---|---|---`
-`E |---|---|---|---|---|---|---|---`
+
+```
+E |---|---|---|---|---A---|---|---
+B |---|---|---D---|---|---|---|---
+G |---|---|---|---|---C---|---|---
+D |---|---|---F---|---|---|---|---
+A |---|---|---|---|---|---|---|---
+E |---|---|---|---|---|---|---|---
+```
+
 
 Przejście z Dm7 do G7 wymaga przesunięcia dwóch dźwięków.
 
-`E |---|---|---G-<-|-<-|---|---|---`
-`B |---|---|---D---|---|---|---|---`
-`G |---|---|---|---B-<-|---|---|---`
-`D |---|---|---F---|---|---|---|---`
-`A |---|---|---|---|---|---|---|---`
-`E |---|---|---|---|---|---|---|---`
+
+```
+E |---|---|---G-<-|-<-|---|---|---
+B |---|---|---D---|---|---|---|---
+G |---|---|---|---B-<-|---|---|---
+D |---|---|---F---|---|---|---|---
+A |---|---|---|---|---|---|---|---
+E |---|---|---|---|---|---|---|---
+```
+
 
 Rozwiązanie G7 na Cmaj7 wymaga przesunięcia dwóch pozostałych.
 
-`E |---|---|---G---|---|---|---|---`
-`B |---C-<-|-<-|---|---|---|---|---`
-`G |---|---|---|---B---|---|---|---`
-`D |---|---E-<-|---|---|---|---|---`
-`A |---|---|---|---|---|---|---|---`
-`E |---|---|---|---|---|---|---|---`
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")
-[kategoria:harmonia jazzowa](kategoria:harmonia_jazzowa "wikilink")
+```
+E |---|---|---G---|---|---|---|---
+B |---C-<-|-<-|---|---|---|---|---
+G |---|---|---|---B---|---|---|---
+D |---|---E-<-|---|---|---|---|---
+A |---|---|---|---|---|---|---|---
+E |---|---|---|---|---|---|---|---
+```
+
+
+

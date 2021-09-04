@@ -1,3 +1,12 @@
+---
+title: "Dźwięki markowane"
+slug: "dzwieki-markowane"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['Technika gry']
+draft: false
+wikilinks: []
+aliases: ['/gitara/Dźwięki_markowane', 'dźwięki-markowane']
+---
 W muzyce jazzowej istnieje zjawisko dźwięków markowanych. Są to dźwięki,
 które mimo że zagrane bardzo cicho lub w ogóle nie zagrane, ustawione są
 jednak w tak sugestywnym kontekście muzycznym, że słuchacz ma wrażenie,
@@ -15,4 +24,3 @@ dźwięku markowanego, a nic sprawiał wrażenia kiksu, czy nieudolności
 gitarzysty, musi być podparty dużą wiedzą, precyzją i umiejętnościami
 jazzmana.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")
