@@ -4,6 +4,7 @@ title = "Gitara Jazzowa"
 defaultContentLanguage = "pl"
 theme = "porting"
 enableGitInfo = true
+enableRobotsTXT = true
 [taxonomies]
   kategoria = "kategorie"
 [params]

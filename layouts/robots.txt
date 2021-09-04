@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /mediawiki
-
 Sitemap: https://blizinski.pl/sitemap.xml
