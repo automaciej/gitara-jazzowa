@@ -14,7 +14,10 @@ _Książka Marka Blizińskiego_
 - [ ] Zablokowanie URLi które były tam przez przypadek
 - [ ] Pełna treść wpisów w RSS
 - [ ] Usunięcie stęchłych linków
-- [ ] Uzupełnienie brakujących danych na podstawie XML z Mediawiki
+- [x] Uzupełnienie brakujących danych na podstawie XML z Mediawiki
 - [ ] Oddzielenie stron o harmonii jazzowej
 - [ ] Ułożenie stron w sekwencję
 - [ ] Nadanie stronie wyglądu
+- [ ] Dodanie przycisków do sieci społecznościowych
+- [ ] Ułożenie podrozdziałów w hierarchię
+- [ ] Lepsza konwersja diagramów akordowych

@@ -11,33 +11,14 @@
 
   {{ with .Site.GetPage "section" "blog" }}
   {{ range first 1 .Pages }}
-  <h2>{{ .Title }}</h2>
-  <a href="{{ .RelPermalink }}">{{ .Date.Format "2006-01-02" }}</a>
+  <h4>
+    {{ .Title }}
+    (<a href="{{ .RelPermalink }}">{{ .Date.Format "2006-01-02" }}</a>)
+  </h4>
   {{ .Content }}
   {{ end }}
   {{ end }}
 
-  <hr>
-
-  {{ range first 1 .Pages }}
-  <a href="{{ .RelPermalink }}" title="{{ .Description }}">{{ .Title | lower }}</a>
-  {{ end }}
-  {{ range after 1 .Pages }}
-  &ndash;
-  <a href="{{ .RelPermalink }}" title="{{ .Description }}">{{ .Title | lower }}</a>
-  {{ end }}
-
-
-  <!--
-  {{ range .Site.Taxonomies.kategorie }}
-  <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
-    ({{ .Count }})</li>
-  {{ end }}
-  -->
-
-  <!--
-  <a href="/kategorie">Kategorie stron</a>
-  -->
 </main>
 
 <!-- For now, hardcoded. -->
