@@ -1,4 +1,18 @@
-[125px](grafika:PretWGryfie.png "wikilink")
+---
+title: "Regulacja gryfu"
+slug: "regulacja-gryfu"
+date: 2010-12-12T00:14:37Z
+kategorie: ['Konserwacja gitary']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Grafika:SzyjkaWklesla.png', 'Grafika:SzyjkaWypukla.png', 'grafika:PretWGryfie.png', 'gryf', 'mostek', 'pr%C4%99t_regulacyjny', 'struna']
+aliases: ['/gitara/Regulacja_gryfu', 'Regulacja_szyjki_instrumentu.md/regulacja-szyjki-instrumentu']
+images:
+  - path: "/images/PretWGryfie.png"
+  - path: "/images/SzyjkaWklesla.png"
+  - path: "/images/SzyjkaWypukla.png"
+---
+{{< figure src="/images/PretWGryfie.png" >}}
 
 Gryf jest niezwykle ważnym elementem konstrukcyjnym w gitarze. Dlatego
 należy zwrócić nań szczególną uwagę. Odczuwalna jest zależność pomiędzy
@@ -8,24 +22,24 @@ się o progi brzęcząc nieprzyjemnie, niekiedy w ogóle uniemożliwiając
 grę. Jest to efekt wygięcia szyjki w łuk zwrócony wypukłością do strun.
 Pokazuje to nieco przesadnie rysunek.
 
-[frame](Grafika:SzyjkaWypukla.png "wikilink")
+{{< figure src="/images/SzyjkaWypukla.png" >}}
 
-Mając do dyspozycji [pręt regulacyjny](pręt_regulacyjny "wikilink"),
+Mając do dyspozycji [pręt regulacyjny]({{< relref "Pręt_regulacyjny.md" >}}),
 należy wówczas zwolnić trochę jego naciąg, odkręcając nakrętkę. Wejście
 do niej znajduje się na froncie główki lub na końcu drugiej strony
-gryfu. Po zwolnieniu naciągu [strun](struna "wikilink"), nakrętką pręta
+gryfu. Po zwolnieniu naciągu [strun]({{< relref "Struna.md" >}}), nakrętką pręta
 regulacyjnego robimy zależnie od potrzeby od 0,2 do 1,5 obrotu
 przeciwnie do ruchu wskazówek zegara. Następnie stroimy gitarę i
-sprawdzamy, czy [gryf](gryf "wikilink") odzyskał swój właściwy kształt.
+sprawdzamy, czy [gryf]({{< relref "Gryf.md" >}}) odzyskał swój właściwy kształt.
 Jeżeli potrzebna jest korekta, powtarzamy całą operację, korygując tylko
 ilość i kierunek obrotów nakrętką.
 
 Jeżeli na gitarę zakładamy struny twardsze od poprzedniego kompletu,
 wówczas zwiększy się odległość między nimi a gryfem. Nie trzeba wtedy
-obniżać [mostka](mostek "wikilink"), bowiem jest to skutek wygięcia
+obniżać [mostka]({{< relref "Mostek.md" >}}), bowiem jest to skutek wygięcia
 szyjki w łuk zwrócony wklęsłością do strun.
 
-[frame](Grafika:SzyjkaWklesla.png "wikilink")
+{{< figure src="/images/SzyjkaWklesla.png" >}}
 
 Należy wówczas przykręcić nieco nakrętkę pręta regulacyjnego. Trzeba
 pamiętać, że przy każdej regulacji szyjki konieczne jest znaczne
@@ -37,4 +51,3 @@ używania nowego instrumentu. W każdym razie, co pewien czas należy
 sprawdzać, czy gryf jest prosty, bowiem zależy od tego brzmienie gitary
 oraz wygoda gry.
 
-[kategoria:konserwacja gitary](kategoria:konserwacja_gitary "wikilink")

@@ -1,26 +1,35 @@
+---
+title: "Wtrącenie"
+slug: "wtrącenie"
+date: 2005-06-23T18:52:52Z
+kategorie: ['Harmonia jazzowa']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['A7', 'A7', 'A7', 'A7', 'A7', 'Cmaj7', 'Cmaj7', 'Dm7', 'Dm7', 'Dm7', 'Dm7', 'Dm7', 'Dm7', 'G7', 'G7', 'akord', 'dominanta', 'dominanta', 'tonacja']
+aliases: ['/gitara/Wtrącenie', 'Wtrącenia.md/wtrącenia', 'wtracenie']
+---
 Harmonię utworu, oprócz funkcji pobocznych, można uzupełniać o tzw.
 wtrącenia. Wtrącenie polega, najprościej to ujmując, na dodaniu
-[dominanty](dominanta "wikilink") do któregoś z
-[akordów](akord "wikilink"), które już są w utworze. Powiedzmy że nasz
+[dominanty]({{< relref "Funkcje_harmoniczne.md" >}}) do któregoś z
+[akordów]({{< relref "Akord.md" >}}), które już są w utworze. Powiedzmy że nasz
 utwór ma następującą harmonię:
 
 |   |                           |  |   |                       |                     |   |
 | - | ------------------------- |  | - | --------------------- | ------------------- | - |
-| | | [Cmaj7](Cmaj7 "wikilink") |  | | | [Dm7](Dm7 "wikilink") | [G7](G7 "wikilink") | | |
+| | | [Cmaj7]({{< relref "Cmaj7.md" >}}) |  | | | [Dm7]({{< relref "Dm7.md" >}}) | [G7]({{< relref "G7.md" >}}) | | |
 
 Drugi takt jest pusty. Warto byłoby go czymś wypełnić. Dobrym pomysłem
-jest wyprzedzenie akordu [Dm7](Dm7 "wikilink")
-[dominantą](dominanta "wikilink") do [Dm7](Dm7 "wikilink"), czyli
-akordem [A7](A7 "wikilink"). Co prawda, nie wszystkie dźwięki z akordu
-[A7](A7 "wikilink") należą do [tonacji](tonacja "wikilink") C-dur, ale
-fakt bliskiego związku [A7](A7 "wikilink") z [Dm7](Dm7 "wikilink")
+jest wyprzedzenie akordu [Dm7]({{< relref "Dm7.md" >}})
+[dominantą]({{< relref "Funkcje_harmoniczne.md" >}}) do [Dm7]({{< relref "Dm7.md" >}}), czyli
+akordem A7<!-- link nie odnosił się do niczego: 'Wtrącenie' ('content/Wtrącenie.md') links to 'A7' ('content/A7.md') and that does not exist -->. Co prawda, nie wszystkie dźwięki z akordu
+A7<!-- link nie odnosił się do niczego: 'Wtrącenie' ('content/Wtrącenie.md') links to 'A7' ('content/A7.md') and that does not exist --> należą do [tonacji]({{< relref "Tonacja.md" >}}) C-dur, ale
+fakt bliskiego związku A7<!-- link nie odnosił się do niczego: 'Wtrącenie' ('content/Wtrącenie.md') links to 'A7' ('content/A7.md') and that does not exist --> z [Dm7]({{< relref "Dm7.md" >}})
 uzasadnia użycie w tym miejscu tego właśnie akordu.
 
 |   |                           |                     |   |                       |                     |   |
 | - | ------------------------- | ------------------- | - | --------------------- | ------------------- | - |
-| | | [Cmaj7](Cmaj7 "wikilink") | [A7](A7 "wikilink") | | | [Dm7](Dm7 "wikilink") | [G7](G7 "wikilink") | | |
+| | | [Cmaj7]({{< relref "Cmaj7.md" >}}) | A7<!-- link nie odnosił się do niczego: 'Wtrącenie' ('content/Wtrącenie.md') links to 'A7' ('content/A7.md') and that does not exist --> | | | [Dm7]({{< relref "Dm7.md" >}}) | [G7]({{< relref "G7.md" >}}) | | |
 
-Patrząc na taki przykład mówimy, że tutaj [A7](A7 "wikilink") jest
-**wtrąceniem** do [Dm7](Dm7 "wikilink").
+Patrząc na taki przykład mówimy, że tutaj A7<!-- link nie odnosił się do niczego: 'Wtrącenie' ('content/Wtrącenie.md') links to 'A7' ('content/A7.md') and that does not exist --> jest
+**wtrąceniem** do [Dm7]({{< relref "Dm7.md" >}}).
 
-[kategoria:harmonia jazzowa](kategoria:harmonia_jazzowa "wikilink")

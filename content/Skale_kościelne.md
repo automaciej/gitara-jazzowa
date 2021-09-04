@@ -1,4 +1,14 @@
-**Skale kościelne** to grupa [skal](skala "wikilink"), która powstaje w
+---
+title: "Skale kościelne"
+slug: "skale-kościelne"
+date: 2007-07-08T21:29:44Z
+kategorie: ['Teoria muzyki']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['skala']
+aliases: ['/gitara/Skale_kościelne', 'skale-koscielne']
+---
+**Skale kościelne** to grupa [skal]({{< relref "Skala.md" >}}), która powstaje w
 następujący sposób. Podstawową skalą kościelną jest skala jońska. Nie
 wdając się w przyczyny, powiemy że wygląda ona następująco: (2, 2, 1, 2,
 2, 2, 1). Następnie możemy wziąć pierwszy element tej skali i przenieść
@@ -23,4 +33,3 @@ liczby dwanaście na liczby naturalne. Jest ona dość duża. Większość z
 tych (możliwych) skal w praktyce do niczego się nie nadaje, w muzyce
 można spotkać ich co najwyżej kilkadziesiąt.
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

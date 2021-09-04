@@ -1,6 +1,16 @@
+---
+title: "Gitara akustyczno-elektryczna"
+slug: "gitara-akustyczno-elektryczna"
+date: 2005-01-14T18:10:18Z
+kategorie: ['Rodzaje gitar']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['gitara_akustyczna', 'gitara_elektryczna', 'pud%C5%82o_rezonansowe', 'wzmacniacz']
+aliases: ['/gitara/Gitara_akustyczno-elektryczna']
+---
 Jest to gitara akustyczna typu Flattop, której brzmienie [pudła
-rezonansowego](pudło_rezonansowe "wikilink") może być wzmacniane za
-pośrednictwem przystawki przez [wzmacniacz](wzmacniacz "wikilink") z
+rezonansowego]({{< relref "Pudło_rezonansowe.md" >}}) może być wzmacniane za
+pośrednictwem przystawki przez [wzmacniacz]({{< relref "Wzmacniacz.md" >}}) z
 głośnikiem. Zelektryfikowanie tych gitar pomyślane jest w ten sposób,
 aby w niczym nie tłumić akustycznego brzmienia, ono bowiem jest właśnie
 przenoszone do wzmacniacza. Stosuje się tu zazwyczaj przystawki
@@ -15,7 +25,7 @@ naturalnego brzmienia akustycznej gitary, z tym że istnieje wówczas
 możliwość korekty barwy tonu poprzez equalizer wzmacniacza lub
 mini-equalizer wbudowany bezpośrednio w gitarę. Niewątpliwa korzyść
 gitary akustyczno-elektrycznej, jak i dalej omawianych gitar płynie
-stąd, że [gitara akustyczna](gitara_akustyczna "wikilink"), która w
+stąd, że [gitara akustyczna]({{< relref "Gitara_akustyczna.md" >}}), która w
 porównaniu z innymi instrumentami ma dźwięk dość cichy, wzmocniona
 elektrycznie może być używana w zespołach nie tylko jako instrument
 harmoniczno-kolorystyczny.
@@ -27,6 +37,6 @@ umieszczone pod strunami. Płyta rezonansowa w tym przypadku jest
 obciążona dużymi zwykłe przystawkami, potencjometrami, przełącznikami
 itp. Nie trzeba dodawać, że takie rozwiązanie nie daje już akustycznego
 brzmienia pudła rezonansowego, lecz zawiera przewagę brzmienia [gitary
-elektrycznej](gitara_elektryczna "wikilink").
+elektrycznej]({{< relref "Gitara_elektryczna.md" >}}).
 
-[Akustyczno-elektryczna, gitara](kategoria:rodzaje_gitar "wikilink")
+Akustyczno-elektryczna, gitara<!-- link nie odnosił się do niczego: 'Gitara akustyczno-elektryczna' ('content/Gitara_akustyczno-elektryczna.md') links to 'kategoria:rodzaje_gitar' ('content/kategoria:rodzaje_gitar.md') and that does not exist -->

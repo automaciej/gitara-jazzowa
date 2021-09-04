@@ -1,4 +1,14 @@
-**Półton** to jedna dwunasta [oktawy](oktawa "wikilink").
+---
+title: "Półton"
+slug: "półton"
+date: 2005-06-26T17:26:30Z
+kategorie: ['Teoria muzyki']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['oktawa']
+aliases: ['/gitara/Półton', 'polton']
+---
+**Półton** to jedna dwunasta [oktawy]({{< relref "Oktawa.md" >}}).
 
 Dwa dźwięki są odległe od siebie o jeden półton, jeżeli częstotliwości
 ich tonów podstawowych spełniają następujące równanie:
@@ -9,4 +19,3 @@ W tym przypadku \(f_1\) będzie dźwiękiem wyższym.
 
 \(2^{(\frac{1}{12})}\) to w przybliżeniu 1,0595
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

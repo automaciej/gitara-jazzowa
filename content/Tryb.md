@@ -1,4 +1,14 @@
-**Tryb** odnosi się do [akordu](akord "wikilink"). Akord może mieć tryb
+---
+title: "Tryb"
+slug: "tryb"
+date: 2007-07-08T21:30:00Z
+kategorie: ['Teoria muzyki']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['akord']
+aliases: ['/gitara/Tryb']
+---
+**Tryb** odnosi się do [akordu]({{< relref "Akord.md" >}}). Akord może mieć tryb
 durowy lub mollowy.
 
 Akord jest w trybie durowym, kiedy składa się z tercji wielkiej i tercji
@@ -11,4 +21,3 @@ dany obiekt nie posiada tercji.
 
 \(\Lambda = \{\mathrm{dur}, \mathrm{moll}\}\)
 
-[kategoria:teoria muzyki](kategoria:teoria_muzyki "wikilink")

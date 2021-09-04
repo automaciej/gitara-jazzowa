@@ -1,12 +1,24 @@
-[thumb](Grafika:StrojenieGitary.png "wikilink")
+---
+title: "Proste strojenie"
+slug: "proste-strojenie"
+date: 2008-05-17T22:27:11Z
+kategorie: ['Strojenie gitary']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Grafika:StrojenieGitary.png', 'maszynka', 'metody_strojenia', 'oktawa', 'strojnik', 'struna', 'struna']
+aliases: ['/gitara/Proste_strojenie']
+images:
+  - path: "/images/StrojenieGitary.png"
+---
+{{< figure src="/images/StrojenieGitary.png" >}}
 
 Elementarną i niezbyt dokładną [metodę
-strojenia](metody_strojenia "wikilink") podają niemal wszystkie
+strojenia]({{< relref "Strojenie_gitary.md" >}}) podają niemal wszystkie
 podręczniki do nauki gry. Polega ona na nastrojeniu struny E-1 na
 właściwy ton (do *a* wydobytego z kamertonu lub z innego instrumentu
 dostrajamy strunę E-1 dociśniętą w V pozycji), a następnie na
 porównywaniu i dostrajaniu dźwięków sąsiednich, niższych
-[strun](struna "wikilink") odpowiadających dźwiękom pustych strun
+[strun]({{< relref "Struna.md" >}}) odpowiadających dźwiękom pustych strun
 wyższych. Tak więc porównujemy dźwięk pustej struny E-1 z dźwiękiem e
 zagranym na strunie H-2 w pozycji V i dostrajamy strunę H-2.
 
@@ -41,7 +53,7 @@ Stroimy następnie gitarę poczynając od struny A-5, a więc:
     powtórzyć.
 
 Jak widać, sposób ten różni się od podanego poprzednio odwróconą
-kolejnością strojenia [strun](struna "wikilink"). Na tym właśnie polega
+kolejnością strojenia [strun]({{< relref "Struna.md" >}}). Na tym właśnie polega
 ułatwienie, bo dzięki temu dostrajamy strunę pustą, która może brzmieć w
 trakcie podwyższania lub obniżania jej stroju. Jest to ważne, ponieważ
 nie robiąc tego „na ślepo", możemy bez wielokrotnych prób wyrównać
@@ -63,7 +75,7 @@ możemy to zrobić nie używając strun pustych. Porównujemy np.:
     wydobytym na strunie E-6 w pozycji VIII
 
 i na koniec sprawdzamy struny skrajne - E-1 i E-6, czy podwójna
-[oktawa](oktawa "wikilink") jest czysta. W nawiasie należy dodać, że w
+[oktawa]({{< relref "Oktawa.md" >}}) jest czysta. W nawiasie należy dodać, że w
 tym wypadku numer pozycji nie określa położenia dłoni, a jedynie miejsce
 dociśnięcia struny. Tutaj w wyższych pozycjach wygodniej jest operować
 palcem 4.
@@ -71,7 +83,6 @@ palcem 4.
 Posługując się tylko strunami skróconymi w pozycjach, eliminujemy mylącą
 niekiedy różnicę barwy w brzmieniu pustych strun. Sposób ten jest jednak
 dość kłopotliwy, jeśli nie dysponujemy
-[strojnikami](strojnik "wikilink") i używamy tylko
-[maszynek](maszynka "wikilink").
+strojnikami<!-- link nie odnosił się do niczego: 'Proste strojenie' ('content/Proste_strojenie.md') links to 'strojnik' ('content/strojnik.md') and that does not exist --> i używamy tylko
+maszynek<!-- link nie odnosił się do niczego: 'Proste strojenie' ('content/Proste_strojenie.md') links to 'maszynka' ('content/maszynka.md') and that does not exist -->.
 
-[kategoria:strojenie gitary](kategoria:strojenie_gitary "wikilink")
