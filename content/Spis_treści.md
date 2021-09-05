@@ -5,14 +5,14 @@ date: 2008-03-13T06:59:59Z
 kategorie: ['Strona główna']
 draft: false
 contributor: 'MaciejBlizinski'
-wikilinks: ['%C4%86wiczenia_techniczne', ':Kategoria:Rodzaje_gitar', 'Akcentowanie', 'Artykulacja', 'Barwa_d%C5%BAwi%C4%99ku', 'D%C5%BAwi%C4%99ki_markowane', 'D%C5%BAwi%C4%99ki_t%C5%82umione', 'Dynamika', 'Fla%C5%BColet', 'Futera%C5%82', 'Gitara', 'Korekcja_si%C5%82y_brzmienia_strun', 'Kostka', 'Kryteria_oceny_przy_wyborze_instrumentu_i_akcesori%C3%B3w', 'Kszta%C5%82towanie_d%C5%BAwi%C4%99ku', 'Legato', 'Lewa_r%C4%99ka', 'Modulatory_i_filtry_d%C5%BAwi%C4%99ku', 'Modulowanie_d%C5%BAwi%C4%99ku', 'Od_autora', 'Ozdobniki', 'Palcowanie', 'Pasek_do_gitary', 'Pog%C5%82os', 'Postawa_z_instrumentem', 'Praca_r%C4%85k', 'Prawa_r%C4%99ka', 'Przygotowanie_instrumentu_do_gry', 'R%C3%B3%C5%BCne_techniki_gry_na_gitarze', 'Regulacja_menzury_strun', 'Regulacja_szyjki_instrumentu', 'Rejestry_g%C5%82osowe', 'Sprz%C4%99%C5%BCenia', 'Strojenie_gitary', 'Struny', 'Uderzenia_kombinowane', 'Ustawianie_wysoko%C5%9Bci_strun_nad_gryfem', 'Wibracja', 'Wprowadzenie_do_harmonii_jazzowej', 'Wzmacniacz']
+wikilinks: ['%C4%86wiczenia_techniczne', ':Kategoria:Rodzaje_gitar', 'Akcentowanie', 'Artykulacja', 'Barwa_d%C5%BAwi%C4%99ku', 'D%C5%BAwi%C4%99ki_markowane', 'D%C5%BAwi%C4%99ki_t%C5%82umione', 'Dynamika', 'Fla%C5%BColet', 'Futera%C5%82', 'Gitara', 'Korekcja_si%C5%82y_brzmienia_strun', 'Kostka', 'Kszta%C5%82towanie_d%C5%BAwi%C4%99ku', 'Legato', 'Lewa_r%C4%99ka', 'Modulatory_i_filtry_d%C5%BAwi%C4%99ku', 'Modulowanie_d%C5%BAwi%C4%99ku', 'Od_autora', 'Ozdobniki', 'Palcowanie', 'Pasek_do_gitary', 'Pog%C5%82os', 'Postawa_z_instrumentem', 'Praca_r%C4%85k', 'Prawa_r%C4%99ka', 'Przygotowanie_instrumentu_do_gry', 'R%C3%B3%C5%BCne_techniki_gry_na_gitarze', 'Regulacja_menzury', 'Regulacja_szyjki_instrumentu', 'Rejestry_g%C5%82osowe', 'Sprz%C4%99%C5%BCenia', 'Strojenie_gitary', 'Struny', 'Uderzenia_kombinowane', 'Ustawianie_wysoko%C5%9Bci_strun_nad_gryfem', 'Wibracja', 'Wprowadzenie_do_harmonii_jazzowej', 'Wybieranie_instrumentu_i_akcesori%C3%B3w', 'Wzmacniacz']
 aliases: ['/gitara/Spis_treści']
 ---
 [Od autora]({{< relref "Od_autora.md" >}})
 
 1.  [Budowa gitar](/kategorie/rodzaje-gitar "Kategoria Rodzaje gitar")
 2.  [Kryteria oceny przy wyborze instrumentu i
-    akcesoriów]({{< relref "Wybieranie_instrumentu_i_akcesoriów" >}})
+    akcesoriów]({{< relref "Wybieranie_instrumentu_i_akcesoriów.md" >}})
     1.  [Gitara]({{< relref "Gitara.md" >}})
     2.  [Wzmacniacz]({{< relref "Wzmacniacz.md" >}})
     3.  [Struny]({{< relref "Struna" >}})
@@ -25,7 +25,7 @@ aliases: ['/gitara/Spis_treści']
         instrumentu]({{< relref "Regulacja_gryfu" >}})
     2.  [Ustawianie wysokości strun nad
         gryfem]({{< relref "Ustawianie_wysokości_strun_nad_gryfem.md" >}})
-    3.  [Regulacja menzury strun]({{< relref "Regulacja_menzury" >}})
+    3.  [Regulacja menzury strun]({{< relref "Regulacja_menzury.md" >}})
     4.  [Korekcja siły brzmienia
         strun]({{< relref "Korekcja_siły_brzmienia_strun.md" >}})
 4.  [Postawa z instrumentem]({{< relref "Postawa_z_instrumentem.md" >}})
