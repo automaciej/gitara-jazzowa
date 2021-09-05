@@ -1,8 +1,18 @@
-Często [schemat harmoniczny](schemat_harmoniczny "wikilink") utworu
+---
+title: "Interpretacja harmoniczna"
+slug: "interpretacja-harmoniczna"
+date: 2005-05-21T15:42:19Z
+kategorie: ['Harmonia jazzowa']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['akord', 'd%C5%BAwi%C4%99k', 'dominanta', 'dominanta', 'funkcja_harmoniczna', 'schemat_harmoniczny', 'septyma_akordu', 'tonika']
+aliases: ['/gitara/Interpretacja_harmoniczna']
+---
+Często schemat harmoniczny<!-- link nie odnosił się do niczego: 'Interpretacja harmoniczna' ('content/Interpretacja_harmoniczna.md') links to 'schemat_harmoniczny' ('content/schemat_harmoniczny.md') and that does not exist --> utworu
 podawany jest w formie uproszczonej, aby wykonawca mógł się wykazać
-inwencją. Trzeba wtedy wiedzieć, jakie [dźwięki](dźwięk "wikilink") i do
-jakich [akordów](akord "wikilink") można dodawać. Zależy to przede
-wszystkim od [funkcji harmonicznej](funkcja_harmoniczna "wikilink"),
+inwencją. Trzeba wtedy wiedzieć, jakie dźwięki<!-- link nie odnosił się do niczego: 'Interpretacja harmoniczna' ('content/Interpretacja_harmoniczna.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist --> i do
+jakich akordów<!-- link nie odnosił się do niczego: 'Interpretacja harmoniczna' ('content/Interpretacja_harmoniczna.md') links to 'akord' ('content/akord.md') and that does not exist --> można dodawać. Zależy to przede
+wszystkim od funkcji harmonicznej<!-- link nie odnosił się do niczego: 'Interpretacja harmoniczna' ('content/Interpretacja_harmoniczna.md') links to 'funkcja_harmoniczna' ('content/funkcja_harmoniczna.md') and that does not exist -->,
 jaką pełni dany akord, ale zależy też od kontekstu, od linii
 melodycznej i ogólnie od charakteru muzyki. Dlatego poniższych uwag i
 przykładu wyrwanego z kontekstu nie należy traktować w sposób sztywny.
@@ -11,13 +21,13 @@ Dany schemat harmoniczny | Dm G | C | ma swój odpowiednik w funkcjach
 harmonicznych S<sub>II</sub> D T, które oznaczają subdominantę drugiego
 stopnia, dominantę i tonikę. Do S<sub>II</sub> powinniśmy dodać septymę
 małą, możemy dodać też nonę wielką, kwartę czystą, w pewnych wypadkach
-możemy obniżyć kwintę akordu. Do D ([dominanty](dominanta "wikilink"))
-powinniśmy dodać [septymę małą](septyma_akordu "wikilink"), możemy dodać
+możemy obniżyć kwintę akordu. Do D (dominanty<!-- link nie odnosił się do niczego: 'Interpretacja harmoniczna' ('content/Interpretacja_harmoniczna.md') links to 'dominanta' ('content/dominanta.md') and that does not exist -->)
+powinniśmy dodać septymę małą<!-- link nie odnosił się do niczego: 'Interpretacja harmoniczna' ('content/Interpretacja_harmoniczna.md') links to 'septyma_akordu' ('content/septyma_akordu.md') and that does not exist -->, możemy dodać
 nonę wielką, małą lub zwiększona, sekstę wielką lub małą (inaczej kwintę
 zwiększoną), kwintę zmniejszoną lub zwiększoną, kwartę czystą. Do T
-([toniki](tonika "wikilink")) możemy dodać sekstę wielka, septymę
+(toniki<!-- link nie odnosił się do niczego: 'Interpretacja harmoniczna' ('content/Interpretacja_harmoniczna.md') links to 'tonika' ('content/tonika.md') and that does not exist -->) możemy dodać sekstę wielka, septymę
 wielką, nonę wielką, w szczególnych przypadkach można stosować niektóre
-składniki podane przy [dominancie](dominanta "wikilink").
+składniki podane przy dominancie<!-- link nie odnosił się do niczego: 'Interpretacja harmoniczna' ('content/Interpretacja_harmoniczna.md') links to 'dominanta' ('content/dominanta.md') and that does not exist -->.
 
 A więc podana tu uproszczona notacja:
 
@@ -49,4 +59,3 @@ podstawowych funkcji harmonicznych. Analiza budowy akordów i składników,
 jakie zostają do nich dodawane, poszerza nam wiedzę i umiejętności,
 które pozwolą na swobodne poruszanie się w harmonii jazzowej.
 
-[kategoria:harmonia jazzowa](kategoria:harmonia_jazzowa "wikilink")

@@ -1,3 +1,13 @@
+---
+title: "Artykulacja"
+slug: "artykulacja"
+date: 2005-05-22T16:56:20Z
+kategorie: ['Technika gry']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Akcentowanie', 'Fla%C5%BColet', 'Legato', 'Ozdobniki', 'akcentowanie', 'legato', 'staccato']
+aliases: ['/gitara/Artykulacja']
+---
 **Artykulacja** jest jednym z najważniejszych elementów muzycznych.
 Często decyduje o tym, czy daną muzykę możemy nazwać jazzem czy nie.
 Artykulacja jazzowa różni się zasadniczo od artykulacji stosowanej w
@@ -13,12 +23,11 @@ metod, jakimi posługuje się muzyk wychowany w tradycji muzyki
 europejskiej.
 
 W tym rozdziale umieszczę trzy bardzo ważne elementy artykulacji:
-[legato](legato "wikilink"), [staccato](staccato "wikilink") i
-[akcentowanie](akcentowanie "wikilink").
+[legato]({{< relref "Legato.md" >}}), [staccato]({{< relref "Staccato.md" >}}) i
+[akcentowanie]({{< relref "Akcentowanie.md" >}}).
 
-  - [Legato](Legato "wikilink")
-  - [Akcentowanie](Akcentowanie "wikilink")
-  - [Ozdobniki](Ozdobniki "wikilink")
-  - [Flażolety](Flażolet "wikilink")
+  - [Legato]({{< relref "Legato.md" >}})
+  - [Akcentowanie]({{< relref "Akcentowanie.md" >}})
+  - [Ozdobniki]({{< relref "Ozdobniki.md" >}})
+  - [Flażolety]({{< relref "Flażolet.md" >}})
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

@@ -1,5 +1,14 @@
+---
+title: "Sprzężenie zwrotne"
+slug: "sprzezenie-zwrotne"
+date: 2005-01-01T00:00:00+01:00
+kategorie: ['Technika gry']
+draft: false
+wikilinks: ['alikwot', 'fla%C5%BColet', 'pud%C5%82o_rezonansowe', 'solid_body', 'wybrzmienie']
+aliases: ['/gitara/Sprzężenie_zwrotne', 'Sprzężenia.md/sprzezenia']
+---
 Jest to efekt, który w praktyce pozwala na osiąganie dowolnie [długo
-brzmiących](wybrzmienie "wikilink") dźwięków.
+brzmiących]({{< relref "Wybrzmienie.md" >}}) dźwięków.
 
 Mechanizm tego zjawiska jest następujący: nastawiając siłę głosu we
 wzmacniaczu odpowiednio głośno oraz ustawiając się z gitarą blisko
@@ -7,8 +16,8 @@ głośników, powodujemy nakładanie się fali dźwiękowej na drgania
 struny. Fala ta pobudza strunę do dalszych drgań i nie pozwala na ich
 ustanie, skutkiem czego z głośników nieustannie wydobywa się dźwięk,
 który pobudza strunę... itd. Sprzężenia stosuje się raczej na gitarach
-[solid body](solid_body "wikilink"). Gitary z [pudłem
-rezonansowym](pudło_rezonansowe "wikilink") wzbudzają niektóre dźwięki
+[solid body]({{< relref "Gitara_elektryczna.md" >}}). Gitary z [pudłem
+rezonansowym]({{< relref "Pudło_rezonansowe.md" >}}) wzbudzają niektóre dźwięki
 same i trudno je opanować.
 
 Różne dźwięki mają różne predyspozycje do wzbudzania. Bywa tak, że
@@ -43,10 +52,9 @@ gitary i jeśli gitarzysta nie będzie ich specjalnie tłumił, spowoduje
 niezamierzoną kakofonię.
 
 Przy niektórych dźwiękach w pewnym ustawieniu, można osiągnąć ciekawe
-[flażolety](flażolet "wikilink"), gdyż podczas trwania dźwięku ze
-sprzężeniem, niektóre [alikwoty](alikwot "wikilink") stają się
+[flażolety]({{< relref "Flażolet.md" >}}), gdyż podczas trwania dźwięku ze
+sprzężeniem, niektóre alikwoty<!-- link nie odnosił się do niczego: 'Sprzężenie zwrotne' ('content/Sprzężenie_zwrotne.md') links to 'alikwot' ('content/alikwot.md') and that does not exist --> stają się
 głośniejsze od dźwięku podstawowego. Wykorzystywanie wszystkich
 możliwości sprzężenia zwrotnego da pozytywny efekt muzyczny tylko pod
 warunkiem dużej wrażliwości i poczucia muzycznego smaku gitarzysty.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")
