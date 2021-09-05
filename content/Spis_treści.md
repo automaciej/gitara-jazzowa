@@ -2,7 +2,7 @@
 
 1.  [Budowa gitar](:Kategoria:Rodzaje_gitar "wikilink")
 2.  [Kryteria oceny przy wyborze instrumentu i
-    akcesoriów](Kryteria_oceny_przy_wyborze_instrumentu_i_akcesoriów "wikilink")
+    akcesoriów](Wybieranie_instrumentu_i_akcesoriów "wikilink")
     1.  [Gitara](Gitara "wikilink")
     2.  [Wzmacniacz](Wzmacniacz "wikilink")
     3.  [Struny](Struny "wikilink")
@@ -15,7 +15,7 @@
         instrumentu](Regulacja_szyjki_instrumentu "wikilink")
     2.  [Ustawianie wysokości strun nad
         gryfem](Ustawianie_wysokości_strun_nad_gryfem "wikilink")
-    3.  [Regulacja menzury strun](Regulacja_menzury_strun "wikilink")
+    3.  [Regulacja menzury strun](Regulacja_menzury "wikilink")
     4.  [Korekcja siły brzmienia
         strun](Korekcja_siły_brzmienia_strun "wikilink")
 4.  [Postawa z instrumentem](Postawa_z_instrumentem "wikilink")
