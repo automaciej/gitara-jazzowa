@@ -15,10 +15,10 @@ papierowego.
 > będzie mógł zostać jazzmanem. Zakres niniejszej pracy nie pozwala na
 > szersze omówienie tego tematu. Pragnę tylko podkreślić, że gitara
 > będąca instrumentem
-> harmonicznym<!-- link nie odnosił się do niczego: 'Wprowadzenie do harmonii jazzowej' ('content/parked/harmonia/Wprowadzenie_do_harmonii_jazzowej.md') links to 'instrument_harmoniczny' ('content/parked/harmonia/instrument_harmoniczny.md') and that does not exist -->, ma tu bardzo
+> harmonicznym<!-- link nie odnosił się do niczego: 'Wprowadzenie do harmonii jazzowej' ('content/harmonia-jazzowa/Wprowadzenie_do_harmonii_jazzowej.md') links to 'instrument_harmoniczny' ('content/harmonia-jazzowa/instrument_harmoniczny.md') and that does not exist -->, ma tu bardzo
 > szerokie możliwości. Myślę, że kolejnymi etapami zdobywania
 > umiejętności w tym zakresie są: gra w swingowej sekcji
-> rytmicznej<!-- link nie odnosił się do niczego: 'Wprowadzenie do harmonii jazzowej' ('content/parked/harmonia/Wprowadzenie_do_harmonii_jazzowej.md') links to 'sekcja_rytmiczna' ('content/parked/harmonia/sekcja_rytmiczna.md') and that does not exist -->, gra w zespole bez drugiego
+> rytmicznej<!-- link nie odnosił się do niczego: 'Wprowadzenie do harmonii jazzowej' ('content/harmonia-jazzowa/Wprowadzenie_do_harmonii_jazzowej.md') links to 'sekcja_rytmiczna' ('content/harmonia-jazzowa/sekcja_rytmiczna.md') and that does not exist -->, gra w zespole bez drugiego
 > instrumentu harmonicznego i gra w trio oraz gra solo.
 
   - [Notacja harmoniczna]({{< relref "Notacja_harmoniczna.md" >}})
@@ -33,5 +33,5 @@ papierowego.
 **Zobacz też**
 
   - Harmonia jazzowa na
-    gitarze<!-- link nie odnosił się do niczego: 'Wprowadzenie do harmonii jazzowej' ('content/parked/harmonia/Wprowadzenie_do_harmonii_jazzowej.md') links to 'Harmonia_jazzowa_na_gitarze' ('content/parked/harmonia/Harmonia_jazzowa_na_gitarze.md') and that does not exist -->
+    gitarze<!-- link nie odnosił się do niczego: 'Wprowadzenie do harmonii jazzowej' ('content/harmonia-jazzowa/Wprowadzenie_do_harmonii_jazzowej.md') links to 'Harmonia_jazzowa_na_gitarze' ('content/harmonia-jazzowa/Harmonia_jazzowa_na_gitarze.md') and that does not exist -->
 
