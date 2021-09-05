@@ -1,0 +1,6 @@
+[submodule "themes/no-css-hugo"]
+	path = themes/no-css-hugo
+	url = git@github.com:automaciej/no-css-hugo.git
+[submodule "no-css-hugo"]
+	path = no-css-hugo
+	url = git@github.com:automaciej/no-css-hugo.git
