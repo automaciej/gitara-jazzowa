@@ -2,7 +2,7 @@ baseURL = "https://blizinski.pl/"
 languageCode = "pl-pl"
 title = "Gitara Jazzowa"
 defaultContentLanguage = "pl"
-theme = "porting"
+theme = "no-css-hugo"
 enableGitInfo = true
 enableRobotsTXT = true
 [sitemap]
