@@ -1,5 +1,14 @@
-**Gra akordowa** polega na graniu [akordów](akord "wikilink"), czyli
-kilku brzmiących jednocześnie [dźwięków](dźwięk "wikilink"). Mistrzem
-gry akordowej był [Joe Pass](Joe_Pass "wikilink").
+---
+title: "Gra akordowa"
+slug: "gra-akordowa"
+date: 2005-05-28T17:07:36Z
+kategorie: ['Technika gry']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Joe_Pass', 'akord', 'd%C5%BAwi%C4%99k']
+aliases: ['/gitara/Gra_akordowa']
+---
+**Gra akordowa** polega na graniu akordów<!-- link nie odnosił się do niczego: 'Gra akordowa' ('content/Gra_akordowa.md') links to 'akord' ('content/akord.md') and that does not exist -->, czyli
+kilku brzmiących jednocześnie dźwięków<!-- link nie odnosił się do niczego: 'Gra akordowa' ('content/Gra_akordowa.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist -->. Mistrzem
+gry akordowej był [Joe Pass]({{< relref "Joe_Pass.md" >}}).
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")

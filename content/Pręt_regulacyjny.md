@@ -1,12 +1,23 @@
-[125px](grafika:PretWGryfie.png "wikilink")
+---
+title: "Pręt regulacyjny"
+slug: "pret-regulacyjny"
+date: 2005-07-04T15:47:25Z
+kategorie: ['Budowa gitary']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Gryf', 'Regulacja_gryfu', 'grafika:PretWGryfie.png', 'regulacja_gryfu']
+aliases: ['/gitara/Pręt_regulacyjny']
+images:
+  - path: "/images/PretWGryfie.png"
+---
+{{< figure src="/images/PretWGryfie.png" >}}
 
 **Pręt regulacyjny** służy do [regulowania
-gryfu](regulacja_gryfu "wikilink"), w przypadku kiedy jest on wklęsły
+gryfu]({{< relref "Regulacja_gryfu.md" >}}), w przypadku kiedy jest on wklęsły
 lub wypukły.
 
 **Zobacz też**
 
-  - [Regulacja gryfu](Regulacja_gryfu "wikilink")
-  - [Gryf](Gryf "wikilink")
+  - [Regulacja gryfu]({{< relref "Regulacja_gryfu.md" >}})
+  - [Gryf]({{< relref "Gryf.md" >}})
 
-[kategoria:budowa gitary](kategoria:budowa_gitary "wikilink")
