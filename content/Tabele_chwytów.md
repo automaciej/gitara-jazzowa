@@ -12,7 +12,7 @@ Przy okazji chciałbym ostrzec gitarzystów przed bezkrytycznym
 korzystaniem z tabel chwytów gitarowych. Zawierają one stosunkowo dużą
 ilość akordów brzmiących niejazzowo lub wręcz źle. Układający tabelę
 przede wszystkim mają na uwadze ilość chwytów formalnie zgodnych z danym
-akordem<!-- link nie odnosił się do niczego: 'Tabele chwytów' ('content/harmonia-jazzowa/Tabele_chwytów.md') links to 'akord' ('content/harmonia-jazzowa/akord.md') and that does not exist -->. Zachęcam więc do pracy nad poszukiwaniem
+akordem<!-- link nie odnosił się do niczego: 'Tabele chwytów' ('content/Tabele_chwytów.md') links to 'akord' ('content/akord.md') and that does not exist -->. Zachęcam więc do pracy nad poszukiwaniem
 własnych rozwiązań.
 
 Tabele chwytów dostępne są w kategorii **[Tabele
