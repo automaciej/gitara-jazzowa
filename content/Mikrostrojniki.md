@@ -1,11 +1,24 @@
+---
+title: "Mikrostrojniki"
+slug: "mikrostrojniki"
+date: 2005-05-23T21:00:04Z
+kategorie: ['Budowa gitary', 'Strojenie gitary']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Floyd_Rose', 'Grafika:MostekZMikrostrojnikami.jpg', 'Grafika:NutyStrojenieMikrostrojnikami.png', 'Strojenie_gitary', 'gitara_elektryczno-akustyczna']
+aliases: ['/gitara/Mikrostrojniki']
+images:
+  - path: "/images/MostekZMikrostrojnikami.jpg"
+  - path: "/images/NutyStrojenieMikrostrojnikami.png"
+---
 Przy omawianiu [gitary
-elektryczno-akustycznej](gitara_elektryczno-akustyczna "wikilink")
+elektryczno-akustycznej]({{< relref "Gitara_elektryczno-akustyczna.md" >}})
 wspomniałem o tzw. mikrostrojnikach, znacznie ułatwiających strojenie.
 Zakłada sieje na strunnik, a struny na strojniki, tak jak w
 instrumentach smyczkowych.
 
 W mikrostrojniki wyposażone są wszystkie gitary z mostkami typu [Floyd
-Rose](Floyd_Rose "wikilink") i podobne, w których jest blokada strun na
+Rose]({{< relref "Floyd_Rose.md" >}}) i podobne, w których jest blokada strun na
 podstawku przy główce.
 
 Zalety ich są niezaprzeczalne. W gitarze wyposażonej w mikrostrojniki,
@@ -25,17 +38,16 @@ stroić ją. Można również porównywać wysokość dźwięków strun brzmiąc
 jednocześnie i w trakcie trwania współbrzmienia stroić jedną ze strun,
 np.:
 
-[Grafika:NutyStrojenieMikrostrojnikami.png](Grafika:NutyStrojenieMikrostrojnikami.png "wikilink")
+{{< figure src="/images/NutyStrojenieMikrostrojnikami.png" >}}
 
 Na zakończenie dodam, że pomijając wszystkie omówione dotychczas zalety,
 mikrostrojniki mają o wiele większą dokładność dzięki innemu przełożeniu
 ruchu obrotowego na naciąg strun.
 
-[Grafika:MostekZMikrostrojnikami.jpg](Grafika:MostekZMikrostrojnikami.jpg "wikilink")
+{{< figure src="/images/MostekZMikrostrojnikami.jpg" >}}
 
 **Zobacz też**
 
-  - [Strojenie gitary](Strojenie_gitary "wikilink")
+  - [Strojenie gitary]({{< relref "Strojenie_gitary.md" >}})
 
-[kategoria:budowa gitary](kategoria:budowa_gitary "wikilink")
-[kategoria:strojenie gitary](kategoria:strojenie_gitary "wikilink")
+

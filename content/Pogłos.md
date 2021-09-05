@@ -1,7 +1,17 @@
+---
+title: "Pogłos"
+slug: "poglos"
+date: 2005-10-01T16:20:12Z
+kategorie: ['Akcesoria gitarzysty']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['wzmacniacz']
+aliases: ['/gitara/Pogłos', 'pogłos']
+---
 ## Pogłos sprężynowy
 
 Pogłos można uzyskać sztucznie za pomocą specjalnego urządzenia. Jest
-ono umieszczane przy [wzmacniaczach](wzmacniacz "wikilink") gitarowych
+ono umieszczane przy [wzmacniaczach]({{< relref "Wzmacniacz.md" >}}) gitarowych
 jako pogłos tzw. „sprężynowy" (nazwa wzięta od konstrukcji urządzenia).
 Pogłosu tego nie należy mylić z efektem, jaki można uzyskać przy pomocy
 taśmowej echo-kamery oraz echa elektronicznego, które daje wielokrotne
@@ -28,5 +38,3 @@ technicznie pogłosowi studyjnemu. Natomiast w salach wytłumionych i w
 klubach, zwłaszcza tych małych, przepełnionych - gitarzysta powinien
 korzystać z pogłosu umieszczonego w swoim wzmacniaczu.
 
-[kategoria:akcesoria
-gitarzysty](kategoria:akcesoria_gitarzysty "wikilink")

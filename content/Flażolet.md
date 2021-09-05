@@ -1,3 +1,17 @@
+---
+title: "Flażolet"
+slug: "flazolet"
+date: 2005-09-20T06:01:23Z
+kategorie: ['Technika gry']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['Fla%C5%BColet_sztuczny', 'Grafika:Flazolety.png', 'Strojenie_fla%C5%BColetami', 'grafika:NutyFlazolety01.png', 'grafika:NutyFlazolety02.png']
+aliases: ['/gitara/Flażolet', 'flażolet']
+images:
+  - path: "/images/Flazolety.png"
+  - path: "/images/NutyFlazolety01.png"
+  - path: "/images/NutyFlazolety02.png"
+---
 **Flażoletem** nazywamy wydobyty za pomocą specjalnej techniki gry jeden
 z alikwotów (tonów harmonicznych) struny.
 
@@ -40,7 +54,7 @@ Trzeba dodać, że flażolet oktawy ma jeden węzeł, a poczynając od
 flaźoletu kwinty, węzłów tych jest więcej. Wyjaśnia to schematyczny
 rysunek drgającej struny.
 
-[Grafika:Flazolety.png](Grafika:Flazolety.png "wikilink")
+{{< figure src="/images/Flazolety.png" >}}
 
 Można to też zaobserwować, patrząc uważnie na strunę drgającą z
 określonym podziałem. Punkt nieruchomy na drgającej strunie to węzeł
@@ -68,7 +82,7 @@ praktyce. Podaję, nie według kolejności, występowania węzłów, ale według
 wysokości dźwięku flażoletów. Znając zasadę powstawania flażoletów, bez
 trudu można znaleźć zwielokrotnienia węzłów.
 
-[grafika:NutyFlazolety01.png](grafika:NutyFlazolety01.png "wikilink")
+{{< figure src="/images/NutyFlazolety01.png" >}}
 
 Flażolety w III pozycji używane są rzadziej, ze względu na dość słabe
 brzmienie. Każdy gitarzysta może sprawdzić, że istnieją flażolety
@@ -79,11 +93,10 @@ ze względu na fałszywe brzmienie niektórych z nich.
 Flażoletami naturalnymi można wykonywać niektóre proste akordy
 wynikające ze stroju gitary, np.
 
-[grafika:NutyFlazolety02.png](grafika:NutyFlazolety02.png "wikilink")
+{{< figure src="/images/NutyFlazolety02.png" >}}
 
 **Zobacz też**
 
-  - [Strojenie flażoletami](Strojenie_flażoletami "wikilink")
-  - [Flażolet sztuczny](Flażolet_sztuczny "wikilink")
+  - [Strojenie flażoletami]({{< relref "Strojenie_flażoletami.md" >}})
+  - [Flażolet sztuczny]({{< relref "Flażolet_sztuczny.md" >}})
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")
