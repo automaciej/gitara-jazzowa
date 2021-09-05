@@ -6,7 +6,7 @@ kategorie: ['Budowa gitary']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Gryf', 'Regulacja_gryfu', 'grafika:PretWGryfie.png', 'regulacja_gryfu']
-aliases: ['/gitara/Pręt_regulacyjny', 'pręt-regulacyjny']
+aliases: ['/gitara/Pręt_regulacyjny']
 images:
   - path: "/images/PretWGryfie.png"
 ---

@@ -6,6 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Technika']
-aliases: ['/gitara/Różne_techniki_gry_na_gitarze', 'różne-techniki-gry-na-gitarze']
+aliases: ['/gitara/Różne_techniki_gry_na_gitarze']
 ---
 1.  REDIRECT [Technika]({{< relref "Technika.md" >}})

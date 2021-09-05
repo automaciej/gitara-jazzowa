@@ -6,7 +6,7 @@ kategorie: ['Gitarzyści jazzowi']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Charlie_Christian', 'Gitara_elektryczna', 'Janusz_Pop%C5%82awski', 'Jim_Hall', 'Joe_Pass', 'John_Scofield', 'Pat_Metheny', 'Spis_tre%C5%9Bci', 'Wes_Montgomery', 'grafika:MarekBlizinski.jpg']
-aliases: ['/gitara/Marek_Bliziński', 'marek-bliziński']
+aliases: ['/gitara/Marek_Bliziński']
 images:
   - path: "/images/MarekBlizinski.jpg"
 ---

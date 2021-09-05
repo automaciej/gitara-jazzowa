@@ -6,7 +6,7 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg', 'grafika:WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg']
-aliases: ['/gitara/Flażolet_sztuczny', 'flażolet-sztuczny']
+aliases: ['/gitara/Flażolet_sztuczny']
 images:
   - path: "/images/PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg"
   - path: "/images/WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg"

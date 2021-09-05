@@ -6,7 +6,7 @@ kategorie: ['Konserwacja gitary']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['gitara_akustyczna', 'gitara_akustyczna', 'gitara_elektryczna', 'gryf', 'gryf', 'mostek', 'struny']
-aliases: ['/gitara/Ustawianie_wysokości_strun_nad_gryfem', 'ustawianie-wysokości-strun-nad-gryfem']
+aliases: ['/gitara/Ustawianie_wysokości_strun_nad_gryfem']
 ---
 Ustawianie wysokości [strun]({{< relref "Struna.md" >}}) nad
 [gryfem]({{< relref "Gryf.md" >}}) jest sprawą indywidualną. Oczywiście nie

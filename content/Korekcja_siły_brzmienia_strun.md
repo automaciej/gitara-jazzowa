@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Konserwacja gitary']
 draft: false
 wikilinks: ['Najcz%C4%99stsze_usterki_i_b%C5%82%C4%99dy', 'barwa_d%C5%BAwi%C4%99ku', 'fuzz', 'gitara_elektryczna', 'gitara_elektryczno-akustyczna', 'struna', 'sustainer', 'wzmacniacz', 'wzmacniacz']
-aliases: ['/gitara/Korekcja_siły_brzmienia_strun', 'korekcja-siły-brzmienia-strun']
+aliases: ['/gitara/Korekcja_siły_brzmienia_strun']
 ---
 Komplet strun zawiera w sobie struny o różnej grubości, a trzy lub
 cztery z nich są owijane. Wskutek tego zróżnicowania nie zawsze

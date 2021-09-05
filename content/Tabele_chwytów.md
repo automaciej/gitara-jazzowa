@@ -6,7 +6,7 @@ kategorie: ['Harmonia jazzowa']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: [':Kategoria:Tabele_chwyt%C3%B3w', 'akord']
-aliases: ['/gitara/Tabele_chwytów', 'tabele-chwytów']
+aliases: ['/gitara/Tabele_chwytów']
 ---
 Przy okazji chciałbym ostrzec gitarzystów przed bezkrytycznym
 korzystaniem z tabel chwytów gitarowych. Zawierają one stosunkowo dużą

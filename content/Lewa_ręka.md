@@ -6,7 +6,7 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Praca_lewej_r%C4%99ki', 'U%C5%82o%C5%BCenie_lewej_r%C4%99ki']
-aliases: ['/gitara/Lewa_ręka', 'lewa-ręka']
+aliases: ['/gitara/Lewa_ręka']
 ---
   - [Ułożenie lewej ręki]({{< relref "Ułożenie_lewej_ręki.md" >}})
   - [Praca lewej ręki]({{< relref "Praca_lewej_ręki.md" >}})

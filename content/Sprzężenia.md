@@ -6,6 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Sprz%C4%99%C5%BCenie_zwrotne']
-aliases: ['/gitara/Sprzężenia', 'sprzężenia']
+aliases: ['/gitara/Sprzężenia']
 ---
 1.  REDIRECT [Sprzężenie zwrotne]({{< relref "Sprzężenie_zwrotne.md" >}})

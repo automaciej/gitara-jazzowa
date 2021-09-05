@@ -6,7 +6,7 @@ kategorie: ['Strona główna']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: []
-aliases: ['/gitara/Janusz_Popławski', 'janusz-popławski']
+aliases: ['/gitara/Janusz_Popławski']
 ---
   - [Strona WWW Janusza
     Popławskiego](http://www.poplawski.com.pl/index_poplawski.html)

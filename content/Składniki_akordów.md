@@ -6,7 +6,7 @@ kategorie: ['Harmonia jazzowa']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Wikipedysta:MaciejBlizinski', 'akord', 'znaki_chromatyczne']
-aliases: ['/gitara/Składniki_akordów', 'składniki-akordów']
+aliases: ['/gitara/Składniki_akordów']
 ---
 Jeśli nie chcemy aby brzmiał określony składnik
 akordu<!-- link nie odnosił się do niczego: 'Składniki akordów' ('content/Składniki_akordów.md') links to 'akord' ('content/akord.md') and that does not exist --> oznaczamy to za pomocą skreślenia, np.:

@@ -6,7 +6,7 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Fla%C5%BColet_sztuczny', 'Grafika:Flazolety.png', 'Strojenie_fla%C5%BColetami', 'grafika:NutyFlazolety01.png', 'grafika:NutyFlazolety02.png']
-aliases: ['/gitara/Flażolet', 'flażolet']
+aliases: ['/gitara/Flażolet']
 images:
   - path: "/images/Flazolety.png"
   - path: "/images/NutyFlazolety01.png"

@@ -6,7 +6,7 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:UkladLewejRekiW12Pozycji.jpg', 'Grafika:UkladLewejRekiW1Pozycji.jpg', 'Grafika:UkladLewejRekiW5Pozycji.jpg', 'Lewa_r%C4%99ka']
-aliases: ['/gitara/Ułożenie_lewej_ręki', 'ułożenie-lewej-ręki']
+aliases: ['/gitara/Ułożenie_lewej_ręki']
 images:
   - path: "/images/UkladLewejRekiW12Pozycji.jpg"
   - path: "/images/UkladLewejRekiW1Pozycji.jpg"
