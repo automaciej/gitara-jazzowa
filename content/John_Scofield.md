@@ -1,26 +1,36 @@
+---
+title: "John Scofield"
+slug: "john-scofield"
+date: 2005-07-30T05:54:37Z
+kategorie: ['Gitarzyści jazzowi']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['B%E2%99%ADm7', 'D%E2%99%AD7', 'Improwizacja', 'bebop', 'd%C5%BAwi%C4%99k', 'gitara_basowa', 'jazz', 'rock', 'schemat_harmoniczny', 'sekcja_rytmiczna', 'staccato', 'swingowanie']
+aliases: ['/gitara/John_Scofield']
+---
 Wielki talent **Johna Scofielda** jako kompozytora i gita­rzysty czyni
 go jednym z najwybitniejszych twórców nowoczesnego
-[jazzu](jazz "wikilink").
+jazzu<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'jazz' ('content/jazz.md') and that does not exist -->.
 
 W jego grze zawarta jest synteza stylistyczna osiągnięta w lalach
 siedemdziesiątych przez muzyków jazzowych. Pozornie gra klasyczny
-[bebop](bebop "wikilink"), jednak z potężną [rockową](rock "wikilink")
+bebop<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'bebop' ('content/bebop.md') and that does not exist -->, jednak z potężną rockową<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'rock' ('content/rock.md') and that does not exist -->
 energią.
 
-Uchodzi za najintensywniej [swingującego](swingowanie "wikilink")
-gitarzystę. [Improwizuje](Improwizacja "wikilink") swobodnie i
+Uchodzi za najintensywniej swingującego<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'swingowanie' ('content/swingowanie.md') and that does not exist -->
+gitarzystę. Improwizuje<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'Improwizacja' ('content/Improwizacja.md') and that does not exist --> swobodnie i
 żywiołowo, a z drugiej strony jego świadomość miejsca każdego
-[dźwięku](dźwięk "wikilink") w [strukturze
-harmonicznej](schemat_harmoniczny "wikilink") utworu jest imponująca.
+dźwięku<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist --> w strukturze
+harmonicznej<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'schemat_harmoniczny' ('content/schemat_harmoniczny.md') and that does not exist --> utworu jest imponująca.
 
 Charakterystycznym przykładem może być temat z utworu „Techno" z płyty
-„Still Warm". Oparty jest na dwóch akordach: [B♭m7](B♭m7 "wikilink") i
-[D♭7](D♭7 "wikilink"). Zbudowany jest z krótkich, gęstych rytmicznie
-fraz wykonanych [staccato](staccato "wikilink"). Motyw gi­tary ściśle
+„Still Warm". Oparty jest na dwóch akordach: B♭m7<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'B♭m7' ('content/B♭m7.md') and that does not exist --> i
+D♭7<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'D♭7' ('content/D♭7.md') and that does not exist -->. Zbudowany jest z krótkich, gęstych rytmicznie
+fraz wykonanych [staccato]({{< relref "Staccato.md" >}}). Motyw gi­tary ściśle
 koresponduje z szesnastkowym podziałem [gi­tary
-basowej](gitara_basowa "wikilink"). Jednotaktowe frazy gitary i basu
+basowej]({{< relref "Gitara_basowa.md" >}}). Jednotaktowe frazy gitary i basu
 przedzielane są „oddechem" [sekcji
-rytmicznej](sekcja_rytmiczna "wikilink").
+rytmicznej]({{< relref "Sekcja_rytmiczna.md" >}}).
 
 ## Mówią o Scofieldzie
 
@@ -34,4 +44,4 @@ People** czy **You under arrest**. Polecam nowsze albumy **Uberjam** czy
 pozdrawiam
 [Arkady](http://www.arkadymichalik.republika.pl)
 
-[Scofield, John](kategoria:gitarzyści_jazzowi "wikilink")
+Scofield, John<!-- link nie odnosił się do niczego: 'John Scofield' ('content/John_Scofield.md') links to 'kategoria:gitarzyści_jazzowi' ('content/kategoria:gitarzyści_jazzowi.md') and that does not exist -->

@@ -1,8 +1,18 @@
+---
+title: "Podstawy teorii muzyki"
+slug: "podstawy-teorii-muzyki"
+date: 2005-09-14T10:44:49Z
+kategorie: []
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['A_razkre%C5%9Blne', 'Akord', 'Akord_o_budowie_tercjowej', 'Cz%C4%99stotliwo%C5%9B%C4%87_drga%C5%84', 'Cz%C4%99stotliwo%C5%9Bci_d%C5%BAwi%C4%99k%C3%B3w', 'D%C5%BAwi%C4%99k_(w_rozumieniu_akustyki)', 'D%C5%BAwi%C4%99k_(w_rozumieniu_harmonii)', 'D%C5%BAwi%C4%99k_o_okre%C5%9Blonej_wysoko%C5%9Bci', 'Funkcja_harmoniczna', 'Interwa%C5%82', 'Nazwy_literowe_d%C5%BAwi%C4%99k%C3%B3w', 'Oktawowa_miara_odleg%C5%82o%C5%9Bci_mi%C4%99dzy_cz%C4%99stotliwo%C5%9Bciami', 'Pe%C5%82na_przestrze%C5%84_nazw_d%C5%BAwi%C4%99k%C3%B3w', 'Przestrze%C5%84_naturalnych_nazw_d%C5%BAwi%C4%99k%C3%B3w', 'Przestrze%C5%84_nazw_d%C5%BAwi%C4%99k%C3%B3w_bez_oktawy', 'Skala', 'Skale_ko%C5%9Bcielne', 'Stopie%C5%84', 'System_r%C3%B3wnomiernie_temperowany', 'Ton', 'Tonacja', 'Tryb', 'Wysoko%C5%9B%C4%87_d%C5%BAwi%C4%99ku', 'Zapis_ameryka%C5%84ski_i_niemiecki_(europejski)', 'Znaki_chromatyczne', 'interwa%C5%82']
+aliases: ['/gitara/Podstawy_teorii_muzyki']
+---
 Niniejsza część jest próbą możliwie ścisłego zdefiniowania pojęć
 muzycznych i opisania ich językiem matematyki. Nie jest to wiedza
 konieczna muzykowi do grania, więc niezainteresowanych zapraszam do
 przejścia do Rozdziału 2. Jeżeli natomiast zastanawiasz się nad tym,
-czymże *u diabła* jest ten [interwał](interwał "wikilink"), a przy
+czymże *u diabła* jest ten interwał<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'interwał' ('content/interwał.md') and that does not exist -->, a przy
 okazji znasz odrobinę działania na zbiorach, to jest to część dla
 Ciebie.
 
@@ -22,37 +32,37 @@ muzycznych:
 
 ## Definicje
 
-  - [Dźwięk (w rozumieniu
-    akustyki)](Dźwięk_\(w_rozumieniu_akustyki\) "wikilink")
-  - [Częstotliwość drgań](Częstotliwość_drgań "wikilink")
-  - [Ton](Ton "wikilink")
-  - [Dźwięk o określonej
-    wysokości](Dźwięk_o_określonej_wysokości "wikilink")
-  - [Oktawowa miara odległości między
-    częstotliwościami](Oktawowa_miara_odległości_między_częstotliwościami "wikilink")
-  - [System równomiernie
-    temperowany](System_równomiernie_temperowany "wikilink")
-  - [Znaki chromatyczne](Znaki_chromatyczne "wikilink")
-  - [Nazwy literowe dźwięków](Nazwy_literowe_dźwięków "wikilink")
-  - [Pełna przestrzeń nazw
-    dźwięków](Pełna_przestrzeń_nazw_dźwięków "wikilink")
-  - [Przestrzeń naturalnych nazw
-    dźwięków](Przestrzeń_naturalnych_nazw_dźwięków "wikilink")
-  - [Przestrzeń nazw dźwięków bez
-    oktawy](Przestrzeń_nazw_dźwięków_bez_oktawy "wikilink")
-  - [Dźwięk (w rozumieniu
-    harmonii)](Dźwięk_\(w_rozumieniu_harmonii\) "wikilink")
-  - [Wysokość dźwięku](Wysokość_dźwięku "wikilink")
-  - [A razkreślne](A_razkreślne "wikilink")
-  - [Częstotliwości dźwięków](Częstotliwości_dźwięków "wikilink")
-  - [Interwał](Interwał "wikilink")
-  - [Skala](Skala "wikilink")
-  - [Skale kościelne](Skale_kościelne "wikilink")
-  - [Akord](Akord "wikilink")
-  - [Stopień](Stopień "wikilink")
-  - [Tryb](Tryb "wikilink")
-  - [Tonacja](Tonacja "wikilink")
-  - [Akord o budowie tercjowej](Akord_o_budowie_tercjowej "wikilink")
-  - [Funkcja harmoniczna](Funkcja_harmoniczna "wikilink")
-  - [Zapis amerykański i niemiecki
-    (europejski)](Zapis_amerykański_i_niemiecki_\(europejski\) "wikilink")
+  - Dźwięk (w rozumieniu
+    akustyki)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Dźwięk_\\(w_rozumieniu_akustyki\\)' ('content/Dźwięk_\\(w_rozumieniu_akustyki\\).md') and that does not exist -->
+  - Częstotliwość drgań<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Częstotliwość_drgań' ('content/Częstotliwość_drgań.md') and that does not exist -->
+  - Ton<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Ton' ('content/Ton.md') and that does not exist -->
+  - Dźwięk o określonej
+    wysokości<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Dźwięk_o_określonej_wysokości' ('content/Dźwięk_o_określonej_wysokości.md') and that does not exist -->
+  - Oktawowa miara odległości między
+    częstotliwościami<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Oktawowa_miara_odległości_między_częstotliwościami' ('content/Oktawowa_miara_odległości_między_częstotliwościami.md') and that does not exist -->
+  - System równomiernie
+    temperowany<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'System_równomiernie_temperowany' ('content/System_równomiernie_temperowany.md') and that does not exist -->
+  - Znaki chromatyczne<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Znaki_chromatyczne' ('content/Znaki_chromatyczne.md') and that does not exist -->
+  - Nazwy literowe dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Nazwy_literowe_dźwięków' ('content/Nazwy_literowe_dźwięków.md') and that does not exist -->
+  - Pełna przestrzeń nazw
+    dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Pełna_przestrzeń_nazw_dźwięków' ('content/Pełna_przestrzeń_nazw_dźwięków.md') and that does not exist -->
+  - Przestrzeń naturalnych nazw
+    dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Przestrzeń_naturalnych_nazw_dźwięków' ('content/Przestrzeń_naturalnych_nazw_dźwięków.md') and that does not exist -->
+  - Przestrzeń nazw dźwięków bez
+    oktawy<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Przestrzeń_nazw_dźwięków_bez_oktawy' ('content/Przestrzeń_nazw_dźwięków_bez_oktawy.md') and that does not exist -->
+  - Dźwięk (w rozumieniu
+    harmonii)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Dźwięk_\\(w_rozumieniu_harmonii\\)' ('content/Dźwięk_\\(w_rozumieniu_harmonii\\).md') and that does not exist -->
+  - Wysokość dźwięku<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Wysokość_dźwięku' ('content/Wysokość_dźwięku.md') and that does not exist -->
+  - A razkreślne<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'A_razkreślne' ('content/A_razkreślne.md') and that does not exist -->
+  - Częstotliwości dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Częstotliwości_dźwięków' ('content/Częstotliwości_dźwięków.md') and that does not exist -->
+  - Interwał<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Interwał' ('content/Interwał.md') and that does not exist -->
+  - Skala<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Skala' ('content/Skala.md') and that does not exist -->
+  - Skale kościelne<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Skale_kościelne' ('content/Skale_kościelne.md') and that does not exist -->
+  - Akord<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Akord' ('content/Akord.md') and that does not exist -->
+  - Stopień<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Stopień' ('content/Stopień.md') and that does not exist -->
+  - Tryb<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Tryb' ('content/Tryb.md') and that does not exist -->
+  - Tonacja<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Tonacja' ('content/Tonacja.md') and that does not exist -->
+  - Akord o budowie tercjowej<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Akord_o_budowie_tercjowej' ('content/Akord_o_budowie_tercjowej.md') and that does not exist -->
+  - Funkcja harmoniczna<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Funkcja_harmoniczna' ('content/Funkcja_harmoniczna.md') and that does not exist -->
+  - Zapis amerykański i niemiecki
+    (europejski)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/Podstawy_teorii_muzyki.md') links to 'Zapis_amerykański_i_niemiecki_\\(europejski\\)' ('content/Zapis_amerykański_i_niemiecki_\\(europejski\\).md') and that does not exist -->

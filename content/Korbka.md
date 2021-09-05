@@ -1,8 +1,16 @@
+---
+title: "Korbka"
+slug: "korbka"
+date: 2005-09-30T17:09:12Z
+kategorie: ['Akcesoria gitarzysty']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['gitara_dwunastostrunowa', 'maszynka', 'struny']
+aliases: ['/gitara/Korbka']
+---
 Wśród wielu akcesoriów ułatwiających życie gitarzyście, można wymienić
-**korbkę** zakładaną na uchwyt [maszynki](maszynka "wikilink"),
-przyśpieszającą nawijanie się [struny](struny "wikilink") na kołek.
+**korbkę** zakładaną na uchwyt maszynki<!-- link nie odnosił się do niczego: 'Korbka' ('content/Korbka.md') links to 'maszynka' ('content/maszynka.md') and that does not exist -->,
+przyśpieszającą nawijanie się [struny]({{< relref "Struna.md" >}}) na kołek.
 Przydaje się podczas zmiany całego kompletu strun, szczególnie w
-[gitarach dwunastostrunowych](gitara_dwunastostrunowa "wikilink").
+[gitarach dwunastostrunowych]({{< relref "Gitara_dwunastostrunowa.md" >}}).
 
-[Kategoria:Akcesoria
-gitarzysty](Kategoria:Akcesoria_gitarzysty "wikilink")

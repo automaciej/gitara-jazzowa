@@ -1,7 +1,19 @@
+---
+title: "Tremolo"
+slug: "tremolo"
+date: 2005-05-22T18:07:46Z
+kategorie: ['Technika gry']
+draft: false
+contributor: 'MaciejBlizinski'
+wikilinks: ['grafika:NutyTremolo.png']
+aliases: ['/gitara/Tremolo']
+images:
+  - path: "/images/NutyTremolo.png"
+---
 ...jest szybkim powtarzaniem jednego lub więcej dźwięków. Na gitarze
 wykonuje się za pomocą szybkich ruchów kostką.
 
-[grafika:NutyTremolo.png](grafika:NutyTremolo.png "wikilink")
+{{< figure src="/images/NutyTremolo.png" >}}
 
 Dobrze zagrane tremolo jest świadectwem sprawności technicznej prawej
 ręki. Tremolo może być też rozszerzonym trylem, w którym zamiast
@@ -17,4 +29,3 @@ w muzyce jazzowej nie eksponuje tremola tak jak w technice klasycznej. W
 wyrównywania jego dynamiki. Muzycy jazzowi wypracowują również inne
 sposoby uzyskiwania tak tremola jak i innych ozdobników na gitarze.
 
-[kategoria:technika gry](kategoria:technika_gry "wikilink")
