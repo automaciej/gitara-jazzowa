@@ -2,7 +2,7 @@ baseURL = "https://blizinski.pl/"
 languageCode = "pl-pl"
 title = "blizinski.pl"
 defaultContentLanguage = "pl"
-theme = "porting"
+theme = "no-css-hugo"
 enableGitInfo = true
 [taxonomies]
   kategoria = "kategorie"
