@@ -6,7 +6,7 @@ kategorie: ['Konserwacja gitary']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:SzyjkaWklesla.png', 'Grafika:SzyjkaWypukla.png', 'grafika:PretWGryfie.png', 'gryf', 'mostek', 'pr%C4%99t_regulacyjny', 'struna']
-aliases: ['/gitara/Regulacja_gryfu', 'Regulacja_szyjki_instrumentu.md/regulacja-szyjki-instrumentu']
+aliases: ['/gitara/Regulacja_gryfu', '/regulacja-szyjki-instrumentu']
 images:
   - path: "/images/PretWGryfie.png"
   - path: "/images/SzyjkaWklesla.png"
