@@ -129,6 +129,3 @@ wie, co robi.
 | '''siedem '''      | czysta lub alterowana | zawsze alterowana | czysta lub alterowana |
 | **mol siedem**     | zawsze czysta         | zawsze czysta     | zawsze wielka         |
 | **mol siedem, ♭5** | nie dodaje się        | zawsze czysta     | raczej obniżona       |
-
-Zobacz też: [interpretacja
-harmoniczna]({{< relref "Interpretacja_harmoniczna.md" >}})

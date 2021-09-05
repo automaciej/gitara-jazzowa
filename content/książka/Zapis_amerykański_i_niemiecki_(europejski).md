@@ -22,8 +22,3 @@ W praktyce wygląda to tak, że polski muzyk jazzowy, widząc napisane *B*
 mówi *ha*, a widząc *B♭* mówi *be*. Jest to trochę dziwne - zapisujemy
 po amerykańsku, wymawiamy po polsku. Niestety, nic na to poradzić się
 nie da, tak jest przyjęte w środowisku polskich muzyków.
-
-**Zobacz też**
-
-  - [Alfabety muzyczne]({{< relref "Alfabety_muzyczne.md" >}})
-

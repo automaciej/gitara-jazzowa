@@ -8,8 +8,8 @@ contributor: 'MaciejBlizinski'
 wikilinks: ['dominanta', 'interwa%C5%82', 'sk%C5%82adniki_akord%C3%B3w']
 aliases: ['/gitara/Septyma_mała', 'septyma-mala']
 ---
-**Septyma mała** może być [składnikiem
-akordu]({{< relref "Składniki_akordów.md" >}}) lub
+**Septyma mała** może być składnikiem
+akordu lub
 [interwałem]({{< relref "Interwał.md" >}}).
 
 Septyma mała jest składnikiem, który dodaje się do akordów o charaterze
