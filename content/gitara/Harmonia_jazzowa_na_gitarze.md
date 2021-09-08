@@ -8,7 +8,6 @@ contributor: 'MaciejBlizinski'
 wikilinks: ['Barwa_akordu', 'Chwytanie_i_%C5%82%C4%85czenie_akord%C3%B3w', 'Czym_jest,_a_czym_nie_jest_teoria_muzyki', 'Funkcje_harmoniczne', 'Oznaczenia_akord%C3%B3w', 'Po_co_jest_teoria_muzyki', 'Podstawy_teorii_muzyki', 'Przyk%C5%82ady_chwyt%C3%B3w', 'Sztuczki_harmoniczne', 'Wprowadzenie_do_budowania_akord%C3%B3w']
 aliases: [
     '/gitara/Harmonia_Jazzowa_na_Gitarze',
-    '/gitara/Harmonia_jazzowa_na_gitarze',
     'książka/harmonia-jazzowa-na-gitarze',
 ]
 ---
