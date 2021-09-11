@@ -5,16 +5,14 @@ date: 2005-10-10T15:20:12Z
 kategorie: ['Harmonia jazzowa']
 draft: false
 contributor: 'MaciejBlizinski'
-wikilinks: [':Kategoria:Tabele_chwyt%C3%B3w', 'akord']
+wikilinks: []
 aliases: ['/gitara/Tabele_chwytów']
 ---
 Przy okazji chciałbym ostrzec gitarzystów przed bezkrytycznym
 korzystaniem z tabel chwytów gitarowych. Zawierają one stosunkowo dużą
 ilość akordów brzmiących niejazzowo lub wręcz źle. Układający tabelę
 przede wszystkim mają na uwadze ilość chwytów formalnie zgodnych z danym
-akordem<!-- link nie odnosił się do niczego: 'Tabele chwytów' (PosixPath('Tabele_chwytów.md')) links to 'akord' (PosixPath('/no/path/exists')) and that does not exist -->. Zachęcam więc do pracy nad poszukiwaniem
+akordem. Zachęcam więc do pracy nad poszukiwaniem
 własnych rozwiązań.
 
-Tabele chwytów dostępne są w kategorii **[Tabele
-chwytów](/kategorie/tabele-chwytow "Kategoria Tabele chwytów")**.
 

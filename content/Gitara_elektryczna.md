@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Rodzaje gitar']
 draft: false
 wikilinks: ['Fender_Stratocaster', 'Floyd_Rose', 'Gibson', 'Leo_Fender', 'Les_Paul', 'Szyjka', 'akord', 'chorus', 'flanger', 'fuzz', 'gitara_akustyczna', 'gitara_elektryczno-akustyczna', 'grafika:GitaraElektrycznaBudowa.png', 'grafika:MostekFloydRose.jpg', 'gryf', 'gryf', 'gryf', 'menzura', 'mikrostrojnik', 'mostek', 'potencjometr', 'pr%C3%B3g', 'przesterowanie', 'przetwornik', 'pud%C5%82o_rezonansowe', 'pud%C5%82o_rezonansowe', 'sprz%C4%99%C5%BCenie_zwrotne', 'struna', 'wahwah', 'wibrato', 'wybrzmienie', 'wzmacniacz', 'wzmacniacz']
-aliases: ['/gitara/Gitara_elektryczna', '/solid-body']
+aliases: ['/gitara/Gitara_elektryczna']
 images:
   - path: "/images/GitaraElektrycznaBudowa.png"
   - path: "/images/MostekFloydRose.jpg"
@@ -21,7 +21,7 @@ elektrycznej - „deska". Ponieważ problem akustyczności w tym wypadku
 jest mało istotny, konstrukcja gitary elektrycznej uwzględnia przede
 wszystkim: mocny korpus, przykręconą do niego szyjkę, wzmocnioną prętem,
 a czasem i wstawkę z twardego drewna zapobiegającą skręcaniu się.
-[Szyjka]({{< relref "Gryf.md" >}}), podobnie jak w [gitarach
+Szyjka<!-- link nie odnosił się do niczego: 'Gitara elektryczna' (PosixPath('Gitara_elektryczna.md')) links to 'Szyjka' (PosixPath('/no/path/exists')) and that does not exist -->, podobnie jak w [gitarach
 akustycznych]({{< relref "Gitara_akustyczna.md" >}}), jest wąska, a
 [gryf]({{< relref "Gryf.md" >}}) zaokrąglony, ale na ogół ilość
 progów<!-- link nie odnosił się do niczego: 'Gitara elektryczna' (PosixPath('Gitara_elektryczna.md')) links to 'próg' (PosixPath('/no/path/exists')) and that does not exist --> jest nie mniejsza niż 22, choć zdarza się
@@ -46,7 +46,7 @@ wszystkie elementy tego instrumentu. Korpus wymodelowany z pełnego
 drewna, [gryf]({{< relref "Gryf.md" >}}) przykręcany do korpusu śrubami oraz
 [mostek]({{< relref "Mostek.md" >}}) z systemem tremolo skonstruowany również
 przez Leo Fendera<!-- link nie odnosił się do niczego: 'Gitara elektryczna' (PosixPath('Gitara_elektryczna.md')) links to 'Leo_Fender' (PosixPath('/no/path/exists')) and that does not exist -->. Umożliwiał
-[wibrowanie]({{< relref "Wibracja.md" >}}) i obniżanie dźwięku pojedynczych strun
+wibrowanie<!-- link nie odnosił się do niczego: 'Gitara elektryczna' (PosixPath('Gitara_elektryczna.md')) links to 'wibrato' (PosixPath('/no/path/exists')) and that does not exist --> i obniżanie dźwięku pojedynczych strun
 i całych akordów<!-- link nie odnosił się do niczego: 'Gitara elektryczna' (PosixPath('Gitara_elektryczna.md')) links to 'akord' (PosixPath('/no/path/exists')) and that does not exist -->.
 
 # Mostek

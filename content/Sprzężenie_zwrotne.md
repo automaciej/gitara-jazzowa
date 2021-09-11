@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['alikwot', 'fla%C5%BColet', 'pud%C5%82o_rezonansowe', 'solid_body', 'wybrzmienie']
-aliases: ['/gitara/Sprzężenie_zwrotne', '/sprzezenia']
+aliases: ['/gitara/Sprzężenie_zwrotne']
 ---
 Jest to efekt, który w praktyce pozwala na osiąganie dowolnie [długo
 brzmiących]({{< relref "Wybrzmienie.md" >}}) dźwięków.
@@ -16,7 +16,7 @@ głośników, powodujemy nakładanie się fali dźwiękowej na drgania
 struny. Fala ta pobudza strunę do dalszych drgań i nie pozwala na ich
 ustanie, skutkiem czego z głośników nieustannie wydobywa się dźwięk,
 który pobudza strunę... itd. Sprzężenia stosuje się raczej na gitarach
-[solid body]({{< relref "Gitara_elektryczna.md" >}}). Gitary z [pudłem
+solid body<!-- link nie odnosił się do niczego: 'Sprzężenie zwrotne' (PosixPath('Sprzężenie_zwrotne.md')) links to 'solid_body' (PosixPath('/no/path/exists')) and that does not exist -->. Gitary z [pudłem
 rezonansowym]({{< relref "Pudło_rezonansowe.md" >}}) wzbudzają niektóre dźwięki
 same i trudno je opanować.
 

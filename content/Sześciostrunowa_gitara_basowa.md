@@ -10,7 +10,7 @@ aliases: ['/gitara/Sześciostrunowa_gitara_basowa']
 Bywają też, choć mało popularne **sześciostrunowe gitary basowe** -
 brzmiące o oktawę niżej. W standardowym
 [strojeniu]({{< relref "Strojenie_gitary.md" >}}) puste
-[struny]({{< relref "Struna.md" >}}) posiadają następujące dźwięki:
+struny<!-- link nie odnosił się do niczego: 'Sześciostrunowa gitara basowa' (PosixPath('Sześciostrunowa_gitara_basowa.md')) links to 'struny' (PosixPath('/no/path/exists')) and that does not exist --> posiadają następujące dźwięki:
 
   - **c** (130,8 Hz)
   - **G** (98,0 Hz)

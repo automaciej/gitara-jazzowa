@@ -11,5 +11,5 @@ aliases: ['/gitara/Ściereczka']
 **Ściereczka** to rzecz, którą powinien zawsze mieć pod ręką każdy
 gitarzysta. Jedną - najlepiej irchową - służącą do utrzymywania
 instrumentu w czystości i drugą - z dobrze chłonnego materiału - do
-przecierania [strun]({{< relref "Struna.md" >}}).
+przecierania strun<!-- link nie odnosił się do niczego: 'Ściereczka' (PosixPath('Ściereczka.md')) links to 'struny' (PosixPath('/no/path/exists')) and that does not exist -->.
 

@@ -7,11 +7,11 @@ draft: false
 wikilinks: ['D%C5%82onie', 'Jak_obchodzi%C4%87_si%C4%99_z_instrumentem', 'Korekcja_si%C5%82y_brzmienia_strun', 'Najcz%C4%99stsze_usterki_i_b%C5%82%C4%99dy', 'Regulacja_menzury_strun', 'Regulacja_szyjki_instrumentu', 'Regularne_%C4%87wiczenie', 'Ustawianie_wysoko%C5%9Bci_strun_nad_gryfem']
 aliases: ['/gitara/Przygotowanie_instrumentu_do_gry']
 ---
-  - [Regulacja szyjki
-    instrumentu]({{< relref "Regulacja_gryfu.md" >}})
+  - Regulacja szyjki
+    instrumentu<!-- link nie odnosił się do niczego: 'Przygotowanie instrumentu do gry' (PosixPath('Przygotowanie_instrumentu_do_gry.md')) links to 'Regulacja_szyjki_instrumentu' (PosixPath('/no/path/exists')) and that does not exist -->
   - [Ustawianie wysokości strun nad
     gryfem]({{< relref "Ustawianie_wysokości_strun_nad_gryfem.md" >}})
-  - [Regulacja menzury strun]({{< relref "Regulacja_menzury.md" >}})
+  - Regulacja menzury strun<!-- link nie odnosił się do niczego: 'Przygotowanie instrumentu do gry' (PosixPath('Przygotowanie_instrumentu_do_gry.md')) links to 'Regulacja_menzury_strun' (PosixPath('/no/path/exists')) and that does not exist -->
   - [Korekcja siły brzmienia
     strun]({{< relref "Korekcja_siły_brzmienia_strun.md" >}})
 
