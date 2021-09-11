@@ -21,8 +21,8 @@ aliases: ['/gitara/Spis_treści']
     6.  [Futerał]({{< relref "Futerał.md" >}})
 3.  [Przygotowanie instrumentu do
     gry]({{< relref "Przygotowanie_instrumentu_do_gry.md" >}})
-    1.  Regulacja szyjki
-        instrumentu<!-- link nie odnosił się do niczego: PosixPath('Regulacja_szyjki_instrumentu.md') wants to redirect to PosixPath('Regulacja_szyjki_instrumentu.md'), but PosixPath('Regulacja_szyjki_instrumentu.md') will be deleted -->
+    1.  [Regulacja szyjki
+        instrumentu]({{< relref "Regulacja_gryfu.md" >}})
     2.  [Ustawianie wysokości strun nad
         gryfem]({{< relref "Ustawianie_wysokości_strun_nad_gryfem.md" >}})
     3.  [Regulacja menzury strun]({{< relref "Regulacja_menzury.md" >}})
@@ -46,7 +46,7 @@ aliases: ['/gitara/Spis_treści']
     2.  [Pogłos]({{< relref "Pogłos.md" >}})
     3.  [Modulatory i filtry
         dźwięku]({{< relref "Modulatory_i_filtry_dźwięku.md" >}})
-    4.  Sprzężenia<!-- link nie odnosił się do niczego: PosixPath('Sprzężenia.md') wants to redirect to PosixPath('Sprzężenia.md'), but PosixPath('Sprzężenia.md') will be deleted -->
+    4.  [Sprzężenia]({{< relref "Sprzężenie_zwrotne.md" >}})
 9.  [Artykulacja]({{< relref "Artykulacja.md" >}})
     1.  [Legato]({{< relref "Legato.md" >}})
     2.  [Akcentowanie]({{< relref "Akcentowanie.md" >}})

@@ -11,8 +11,8 @@ images:
   - path: "/images/Plectrum1.jpg"
   - path: "/images/Plectrum2.jpg"
 ---
-{{< figure src="/images/Plectrum1.jpg" >}}\]\]
-{{< figure src="/images/Plectrum2.jpg" >}}\]\]
+{{< image src="/images/Plectrum1.jpg" >}}\]\]
+{{< image src="/images/Plectrum2.jpg" >}}\]\]
 
 Plectrum, inaczej piórko lub popularnie - kostka, służy do zarywania lub
 uderzania w struny. Od plectrum pochodzi dość nieprecyzyjna nazwa

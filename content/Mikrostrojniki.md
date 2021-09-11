@@ -38,13 +38,13 @@ stroić ją. Można również porównywać wysokość dźwięków strun brzmiąc
 jednocześnie i w trakcie trwania współbrzmienia stroić jedną ze strun,
 np.:
 
-{{< figure src="/images/NutyStrojenieMikrostrojnikami.png" >}}
+{{< image src="/images/NutyStrojenieMikrostrojnikami.png" >}}
 
 Na zakończenie dodam, że pomijając wszystkie omówione dotychczas zalety,
 mikrostrojniki mają o wiele większą dokładność dzięki innemu przełożeniu
 ruchu obrotowego na naciąg strun.
 
-{{< figure src="/images/MostekZMikrostrojnikami.jpg" >}}
+{{< image src="/images/MostekZMikrostrojnikami.jpg" >}}
 
 **Zobacz też**
 

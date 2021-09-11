@@ -21,7 +21,7 @@ chcemy, więcej strun.
 
 |                                                                  |                                                                    |                                                              |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------ |
-| {{< figure src="/images/PrawaDlonPrzedUderzeniemWstruneD.jpg" >}} | {{< figure src="/images/PrawaDlonWtrakcieUderzaniaWstruneD.jpg" >}} | {{< figure src="/images/PrawaDlonPoUderzeniuWstruneD.jpg" >}} |
+| {{< image src="/images/PrawaDlonPrzedUderzeniemWstruneD.jpg" >}} | {{< image src="/images/PrawaDlonWtrakcieUderzaniaWstruneD.jpg" >}} | {{< image src="/images/PrawaDlonPoUderzeniuWstruneD.jpg" >}} |
 
 Mimo, że większe wartości rytmiczne pozwalają na dłuższą drogę kostki, a
 mniejsze na krótszą, długość tego łuku nie może być uzależniona od
@@ -31,7 +31,7 @@ odległości do sąsiednich strun, czyli około 2 cm. Podczas gry akrodowej
 droga kostki jest dłuższa. Wymagany jest tu większy „rozbieg" dłoni dla
 uzyskania koniecznej prędkości uderzenia.
 
-{{< figure src="/images/RuchKostki.png" >}}
+{{< image src="/images/RuchKostki.png" >}}
 
 **Zobacz też:**
 

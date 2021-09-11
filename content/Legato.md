@@ -55,8 +55,8 @@ go szybko w poprzek [gryfu]({{< relref "Gryf.md" >}}) w dół razem ze struną,
 pobudzając ją tym do drgań, a raczej utrzymując amplitudę drgań na
 poprzednim poziomie. Niestety zmiana barwy dźwięku jest tu jeszcze
 wyraźniejsza niż przy grze w górę. Dzieje się tak przede wszystkim
-dlatego, że struna pobudzona jest do drgań w innym rejestrze
-głosowym<!-- link nie odnosił się do niczego: PosixPath('Rejestr_głosowy.md') wants to redirect to PosixPath('Rejestr_głosowy.md'), but PosixPath('Rejestr_głosowy.md') will be deleted --> przez
+dlatego, że struna pobudzona jest do drgań w innym [rejestrze
+głosowym]({{< relref "Rejestry_głosowe.md" >}}) przez
 [kostkę]({{< relref "Kostka.md" >}}), a w innym, ostrzejszym, przez palec lewej
 ręki. Można wprawdzie nieco wyrównać [barwę
 dźwięków]({{< relref "Barwa_dźwięku.md" >}}) poprzez grę
@@ -78,14 +78,14 @@ Trzeba zaznaczyć, że ten sposób gry sporadycznie wykorzystywany był też
 jako samodzielny - w ogóle bez udziału prawej ręki. Utwory takie
 spotykane są w literaturze na [gitarę
 klasyczną]({{< relref "Gitara_klasyczna.md" >}}). Inspirowany tą metodą
-Amerykanin Emmet Chapman<!-- link nie odnosił się do niczego: 'Legato' (PosixPath('Legato.md')) links to 'Emmet_Chapman' (PosixPath('/invalid/path')) and that does not exist --> skonstruował
+Amerykanin Emmet Chapman<!-- link nie odnosił się do niczego: 'Legato' (PosixPath('Legato.md')) links to 'Emmet_Chapman' (PosixPath('/no/path/exists')) and that does not exist --> skonstruował
 specjalny instrument dziesięciostrunowy o nazwie
 [Stick]({{< relref "Stick.md" >}}), na którym gra się z dwóch stron gryfu, a obie
 ręce samodzielnie skracają i pobudzają struny do drgań. Zobacz więcej:
 [Tapping]({{< relref "Tapping.md" >}}), [Stick]({{< relref "Stick.md" >}})
 
 Do perfekcji doprowadził technikę legatową Allan
-Holdsworth<!-- link nie odnosił się do niczego: 'Legato' (PosixPath('Legato.md')) links to 'Allan_Holdsworth' (PosixPath('/invalid/path')) and that does not exist -->. Długie, śpiewne frazy gra z
+Holdsworth<!-- link nie odnosił się do niczego: 'Legato' (PosixPath('Legato.md')) links to 'Allan_Holdsworth' (PosixPath('/no/path/exists')) and that does not exist -->. Długie, śpiewne frazy gra z
 idealnie wyważoną dynamiką, niezauważalnie przechodząc ze struny na
 strunę, bez uderzenia kostką.
 

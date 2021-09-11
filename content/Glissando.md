@@ -54,5 +54,5 @@ jazzowej częściej mamy do czynienia z fragmentami tych efektów, niż z
 pełnym ich wykonaniem. Np. fragmentem glissanda w dół lub w górę muzyk
 jazzowy niekiedy kończy dźwięk:
 
-{{< figure src="/images/NutyGlissando.png" >}}
+{{< image src="/images/NutyGlissando.png" >}}
 

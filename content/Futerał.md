@@ -9,7 +9,7 @@ aliases: ['/gitara/Futerał']
 images:
   - path: "/images/Futeraly.jpg"
 ---
-{{< figure src="/images/Futeraly.jpg" >}}
+{{< image src="/images/Futeraly.jpg" >}}
 
 **Futerał** służy do ochrony instrumentu przed wpływami atmosferycznymi
 oraz ewentualnymi uszkodzeniami mechanicznymi, np. podczas transportu.

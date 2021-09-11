@@ -10,7 +10,7 @@ aliases: ['/gitara/Gitara_Dobro']
 images:
   - path: "/images/GitaraDobro.jpg"
 ---
-{{< figure src="/images/GitaraDobro.jpg" >}}
+{{< image src="/images/GitaraDobro.jpg" >}}
 
 [Gitara hawajska]({{< relref "Gitara_hawajska.md" >}}) istniała już wtedy, gdy
 nie było jeszcze [gitar elektrycznych]({{< relref "Gitara_elektryczna.md" >}}).
@@ -25,4 +25,4 @@ udoskonalane stworzyło **gitarę Dobro**. Kształtem przypomina ona gitarę
 orkiestrową. Używana jest do wykonywania ludowego bluesa, country, a
 także do grania techniką „slide".
 
-Dobro<!-- link nie odnosił się do niczego: 'Gitara Dobro' (PosixPath('Gitara_Dobro.md')) links to 'kategoria:rodzaje_gitar' (PosixPath('/invalid/path')) and that does not exist -->
+Dobro<!-- link nie odnosił się do niczego: 'Gitara Dobro' (PosixPath('Gitara_Dobro.md')) links to 'kategoria:rodzaje_gitar' (PosixPath('/no/path/exists')) and that does not exist -->

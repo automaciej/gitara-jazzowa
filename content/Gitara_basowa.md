@@ -9,7 +9,7 @@ wikilinks: ['d%C5%BAwi%C4%99k', 'gitara_akustyczna', 'gitara_elektryczna', 'gita
 aliases: ['/gitara/Gitara_basowa']
 ---
 **Gitara basowa** to czterostrunowa gitara o obniżonej o
-oktawę<!-- link nie odnosił się do niczego: 'Gitara basowa' (PosixPath('Gitara_basowa.md')) links to 'oktawa' (PosixPath('/invalid/path')) and that does not exist --> skali dźwięków (najniższy należy do oktawy
+oktawę<!-- link nie odnosił się do niczego: 'Gitara basowa' (PosixPath('Gitara_basowa.md')) links to 'oktawa' (PosixPath('/no/path/exists')) and that does not exist --> skali dźwięków (najniższy należy do oktawy
 kontra). Najczęściej spotykane są instrumenty czterostrunowe, choć
 produkuje się również gitary basowe pięciostrunowe,
 [sześciostrunowe]({{< relref "Sześciostrunowa_gitara_basowa.md" >}}),
@@ -18,7 +18,7 @@ wyżej) i dwunastostrunowe.
 
 W standardowym [strojeniu]({{< relref "Strojenie_gitary.md" >}}) puste
 [struny]({{< relref "Struna.md" >}}) posiadają następujące
-dźwięki<!-- link nie odnosił się do niczego: 'Gitara basowa' (PosixPath('Gitara_basowa.md')) links to 'dźwięk' (PosixPath('/invalid/path')) and that does not exist -->:
+dźwięki<!-- link nie odnosił się do niczego: 'Gitara basowa' (PosixPath('Gitara_basowa.md')) links to 'dźwięk' (PosixPath('/no/path/exists')) and that does not exist -->:
 
   - **G** (98 Hz)
   - **D** (73,4 Hz)
@@ -34,4 +34,4 @@ Gitara basowa może być skonstruowana w oparciu o gitarę
 klasycznym [pudłem rezonansowym]({{< relref "Pudło_rezonansowe.md" >}})), bądź
 [elektryczną]({{< relref "Gitara_elektryczna.md" >}}).
 
-Basowa, gitara<!-- link nie odnosił się do niczego: 'Gitara basowa' (PosixPath('Gitara_basowa.md')) links to 'kategoria:rodzaje_gitar' (PosixPath('/invalid/path')) and that does not exist -->
+Basowa, gitara<!-- link nie odnosił się do niczego: 'Gitara basowa' (PosixPath('Gitara_basowa.md')) links to 'kategoria:rodzaje_gitar' (PosixPath('/no/path/exists')) and that does not exist -->

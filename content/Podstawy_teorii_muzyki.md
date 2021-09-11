@@ -12,7 +12,7 @@ Niniejsza część jest próbą możliwie ścisłego zdefiniowania pojęć
 muzycznych i opisania ich językiem matematyki. Nie jest to wiedza
 konieczna muzykowi do grania, więc niezainteresowanych zapraszam do
 przejścia do Rozdziału 2. Jeżeli natomiast zastanawiasz się nad tym,
-czymże *u diabła* jest ten interwał<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'interwał' (PosixPath('/invalid/path')) and that does not exist -->, a przy
+czymże *u diabła* jest ten interwał<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'interwał' (PosixPath('/no/path/exists')) and that does not exist -->, a przy
 okazji znasz odrobinę działania na zbiorach, to jest to część dla
 Ciebie.
 
@@ -33,36 +33,36 @@ muzycznych:
 ## Definicje
 
   - Dźwięk (w rozumieniu
-    akustyki)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Dźwięk_\\(w_rozumieniu_akustyki\\)' (PosixPath('/invalid/path')) and that does not exist -->
-  - Częstotliwość drgań<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Częstotliwość_drgań' (PosixPath('/invalid/path')) and that does not exist -->
-  - Ton<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Ton' (PosixPath('/invalid/path')) and that does not exist -->
+    akustyki)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Dźwięk_\\(w_rozumieniu_akustyki\\)' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Częstotliwość drgań<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Częstotliwość_drgań' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Ton<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Ton' (PosixPath('/no/path/exists')) and that does not exist -->
   - Dźwięk o określonej
-    wysokości<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Dźwięk_o_określonej_wysokości' (PosixPath('/invalid/path')) and that does not exist -->
+    wysokości<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Dźwięk_o_określonej_wysokości' (PosixPath('/no/path/exists')) and that does not exist -->
   - Oktawowa miara odległości między
-    częstotliwościami<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Oktawowa_miara_odległości_między_częstotliwościami' (PosixPath('/invalid/path')) and that does not exist -->
+    częstotliwościami<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Oktawowa_miara_odległości_między_częstotliwościami' (PosixPath('/no/path/exists')) and that does not exist -->
   - System równomiernie
-    temperowany<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'System_równomiernie_temperowany' (PosixPath('/invalid/path')) and that does not exist -->
-  - Znaki chromatyczne<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Znaki_chromatyczne' (PosixPath('/invalid/path')) and that does not exist -->
-  - Nazwy literowe dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Nazwy_literowe_dźwięków' (PosixPath('/invalid/path')) and that does not exist -->
+    temperowany<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'System_równomiernie_temperowany' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Znaki chromatyczne<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Znaki_chromatyczne' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Nazwy literowe dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Nazwy_literowe_dźwięków' (PosixPath('/no/path/exists')) and that does not exist -->
   - Pełna przestrzeń nazw
-    dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Pełna_przestrzeń_nazw_dźwięków' (PosixPath('/invalid/path')) and that does not exist -->
+    dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Pełna_przestrzeń_nazw_dźwięków' (PosixPath('/no/path/exists')) and that does not exist -->
   - Przestrzeń naturalnych nazw
-    dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Przestrzeń_naturalnych_nazw_dźwięków' (PosixPath('/invalid/path')) and that does not exist -->
+    dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Przestrzeń_naturalnych_nazw_dźwięków' (PosixPath('/no/path/exists')) and that does not exist -->
   - Przestrzeń nazw dźwięków bez
-    oktawy<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Przestrzeń_nazw_dźwięków_bez_oktawy' (PosixPath('/invalid/path')) and that does not exist -->
+    oktawy<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Przestrzeń_nazw_dźwięków_bez_oktawy' (PosixPath('/no/path/exists')) and that does not exist -->
   - Dźwięk (w rozumieniu
-    harmonii)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Dźwięk_\\(w_rozumieniu_harmonii\\)' (PosixPath('/invalid/path')) and that does not exist -->
-  - Wysokość dźwięku<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Wysokość_dźwięku' (PosixPath('/invalid/path')) and that does not exist -->
-  - A razkreślne<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'A_razkreślne' (PosixPath('/invalid/path')) and that does not exist -->
-  - Częstotliwości dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Częstotliwości_dźwięków' (PosixPath('/invalid/path')) and that does not exist -->
-  - Interwał<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Interwał' (PosixPath('/invalid/path')) and that does not exist -->
-  - Skala<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Skala' (PosixPath('/invalid/path')) and that does not exist -->
-  - Skale kościelne<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Skale_kościelne' (PosixPath('/invalid/path')) and that does not exist -->
-  - Akord<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Akord' (PosixPath('/invalid/path')) and that does not exist -->
-  - Stopień<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Stopień' (PosixPath('/invalid/path')) and that does not exist -->
-  - Tryb<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Tryb' (PosixPath('/invalid/path')) and that does not exist -->
-  - Tonacja<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Tonacja' (PosixPath('/invalid/path')) and that does not exist -->
-  - Akord o budowie tercjowej<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Akord_o_budowie_tercjowej' (PosixPath('/invalid/path')) and that does not exist -->
-  - Funkcja harmoniczna<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Funkcja_harmoniczna' (PosixPath('/invalid/path')) and that does not exist -->
+    harmonii)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Dźwięk_\\(w_rozumieniu_harmonii\\)' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Wysokość dźwięku<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Wysokość_dźwięku' (PosixPath('/no/path/exists')) and that does not exist -->
+  - A razkreślne<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'A_razkreślne' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Częstotliwości dźwięków<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Częstotliwości_dźwięków' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Interwał<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Interwał' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Skala<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Skala' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Skale kościelne<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Skale_kościelne' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Akord<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Akord' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Stopień<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Stopień' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Tryb<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Tryb' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Tonacja<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Tonacja' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Akord o budowie tercjowej<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Akord_o_budowie_tercjowej' (PosixPath('/no/path/exists')) and that does not exist -->
+  - Funkcja harmoniczna<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Funkcja_harmoniczna' (PosixPath('/no/path/exists')) and that does not exist -->
   - Zapis amerykański i niemiecki
-    (europejski)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Zapis_amerykański_i_niemiecki_\\(europejski\\)' (PosixPath('/invalid/path')) and that does not exist -->
+    (europejski)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' (PosixPath('Podstawy_teorii_muzyki.md')) links to 'Zapis_amerykański_i_niemiecki_\\(europejski\\)' (PosixPath('/no/path/exists')) and that does not exist -->

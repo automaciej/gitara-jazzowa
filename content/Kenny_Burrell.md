@@ -10,7 +10,7 @@ aliases: ['/gitara/Kenny_Burrell']
 images:
   - path: "/images/NutySoloKennyBurrellSaturdayNiteBlues.png"
 ---
-{{< figure src="/images/NutySoloKennyBurrellSaturdayNiteBlues.png" >}}
+{{< image src="/images/NutySoloKennyBurrellSaturdayNiteBlues.png" >}}
 
 Osobnym zjawiskiem jest gra Kenny Burrella. Polega na specyficznym
 brzmieniu instrumentu, na co duży wpływ ma sposób, w jaki atakuje on
@@ -22,4 +22,4 @@ Słuchając go, warto zwrócić uwagę na sposób, w jaki wykonuje
 
 Solo Kenny Burrella w temacie pt. „Saturday Nite Blues":
 
-Burrell, Kenny<!-- link nie odnosił się do niczego: 'Kenny Burrell' (PosixPath('Kenny_Burrell.md')) links to 'kategoria:gitarzyści_jazzowi' (PosixPath('/invalid/path')) and that does not exist -->
+Burrell, Kenny<!-- link nie odnosił się do niczego: 'Kenny Burrell' (PosixPath('Kenny_Burrell.md')) links to 'kategoria:gitarzyści_jazzowi' (PosixPath('/no/path/exists')) and that does not exist -->

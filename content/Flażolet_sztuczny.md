@@ -11,8 +11,8 @@ images:
   - path: "/images/PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg"
   - path: "/images/WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg"
 ---
-{{< figure src="/images/PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg" >}}
-{{< figure src="/images/WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg" >}}
+{{< image src="/images/PrawaRekaPodczasWykonywaniaFlazoletuSztucznego.jpg" >}}
+{{< image src="/images/WykonywanieFlazoletowSztucznychWpozycjiKciukowej.jpg" >}}
 
 Przy flażoletach naturalnych dysponujemy jednak dość ograniczonym
 zbiorem dźwięków. Tych ograniczeń nie ma stosując grę flażoletami

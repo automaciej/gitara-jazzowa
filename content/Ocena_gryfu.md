@@ -14,7 +14,7 @@ Podczas oceny instrumentu uwaga powinna być skupiona w pierwszym rzędzie
 na gryfie gitary, który powinien być prosty. Sprawdzamy to po uprzednim
 naciągnięciu strun do właściwego stroju w sposób podany na zdjęciu.
 
-{{< figure src="/images/MarekPatrzyNaGryfOdStronyGlowki.jpg" >}} patrzy
+{{< image src="/images/MarekPatrzyNaGryfOdStronyGlowki.jpg" >}} patrzy
 na gryf od strony główki\]\]
 
 Drugi sposób sprawdzania szyjki jest następujący: dociskamy jedną ze

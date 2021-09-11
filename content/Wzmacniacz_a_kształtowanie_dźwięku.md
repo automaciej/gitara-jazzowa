@@ -41,9 +41,9 @@ jednak traci naturalność, gdy nadużywa się potencjometru w stopniu
 wyraźnie słyszalnym dla słuchacza, tym bardziej, że można osiągnąć cel
 tylko odpowiednią techniką gry.
 
-{{< figure src="/images/EqualizerWzmacniacza.png" >}}
+{{< image src="/images/EqualizerWzmacniacza.png" >}}
 
-Regulacja barwy dźwięku za pomocą equalizera<!-- link nie odnosił się do niczego: 'Wzmacniacz a kształtowanie dźwięku' (PosixPath('Wzmacniacz_a_kształtowanie_dźwięku.md')) links to 'equalizer' (PosixPath('/invalid/path')) and that does not exist -->
+Regulacja barwy dźwięku za pomocą equalizera<!-- link nie odnosił się do niczego: 'Wzmacniacz a kształtowanie dźwięku' (PosixPath('Wzmacniacz_a_kształtowanie_dźwięku.md')) links to 'equalizer' (PosixPath('/no/path/exists')) and that does not exist -->
 [wzmacniacza]({{< relref "Wzmacniacz.md" >}}) jest sprawą bardzo indywidualną i
 każdy gitarzysta powinien wypracować swoje, wypróbowane ustawienia. Na
 ogół wzmacniacze wyposażone są w regulatory, które wyodrębniają tony
@@ -52,13 +52,13 @@ nie nastręcza trudności. Trzeba jednak wiedzieć, że o charakterze
 dźwięku decyduje przede wszystkim stosunek tonów średnich do
 częstotliwości skrajnych. Najogólniej można powiedzieć, że ustawienie
 barwy z przewagą tonów średnich, jest wykorzystywane najczęściej przez
-gitarzystów mainstreamowych<!-- link nie odnosił się do niczego: 'Wzmacniacz a kształtowanie dźwięku' (PosixPath('Wzmacniacz_a_kształtowanie_dźwięku.md')) links to 'mainstream' (PosixPath('/invalid/path')) and that does not exist -->. Natomiast
+gitarzystów mainstreamowych<!-- link nie odnosił się do niczego: 'Wzmacniacz a kształtowanie dźwięku' (PosixPath('Wzmacniacz_a_kształtowanie_dźwięku.md')) links to 'mainstream' (PosixPath('/no/path/exists')) and that does not exist -->. Natomiast
 ustawienie barwy z przewagą tonów niskich i przede wszystkim wysokich,
 wykorzystywane jest często w muzyce rozrywkowej. Trzeba pamiętać, że
 gitara jazzowa w całej swej skali powinna brzmieć wyrównanym dźwiękiem,
 najwłaściwszym dla cech muzyki jazzowej. Większe możliwości daje
 dodatkowy equalizer, w którym do regulacji wydzielonych jest wiele
-wąskich pasm częstotliwości<!-- link nie odnosił się do niczego: 'Wzmacniacz a kształtowanie dźwięku' (PosixPath('Wzmacniacz_a_kształtowanie_dźwięku.md')) links to 'pasmo_częstotliwości' (PosixPath('/invalid/path')) and that does not exist -->.
+wąskich pasm częstotliwości<!-- link nie odnosił się do niczego: 'Wzmacniacz a kształtowanie dźwięku' (PosixPath('Wzmacniacz_a_kształtowanie_dźwięku.md')) links to 'pasmo_częstotliwości' (PosixPath('/no/path/exists')) and that does not exist -->.
 
 **Zobacz też**
 
