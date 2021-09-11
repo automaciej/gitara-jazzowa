@@ -1,2 +1,2 @@
 [context.production]
-  command = "hugo -b $URL"
+  command = "git submodule update --init --recursive --depth=1 && hugo -b $URL"
