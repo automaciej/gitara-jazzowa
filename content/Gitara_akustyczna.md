@@ -33,7 +33,7 @@ nic tłumić sąsiedniej palcami [lewej ręki]({{< relref "Lewa_ręka.md" >}}). 
 jazzie ma to mniejsze znaczenie, natomiast ważniejsza jest wygoda w
 palcowaniu i stosowaniu różnych chwytów. Grając piórkiem, tłumi się
 niekiedy celowo palcami lewej ręki sąsiednie struny.
-[Szyjka]({{< relref "Gryf.md" >}}) z [gryfem]({{< relref "Gryf.md" >}}) jest więc nieco
+Szyjka<!-- link nie odnosił się do niczego: 'Gitara akustyczna' (PosixPath('Gitara_akustyczna.md')) links to 'Szyjka' (PosixPath('/no/path/exists')) and that does not exist --> z [gryfem]({{< relref "Gryf.md" >}}) jest więc nieco
 węższa. Posiada wewnątrz wzmocnienie, zapobiegające odkształceniom jej
 przez siłę naciągu metalowych strun. Gryf z niższymi progami jest lekko
 zaokrąglony, co daje lepsze dopasowanie do dłoni szczególnie przy

@@ -12,7 +12,7 @@ Instrument, przed przystąpieniem do strojenia, powinien mieć temperaturę
 pomieszczenia, w jakim będzie używany. W przeciwnym razie struny
 przystosowując swoją temperaturę do temperatury powietrza, będą
 zmieniały siłę naciągu, a co za tym idzie i intonację. Dzieje się tak,
-ponieważ [struny]({{< relref "Struna.md" >}}) mają duży współczynnik
+ponieważ struny<!-- link nie odnosił się do niczego: 'Strojenie a temperatura' (PosixPath('Strojenie_a_temperatura.md')) links to 'struny' (PosixPath('/no/path/exists')) and that does not exist --> mają duży współczynnik
 rozszerzalności i kurczliwości. Należy pamiętać, że struna zimna jest
 skurczona, a więc bardziej napięta, a co za tym idzie, daje dźwięk
 wyższy. Struna ciepła jest rozszerzona, mniej naciągnięta. a więc daje

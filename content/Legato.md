@@ -55,8 +55,8 @@ go szybko w poprzek [gryfu]({{< relref "Gryf.md" >}}) w dół razem ze struną,
 pobudzając ją tym do drgań, a raczej utrzymując amplitudę drgań na
 poprzednim poziomie. Niestety zmiana barwy dźwięku jest tu jeszcze
 wyraźniejsza niż przy grze w górę. Dzieje się tak przede wszystkim
-dlatego, że struna pobudzona jest do drgań w innym [rejestrze
-głosowym]({{< relref "Rejestry_głosowe.md" >}}) przez
+dlatego, że struna pobudzona jest do drgań w innym rejestrze
+głosowym<!-- link nie odnosił się do niczego: 'Legato' (PosixPath('Legato.md')) links to 'rejestr_głosowy' (PosixPath('/no/path/exists')) and that does not exist --> przez
 [kostkę]({{< relref "Kostka.md" >}}), a w innym, ostrzejszym, przez palec lewej
 ręki. Można wprawdzie nieco wyrównać [barwę
 dźwięków]({{< relref "Barwa_dźwięku.md" >}}) poprzez grę

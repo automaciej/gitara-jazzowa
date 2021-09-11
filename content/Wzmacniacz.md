@@ -75,7 +75,7 @@ jest, aby wzmacniacz przekazywał wyraźnie nasz „osobisty ton".
 {{< image src="/images/EqualizerWzmacniacza.png" >}}
 
 Trzeba się zastanowić, czy potrzebne są nam takie efekty jak pogłos czy
-[wibrato]({{< relref "Wibracja.md" >}}). Jeżeli nastawiamy się na pracę w studiach
+wibrato<!-- link nie odnosił się do niczego: 'Wzmacniacz' (PosixPath('Wzmacniacz.md')) links to 'wibrato' (PosixPath('/no/path/exists')) and that does not exist -->. Jeżeli nastawiamy się na pracę w studiach
 nagrań, to należy pamiętać, że używa się tam lepszych technicznie
 urządzeń pogłosowych. Do gry na scenie i w klubach pogłos sprężynowy
 przydaje się. Vibrato natomiast używane jest raczej w muzyce

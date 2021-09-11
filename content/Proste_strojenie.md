@@ -12,8 +12,8 @@ images:
 ---
 {{< image src="/images/StrojenieGitary.png" >}}
 
-Elementarną i niezbyt dokładną [metodę
-strojenia]({{< relref "Strojenie_gitary.md" >}}) podają niemal wszystkie
+Elementarną i niezbyt dokładną metodę
+strojenia<!-- link nie odnosił się do niczego: 'Proste strojenie' (PosixPath('Proste_strojenie.md')) links to 'metody_strojenia' (PosixPath('/no/path/exists')) and that does not exist --> podają niemal wszystkie
 podręczniki do nauki gry. Polega ona na nastrojeniu struny E-1 na
 właściwy ton (do *a* wydobytego z kamertonu lub z innego instrumentu
 dostrajamy strunę E-1 dociśniętą w V pozycji), a następnie na

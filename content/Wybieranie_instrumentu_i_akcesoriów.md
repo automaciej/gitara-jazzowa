@@ -5,11 +5,11 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Akcesoria gitarzysty']
 draft: false
 wikilinks: ['%C5%9Aciereczka', 'Futera%C5%82', 'Gitara', 'Kabel_do_gitary', 'Kapodaster', 'Korbka', 'Kostka', 'Pasek_do_gitary', 'Sto%C5%82ek', 'Stojak_do_gitary', 'Struny', 'Wzmacniacz', 'kostka', 'mostek', 'struny', 'wzmacniacz']
-aliases: ['/gitara/Wybieranie_instrumentu_i_akcesoriów', '/kryteria-oceny-przy-wyborze-instrumentu-i-akcesoriow']
+aliases: ['/gitara/Wybieranie_instrumentu_i_akcesoriów']
 ---
   - [Gitara]({{< relref "Gitara.md" >}})
   - [Wzmacniacz]({{< relref "Wzmacniacz.md" >}})
-  - [Struny]({{< relref "Struna.md" >}})
+  - Struny<!-- link nie odnosił się do niczego: 'Wybieranie instrumentu i akcesoriów' (PosixPath('Wybieranie_instrumentu_i_akcesoriów.md')) links to 'Struny' (PosixPath('/no/path/exists')) and that does not exist -->
   - [Kostka]({{< relref "Kostka.md" >}})
   - [Pasek do gitary]({{< relref "Pasek_do_gitary.md" >}})
   - [Futerał]({{< relref "Futerał.md" >}})
@@ -18,7 +18,7 @@ aliases: ['/gitara/Wybieranie_instrumentu_i_akcesoriów', '/kryteria-oceny-przy-
 
 Wraz z instrumentem gitarzysta powinien mieć ze sobą przedmioty, które
 są, lub mogą się okazać niezbędne: kable, zapasowe
-[struny]({{< relref "Struna.md" >}}), ściereczkę do czyszczenia instrumentu,
+struny<!-- link nie odnosił się do niczego: 'Wybieranie instrumentu i akcesoriów' (PosixPath('Wybieranie_instrumentu_i_akcesoriów.md')) links to 'struny' (PosixPath('/no/path/exists')) and that does not exist -->, ściereczkę do czyszczenia instrumentu,
 pasek, zapasowe [kostki]({{< relref "Kostka.md" >}}), ewentualnie śrubokręt do
 regulacji przystawek i [mostka]({{< relref "Mostek.md" >}}) oraz przybory do
 mycia rąk. Dobrze jest też, gdy mamy zapasowe bezpieczniki do

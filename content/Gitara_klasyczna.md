@@ -73,7 +73,7 @@ znacznie od techniki klasycznej.
 
 Jako instrument solowy, gitarę klasyczną możemy podziwiać w rękach [Joe
 Passa]({{< relref "Joe_Pass.md" >}}), który przy grze wielogłosowej również
-stosuje technikę jazzową - (patrz rozdział pt. „[Różne techniki gry na
-gitarze]({{< relref "Technika.md" >}})").
+stosuje technikę jazzową - (patrz rozdział pt. „Różne techniki gry na
+gitarze<!-- link nie odnosił się do niczego: 'Gitara klasyczna' (PosixPath('Gitara_klasyczna.md')) links to 'Różne_techniki_gry_na_gitarze' (PosixPath('/no/path/exists')) and that does not exist -->").
 
 Klasyczna, gitara<!-- link nie odnosił się do niczego: 'Gitara klasyczna' (PosixPath('Gitara_klasyczna.md')) links to 'kategoria:rodzaje_gitar' (PosixPath('/no/path/exists')) and that does not exist -->

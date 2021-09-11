@@ -17,7 +17,7 @@ ośmiostrunowe (do każdej struny dodana jest dodatkowa strojona o oktawę
 wyżej) i dwunastostrunowe.
 
 W standardowym [strojeniu]({{< relref "Strojenie_gitary.md" >}}) puste
-[struny]({{< relref "Struna.md" >}}) posiadają następujące
+struny<!-- link nie odnosił się do niczego: 'Gitara basowa' (PosixPath('Gitara_basowa.md')) links to 'struny' (PosixPath('/no/path/exists')) and that does not exist --> posiadają następujące
 dźwięki<!-- link nie odnosił się do niczego: 'Gitara basowa' (PosixPath('Gitara_basowa.md')) links to 'dźwięk' (PosixPath('/no/path/exists')) and that does not exist -->:
 
   - **G** (98 Hz)
