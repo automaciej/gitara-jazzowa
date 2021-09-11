@@ -23,3 +23,6 @@ enableRobotsTXT = true
   image = "/images/automaciej-400px.jpg"
   twitter = "automaciej_pl"
   github = "automaciej"
+[outputs]
+  home = ["HTML", "AMP", "RSS"]
+  page = ["HTML", "AMP"]
