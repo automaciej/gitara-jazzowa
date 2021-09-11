@@ -25,7 +25,7 @@ zajmiemy się tylko ręką lewą. Umowna numeracja palców jest następująca:
 Palce trzeba ustawiać jak najbliżej progu, który skraca strunę. Aby
 docisnąć strunę palcem postawionym dalej, szczególnie w niskich
 pozycjach, byłoby trzeba użyć dużej siły. Palec stawiany zbyt blisko lub
-na samym progu, tłumiłby dźwięk<!-- link nie odnosił się do niczego: 'Praca lewej ręki' ('content/Praca_lewej_ręki.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist -->.
+na samym progu, tłumiłby dźwięk<!-- link nie odnosił się do niczego: 'Praca lewej ręki' (PosixPath('Praca_lewej_ręki.md')) links to 'dźwięk' (PosixPath('/invalid/path')) and that does not exist -->.
 
 Zarówno w niskich, jak i w wysokich pozycjach - wszystkie palce powinny
 być ustawione w pobliżu sąsiednich progów. Tak więc, przesuwając rękę do

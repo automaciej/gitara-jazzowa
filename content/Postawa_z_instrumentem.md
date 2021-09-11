@@ -20,14 +20,14 @@ gitary. dłoni i palców, bez czego nie osiągnie się perfekcji w grze.
 
 Dobry gitarzysta jest zespolony ze swoim instrumentem, a każdy ruch rąk
 związany jest z dźwiękiem. Grający nie powinien myśleć manualnie lecz
-dźwiękowo<!-- link nie odnosił się do niczego: 'Postawa z instrumentem' ('content/Postawa_z_instrumentem.md') links to 'dźwięk' ('content/dźwięk.md') and that does not exist -->.
+dźwiękowo<!-- link nie odnosił się do niczego: 'Postawa z instrumentem' (PosixPath('Postawa_z_instrumentem.md')) links to 'dźwięk' (PosixPath('/invalid/path')) and that does not exist -->.
 
 ### Muzycy bluesowi
 
 Wśród gitarzystów jazzowych istnieje wiele różnych metod gry i wiele
 różnych postaw z instrumentem. Nie wszystkie jednak, moim zdaniem,
 godne są polecenia. Zwłaszcza niektórzy muzycy
-bluesowi<!-- link nie odnosił się do niczego: 'Postawa z instrumentem' ('content/Postawa_z_instrumentem.md') links to 'blues' ('content/blues.md') and that does not exist --> traktują instrument bardzo specyficznie,
+bluesowi<!-- link nie odnosił się do niczego: 'Postawa z instrumentem' (PosixPath('Postawa_z_instrumentem.md')) links to 'blues' (PosixPath('/invalid/path')) and that does not exist --> traktują instrument bardzo specyficznie,
 zgodnie może z wymogami tego gatunku muzycznego, ale zawężają tym
 potencjalne możliwości wykonywania innych gatunków jazzu.
 

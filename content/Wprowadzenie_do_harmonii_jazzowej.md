@@ -15,7 +15,7 @@ papierowego.
 > będzie mógł zostać jazzmanem. Zakres niniejszej pracy nie pozwala na
 > szersze omówienie tego tematu. Pragnę tylko podkreślić, że gitara
 > będąca instrumentem
-> harmonicznym<!-- link nie odnosił się do niczego: 'Wprowadzenie do harmonii jazzowej' ('content/Wprowadzenie_do_harmonii_jazzowej.md') links to 'instrument_harmoniczny' ('content/instrument_harmoniczny.md') and that does not exist -->, ma tu bardzo
+> harmonicznym<!-- link nie odnosił się do niczego: 'Wprowadzenie do harmonii jazzowej' (PosixPath('Wprowadzenie_do_harmonii_jazzowej.md')) links to 'instrument_harmoniczny' (PosixPath('/invalid/path')) and that does not exist -->, ma tu bardzo
 > szerokie możliwości. Myślę, że kolejnymi etapami zdobywania
 > umiejętności w tym zakresie są: gra w swingowej [sekcji
 > rytmicznej]({{< relref "Sekcja_rytmiczna.md" >}}), gra w zespole bez drugiego
@@ -33,5 +33,5 @@ papierowego.
 **Zobacz też**
 
   - Harmonia jazzowa na
-    gitarze<!-- link nie odnosił się do niczego: 'Wprowadzenie do harmonii jazzowej' ('content/Wprowadzenie_do_harmonii_jazzowej.md') links to 'Harmonia_jazzowa_na_gitarze' ('content/Harmonia_jazzowa_na_gitarze.md') and that does not exist -->
+    gitarze<!-- link nie odnosił się do niczego: 'Wprowadzenie do harmonii jazzowej' (PosixPath('Wprowadzenie_do_harmonii_jazzowej.md')) links to 'Harmonia_jazzowa_na_gitarze' (PosixPath('/invalid/path')) and that does not exist -->
 

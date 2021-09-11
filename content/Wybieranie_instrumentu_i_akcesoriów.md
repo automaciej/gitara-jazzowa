@@ -9,7 +9,7 @@ aliases: ['/gitara/Wybieranie_instrumentu_i_akcesoriów', '/kryteria-oceny-przy-
 ---
   - [Gitara]({{< relref "Gitara.md" >}})
   - [Wzmacniacz]({{< relref "Wzmacniacz.md" >}})
-  - [Struny]({{< relref "Struna" >}})
+  - [Struny]({{< relref "Struna.md" >}})
   - [Kostka]({{< relref "Kostka.md" >}})
   - [Pasek do gitary]({{< relref "Pasek_do_gitary.md" >}})
   - [Futerał]({{< relref "Futerał.md" >}})

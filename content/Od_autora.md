@@ -82,5 +82,5 @@ Marek Bliziński.
 
 Ten tekst nie powinien być zmieniany, ponieważ jest oryginalnym wstępem
 do papierowego wydania
-książki<!-- link nie odnosił się do niczego: 'Od autora' ('content/Od_autora.md') links to 'Gitara_Jazzowa_\\(wydanie_papierowe\\)' ('content/Gitara_Jazzowa_\\(wydanie_papierowe\\).md') and that does not exist -->.
+książki<!-- link nie odnosił się do niczego: 'Od autora' (PosixPath('Od_autora.md')) links to 'Gitara_Jazzowa_\\(wydanie_papierowe\\)' (PosixPath('/invalid/path')) and that does not exist -->.
 

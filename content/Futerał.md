@@ -36,7 +36,7 @@ ewentualne wstrząsy nie współdziałały z siłą naciągu
 [strun]({{< relref "Struna.md" >}}) i nie mogły spowodować uszkodzenia szyjki.
 
 Futerał powinien trzymać korpus instrumentu dość ciasno, nie
-dopuszczając do przesunięć. [Szyjka]({{< relref "Gryf" >}}) natomiast nie
+dopuszczając do przesunięć. [Szyjka]({{< relref "Gryf.md" >}}) natomiast nie
 może być zbyt mocno podparta, aby nie utrzymywała ciężaru gitary.
 Podparcie jest na ogół wymodelowanym wycięciem, przeciwdziałającym
 bocznym przesunięciom szyjki. Futerał powinien posiadać kilka dobrych

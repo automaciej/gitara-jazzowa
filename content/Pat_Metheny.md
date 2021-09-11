@@ -20,16 +20,16 @@ często rozpoczynał swoje występy, a niekiedy fragmenty cytował w innych
 utworach.
 
 Cechą charakterystyczną jest bogata rytmika jego
-improwizacji<!-- link nie odnosił się do niczego: 'Pat Metheny' ('content/Pat_Metheny.md') links to 'improwizacja' ('content/improwizacja.md') and that does not exist -->. Kreski taktowe, a zatem
+improwizacji<!-- link nie odnosił się do niczego: 'Pat Metheny' (PosixPath('Pat_Metheny.md')) links to 'improwizacja' (PosixPath('/invalid/path')) and that does not exist -->. Kreski taktowe, a zatem
 podstawowe metrum, nie stanowi wyznaczników początku myśli muzycznej.
 Motyw rozpoczyna się przed beatem, czasem po, nadając dużą płynność i
 lekkość frazie muzycznej.
 
 Stosując zróżnicowaną [artykulację]({{< relref "Artykulacja.md" >}}) - grając
-głównie legato długie frazy<!-- link nie odnosił się do niczego: 'Pat Metheny' ('content/Pat_Metheny.md') links to 'fraza' ('content/fraza.md') and that does not exist -->, wykonuje krótkie,
-półtonowe<!-- link nie odnosił się do niczego: 'Pat Metheny' ('content/Pat_Metheny.md') links to 'półton' ('content/półton.md') and that does not exist --> [glissanda]({{< relref "Glissando.md" >}}),
-portamenta<!-- link nie odnosił się do niczego: 'Pat Metheny' ('content/Pat_Metheny.md') links to 'portamento' ('content/portamento.md') and that does not exist -->, oplatając nimi linię
-melodyczną<!-- link nie odnosił się do niczego: 'Pat Metheny' ('content/Pat_Metheny.md') links to 'linia_melodyczna' ('content/linia_melodyczna.md') and that does not exist -->.
+głównie legato długie frazy<!-- link nie odnosił się do niczego: 'Pat Metheny' (PosixPath('Pat_Metheny.md')) links to 'fraza' (PosixPath('/invalid/path')) and that does not exist -->, wykonuje krótkie,
+półtonowe<!-- link nie odnosił się do niczego: 'Pat Metheny' (PosixPath('Pat_Metheny.md')) links to 'półton' (PosixPath('/invalid/path')) and that does not exist --> [glissanda]({{< relref "Glissando.md" >}}),
+portamenta<!-- link nie odnosił się do niczego: 'Pat Metheny' (PosixPath('Pat_Metheny.md')) links to 'portamento' (PosixPath('/invalid/path')) and that does not exist -->, oplatając nimi linię
+melodyczną<!-- link nie odnosił się do niczego: 'Pat Metheny' (PosixPath('Pat_Metheny.md')) links to 'linia_melodyczna' (PosixPath('/invalid/path')) and that does not exist -->.
 
 -----
 
@@ -37,4 +37,4 @@ melodyczną<!-- link nie odnosił się do niczego: 'Pat Metheny' ('content/Pat_M
 
   - [Pat Metheny Group](http://www.patmethenygroup.com)
 
-Metheny, Pat<!-- link nie odnosił się do niczego: 'Pat Metheny' ('content/Pat_Metheny.md') links to 'kategoria:gitarzyści_jazzowi' ('content/kategoria:gitarzyści_jazzowi.md') and that does not exist -->
+Metheny, Pat<!-- link nie odnosił się do niczego: 'Pat Metheny' (PosixPath('Pat_Metheny.md')) links to 'kategoria:gitarzyści_jazzowi' (PosixPath('/invalid/path')) and that does not exist -->

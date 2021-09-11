@@ -23,7 +23,7 @@ do progu. Dobra wibracja jest też sprawdzianem właściwej pracy lewej
 ręki. Uzyskana w taki sposób jest delikatna i dyskretnie ubarwia
 dźwięki gitary.
 
-Druga odmiana wibracji - bluesową<!-- link nie odnosił się do niczego: 'Wibracja' ('content/Wibracja.md') links to 'blues' ('content/blues.md') and that does not exist -->, realizowana jest
+Druga odmiana wibracji - bluesową<!-- link nie odnosił się do niczego: 'Wibracja' (PosixPath('Wibracja.md')) links to 'blues' (PosixPath('/invalid/path')) and that does not exist -->, realizowana jest
 inaczej. Palcem, którym dociskamy strunę, przesuwamy ją (cały czas
 dociśniętą) szybko wzdłuż progu, zmieniając tym jej napięcie, a więc i
 wysokość dźwięku. Aby tego dokonać, należy zwolnić nacisk kciuka na

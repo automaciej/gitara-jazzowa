@@ -41,8 +41,8 @@ donośny niż gitary typu „Flattop" z uwagi na dość luźny kontakt strun z
 płytą rezonansową (tylko poprzez wolno stojący mostek) oraz brak
 bezpośredniego kontaktu gryfu z płytą rezonansową. Posiada natomiast
 wyrównane i mięsiste brzmienie w akordach i używana jest w big-bandach i
-zespołach swingowych<!-- link nie odnosił się do niczego: 'Arch Top' ('content/Arch_Top.md') links to 'swing' ('content/swing.md') and that does not exist -->. Wraz z kontrabasem i perkusją
+zespołach swingowych<!-- link nie odnosił się do niczego: 'Arch Top' (PosixPath('Arch_Top.md')) links to 'swing' (PosixPath('/invalid/path')) and that does not exist -->. Wraz z kontrabasem i perkusją
 tworzy typową i najlepszą barwę sekcji rytmicznej. W orkiestrze Counta
-Basiego<!-- link nie odnosił się do niczego: 'Arch Top' ('content/Arch_Top.md') links to 'Count_Basie' ('content/Count_Basie.md') and that does not exist --> (wzorcowej tego typu) na gitarze gra
-Freddie Green<!-- link nie odnosił się do niczego: 'Arch Top' ('content/Arch_Top.md') links to 'Freddie_Green' ('content/Freddie_Green.md') and that does not exist -->.
+Basiego<!-- link nie odnosił się do niczego: 'Arch Top' (PosixPath('Arch_Top.md')) links to 'Count_Basie' (PosixPath('/invalid/path')) and that does not exist --> (wzorcowej tego typu) na gitarze gra
+Freddie Green<!-- link nie odnosił się do niczego: 'Arch Top' (PosixPath('Arch_Top.md')) links to 'Freddie_Green' (PosixPath('/invalid/path')) and that does not exist -->.
 

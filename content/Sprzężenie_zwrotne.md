@@ -16,7 +16,7 @@ głośników, powodujemy nakładanie się fali dźwiękowej na drgania
 struny. Fala ta pobudza strunę do dalszych drgań i nie pozwala na ich
 ustanie, skutkiem czego z głośników nieustannie wydobywa się dźwięk,
 który pobudza strunę... itd. Sprzężenia stosuje się raczej na gitarach
-[solid body]({{< relref "Gitara_elektryczna.md" >}}). Gitary z [pudłem
+solid body<!-- link nie odnosił się do niczego: PosixPath('Solid_body.md') wants to redirect to PosixPath('Solid_body.md'), but PosixPath('Solid_body.md') will be deleted -->. Gitary z [pudłem
 rezonansowym]({{< relref "Pudło_rezonansowe.md" >}}) wzbudzają niektóre dźwięki
 same i trudno je opanować.
 
@@ -53,7 +53,7 @@ niezamierzoną kakofonię.
 
 Przy niektórych dźwiękach w pewnym ustawieniu, można osiągnąć ciekawe
 [flażolety]({{< relref "Flażolet.md" >}}), gdyż podczas trwania dźwięku ze
-sprzężeniem, niektóre alikwoty<!-- link nie odnosił się do niczego: 'Sprzężenie zwrotne' ('content/Sprzężenie_zwrotne.md') links to 'alikwot' ('content/alikwot.md') and that does not exist --> stają się
+sprzężeniem, niektóre alikwoty<!-- link nie odnosił się do niczego: 'Sprzężenie zwrotne' (PosixPath('Sprzężenie_zwrotne.md')) links to 'alikwot' (PosixPath('/invalid/path')) and that does not exist --> stają się
 głośniejsze od dźwięku podstawowego. Wykorzystywanie wszystkich
 możliwości sprzężenia zwrotnego da pozytywny efekt muzyczny tylko pod
 warunkiem dużej wrażliwości i poczucia muzycznego smaku gitarzysty.

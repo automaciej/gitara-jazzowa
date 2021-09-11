@@ -1,0 +1,1 @@
+Dodaje do każdego dźwięku inny towarzyszący mu ton.

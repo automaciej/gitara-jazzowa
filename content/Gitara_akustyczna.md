@@ -33,7 +33,7 @@ nic tłumić sąsiedniej palcami [lewej ręki]({{< relref "Lewa_ręka.md" >}}). 
 jazzie ma to mniejsze znaczenie, natomiast ważniejsza jest wygoda w
 palcowaniu i stosowaniu różnych chwytów. Grając piórkiem, tłumi się
 niekiedy celowo palcami lewej ręki sąsiednie struny.
-[Szyjka]({{< relref "Gryf" >}}) z [gryfem]({{< relref "Gryf.md" >}}) jest więc nieco
+[Szyjka]({{< relref "Gryf.md" >}}) z [gryfem]({{< relref "Gryf.md" >}}) jest więc nieco
 węższa. Posiada wewnątrz wzmocnienie, zapobiegające odkształceniom jej
 przez siłę naciągu metalowych strun. Gryf z niższymi progami jest lekko
 zaokrąglony, co daje lepsze dopasowanie do dłoni szczególnie przy
@@ -64,4 +64,4 @@ przez duży otwór w górnej płycie. Instrumenty te mają bardzo mocny,
 nośny ton o dość jasnej barwie. Na gitarze Maccaferriego, modelu „Jazz"
 grał [Django Reinhardt]({{< relref "Django_Reinhardt.md" >}}).
 
-Akustyczna, gitara<!-- link nie odnosił się do niczego: 'Gitara akustyczna' ('content/Gitara_akustyczna.md') links to 'kategoria:rodzaje_gitar' ('content/kategoria:rodzaje_gitar.md') and that does not exist -->
+Akustyczna, gitara<!-- link nie odnosił się do niczego: 'Gitara akustyczna' (PosixPath('Gitara_akustyczna.md')) links to 'kategoria:rodzaje_gitar' (PosixPath('/invalid/path')) and that does not exist -->

@@ -12,8 +12,8 @@ images:
 ---
 {{< figure src="/images/StrojenieGitary.png" >}}
 
-Elementarną i niezbyt dokładną [metodę
-strojenia]({{< relref "Strojenie_gitary.md" >}}) podają niemal wszystkie
+Elementarną i niezbyt dokładną metodę
+strojenia<!-- link nie odnosił się do niczego: PosixPath('Metody_strojenia.md') wants to redirect to PosixPath('Metody_strojenia.md'), but PosixPath('Metody_strojenia.md') will be deleted --> podają niemal wszystkie
 podręczniki do nauki gry. Polega ona na nastrojeniu struny E-1 na
 właściwy ton (do *a* wydobytego z kamertonu lub z innego instrumentu
 dostrajamy strunę E-1 dociśniętą w V pozycji), a następnie na
@@ -75,7 +75,7 @@ możemy to zrobić nie używając strun pustych. Porównujemy np.:
     wydobytym na strunie E-6 w pozycji VIII
 
 i na koniec sprawdzamy struny skrajne - E-1 i E-6, czy podwójna
-oktawa<!-- link nie odnosił się do niczego: 'Proste strojenie' ('content/Proste_strojenie.md') links to 'oktawa' ('content/oktawa.md') and that does not exist --> jest czysta. W nawiasie należy dodać, że w
+oktawa<!-- link nie odnosił się do niczego: 'Proste strojenie' (PosixPath('Proste_strojenie.md')) links to 'oktawa' (PosixPath('/invalid/path')) and that does not exist --> jest czysta. W nawiasie należy dodać, że w
 tym wypadku numer pozycji nie określa położenia dłoni, a jedynie miejsce
 dociśnięcia struny. Tutaj w wyższych pozycjach wygodniej jest operować
 palcem 4.
@@ -83,6 +83,6 @@ palcem 4.
 Posługując się tylko strunami skróconymi w pozycjach, eliminujemy mylącą
 niekiedy różnicę barwy w brzmieniu pustych strun. Sposób ten jest jednak
 dość kłopotliwy, jeśli nie dysponujemy
-strojnikami<!-- link nie odnosił się do niczego: 'Proste strojenie' ('content/Proste_strojenie.md') links to 'strojnik' ('content/strojnik.md') and that does not exist --> i używamy tylko
-maszynek<!-- link nie odnosił się do niczego: 'Proste strojenie' ('content/Proste_strojenie.md') links to 'maszynka' ('content/maszynka.md') and that does not exist -->.
+strojnikami<!-- link nie odnosił się do niczego: 'Proste strojenie' (PosixPath('Proste_strojenie.md')) links to 'strojnik' (PosixPath('/invalid/path')) and that does not exist --> i używamy tylko
+maszynek<!-- link nie odnosił się do niczego: 'Proste strojenie' (PosixPath('Proste_strojenie.md')) links to 'maszynka' (PosixPath('/invalid/path')) and that does not exist -->.
 

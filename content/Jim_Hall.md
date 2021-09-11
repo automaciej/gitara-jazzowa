@@ -16,10 +16,10 @@ stosował on zupełnie inną fakturę \[niż [Joe Pass]({{< relref "Joe_Pass.md"
 solówkach. Jego gra często była jakby dwuplanowa, przy czym plany te
 przebiegały obok siebie równocześnie lub korespondowały ze sobą. Warto
 też zwrócić uwagę na logiczną budowę każdej jego
-improwizacji<!-- link nie odnosił się do niczego: 'Jim Hall' ('content/Jim_Hall.md') links to 'improwizacja' ('content/improwizacja.md') and that does not exist -->. **Jim Hall** był jednym z
+improwizacji<!-- link nie odnosił się do niczego: 'Jim Hall' (PosixPath('Jim_Hall.md')) links to 'improwizacja' (PosixPath('/invalid/path')) and that does not exist -->. **Jim Hall** był jednym z
 nielicznych gitarzystów, którzy dobrze czują się w zespole, gdzie gitara
 jest jedynym instrumentem
-harmonicznym<!-- link nie odnosił się do niczego: 'Jim Hall' ('content/Jim_Hall.md') links to 'instrument_harmoniczny' ('content/instrument_harmoniczny.md') and that does not exist -->. Zarówno Jim Hall jak i
+harmonicznym<!-- link nie odnosił się do niczego: 'Jim Hall' (PosixPath('Jim_Hall.md')) links to 'instrument_harmoniczny' (PosixPath('/invalid/path')) and that does not exist -->. Zarówno Jim Hall jak i
 [Joe Pass]({{< relref "Joe_Pass.md" >}}) chętnie nagrywali płyty w trio tylko z
 [sekcją rytmiczną]({{< relref "Sekcja_rytmiczna.md" >}}).
 
@@ -27,4 +27,4 @@ Solo Jim Halla w temacie „The Way You Look Tonight":
 
 {{< figure src="/images/NutySoloJimaHallaTheWayYouLookTonight.png" >}}
 
-Hall, Jim<!-- link nie odnosił się do niczego: 'Jim Hall' ('content/Jim_Hall.md') links to 'kategoria:gitarzyści_jazzowi' ('content/kategoria:gitarzyści_jazzowi.md') and that does not exist -->
+Hall, Jim<!-- link nie odnosił się do niczego: 'Jim Hall' (PosixPath('Jim_Hall.md')) links to 'kategoria:gitarzyści_jazzowi' (PosixPath('/invalid/path')) and that does not exist -->

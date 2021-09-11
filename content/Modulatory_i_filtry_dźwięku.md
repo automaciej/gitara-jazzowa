@@ -60,7 +60,7 @@ instrument:
   - [Ring modulator]({{< relref "Ring_modulator.md" >}})
   - [Octaver]({{< relref "Octaver.md" >}})
   - [Chorus]({{< relref "Chorus.md" >}})
-  - Flanger<!-- link nie odnosił się do niczego: 'Modulatory i filtry dźwięku' ('content/Modulatory_i_filtry_dźwięku.md') links to 'Flanger' ('content/Flanger.md') and that does not exist -->
+  - Flanger<!-- link nie odnosił się do niczego: 'Modulatory i filtry dźwięku' (PosixPath('Modulatory_i_filtry_dźwięku.md')) links to 'Flanger' (PosixPath('/invalid/path')) and that does not exist -->
   - [Delay]({{< relref "Delay.md" >}})
   - [Tape echo]({{< relref "Tape_echo.md" >}})
 
@@ -71,11 +71,11 @@ instrument:
 Stosowanie urządzeń elektronicznych przetwarzających dźwięk powoduje
 niekiedy kłopoty związane ze wzrostem szumów w głośnikach. Te i inne
 niepożądane zakłócenia likwidowane są przez - bramkę
-szumów<!-- link nie odnosił się do niczego: 'Modulatory i filtry dźwięku' ('content/Modulatory_i_filtry_dźwięku.md') links to 'bramka_szumów' ('content/bramka_szumów.md') and that does not exist -->, Noise Limiter - które w momentach
+szumów<!-- link nie odnosił się do niczego: 'Modulatory i filtry dźwięku' (PosixPath('Modulatory_i_filtry_dźwięku.md')) links to 'bramka_szumów' (PosixPath('/invalid/path')) and that does not exist -->, Noise Limiter - które w momentach
 gdy instrument nie gra (a wtedy najbardziej słyszalne są wszelkie
 zakłócenia), odcinają dopływ sygnałów (a więc i szumów) do
 wzmacniacza. Gdy zaczyna się grać, urządzenie automatycznie przepuszcza
-sygnał<!-- link nie odnosił się do niczego: 'Modulatory i filtry dźwięku' ('content/Modulatory_i_filtry_dźwięku.md') links to 'sygnał' ('content/sygnał.md') and that does not exist --> z instrumentu.
+sygnał<!-- link nie odnosił się do niczego: 'Modulatory i filtry dźwięku' (PosixPath('Modulatory_i_filtry_dźwięku.md')) links to 'sygnał' (PosixPath('/invalid/path')) and that does not exist --> z instrumentu.
 
 Noise Gate należy instalować zawsze między inne urządzenia a
 [wzmacniacz]({{< relref "Wzmacniacz.md" >}}). Nietóre przetworniki dźwięku mają

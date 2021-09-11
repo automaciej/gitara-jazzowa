@@ -27,12 +27,12 @@ oczywistą.
 
 ## Szyjka
 
-Zobacz artykuł: [Szyjka]({{< relref "Gryf" >}})
+Zobacz artykuł: [Szyjka]({{< relref "Gryf.md" >}})
 
 ## Progi
 
 Progi pozbawione ostrych kantów, powinny być nabite precyzyjnie, co
-sprawdzamy, grając gamę chromatyczną<!-- link nie odnosił się do niczego: 'Gitara' ('content/Gitara.md') links to 'gama_chromatyczna' ('content/gama_chromatyczna.md') and that does not exist --> na
+sprawdzamy, grając gamę chromatyczną<!-- link nie odnosił się do niczego: 'Gitara' (PosixPath('Gitara.md')) links to 'gama_chromatyczna' (PosixPath('/invalid/path')) and that does not exist --> na
 każdej strunie przez wszystkie pozycje. Brzęczenie niektórych dźwięków
 będzie świadczyło o nierównym nabiciu progów (wadę te przy pewnych
 zdolnościach technicznych można usunąć samemu, podpiłowując odpowiednie

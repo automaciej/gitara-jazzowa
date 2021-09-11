@@ -1,0 +1,1 @@
+[frame](grafika:GitaraLesPaulCustom.jpg "wikilink")
