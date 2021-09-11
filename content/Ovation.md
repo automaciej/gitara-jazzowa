@@ -9,7 +9,7 @@ aliases: ['/gitara/Ovation']
 images:
   - path: "/images/GitaraOvation.jpg"
 ---
-{{< figure src="/images/GitaraOvation.jpg" >}}
+{{< image src="/images/GitaraOvation.jpg" >}}
 
 Wśród wielu doskonałych firm duże powodzenie ma firma
 [Ovation]({{< relref "Ovation.md" >}}), która zrewolucjonizowała budowę [gitar

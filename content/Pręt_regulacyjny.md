@@ -10,7 +10,7 @@ aliases: ['/gitara/Pręt_regulacyjny']
 images:
   - path: "/images/PretWGryfie.png"
 ---
-{{< figure src="/images/PretWGryfie.png" >}}
+{{< image src="/images/PretWGryfie.png" >}}
 
 **Pręt regulacyjny** służy do [regulowania
 gryfu]({{< relref "Regulacja_gryfu.md" >}}), w przypadku kiedy jest on wklęsły

@@ -12,26 +12,26 @@ images:
 ---
 Metodą, którą powinni znać wszyscy muzycy, jest prowadzenie głosów, tak
 by przechodziły płynnie z jednego akordu do drugiego, zmieniając przy
-tym swoją rolę w akordzie<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'akord' (PosixPath('/invalid/path')) and that does not exist -->. Niektóre
-dźwięki<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'dźwięk' (PosixPath('/invalid/path')) and that does not exist --> zmieniają swoją rolę w akordzie bez
+tym swoją rolę w akordzie<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'akord' (PosixPath('/no/path/exists')) and that does not exist -->. Niektóre
+dźwięki<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'dźwięk' (PosixPath('/no/path/exists')) and that does not exist --> zmieniają swoją rolę w akordzie bez
 zmiany wysokości.
 
-{{< figure src="/images/NutyzmianaRoliDzwiekowBezZmianyWysokosci.png" >}}
+{{< image src="/images/NutyzmianaRoliDzwiekowBezZmianyWysokosci.png" >}}
 
 Oczywiście sposób prowadzenia głosów w jazzie daleki jest od sztywnych
 reguł stosowanych w harmonii
-klasycznej<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'harmonia_klasyczna' (PosixPath('/invalid/path')) and that does not exist -->. W muzyce jazzowej tracą one
+klasycznej<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'harmonia_klasyczna' (PosixPath('/no/path/exists')) and that does not exist -->. W muzyce jazzowej tracą one
 rację bytu jako nieuzasadnione. Interpretując prosty przebieg
 harmoniczny, trzeba pamiętać, że forma akordu powinna zależeć nie tylko
 od postaci akordów poprzednich, ale i od następującego. Najprostszym
-przykładem jest dominanta<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'dominanta' (PosixPath('/invalid/path')) and that does not exist -->, która prowadząc do
+przykładem jest dominanta<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'dominanta' (PosixPath('/no/path/exists')) and that does not exist -->, która prowadząc do
 toniki durowej, powinna się różnić od dominanty prowadzącej do toniki
 molowej. Oto niektóre różnice wykazane w przykładach:
 
 |   |                         |   |                           |   |                             |   |                           |   |
 | - | ----------------------- | - | ------------------------- | - | --------------------------- | - | ------------------------- | - |
-| | | G7<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'G7' (PosixPath('/invalid/path')) and that does not exist -->     | | | Cmaj7<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'Cmaj7' (PosixPath('/invalid/path')) and that does not exist --> | | | G9<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'G9' (PosixPath('/invalid/path')) and that does not exist -->         | | | Cmaj7<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'Cmaj7' (PosixPath('/invalid/path')) and that does not exist --> | | |
-| | | G7♭9<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'G7♭9' (PosixPath('/invalid/path')) and that does not exist --> | | | Cm7<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'Cm7' (PosixPath('/invalid/path')) and that does not exist -->     | | | G7♭5♭9<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'G7♭5♭9' (PosixPath('/invalid/path')) and that does not exist --> | | | Cm7<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'Cm7' (PosixPath('/invalid/path')) and that does not exist -->     | | |
+| | | G7<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'G7' (PosixPath('/no/path/exists')) and that does not exist -->     | | | Cmaj7<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'Cmaj7' (PosixPath('/no/path/exists')) and that does not exist --> | | | G9<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'G9' (PosixPath('/no/path/exists')) and that does not exist -->         | | | Cmaj7<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'Cmaj7' (PosixPath('/no/path/exists')) and that does not exist --> | | |
+| | | G7♭9<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'G7♭9' (PosixPath('/no/path/exists')) and that does not exist --> | | | Cm7<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'Cm7' (PosixPath('/no/path/exists')) and that does not exist -->     | | | G7♭5♭9<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'G7♭5♭9' (PosixPath('/no/path/exists')) and that does not exist --> | | | Cm7<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'Cm7' (PosixPath('/no/path/exists')) and that does not exist -->     | | |
 
 Analizując te przykłady, można dojść do wniosku, że tonika durowa wymaga
 w poprzedzającej ją subdominancie molowej drugiego stopnia kwinty

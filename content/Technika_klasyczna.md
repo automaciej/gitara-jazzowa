@@ -18,7 +18,7 @@ nylonu, a struny basowe mają metalową owijkę. Wszystkie próby odstępstwa
 od ściśle określonej techniki gry uznawane są za błędne. Metoda gry
 wykształcona przez gitarzystów: Dionisio Aguado, działającego na
 początku XIX w. i później przez Francisco
-Tarregę<!-- link nie odnosił się do niczego: 'Technika klasyczna' (PosixPath('Technika_klasyczna.md')) links to 'Francisco_Tarrega' (PosixPath('/invalid/path')) and that does not exist -->, działającego pod koniec XIX w.
+Tarregę<!-- link nie odnosił się do niczego: 'Technika klasyczna' (PosixPath('Technika_klasyczna.md')) links to 'Francisco_Tarrega' (PosixPath('/no/path/exists')) and that does not exist -->, działającego pod koniec XIX w.
 jest doskonała, ale tylko dla utworów skomponowanych na gitarę
 klasyczną. W literaturze na ten instrument znakomita większość to
 kompozycje, w których główny nacisk położony jest na pracę prawej ręki,
@@ -35,9 +35,9 @@ strun, to niektóre tego powody
 ## Technika klasyczna i jazz
 
 Przykładem gitarzystów, którzy usiłują łączyć technikę klasyczną z
-muzyką jazzową są: Charlie Byrd<!-- link nie odnosił się do niczego: 'Technika klasyczna' (PosixPath('Technika_klasyczna.md')) links to 'Charlie_Byrd' (PosixPath('/invalid/path')) and that does not exist --> i Laurindo
-Almeida<!-- link nie odnosił się do niczego: 'Technika klasyczna' (PosixPath('Technika_klasyczna.md')) links to 'Laurindo_Almeida' (PosixPath('/invalid/path')) and that does not exist -->. Wyjątkiem jest czarny Amerykanin
-Earl Klugh<!-- link nie odnosił się do niczego: 'Technika klasyczna' (PosixPath('Technika_klasyczna.md')) links to 'Earl_Klugh' (PosixPath('/invalid/path')) and that does not exist -->, który posługując się klasyczną
+muzyką jazzową są: Charlie Byrd<!-- link nie odnosił się do niczego: 'Technika klasyczna' (PosixPath('Technika_klasyczna.md')) links to 'Charlie_Byrd' (PosixPath('/no/path/exists')) and that does not exist --> i Laurindo
+Almeida<!-- link nie odnosił się do niczego: 'Technika klasyczna' (PosixPath('Technika_klasyczna.md')) links to 'Laurindo_Almeida' (PosixPath('/no/path/exists')) and that does not exist -->. Wyjątkiem jest czarny Amerykanin
+Earl Klugh<!-- link nie odnosił się do niczego: 'Technika klasyczna' (PosixPath('Technika_klasyczna.md')) links to 'Earl_Klugh' (PosixPath('/no/path/exists')) and that does not exist -->, który posługując się klasyczną
 techniką gry, z powodzeniem tworzy muzykę silnie związaną z jazzem,
 zbliżoną stylistycznie do utworów [George'a
 Bensona]({{< relref "George_Benson.md" >}}).
@@ -59,7 +59,7 @@ literaturą stylistycznie związaną z muzyką klasyczną i romantyczną,
 która zmusza do ścisłego przestrzegania zasad określonej konwencji
 wykonawczej. Powoduje to wytwarzanie się nawyków
 [artykulacyjnych]({{< relref "Artykulacja.md" >}}) i brzmieniowych, niepożądanych
-w jazzie<!-- link nie odnosił się do niczego: 'Technika klasyczna' (PosixPath('Technika_klasyczna.md')) links to 'jazz' (PosixPath('/invalid/path')) and that does not exist -->. Naturalnie, zdarzają się indywidualności,
+w jazzie<!-- link nie odnosił się do niczego: 'Technika klasyczna' (PosixPath('Technika_klasyczna.md')) links to 'jazz' (PosixPath('/no/path/exists')) and that does not exist -->. Naturalnie, zdarzają się indywidualności,
 które zdołają przedrzeć się przez program szkolny nic zatraciwszy swej
 muzycznej osobowości. Większość gitarzystów jazzowych to samoucy, tak
 jak i prawie wszyscy wybitni muzycy jazzowi.

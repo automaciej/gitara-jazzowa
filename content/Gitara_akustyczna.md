@@ -11,7 +11,7 @@ images:
   - path: "/images/GitaraJumboWymiary.png"
   - path: "/images/MostekPrzyklejony.jpg"
 ---
-{{< figure src="/images/GibsonJ200.jpg" >}}
+{{< image src="/images/GibsonJ200.jpg" >}}
 
 **Gitara akustyczna** (ang. *Acoustic steel string guitar* - gitara
 akustyczna z metalowymi strunami)
@@ -22,7 +22,7 @@ rezonansowe]({{< relref "Pudło_rezonansowe.md" >}}), ale na tym też podobieńs
 się kończy. Różnice w budowie mają na celu zarówno doskonalsze brzmienie
 jak i ułatwienie samej gry.
 
-{{< figure src="/images/GitaraJumboWymiary.png" >}}
+{{< image src="/images/GitaraJumboWymiary.png" >}}
 
 Gitary oznaczone w katalogach pod „Flattop", „Jumbo", „Folk" - posiadają
 większe od gitar klasycznych pudła rezonansowe, co w połączeniu z
@@ -47,7 +47,7 @@ profesjonalnego powinno mieć to znaczenie tylko ozdobne. Strunnik
 zazwyczaj szerszy, przyklejony większą powierzchnią do płyty
 rezonansowej, stanowi całość z [mostkiem]({{< relref "Mostek.md" >}}).
 
-{{< figure src="/images/MostekPrzyklejony.jpg" >}}
+{{< image src="/images/MostekPrzyklejony.jpg" >}}
 
 Gitary tego typu stosuje się do wykonywania muzyki folk, pop, country,
 rzadziej rock i jazz. Doskonale nadaje się dla akompaniujących sobie
@@ -64,4 +64,4 @@ przez duży otwór w górnej płycie. Instrumenty te mają bardzo mocny,
 nośny ton o dość jasnej barwie. Na gitarze Maccaferriego, modelu „Jazz"
 grał [Django Reinhardt]({{< relref "Django_Reinhardt.md" >}}).
 
-Akustyczna, gitara<!-- link nie odnosił się do niczego: 'Gitara akustyczna' (PosixPath('Gitara_akustyczna.md')) links to 'kategoria:rodzaje_gitar' (PosixPath('/invalid/path')) and that does not exist -->
+Akustyczna, gitara<!-- link nie odnosił się do niczego: 'Gitara akustyczna' (PosixPath('Gitara_akustyczna.md')) links to 'kategoria:rodzaje_gitar' (PosixPath('/no/path/exists')) and that does not exist -->

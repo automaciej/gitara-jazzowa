@@ -11,7 +11,7 @@ aliases: ['/gitara/Syntezator_gitarowy']
 **Syntezator gitarowy** lub **Gitara [MIDI]({{< relref "MIDI.md" >}})** to
 instrument elektroniczny, który tak jak [gitara]({{< relref "Gitara.md" >}})
 posiada [struny]({{< relref "Struna.md" >}}), [gryf]({{< relref "Gryf.md" >}}) i
-progi<!-- link nie odnosił się do niczego: 'Syntezator gitarowy' (PosixPath('Syntezator_gitarowy.md')) links to 'próg' (PosixPath('/invalid/path')) and that does not exist -->, natomiast umożliwia grane różnymi barwami, tak
+progi<!-- link nie odnosił się do niczego: 'Syntezator gitarowy' (PosixPath('Syntezator_gitarowy.md')) links to 'próg' (PosixPath('/no/path/exists')) and that does not exist -->, natomiast umożliwia grane różnymi barwami, tak
 jak w syntezatorach klawiszowych.
 
 Technicznie rzecz biorąc, gitara taka jest [kontrolerem

@@ -9,7 +9,7 @@ wikilinks: ['Wikipedysta:MaciejBlizinski', 'akord', 'znaki_chromatyczne']
 aliases: ['/gitara/Składniki_akordów']
 ---
 Jeśli nie chcemy aby brzmiał określony składnik
-akordu<!-- link nie odnosił się do niczego: 'Składniki akordów' (PosixPath('Składniki_akordów.md')) links to 'akord' (PosixPath('/invalid/path')) and that does not exist --> oznaczamy to za pomocą skreślenia, np.:
+akordu<!-- link nie odnosił się do niczego: 'Składniki akordów' (PosixPath('Składniki_akordów.md')) links to 'akord' (PosixPath('/no/path/exists')) and that does not exist --> oznaczamy to za pomocą skreślenia, np.:
 
 (...)
 
@@ -38,7 +38,7 @@ jako:
 (......)
 
 Nie jest też regułą, że znaki
-chromatyczne<!-- link nie odnosił się do niczego: 'Składniki akordów' (PosixPath('Składniki_akordów.md')) links to 'znaki_chromatyczne' (PosixPath('/invalid/path')) and that does not exist --> umieszcza się za cyfrą,
+chromatyczne<!-- link nie odnosił się do niczego: 'Składniki akordów' (PosixPath('Składniki_akordów.md')) links to 'znaki_chromatyczne' (PosixPath('/no/path/exists')) and that does not exist --> umieszcza się za cyfrą,
 oznaczającą dany składnik akordu. Można spotkać znaki chromatyczne
 umieszczone przed cyframi, np.
 
@@ -58,7 +58,7 @@ Co ma począć gitarzysta w tej sytuacji?\!
 > Des-dziewięć, wtedy powinien wyglądać tak: D♭9. Jeżeli natomiast jest
 > to D-dur siedem z noną małą (często wymawiany "D siedem dziewięć
 > minus"), to powinien wyglądać tak: D7♭9 --Maciej
-> Bliziński<!-- link nie odnosił się do niczego: 'Składniki akordów' (PosixPath('Składniki_akordów.md')) links to 'Wikipedysta:MaciejBlizinski' (PosixPath('/invalid/path')) and that does not exist --> 17:24, 21 maj 2005
+> Bliziński<!-- link nie odnosił się do niczego: 'Składniki akordów' (PosixPath('Składniki_akordów.md')) links to 'Wikipedysta:MaciejBlizinski' (PosixPath('/no/path/exists')) and that does not exist --> 17:24, 21 maj 2005
 > (CEST)
 
 Istnienie różnych notacji harmonicznych stawia muzyków jazzowych w

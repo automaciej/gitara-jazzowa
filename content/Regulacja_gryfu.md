@@ -12,7 +12,7 @@ images:
   - path: "/images/SzyjkaWklesla.png"
   - path: "/images/SzyjkaWypukla.png"
 ---
-{{< figure src="/images/PretWGryfie.png" >}}
+{{< image src="/images/PretWGryfie.png" >}}
 
 Gryf jest niezwykle ważnym elementem konstrukcyjnym w gitarze. Dlatego
 należy zwrócić nań szczególną uwagę. Odczuwalna jest zależność pomiędzy
@@ -22,7 +22,7 @@ się o progi brzęcząc nieprzyjemnie, niekiedy w ogóle uniemożliwiając
 grę. Jest to efekt wygięcia szyjki w łuk zwrócony wypukłością do strun.
 Pokazuje to nieco przesadnie rysunek.
 
-{{< figure src="/images/SzyjkaWypukla.png" >}}
+{{< image src="/images/SzyjkaWypukla.png" >}}
 
 Mając do dyspozycji [pręt regulacyjny]({{< relref "Pręt_regulacyjny.md" >}}),
 należy wówczas zwolnić trochę jego naciąg, odkręcając nakrętkę. Wejście
@@ -39,7 +39,7 @@ wówczas zwiększy się odległość między nimi a gryfem. Nie trzeba wtedy
 obniżać [mostka]({{< relref "Mostek.md" >}}), bowiem jest to skutek wygięcia
 szyjki w łuk zwrócony wklęsłością do strun.
 
-{{< figure src="/images/SzyjkaWklesla.png" >}}
+{{< image src="/images/SzyjkaWklesla.png" >}}
 
 Należy wówczas przykręcić nieco nakrętkę pręta regulacyjnego. Trzeba
 pamiętać, że przy każdej regulacji szyjki konieczne jest znaczne

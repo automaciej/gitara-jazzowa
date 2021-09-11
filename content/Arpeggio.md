@@ -14,7 +14,7 @@ images:
 poszczególnych dźwięków akordu nie jednocześnie, lecz po kolei w dół
 lub w górę.
 
-{{< figure src="/images/NutyArpeggio.png" >}}
+{{< image src="/images/NutyArpeggio.png" >}}
 
 W muzyce jazzowej nie występuje zbyt często.a wykonanie różni się
 całkowicie od arpeggia w technice gitary klasycznej, gdzie jest jednym

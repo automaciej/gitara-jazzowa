@@ -9,7 +9,7 @@ aliases: ['/gitara/Postawa_z_instrumentem']
 images:
   - path: "/images/MarekBlizinskiPozycja.jpg"
 ---
-{{< figure src="/images/MarekBlizinskiPozycja.jpg" >}} - postawa z
+{{< image src="/images/MarekBlizinskiPozycja.jpg" >}} - postawa z
 instrumentem\]\]
 
 Istotą dobrej **postawy z instrumentem** jest umożliwienie właściwego
@@ -20,14 +20,14 @@ gitary. dłoni i palców, bez czego nie osiągnie się perfekcji w grze.
 
 Dobry gitarzysta jest zespolony ze swoim instrumentem, a każdy ruch rąk
 związany jest z dźwiękiem. Grający nie powinien myśleć manualnie lecz
-dźwiękowo<!-- link nie odnosił się do niczego: 'Postawa z instrumentem' (PosixPath('Postawa_z_instrumentem.md')) links to 'dźwięk' (PosixPath('/invalid/path')) and that does not exist -->.
+dźwiękowo<!-- link nie odnosił się do niczego: 'Postawa z instrumentem' (PosixPath('Postawa_z_instrumentem.md')) links to 'dźwięk' (PosixPath('/no/path/exists')) and that does not exist -->.
 
 ### Muzycy bluesowi
 
 Wśród gitarzystów jazzowych istnieje wiele różnych metod gry i wiele
 różnych postaw z instrumentem. Nie wszystkie jednak, moim zdaniem,
 godne są polecenia. Zwłaszcza niektórzy muzycy
-bluesowi<!-- link nie odnosił się do niczego: 'Postawa z instrumentem' (PosixPath('Postawa_z_instrumentem.md')) links to 'blues' (PosixPath('/invalid/path')) and that does not exist --> traktują instrument bardzo specyficznie,
+bluesowi<!-- link nie odnosił się do niczego: 'Postawa z instrumentem' (PosixPath('Postawa_z_instrumentem.md')) links to 'blues' (PosixPath('/no/path/exists')) and that does not exist --> traktują instrument bardzo specyficznie,
 zgodnie może z wymogami tego gatunku muzycznego, ale zawężają tym
 potencjalne możliwości wykonywania innych gatunków jazzu.
 

@@ -21,9 +21,9 @@ brzmienia unisonu.
 
 Strojenie flażoletami przebiega następująco:
 
-{{< figure src="/images/StrojenieFlazoletami.png" >}}
+{{< image src="/images/StrojenieFlazoletami.png" >}}
 
-{{< figure src="/images/NutyStrojenieFlazoletami.png" >}}
+{{< image src="/images/NutyStrojenieFlazoletami.png" >}}
 
 do a , podanego np. z kamertonu, stroimy strunę D-4 za pomocą flażoletu
 w pozycji VII. Następnie stroimy strunę A-5 za pomocą flażoletu w

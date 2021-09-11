@@ -10,7 +10,7 @@ aliases: ['/gitara/Strojniki_elektroniczne']
 images:
   - path: "/images/Autotuner.jpg"
 ---
-{{< figure src="/images/Autotuner.jpg" >}}
+{{< image src="/images/Autotuner.jpg" >}}
 
 Istnieją specjalne aparaty, dzięki którym można nastroić instrument
 obserwując wskaźniki reagujące na wysokość dźwięków. Są to bardzo

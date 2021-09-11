@@ -11,7 +11,7 @@ images:
   - path: "/images/NutyPalcowanie.png"
   - path: "/images/NutyPracaLewejReki02.png"
 ---
-{{< figure src="/images/NutyPalcowanie.png" >}}
+{{< image src="/images/NutyPalcowanie.png" >}}
 
 Przejdźmy teraz do problemów **palcowania**, które myślącemu gitarzyście
 spędzają nieraz sen z powiek, a bezmyślnemu przeszkadzają całe życie.
@@ -28,7 +28,7 @@ problemów palcowania.
 ## Staccato
 
 Przy grze [staccato]({{< relref "Staccato.md" >}}) lub non
-legato<!-- link nie odnosił się do niczego: 'Palcowanie' (PosixPath('Palcowanie.md')) links to 'non_legato' (PosixPath('/invalid/path')) and that does not exist --> należałoby pamiętać jedynie o tym, aby
+legato<!-- link nie odnosił się do niczego: 'Palcowanie' (PosixPath('Palcowanie.md')) links to 'non_legato' (PosixPath('/no/path/exists')) and that does not exist --> należałoby pamiętać jedynie o tym, aby
 lewa ręka umieszczana była w wygodnych dla danych fraz pozycjach.
 Wygodnych, tj. takich, które umożliwiają dostęp do określonej grupy
 dźwięków. Zmiana pozycji uzasadniona jest wówczas, gdy w nowej zagramy
@@ -72,7 +72,7 @@ efektu glis-sanda oraz zakłócenia frazy lewej ręki.
 Sprawdzianem dobrze wykonanej zmiany pozycji jest ćwiczenie, w którym
 porównujemy tę samą frazę zagraną w jednej pozycji i w dwóch, np.
 
-{{< figure src="/images/NutyPracaLewejReki02.png" >}}
+{{< image src="/images/NutyPracaLewejReki02.png" >}}
 
 ## Puste struny
 

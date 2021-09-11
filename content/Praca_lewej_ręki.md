@@ -25,7 +25,7 @@ zajmiemy się tylko ręką lewą. Umowna numeracja palców jest następująca:
 Palce trzeba ustawiać jak najbliżej progu, który skraca strunę. Aby
 docisnąć strunę palcem postawionym dalej, szczególnie w niskich
 pozycjach, byłoby trzeba użyć dużej siły. Palec stawiany zbyt blisko lub
-na samym progu, tłumiłby dźwięk<!-- link nie odnosił się do niczego: 'Praca lewej ręki' (PosixPath('Praca_lewej_ręki.md')) links to 'dźwięk' (PosixPath('/invalid/path')) and that does not exist -->.
+na samym progu, tłumiłby dźwięk<!-- link nie odnosił się do niczego: 'Praca lewej ręki' (PosixPath('Praca_lewej_ręki.md')) links to 'dźwięk' (PosixPath('/no/path/exists')) and that does not exist -->.
 
 Zarówno w niskich, jak i w wysokich pozycjach - wszystkie palce powinny
 być ustawione w pobliżu sąsiednich progów. Tak więc, przesuwając rękę do
@@ -51,7 +51,7 @@ więc w chromalyce: grając w górę nie podnosimy palców, które już
 zagrały. Dopiero grając w dół, przy dźwięku „d" podnosimy palec 4, przy
 dźwięku „cis" - 3, przy „c" - 2.
 
-{{< figure src="/images/NutyPracaLewejReki01.png" >}}
+{{< image src="/images/NutyPracaLewejReki01.png" >}}
 
 Zarówno w [grze akordowej]({{< relref "Gra_akordowa.md" >}}), jak i melodycznej,
 kurczowe zaciskanie lewej ręki uniemożliwia swobodne poruszanie się jej

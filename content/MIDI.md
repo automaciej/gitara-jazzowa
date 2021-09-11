@@ -15,4 +15,4 @@ Technologia ta umożliwia przesyłanie pomiędzy elektronicznymi
 instrumentami muzycznymi informacji, np. o tym które dźwięki należy
 zagrać. MIDI jest używane do podłączenia [syntezatora
 gitarowego]({{< relref "Syntezator_gitarowy.md" >}}) do modułu
-MIDI<!-- link nie odnosił się do niczego: 'MIDI' (PosixPath('MIDI.md')) links to 'moduł_MIDI' (PosixPath('/invalid/path')) and that does not exist -->.
+MIDI<!-- link nie odnosił się do niczego: 'MIDI' (PosixPath('MIDI.md')) links to 'moduł_MIDI' (PosixPath('/no/path/exists')) and that does not exist -->.

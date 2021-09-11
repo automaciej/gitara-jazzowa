@@ -10,7 +10,7 @@ aliases: ['/gitara/Metody_trzymania_kostki']
 Istnieją różne metody trzymania kostki. Dosyć rozpowszechniony jest
 sposób, w którym palec wskazujący dociska kostkę w połowie opuszka
 kciuka. Metodę tę między innymi poleca Herb
-Ellis<!-- link nie odnosił się do niczego: 'Metody trzymania kostki' (PosixPath('Metody_trzymania_kostki.md')) links to 'Herb_Ellis' (PosixPath('/invalid/path')) and that does not exist --> w „Jazz Guitar Style".
+Ellis<!-- link nie odnosił się do niczego: 'Metody trzymania kostki' (PosixPath('Metody_trzymania_kostki.md')) links to 'Herb_Ellis' (PosixPath('/no/path/exists')) and that does not exist --> w „Jazz Guitar Style".
 
 Trzeba pamiętać, że sposób trzymania kostki determinuje ustawienie całej
 prawej ręki. W powyższym przykładzie prawa dłoń jest prawie równoległa
@@ -31,7 +31,7 @@ kostką jest dobra, jeśli spełnia następujące warunki: możliwość
 rozluźnienia dłoni w trakcie gry, jednakowa sprawność techniczna na
 wszystkich strunach, szybkie przejścia ze struny na strunę (nie tylko na
 sąsiednie), różnicowanie [dynamiki]({{< relref "Dynamika.md" >}}) oraz
-frazowanie<!-- link nie odnosił się do niczego: 'Metody trzymania kostki' (PosixPath('Metody_trzymania_kostki.md')) links to 'frazowanie' (PosixPath('/invalid/path')) and that does not exist -->.
+frazowanie<!-- link nie odnosił się do niczego: 'Metody trzymania kostki' (PosixPath('Metody_trzymania_kostki.md')) links to 'frazowanie' (PosixPath('/no/path/exists')) and that does not exist -->.
 
 **Zobacz też**
 

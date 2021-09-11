@@ -68,7 +68,7 @@ gry, jest sztuczne. Można natomiast uzyskiwać nim specjalne efekty,
 przedłużanie dźwięku lub stosowanie artykulacji, niemożliwej do zagrania
 bez jego pomocy, np.:
 
-{{< figure src="/images/NutyKsztaltowanieDzwieku01.png" >}}
+{{< image src="/images/NutyKsztaltowanieDzwieku01.png" >}}
 
 Pedał ten można po prostu też używać zamiast trudniejszego w operowaniu
 potencjometru siły głosu w gitarze.

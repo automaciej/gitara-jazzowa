@@ -11,8 +11,8 @@ images:
   - path: "/images/GitaraJazzowaDrugieWydanie.gif"
   - path: "/images/GitaraJazzowaPierwszeWydanie.jpg"
 ---
-{{< figure src="/images/GitaraJazzowaPierwszeWydanie.jpg" >}}
-{{< figure src="/images/GitaraJazzowaDrugieWydanie.gif" >}}
+{{< image src="/images/GitaraJazzowaPierwszeWydanie.jpg" >}}
+{{< image src="/images/GitaraJazzowaDrugieWydanie.gif" >}}
 
 Książka *Gitara Jazzowa* była wydana na papierze dwukrotnie. Drugie
 wydanie książki, obecnie dostępne w sprzedaży, zostało wydane przez

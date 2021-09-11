@@ -11,15 +11,15 @@ images:
   - path: "/images/Capo-on.jpg"
   - path: "/images/Capo.jpg"
 ---
-{{< figure src="/images/Capo.jpg" >}}
-{{< figure src="/images/Capo-on.jpg" >}}
+{{< image src="/images/Capo.jpg" >}}
+{{< image src="/images/Capo-on.jpg" >}}
 
 **Kapodaster** (*capo*, *capotaso*) jest urządzeniem skracającym
-menzurę<!-- link nie odnosił się do niczego: 'Kapodaster' (PosixPath('Kapodaster.md')) links to 'menzura' (PosixPath('/invalid/path')) and that does not exist --> [strun]({{< relref "Struna.md" >}}) w ten sposób,
-że można tworzyć siodełko<!-- link nie odnosił się do niczego: 'Kapodaster' (PosixPath('Kapodaster.md')) links to 'siodełko' (PosixPath('/invalid/path')) and that does not exist --> w dowolnej pozycji
+menzurę<!-- link nie odnosił się do niczego: 'Kapodaster' (PosixPath('Kapodaster.md')) links to 'menzura' (PosixPath('/no/path/exists')) and that does not exist --> [strun]({{< relref "Struna.md" >}}) w ten sposób,
+że można tworzyć siodełko<!-- link nie odnosił się do niczego: 'Kapodaster' (PosixPath('Kapodaster.md')) links to 'siodełko' (PosixPath('/no/path/exists')) and that does not exist --> w dowolnej pozycji
 [gryfu]({{< relref "Gryf.md" >}}). Kapodaster jest przydatny, kiedy gitarzysta
 chce używać pustych strun i jednocześnie poruszać się w
-tonacjach<!-- link nie odnosił się do niczego: 'Kapodaster' (PosixPath('Kapodaster.md')) links to 'tonacja' (PosixPath('/invalid/path')) and that does not exist --> innych niż najpopularniejsze E, A czy G.
+tonacjach<!-- link nie odnosił się do niczego: 'Kapodaster' (PosixPath('Kapodaster.md')) links to 'tonacja' (PosixPath('/no/path/exists')) and that does not exist --> innych niż najpopularniejsze E, A czy G.
 Jest to doraźne ułatwienie ograniczające jednak jednocześnie możliwości
 muzyka i „capo" raczej nie stosuje się w jazzie.
 

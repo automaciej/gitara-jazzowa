@@ -9,7 +9,7 @@ wikilinks: ['Strojenie_gitary', 'menzura', 'regulacja_menzury']
 aliases: ['/gitara/Odchylenia_od_stroju']
 ---
 Gitara, mimo właściwej pielęgnacji i okresowej korekty
-menzury<!-- link nie odnosił się do niczego: 'Odchylenia od stroju' (PosixPath('Odchylenia_od_stroju.md')) links to 'menzura' (PosixPath('/invalid/path')) and that does not exist -->, cierpi na pewne minimalne odchylenia w
+menzury<!-- link nie odnosił się do niczego: 'Odchylenia od stroju' (PosixPath('Odchylenia_od_stroju.md')) links to 'menzura' (PosixPath('/no/path/exists')) and that does not exist -->, cierpi na pewne minimalne odchylenia w
 stroju. Odchylenia te wzrastają pod koniec eksploatacji kompletu strun.
 Gitarzysta powinien reagować, nim będą one zauważalne dla słuchacza. Gdy
 zawodzi już [regulacja menzury]({{< relref "Regulacja_menzury.md" >}}), można

@@ -14,7 +14,7 @@ images:
 *(Electric acoustic guitar, Acoustic electric hollow-body, Acoustic
 electric arch top)*
 
-{{< figure src="/images/GitaraGibsonES-3451D.jpg" >}} Jest to gitara
+{{< image src="/images/GitaraGibsonES-3451D.jpg" >}} Jest to gitara
 akustyczna typu „gibsonka" wyposażona w przetworniki elektromagnetyczne.
 
 Jak pamiętamy, już w samej budowie gitar,,orkiestrowych" nie kładziono
@@ -30,7 +30,7 @@ elektrycznie jest jedynie dźwięk strun gitary.
 ## Pudło rezonansowe
 
 Wydawałoby się, że [pudło rezonansowe]({{< relref "Pudło_rezonansowe.md" >}})
-jest zbędne, skoro przystawka<!-- link nie odnosił się do niczego: 'Gitara elektryczno-akustyczna' (PosixPath('Gitara_elektryczno-akustyczna.md')) links to 'przystawka' (PosixPath('/invalid/path')) and that does not exist --> elektryczna
+jest zbędne, skoro przystawka<!-- link nie odnosił się do niczego: 'Gitara elektryczno-akustyczna' (PosixPath('Gitara_elektryczno-akustyczna.md')) links to 'przystawka' (PosixPath('/no/path/exists')) and that does not exist --> elektryczna
 odbiera tylko drgania strun, a rezonans płyty nie ma żadnego wpływu na
 przystawki (w droższych modelach przystawki umieszczane są nawet na
 specjalnych izolujących je od drgań płyty rezonansowej amortyzatorach).
@@ -52,7 +52,7 @@ elektrycznej jest jednak bardzo „akustyczny".
 
 Najczęściej gitara elektryczno-akustyczna wyposażona jest w dwa
 przetworniki
-elektromagnetyczne<!-- link nie odnosił się do niczego: 'Gitara elektryczno-akustyczna' (PosixPath('Gitara_elektryczno-akustyczna.md')) links to 'przetworniki_elektromagnetyczne' (PosixPath('/invalid/path')) and that does not exist -->
+elektromagnetyczne<!-- link nie odnosił się do niczego: 'Gitara elektryczno-akustyczna' (PosixPath('Gitara_elektryczno-akustyczna.md')) links to 'przetworniki_elektromagnetyczne' (PosixPath('/no/path/exists')) and that does not exist -->
 umieszczone: jeden przy podstawku o ostrym i wysokim brzmieniu oraz
 drugi, umieszczony przy końcu gryfu, dający brzmienie miękkie i ciemne.
 Odległość przystawek od strun na ogół jest regulowana przez podwyższanie
@@ -118,4 +118,4 @@ dość duża uniwersalność tych instrumentów. Półpudło jest to forma
 przejściowa do następnego typu gitary - [gitary
 elektrycznej]({{< relref "Gitara_elektryczna.md" >}}).
 
-Elektryczno-akustyczna, gitara<!-- link nie odnosił się do niczego: 'Gitara elektryczno-akustyczna' (PosixPath('Gitara_elektryczno-akustyczna.md')) links to 'kategoria:rodzaje_gitar' (PosixPath('/invalid/path')) and that does not exist -->
+Elektryczno-akustyczna, gitara<!-- link nie odnosił się do niczego: 'Gitara elektryczno-akustyczna' (PosixPath('Gitara_elektryczno-akustyczna.md')) links to 'kategoria:rodzaje_gitar' (PosixPath('/no/path/exists')) and that does not exist -->
