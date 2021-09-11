@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Konserwacja gitary']
 draft: false
 wikilinks: ['Grafika:RegulacjaMenzurySrubokretem.png', 'fla%C5%BColet', 'fla%C5%BColet', 'fla%C5%BColet', 'gitara_akustyczna', 'gitara_elektryczna', 'gitara_elektryczna', 'gitara_elektryczno-akustyczna', 'gitara_elektryczno-akustyczna', 'mostek', 'wzmacniacz']
-aliases: ['/gitara/Regulacja_menzury']
+aliases: ['/gitara/Regulacja_menzury', '/regulacja-menzury-strun']
 images:
   - path: "/images/RegulacjaMenzurySrubokretem.png"
 ---

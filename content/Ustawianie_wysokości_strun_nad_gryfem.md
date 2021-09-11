@@ -8,7 +8,7 @@ contributor: 'MaciejBlizinski'
 wikilinks: ['gitara_akustyczna', 'gitara_akustyczna', 'gitara_elektryczna', 'gryf', 'gryf', 'mostek', 'struny']
 aliases: ['/gitara/Ustawianie_wysokości_strun_nad_gryfem']
 ---
-Ustawianie wysokości strun<!-- link nie odnosił się do niczego: 'Ustawianie wysokości strun nad gryfem' (PosixPath('Ustawianie_wysokości_strun_nad_gryfem.md')) links to 'struny' (PosixPath('/no/path/exists')) and that does not exist --> nad
+Ustawianie wysokości [strun]({{< relref "Struna.md" >}}) nad
 [gryfem]({{< relref "Gryf.md" >}}) jest sprawą indywidualną. Oczywiście nie
 należy przekraczać pewnych granic. Jeżeli ktoś lubi mieć struny bardzo
 nisko, powinien uważać, aby nie obijały się one o progi, znajdujące się

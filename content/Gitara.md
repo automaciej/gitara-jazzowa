@@ -27,7 +27,7 @@ oczywistą.
 
 ## Szyjka
 
-Zobacz artykuł: Szyjka<!-- link nie odnosił się do niczego: 'Gitara' (PosixPath('Gitara.md')) links to 'Szyjka' (PosixPath('/no/path/exists')) and that does not exist -->
+Zobacz artykuł: [Szyjka]({{< relref "Gryf.md" >}})
 
 ## Progi
 
