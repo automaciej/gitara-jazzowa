@@ -1,0 +1,1 @@
+1.  REDIRECT [Ogrywanie akordu](Ogrywanie_akordu "wikilink")

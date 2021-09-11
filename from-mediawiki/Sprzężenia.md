@@ -1,0 +1,1 @@
+1.  REDIRECT [Sprzężenie zwrotne](Sprzężenie_zwrotne "wikilink")

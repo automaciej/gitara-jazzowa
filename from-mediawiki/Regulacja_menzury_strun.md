@@ -1,0 +1,1 @@
+1.  REDIRECT [Regulacja menzury](Regulacja_menzury "wikilink")
