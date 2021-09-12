@@ -2,41 +2,37 @@
 title: "Teoria muzyki"
 slug: "teoria-muzyki"
 date: 2013-06-22T10:11:01Z
-kategorie: []
+kategorie: ["Teoria muzyki"]
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['U%C5%BCytkownik:MaciejBlizinski']
-aliases: ['/gitara/Teoria_muzyki', 'książka/czym-jest-a-czym-nie-jest-teoria-muzyki']
+aliases: [
+  '/gitara/Teoria_muzyki',
+  '/książka/czym-jest-a-czym-nie-jest-teoria-muzyki',
+  '/harmonia/czym-jest-a-czym-nie-jest-teoria-muzyki',
+]
 toc: 20
 ---
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Teoria muzyki <strong>nie jest</strong>:</p>
-<ol>
-<li><strong>nie</strong> jest zbiorem zasad, których należałoby <strong>zawsze przestrzegać</strong></li>
-<li><strong>nie jest receptą</strong> na dobrą muzykę</li>
-<li><strong>nie</strong> jest czymś, o czym należy myśleć <strong>w trakcie grania</strong></li>
-</ol></td>
-<td><p>Teoria muzyki <strong>jest</strong>:</p>
-<ol>
-<li>jest sposobem na <strong>porządkowanie wiedzy</strong> o muzyce</li>
-<li>jest sposobem na <strong>uzyskanie</strong> większej <strong>świadomości</strong> tego, co robimy</li>
-<li>jest <strong>językiem komunikacji</strong> pomiędzy muzykami</li>
-<li>jest czymś, o czym należy myśleć <strong>w trakcie ćwiczenia</strong></li>
-</ol></td>
-</tr>
-</tbody>
-</table>
+Teoria muzyki **nie jest**:
 
-Jednolita teoria muzyki nie istnieje. O ile w matematyce na przykład
-istnieją ścisłe definicje wszystkich pojęć, to w muzyce pojęcia są
-bardziej płynne i ich rozumienie może się różnić u poszczególnych
-muzyków. Dlatego pamiętaj, drogi Czytelniku, że to, co tu jest
-napisane, jest tylko moim<!-- link nie odnosił się do niczego: 'Teoria muzyki' ('content/książka/Teoria_muzyki.md') links to 'Użytkownik:MaciejBlizinski' ('content/książka/Użytkownik:MaciejBlizinski.md') and that does not exist -->
-spojrzeniem na poruszane zagadnienia. Twoje może być inne.
+* **nie** jest zbiorem zasad, których należałoby **zawsze przestrzegać**
+* **nie jest receptą** na dobrą muzykę
+* **nie** jest czymś, o czym należy myśleć **w trakcie grania**
 
-Ten artykuł zajmuje się głównie harmonią, czyli pewnym wycinkiem teorii
-muzyki, mówiącym o organizowaniu dźwięków i opisującym zależności
-pomiędzy nimi. Nie są tutaj poruszane kwestie dotyczące stylistyki
-muzycznej, środków wyrazu ani brzmienia.
+Teoria muzyki **jest**:
+
+* jest sposobem na **porządkowanie wiedzy** o muzyce
+* jest sposobem na **uzyskanie** większej **świadomości** tego, co robimy
+* jest **językiem komunikacji** pomiędzy muzykami
+* jest czymś, o czym należy myśleć **w trakcie ćwiczenia**
+
+Jednolita teoria muzyki nie istnieje. O ile w matematyce na przykład istnieją
+ścisłe definicje wszystkich pojęć, to w muzyce pojęcia są bardziej płynne i ich
+rozumienie może się różnić u poszczególnych muzyków. Dlatego pamiętaj, drogi
+Czytelniku, że to, co tu jest napisane, jest tylko moim spojrzeniem na
+poruszane zagadnienia. Twoje może być inne.
+
+Ten artykuł zajmuje się głównie harmonią, czyli pewnym wycinkiem teorii muzyki,
+mówiącym o organizowaniu dźwięków i opisującym zależności pomiędzy nimi. Nie są
+tutaj poruszane kwestie dotyczące stylistyki muzycznej, środków wyrazu ani
+brzmienia.
