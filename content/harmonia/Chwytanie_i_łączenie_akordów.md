@@ -13,4 +13,3 @@ toc: 080
   - [Łączenie najbliższą drogą]({{< relref "Łączenie_najbliższą_drogą.md" >}})
   - [Układ rozległy]({{< relref "Układ_rozległy.md" >}})
   - [Tabele chwytów](/kategorie/tabele-chwytów "Kategoria Tabele chwytów")
-

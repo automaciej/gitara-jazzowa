@@ -1,6 +1,6 @@
-# Gitara Jazzowa
+# Harmonia jazzowa na gitarze
 
-_Książka Marka Blizińskiego_
+_Strona Macieja Blizińskiego_
 
 - [x] Odtworzenie tekstu z kopii zapasowej(2021-08-21)
 - [x] Minimalny szablon strony (2021-08-21)
@@ -11,10 +11,10 @@ _Książka Marka Blizińskiego_
 - [x] Odtworzenie zdjęć i ilustracji (2021-08-22)
 - [x] Linki do stron kategorii (2021-08-23)
 - [x] Obsługa (przekierowania) URLi z poprzedniej wersji
-- [ ] Zablokowanie URLi które były tam przez przypadek
+- [x] Zablokowanie URLi które były tam przez przypadek
 - [ ] Pełna treść wpisów w RSS
-- [ ] Usunięcie stęchłych linków
-- [ ] Uzupełnienie brakujących danych na podstawie XML z Mediawiki
-- [ ] Oddzielenie stron o harmonii jazzowej
-- [ ] Ułożenie stron w sekwencję
+- [x] Usunięcie stęchłych linków
+- [x] Uzupełnienie brakujących danych na podstawie XML z Mediawiki
+- [x] Oddzielenie stron o harmonii jazzowej
+- [x] Ułożenie stron w sekwencję
 - [ ] Nadanie stronie wyglądu
