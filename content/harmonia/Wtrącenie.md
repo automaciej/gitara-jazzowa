@@ -6,7 +6,11 @@ kategorie: ['Harmonia jazzowa']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['A7', 'A7', 'A7', 'A7', 'A7', 'Cmaj7', 'Cmaj7', 'Dm7', 'Dm7', 'Dm7', 'Dm7', 'Dm7', 'Dm7', 'G7', 'G7', 'akord', 'dominanta', 'dominanta', 'tonacja']
-aliases: ['/gitara/Wtrącenie', 'książka/wtrącenia', 'wtracenie']
+aliases: [
+  '/gitara/Wtrącenie',
+  '/książka/wtrącenia',
+  '/wtracenie',
+]
 ---
 Harmonię utworu, oprócz funkcji pobocznych, można uzupełniać o tzw.
 wtrącenia. Wtrącenie polega, najprościej to ujmując, na dodaniu

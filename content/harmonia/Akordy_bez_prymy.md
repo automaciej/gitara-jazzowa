@@ -6,7 +6,14 @@ kategorie: ['Harmonia jazzowa']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Am7%E2%99%AD5(add11)', 'Am9', 'Bm7%E2%99%AD5', 'C7', 'Cmaj7', 'Cmaj7', 'Cmaj9', 'Cmaj9', 'Em', 'Em', 'Em', 'Em7', 'Em7', 'Em7', 'F13', 'F13', 'F13%E2%99%AF11', 'Fmaj9', 'G%E2%99%AD7', 'G9', 'akord', 'akord', 'czterod%C5%BAwi%C4%99k', 'czterod%C5%BAwi%C4%99k', 'dominanta', 'gryf', 'pi%C4%99ciod%C5%BAwi%C4%99k', 'tr%C3%B3jd%C5%BAwi%C4%99k']
-aliases: ['/gitara/Akordy_bez_prymy', 'książka/bez-prymy', 'książka/te-same-dźwięki-różne-akordy']
+aliases: [
+  '/gitara/Akordy_bez_prymy',
+  '/książka/bez-prymy',
+  '/gitara/bez-prymy',
+  '/harmonia/bez-prymy',
+  '/książka/te-same-dźwięki-różne-akordy',
+  '/gitara/Te_same_dźwięki,_różne_akordy',
+]
 ---
 To, że [C7]({{< relref "C7.md" >}}) i G♭7<!-- link nie odnosił się do niczego: 'Akordy bez prymy' ('content/książka/Akordy_bez_prymy.md') links to 'G♭7' ('content/książka/G♭7.md') and that does not exist --> mają te same dźwięki
 jako tercję i septymę, jest pewnym szczególnym przypadkiem bardziej
