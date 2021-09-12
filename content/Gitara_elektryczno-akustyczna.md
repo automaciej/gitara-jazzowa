@@ -14,7 +14,7 @@ images:
 *(Electric acoustic guitar, Acoustic electric hollow-body, Acoustic
 electric arch top)*
 
-{{< image src="/images/GitaraGibsonES-3451D.jpg" >}} Jest to gitara
+{{< image src="/images/GitaraGibsonES-3451D.jpg" width="207" height="500" >}} Jest to gitara
 akustyczna typu „gibsonka" wyposażona w przetworniki elektromagnetyczne.
 
 Jak pamiętamy, już w samej budowie gitar,,orkiestrowych" nie kładziono

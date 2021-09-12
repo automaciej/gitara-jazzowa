@@ -11,8 +11,8 @@ images:
   - path: "/images/Capo-on.jpg"
   - path: "/images/Capo.jpg"
 ---
-{{< image src="/images/Capo.jpg" >}}
-{{< image src="/images/Capo-on.jpg" >}}
+{{< image src="/images/Capo.jpg" width="822" height="781" >}}
+{{< image src="/images/Capo-on.jpg" width="1002" height="742" >}}
 
 **Kapodaster** (*capo*, *capotaso*) jest urządzeniem skracającym
 menzurę<!-- link nie odnosił się do niczego: 'Kapodaster' (PosixPath('Kapodaster.md')) links to 'menzura' (PosixPath('/no/path/exists')) and that does not exist --> [strun]({{< relref "Struna.md" >}}) w ten sposób,

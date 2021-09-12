@@ -10,7 +10,7 @@ images:
   - path: "/images/GitaraKlasyczna.png"
   - path: "/images/GitaraKlasycznaWymiary.png"
 ---
-{{< image src="/images/GitaraKlasyczna.png" >}}
+{{< image src="/images/GitaraKlasyczna.png" width="504" height="600" >}}
 
 **Gitara klasyczna** jest instrumentem będącym pierwowzorem wszystkich
 późniejszych rozwiązań. Lutnikiem, który w połowie XIX w. wypracował
@@ -20,7 +20,7 @@ konstrukcyjne gitary klasycznej nie jest już zmieniane, a wszystkie jej
 parametry są ściśle określone. Większe odchylenia od nich prowadzą do
 straty jakości tonu. Oto typowe wymiary:
 
-{{< image src="/images/GitaraKlasycznaWymiary.png" >}}
+{{< image src="/images/GitaraKlasycznaWymiary.png" width="392" height="306" >}}
 
 Boczki gitary mają wysokość od 8 do 10 cm. Wyższe boczki powodują
 głębsze, ciemniejsze brzmienie, a niższe – jaśniejsze. Grubość szyjki

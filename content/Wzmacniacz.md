@@ -72,7 +72,7 @@ jest, aby wzmacniacz przekazywał wyraźnie nasz „osobisty ton".
 
 ## Efekty dodatkowe
 
-{{< image src="/images/EqualizerWzmacniacza.png" >}}
+{{< image src="/images/EqualizerWzmacniacza.png" width="800" height="96" >}}
 
 Trzeba się zastanowić, czy potrzebne są nam takie efekty jak pogłos czy
 [wibrato]({{< relref "Wibracja.md" >}}). Jeżeli nastawiamy się na pracę w studiach

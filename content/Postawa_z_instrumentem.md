@@ -9,7 +9,7 @@ aliases: ['/gitara/Postawa_z_instrumentem']
 images:
   - path: "/images/MarekBlizinskiPozycja.jpg"
 ---
-{{< image src="/images/MarekBlizinskiPozycja.jpg" >}} - postawa z
+{{< image src="/images/MarekBlizinskiPozycja.jpg" width="239" height="431" >}} - postawa z
 instrumentem\]\]
 
 Istotą dobrej **postawy z instrumentem** jest umożliwienie właściwego

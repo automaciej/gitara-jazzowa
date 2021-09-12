@@ -10,7 +10,7 @@ aliases: ['/gitara/Gitara_Dobro']
 images:
   - path: "/images/GitaraDobro.jpg"
 ---
-{{< image src="/images/GitaraDobro.jpg" >}}
+{{< image src="/images/GitaraDobro.jpg" width="277" height="400" >}}
 
 [Gitara hawajska]({{< relref "Gitara_hawajska.md" >}}) istniała już wtedy, gdy
 nie było jeszcze [gitar elektrycznych]({{< relref "Gitara_elektryczna.md" >}}).

@@ -15,7 +15,7 @@ images:
 górną sekundę. Początkiem obiegnika może być dźwięk główny, sekunda
 górna, rzadziej dolna.
 
-{{< image src="/images/NutyObiegnik.png" >}}
+{{< image src="/images/NutyObiegnik.png" width="364" height="130" >}}
 
 Na ogół ozdobnik ten wykonuje się techniką ścisłego legata. Niekiedy
 jednak, z uwagi na palcowanie jest to niewygodne i wymaga zagrania na
@@ -25,5 +25,5 @@ wyrównania brzmienia lepiej jest zupełnie zrezygnować z techniki
 ścisłego legata. Do takiej realizacji obiegnika nieodzowna jest
 wyjątkowo dobra sprawność techniczna gitarzysty.
 
-{{< image src="/images/NutyObiegnik2.png" >}}
+{{< image src="/images/NutyObiegnik2.png" width="614" height="100" >}}
 

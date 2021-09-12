@@ -9,7 +9,7 @@ aliases: ['/gitara/Gitara_dwugryfowa']
 images:
   - path: "/images/GitaraDwugryfowa.jpg"
 ---
-{{< image src="/images/GitaraDwugryfowa.jpg" >}}
+{{< image src="/images/GitaraDwugryfowa.jpg" width="256" height="600" >}}
 
 **Gitara dwugryfowa** - jest instrumentem, w którym jest wykorzystywany
 system dwunastostrunowy. Są to instrumenty, do których korpusu („deski")

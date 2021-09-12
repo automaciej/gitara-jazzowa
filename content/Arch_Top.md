@@ -11,7 +11,7 @@ images:
   - path: "/images/GitaraTypuArchTop.jpg"
   - path: "/images/MostekZRegulacjaWysokosci.jpg"
 ---
-{{< image src="/images/GitaraTypuArchTop.jpg" >}}
+{{< image src="/images/GitaraTypuArchTop.jpg" width="239" height="500" >}}
 
 Druga odmiana [gitary akustycznej]({{< relref "Gitara_akustyczna.md" >}}), tzw.
 [Arch Top]({{< relref "Arch_Top.md" >}}) lub Hollow body jest u nas nazywana
@@ -34,7 +34,7 @@ rezonansowego (znów podobnie jak w instrumentach smyczkowych), a struny
 opierają się na stojącym na płycie mostku. Wysokość mostka na ogół jest
 regulowana.
 
-{{< image src="/images/MostekZRegulacjaWysokosci.jpg" >}}
+{{< image src="/images/MostekZRegulacjaWysokosci.jpg" width="300" height="139" >}}
 
 Gitara posiada również kołnierz ochronny. Instrument ten ma dźwięk mniej
 donośny niż gitary typu „Flattop" z uwagi na dość luźny kontakt strun z

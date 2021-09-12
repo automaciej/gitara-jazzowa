@@ -113,7 +113,7 @@ odpowiednią długość. Wprawdzie menzura wszystkich gitar jest zbliżona,
 ale różne są odległości strunnika od mostka i siodełka od kołków. Struna
 właściwie nawinięta na kołek ma kilka zwojów, tak jak pokazuje zdjęcie.
 
-{{< image src="/images/StrunaNaKolku.jpg" >}}
+{{< image src="/images/StrunaNaKolku.jpg" width="300" height="336" >}}
 
 Np. struna E-6 powinna być nawinięta na kołek dwa-trzy razy: struny cieńsze
 mogą mieć większą ilość zwojów, ale nie więcej niż kilka (np. 3-4) przy strunie

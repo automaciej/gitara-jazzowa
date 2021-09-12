@@ -9,7 +9,7 @@ aliases: ['/gitara/Regulacja_menzury', '/regulacja-menzury-strun']
 images:
   - path: "/images/RegulacjaMenzurySrubokretem.png"
 ---
-{{< image src="/images/RegulacjaMenzurySrubokretem.png" >}}
+{{< image src="/images/RegulacjaMenzurySrubokretem.png" width="641" height="392" >}}
 
 Aby gitara stroiła dobrze we wszystkich pozycjach, należy przeprowadzić
 regulację menzury strun. W [gitarach

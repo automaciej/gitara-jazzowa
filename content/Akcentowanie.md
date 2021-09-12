@@ -30,7 +30,7 @@ dowolne pochody melodyczne (w tym ćwiczenia z rozdziału pt. Ćwiczenia
 techniczne), które gra się stosując różną artykulację za pomocą
 rozmieszczania akcentów.
 
-{{< image src="/images/NutyAkcenty01.png" >}}
+{{< image src="/images/NutyAkcenty01.png" width="640" height="670" >}}
 
 Powyższe przykłady, po opanowaniu akcentów dynamicznych jako stosunkowo
 najłatwiejszych, można stosować również do ćwiczeń innych rodzajów

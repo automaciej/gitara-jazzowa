@@ -10,7 +10,7 @@ aliases: ['/gitara/Chwyt_kostki']
 images:
   - path: "/images/ChwytKostki.jpg"
 ---
-{{< image src="/images/ChwytKostki.jpg" >}}
+{{< image src="/images/ChwytKostki.jpg" width="513" height="480" >}}
 
 **Kostkę miękką** należy trzymać dość mocno, ponieważ moment ugięcia
 daje ona sama. Natomiast **kostkę twardą** chwytamy bardziej elastyczne,

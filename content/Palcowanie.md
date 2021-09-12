@@ -11,7 +11,7 @@ images:
   - path: "/images/NutyPalcowanie.png"
   - path: "/images/NutyPracaLewejReki02.png"
 ---
-{{< image src="/images/NutyPalcowanie.png" >}}
+{{< image src="/images/NutyPalcowanie.png" width="413" height="60" >}}
 
 Przejdźmy teraz do problemów **palcowania**, które myślącemu gitarzyście
 spędzają nieraz sen z powiek, a bezmyślnemu przeszkadzają całe życie.
@@ -72,7 +72,7 @@ efektu glis-sanda oraz zakłócenia frazy lewej ręki.
 Sprawdzianem dobrze wykonanej zmiany pozycji jest ćwiczenie, w którym
 porównujemy tę samą frazę zagraną w jednej pozycji i w dwóch, np.
 
-{{< image src="/images/NutyPracaLewejReki02.png" >}}
+`PosixPath('NutyPracaLewejReki02.png')` 🖼️❓😞
 
 ## Puste struny
 

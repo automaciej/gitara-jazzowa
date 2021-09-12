@@ -51,7 +51,7 @@ więc w chromalyce: grając w górę nie podnosimy palców, które już
 zagrały. Dopiero grając w dół, przy dźwięku „d" podnosimy palec 4, przy
 dźwięku „cis" - 3, przy „c" - 2.
 
-{{< image src="/images/NutyPracaLewejReki01.png" >}}
+`PosixPath('NutyPracaLewejReki01.png')` 🖼️❓😞
 
 Zarówno w [grze akordowej]({{< relref "Gra_akordowa.md" >}}), jak i melodycznej,
 kurczowe zaciskanie lewej ręki uniemożliwia swobodne poruszanie się jej

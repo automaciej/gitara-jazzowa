@@ -102,7 +102,7 @@ muzyczne.
 
 ## Multiprocesory
 
-{{< image src="/images/Multiprocesor.jpg" >}}
+{{< image src="/images/Multiprocesor.jpg" width="400" height="142" >}}
 
 Szybki rozwój elektroniki przyczynił się do udoskonalenia dotychczas
 używanych efektów i skonstruowania nowych. Dla łatwiejszego operowania
