@@ -27,7 +27,4 @@ Lampi](Jim_Lampi "wikilink"), Ron Baggerman i inni.
 Emmet Chapman nadal buduje swoje instrumenty, jest właścicielem patentu
 i praw autorskich do Sticka.
 
-**Zobacz też**: [www.stick.com](http://www.stick.com)
-[www.fulara.com](http://www.fulara.com)
-
 [Stick](kategoria:Rodzaje_gitar "wikilink")
