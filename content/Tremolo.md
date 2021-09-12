@@ -13,7 +13,7 @@ images:
 ...jest szybkim powtarzaniem jednego lub więcej dźwięków. Na gitarze
 wykonuje się za pomocą szybkich ruchów kostką.
 
-{{< image src="/images/NutyTremolo.png" >}}
+{{< image src="/images/NutyTremolo.png" width="569" height="120" >}}
 
 Dobrze zagrane tremolo jest świadectwem sprawności technicznej prawej
 ręki. Tremolo może być też rozszerzonym trylem, w którym zamiast

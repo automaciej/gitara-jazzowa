@@ -10,7 +10,7 @@ aliases: ['/gitara/Od_autora']
 images:
   - path: "/images/MarekBlizinski.jpg"
 ---
-{{< image src="/images/MarekBlizinski.jpg" >}}
+{{< image src="/images/MarekBlizinski.jpg" width="622" height="480" >}}
 
 Książkę adresuję do wszystkich zainteresowanych gitarą jazzową, a
 szczególnie do muzyków amatorów, instru­ktorów zespołów muzycznych,

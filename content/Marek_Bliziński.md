@@ -10,7 +10,7 @@ aliases: ['/gitara/Marek_Bliziński']
 images:
   - path: "/images/MarekBlizinski.jpg"
 ---
-{{< image src="/images/MarekBlizinski.jpg" >}}
+{{< image src="/images/MarekBlizinski.jpg" width="622" height="480" >}}
 
 **Marek Bliziński** (ur. 22 marca 1947 w Warszawie, zm. 17 marca 1989 w
 Warszawie) - autor książki *[Gitara Jazzowa]({{< relref "Spis_treści.md" >}})*,

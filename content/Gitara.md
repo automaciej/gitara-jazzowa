@@ -48,7 +48,7 @@ obracać się lekko, ale też nie mieć zbyt dużego luzu.
 
 ## Pudło rezonansowe
 
-{{< image src="/images/PudloGitaryZPunktamiDoOpukiwania.png" >}}
+{{< image src="/images/PudloGitaryZPunktamiDoOpukiwania.png" width="500" height="200" >}}
 
 W gitarach akustycznych przecie wszystkim należy sprawdzić, czy pudło
 rezonansowe nie ma pęknięć, rozklejeń lub innych uszkodzeń. Trzeba

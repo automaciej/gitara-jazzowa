@@ -10,7 +10,7 @@ aliases: ['/gitara/Proste_strojenie']
 images:
   - path: "/images/StrojenieGitary.png"
 ---
-{{< image src="/images/StrojenieGitary.png" >}}
+{{< image src="/images/StrojenieGitary.png" width="371" height="480" >}}
 
 Elementarną i niezbyt dokładną [metodę
 strojenia]({{< relref "Strojenie_gitary.md" >}}) podają niemal wszystkie

@@ -18,7 +18,7 @@ następnie metodą ścisłego legata zmieniamy wysokość dźwięków brzmiącej
 już struny. Rzadziej występuje konieczność zagrania mordentu na dwóch
 strunach. Trzeba wówczas prawą ręką atakować każdy dźwięk.
 
-{{< image src="/images/NutyMordent.png" >}}
+{{< image src="/images/NutyMordent.png" width="438" height="120" >}}
 
 Ułatwiając sobie, można stosować uderzenie w struny w kolejności:
 [kostka]({{< relref "Kostka.md" >}}) - palec - kostka, przy mordencie górnym.

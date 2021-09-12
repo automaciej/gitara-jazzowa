@@ -41,7 +41,7 @@ jednak traci naturalność, gdy nadużywa się potencjometru w stopniu
 wyraźnie słyszalnym dla słuchacza, tym bardziej, że można osiągnąć cel
 tylko odpowiednią techniką gry.
 
-{{< image src="/images/EqualizerWzmacniacza.png" >}}
+{{< image src="/images/EqualizerWzmacniacza.png" width="800" height="96" >}}
 
 Regulacja barwy dźwięku za pomocą equalizera<!-- link nie odnosił się do niczego: 'Wzmacniacz a kształtowanie dźwięku' (PosixPath('Wzmacniacz_a_kształtowanie_dźwięku.md')) links to 'equalizer' (PosixPath('/no/path/exists')) and that does not exist -->
 [wzmacniacza]({{< relref "Wzmacniacz.md" >}}) jest sprawą bardzo indywidualną i

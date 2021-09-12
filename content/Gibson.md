@@ -10,6 +10,6 @@ aliases: ['/gitara/Gibson']
 images:
   - path: "/images/GibsonJ200.jpg"
 ---
-{{< image src="/images/GibsonJ200.jpg" >}} Gibson J-200\]\]
+{{< image src="/images/GibsonJ200.jpg" width="400" height="178" >}} Gibson J-200\]\]
 
 **Gibson** - znany producent gitar.

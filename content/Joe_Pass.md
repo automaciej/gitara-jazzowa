@@ -10,7 +10,7 @@ aliases: ['/gitara/Joe_Pass']
 images:
   - path: "/images/NutySoloJoePassaSunny.png"
 ---
-{{< image src="/images/NutySoloJoePassaSunny.png" >}}
+{{< image src="/images/NutySoloJoePassaSunny.png" width="1042" height="2038" >}}
 
 Technika **Joe Passa** jest właściwa jest dla cech muzyki
 mainstreamowej<!-- link nie odnosił się do niczego: 'Joe Pass' (PosixPath('Joe_Pass.md')) links to 'mainstream' (PosixPath('/no/path/exists')) and that does not exist -->. Poza grą [single

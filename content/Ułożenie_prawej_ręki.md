@@ -9,7 +9,7 @@ aliases: ['/gitara/Ułożenie_prawej_ręki']
 images:
   - path: "/images/UlozeniePrawejReki.jpg"
 ---
-{{< image src="/images/UlozeniePrawejReki.jpg" >}}
+{{< image src="/images/UlozeniePrawejReki.jpg" width="459" height="480" >}}
 
 Prawe przedramię, blisko łokcia przytrzymuje gitarę, opierając się o
 górną krawędź płyty rezonansowej. Ważne jest, aby ani przedramię, ani

@@ -14,7 +14,7 @@ images:
 ---
 |                                                         |                                                         |                                                          |
 | ------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
-| {{< image src="/images/UkladLewejRekiW1Pozycji.jpg" >}} | {{< image src="/images/UkladLewejRekiW5Pozycji.jpg" >}} | {{< image src="/images/UkladLewejRekiW12Pozycji.jpg" >}} |
+| {{< image src="/images/UkladLewejRekiW1Pozycji.jpg" width="460" height="480" >}} | {{< image src="/images/UkladLewejRekiW5Pozycji.jpg" width="459" height="480" >}} | {{< image src="/images/UkladLewejRekiW12Pozycji.jpg" width="458" height="480" >}} |
 
 Lewa ręka nie bierze udziału w utrzymywaniu gitary we właściwej pozycji.
 Ustawienie jej jest jeszcze bardziej zbliżone do pozycji klasycznej.

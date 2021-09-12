@@ -14,7 +14,7 @@ images:
   - path: "/images/NutyPrzechodzenieZeStrunyNaStrune.png"
   - path: "/images/RuchKostki.png"
 ---
-{{< image src="/images/RuchKostki.png" >}}
+{{< image src="/images/RuchKostki.png" width="300" height="168" >}}
 
 Na ogół **ruch kostki** powinien być jak najszybszy. Szczególnie jeśli
 uderza się w strunę, która jeszcze brzmi, a chce się uzyskać
@@ -50,22 +50,22 @@ imitujemy te małe. Oczywiście ma to zastosowanie wówczas, gdy wartości
 małe mieszczą się parzyście w większych, n oznacza uderzenie w dół, a V
 w górę:
 
-{{< image src="/images/NutyPracaPrawejReki.png" >}}
+{{< image src="/images/NutyPracaPrawejReki.png" width="501" height="68" >}}
 
 Częstym błędem jest łamanie miarowych ruchów dłoni wówczas, gdy
 przejście ze struny na strunę zgodne jest z kierunkiem poruszania się
 [kostki]({{< relref "Kostka.md" >}}).
 
-{{< image src="/images/NutyPrzechodzenieZeStrunyNaStrune.png" >}}
+{{< image src="/images/NutyPrzechodzenieZeStrunyNaStrune.png" width="199" height="80" >}}
 
 Natomiast, przy takim podziale rytmicznym, trzeba już zrezygnować z
 miarowych ruchów dłoni.
 
-{{< image src="/images/NutyPrawaRekaTriola.png" >}}
+{{< image src="/images/NutyPrawaRekaTriola.png" width="183" height="44" >}}
 
 Można go zagrać różnie:
 
-{{< image src="/images/NutyPrawaRekaTriolki.png" >}}
+{{< image src="/images/NutyPrawaRekaTriolki.png" width="388" height="60" >}}
 
 Z uwagi na te komplikacje, nie chciałbym zbyt wiele sugerować, ale
 dobrze jest, gdy ustalimy sobie, że np. mocną część taktu gramy

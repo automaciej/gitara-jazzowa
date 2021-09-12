@@ -12,7 +12,7 @@ images:
 ---
 **Gitara elektryczna** *(Solid-body)*
 
-{{< image src="/images/GitaraElektrycznaBudowa.png" >}}
+{{< image src="/images/GitaraElektrycznaBudowa.png" width="1146" height="1600" >}}
 
 Jest to gitara, która zamiast [pudła
 rezonansowego]({{< relref "Pudło_rezonansowe.md" >}}) posiada pełny blok
@@ -51,7 +51,7 @@ i całych akordów<!-- link nie odnosił się do niczego: 'Gitara elektryczna' (
 
 # Mostek
 
-{{< image src="/images/MostekFloydRose.jpg" >}}
+{{< image src="/images/MostekFloydRose.jpg" width="401" height="337" >}}
 
 Od końca lat siedemdziesiątych do ,,desek" coraz częściej montuje się
 mostek z systemem tremolo skonstruowany przez gitarzystę - konstruktora

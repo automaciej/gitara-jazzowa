@@ -10,7 +10,7 @@ aliases: ['/gitara/Kenny_Burrell']
 images:
   - path: "/images/NutySoloKennyBurrellSaturdayNiteBlues.png"
 ---
-{{< image src="/images/NutySoloKennyBurrellSaturdayNiteBlues.png" >}}
+{{< image src="/images/NutySoloKennyBurrellSaturdayNiteBlues.png" width="640" height="775" >}}
 
 Osobnym zjawiskiem jest gra Kenny Burrella. Polega na specyficznym
 brzmieniu instrumentu, na co duży wpływ ma sposób, w jaki atakuje on

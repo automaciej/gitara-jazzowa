@@ -16,7 +16,7 @@ tym swoją rolę w akordzie<!-- link nie odnosił się do niczego: 'Prowadzenie 
 dźwięki<!-- link nie odnosił się do niczego: 'Prowadzenie głosów' (PosixPath('Prowadzenie_głosów.md')) links to 'dźwięk' (PosixPath('/no/path/exists')) and that does not exist --> zmieniają swoją rolę w akordzie bez
 zmiany wysokości.
 
-{{< image src="/images/NutyzmianaRoliDzwiekowBezZmianyWysokosci.png" >}}
+`PosixPath('NutyzmianaRoliDzwiekowBezZmianyWysokosci.png')` 🖼️❓😞
 
 Oczywiście sposób prowadzenia głosów w jazzie daleki jest od sztywnych
 reguł stosowanych w harmonii

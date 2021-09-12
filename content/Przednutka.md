@@ -19,7 +19,7 @@ bierze udział tylko lewa ręka. W przypadku, gdy przednutka jest w
 interwale sekundy małej do dźwięku właściwego, można stosować
 przesunięcie palca skracającego strunę, o jedną pozycję.
 
-{{< image src="/images/NutyPrzednutka.png" >}}
+{{< image src="/images/NutyPrzednutka.png" width="323" height="120" >}}
 
 Jeśli przednutkę i dźwięk właściwy wykonujemy na sąsiednich strunach, to
 można uderzać obie struny jednym ruchem kostki.

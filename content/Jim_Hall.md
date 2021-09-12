@@ -25,6 +25,6 @@ harmonicznym<!-- link nie odnosił się do niczego: 'Jim Hall' (PosixPath('Jim_H
 
 Solo Jim Halla w temacie „The Way You Look Tonight":
 
-{{< image src="/images/NutySoloJimaHallaTheWayYouLookTonight.png" >}}
+`PosixPath('NutySoloJimaHallaTheWayYouLookTonight.png')` 🖼️❓😞
 
 Hall, Jim<!-- link nie odnosił się do niczego: 'Jim Hall' (PosixPath('Jim_Hall.md')) links to 'kategoria:gitarzyści_jazzowi' (PosixPath('/no/path/exists')) and that does not exist -->

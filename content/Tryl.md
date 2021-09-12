@@ -16,7 +16,7 @@ zaczynać się nie tylko do górnej sekundy, ale i od dźwięku głównego.
 Może występować również sekunda dolna, wreszcie tryl może przeobrazić
 się w tremolo. Tryl na gitarze wykonuje się z reguły na jednej strunie.
 
-{{< image src="/images/NutyTryl.png" >}}
+{{< image src="/images/NutyTryl.png" width="509" height="160" >}}
 
 Można, uderzając pierwszy dźwięk kostką, grać go za pomocą lewej ręki.
 Dłuższe tryle oraz przede wszystkim te które wymagają takich różnic

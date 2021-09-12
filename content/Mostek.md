@@ -17,10 +17,10 @@ Mostek jest częścią instrumentu, do której przymocowane są
 [struny]({{< relref "Struna.md" >}}). Przy pomocy mostka można wykonać [regulację
 menzury]({{< relref "Regulacja_menzury.md" >}}).
 
-{{< image src="/images/MostekZRegulacjaMenzuryStrun.jpg" >}}
+{{< image src="/images/MostekZRegulacjaMenzuryStrun.jpg" width="401" height="185" >}}
 
-{{< image src="/images/MostekZRegulacjaWysokosci.jpg" >}}
+{{< image src="/images/MostekZRegulacjaWysokosci.jpg" width="300" height="139" >}}
 
-{{< image src="/images/MostekPrzyklejony.jpg" >}}
+{{< image src="/images/MostekPrzyklejony.jpg" width="301" height="139" >}}
 
-{{< image src="/images/MostekSkosny.jpg" >}}
+{{< image src="/images/MostekSkosny.jpg" width="116" height="400" >}}

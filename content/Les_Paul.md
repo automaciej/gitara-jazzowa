@@ -10,4 +10,4 @@ aliases: ['/gitara/Les_Paul']
 images:
   - path: "/images/GitaraLesPaulCustom.jpg"
 ---
-{{< image src="/images/GitaraLesPaulCustom.jpg" >}}
+{{< image src="/images/GitaraLesPaulCustom.jpg" width="175" height="500" >}}

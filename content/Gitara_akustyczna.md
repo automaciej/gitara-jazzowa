@@ -11,7 +11,7 @@ images:
   - path: "/images/GitaraJumboWymiary.png"
   - path: "/images/MostekPrzyklejony.jpg"
 ---
-{{< image src="/images/GibsonJ200.jpg" >}}
+{{< image src="/images/GibsonJ200.jpg" width="400" height="178" >}}
 
 **Gitara akustyczna** (ang. *Acoustic steel string guitar* - gitara
 akustyczna z metalowymi strunami)
@@ -22,7 +22,7 @@ rezonansowe]({{< relref "Pudło_rezonansowe.md" >}}), ale na tym też podobieńs
 się kończy. Różnice w budowie mają na celu zarówno doskonalsze brzmienie
 jak i ułatwienie samej gry.
 
-{{< image src="/images/GitaraJumboWymiary.png" >}}
+{{< image src="/images/GitaraJumboWymiary.png" width="400" height="306" >}}
 
 Gitary oznaczone w katalogach pod „Flattop", „Jumbo", „Folk" - posiadają
 większe od gitar klasycznych pudła rezonansowe, co w połączeniu z
@@ -47,7 +47,7 @@ profesjonalnego powinno mieć to znaczenie tylko ozdobne. Strunnik
 zazwyczaj szerszy, przyklejony większą powierzchnią do płyty
 rezonansowej, stanowi całość z [mostkiem]({{< relref "Mostek.md" >}}).
 
-{{< image src="/images/MostekPrzyklejony.jpg" >}}
+{{< image src="/images/MostekPrzyklejony.jpg" width="301" height="139" >}}
 
 Gitary tego typu stosuje się do wykonywania muzyki folk, pop, country,
 rzadziej rock i jazz. Doskonale nadaje się dla akompaniujących sobie
