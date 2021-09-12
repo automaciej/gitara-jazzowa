@@ -116,10 +116,9 @@ W szpitalu w Warszawie rozpoznano przerzuty, związane z zaawansowaną
 chorobą nowotworową. Po trzech miesiącach zmarł w szpitalu przy ulicy
 Potockiej w Warszawie, na sześć dni przed 42 urodzinami.
 
-  -
-    <small>Pierwotna wersja tekstu pochodzi z notatki *O autorze*,
-    napisanej przez [J. Popławskiego](Janusz_Popławski "wikilink"), w
-    książce "Gitara Jazzowa". Publikacja za zgodą autora.</small>
+> Pierwotna wersja tekstu pochodzi z notatki *O autorze*, napisanej przez
+> Janusza Popławskiego](Janusz_Popławski "wikilink"), w książce "Gitara
+> Jazzowa". Publikacja za zgodą autora.
 
 ## Wybrana dyskografia
 
@@ -142,4 +141,4 @@ Potockiej w Warszawie, na sześć dni przed 42 urodzinami.
   - nuty.pl: książka Marka Blizińskiego p.t. [Gitara
     Jazzowa](http://nuty.pl/autorzy/autor-blizinski_marek.htm)
 
-[Bliziński, Marek](Kategoria:Gitarzyści_jazzowi "wikilink")
+[Bliziński, Marek](Kategoria:Gitarzyści_jazzowi "wikilink")[Bliziński, Marek](Kategoria:Gitarzyści_jazzowi "wikilink")

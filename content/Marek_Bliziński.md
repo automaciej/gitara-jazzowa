@@ -5,7 +5,7 @@ date: 2014-08-21T22:15:34Z
 kategorie: ['Gitarzyści jazzowi']
 draft: false
 contributor: 'MaciejBlizinski'
-wikilinks: ['Charlie_Christian', 'Gitara_elektryczna', 'Janusz_Pop%C5%82awski', 'Jim_Hall', 'Joe_Pass', 'John_Scofield', 'Pat_Metheny', 'Spis_tre%C5%9Bci', 'Wes_Montgomery', 'grafika:MarekBlizinski.jpg']
+wikilinks: ['Charlie_Christian', 'Gitara_elektryczna', 'Jim_Hall', 'Joe_Pass', 'John_Scofield', 'Pat_Metheny', 'Spis_tre%C5%9Bci', 'Wes_Montgomery', 'grafika:MarekBlizinski.jpg']
 aliases: ['/gitara/Marek_Bliziński']
 images:
   - path: "/images/MarekBlizinski.jpg"
@@ -128,10 +128,9 @@ W szpitalu w Warszawie rozpoznano przerzuty, związane z zaawansowaną
 chorobą nowotworową. Po trzech miesiącach zmarł w szpitalu przy ulicy
 Potockiej w Warszawie, na sześć dni przed 42 urodzinami.
 
-  -
-    <small>Pierwotna wersja tekstu pochodzi z notatki *O autorze*,
-    napisanej przez [J. Popławskiego]({{< relref "Janusz_Popławski.md" >}}), w
-    książce "Gitara Jazzowa". Publikacja za zgodą autora.</small>
+> Pierwotna wersja tekstu pochodzi z notatki *O autorze*, napisanej przez
+> Janusza Popławskiego](Janusz_Popławski "wikilink"), w książce "Gitara
+> Jazzowa". Publikacja za zgodą autora.
 
 ## Wybrana dyskografia
 
