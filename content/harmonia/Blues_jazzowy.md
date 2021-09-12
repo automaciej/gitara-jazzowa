@@ -11,21 +11,43 @@ aliases: ['/gitara/Blues_jazzowy']
 **Blues jazzowy** jest grany na niemal każdym jazzowym jam sesion. Jest
 podstawą do wspólnych improwizacji oraz do nauki
 [ogrywania]({{< relref "Ogrywanie_akordu.md" >}}) kadencji dwa pięć
-jeden<!-- link nie odnosił się do niczego: 'content/książka/dwa_pięć_jeden.md' wants to redirect to 'content/książka/Dwa_pięć_jeden.md', but 'content/książka/Dwa_pięć_jeden.md' will be deleted -->. Improwizacje w bluesie gra się
+jeden. Improwizacje w bluesie gra się
 często po [pentatonice]({{< relref "Pentatonika.md" >}}).
 
-|   |                       |  |   |                         |                         |   |                     |                     |   |                       |                     |   |
-| - | --------------------- |  | - | ----------------------- | ----------------------- | - | ------------------- | ------------------- | - | --------------------- | ------------------- | - |
-| | | [F7]({{< relref "F7.md" >}})   |  | | | [B♭7]({{< relref "B♭7.md" >}})   | [Bdim]({{< relref "Bdim.md" >}}) | | | [F7]({{< relref "F7.md" >}}) |                     | | | [Cm7]({{< relref "Cm7.md" >}}) | [F7]({{< relref "F7.md" >}}) | | |
-| | | [B♭7]({{< relref "B♭7.md" >}}) |  | | | [Bdim]({{< relref "Bdim.md" >}}) |                         | | | [F7]({{< relref "F7.md" >}}) |                     | | | [Am7]({{< relref "Am7.md" >}}) | [D7]({{< relref "D7.md" >}}) | | |
-| | | [Gm7]({{< relref "Gm7.md" >}}) |  | | | [C7]({{< relref "C7.md" >}})     |                         | | | [F7]({{< relref "F7.md" >}}) | [D7]({{< relref "D7.md" >}}) | | | [Gm7]({{< relref "Gm7.md" >}}) | [C7]({{< relref "C7.md" >}}) | | |
+[Am7]: {{< relref "Am7.md" >}} "A moll siedem"
+[A♭7]: {{< relref "A♭7.md" >}}
+[A♭dim]: {{< relref "A♭dim.md" >}}
+[B♭7]: {{< relref "B♭7.md" >}}
+[B♭dim]: {{< relref "B♭dim.md" >}}
+[Bdim]: {{< relref "Bdim.md" >}}
+[C7]: {{< relref "C7.md" >}}
+[Cmaj7]: {{< relref "Cmaj7.md" >}}
+[Cmaj9]: {{< relref "Cmaj9.md" >}}
+[C9sus]: {{< relref "C9sus.md" >}}
+[C9]: {{< relref "C9.md" >}}
+[Cm7]: {{< relref "Cm7.md" >}}
+[D7]: {{< relref "D7.md" >}}
+[D9]: {{< relref "D9.md" >}}
+[F7]: {{< relref "F7.md" >}}
+[F7-A]: {{< relref "F7-A.md" >}}
+[E9]: {{< relref "E9.md" >}}
+[E♭9]: {{< relref "E♭9.md" >}}
+[F9]: {{< relref "F9.md" >}}
+[Gm7]: {{< relref "Gm7.md" >}}
+[Gm9]: {{< relref "Gm9.md" >}}
+
+| `____________` | `____________`          | `____________`    | `____________`        |
+| -------------- | ----------------------- | ----------------- | --------------------- |
+| [F7][F7]       | [B♭7][B♭7] [Bdim][Bdim] | [F7][F7]          | [Cm7][Cm7] [F7][F7]   |
+| [B♭7][B♭7]     | [Bdim][Bdim]            | [F7][F7]          | [Am7][Am7] [D7][D7]   |
+| [Gm7][Gm7]     | [C7][C7]                | [F7][F7] [D7][D7] | [Gm7][Gm7] [C7][C7]   |
+| `‾‾‾‾‾‾‾‾‾‾‾‾` | `‾‾‾‾‾‾‾‾‾‾‾‾`          | `‾‾‾‾‾‾‾‾`        | `‾‾‾‾‾‾‾‾‾‾‾‾`        |
 
 Istnieją mutacje tego bluesa, na przykład:
 
-|   |                                                 |                                                 |   |                           |                         |   |                     |                       |   |                           |                         |   |
-| - | ----------------------------------------------- | ----------------------------------------------- | - | ------------------------- | ----------------------- | - | ------------------- | --------------------- | - | ------------------------- | ----------------------- | - |
-| | | [F7]({{< relref "F7.md" >}})                             | F7/A<!-- link nie odnosił się do niczego: 'Blues jazzowy' ('content/książka/Blues_jazzowy.md') links to 'F7/A' ('content/książka/F7/A.md') and that does not exist -->                         | | | [B♭7]({{< relref "B♭7.md" >}})     | [Bdim]({{< relref "Bdim.md" >}}) | | | [F7]({{< relref "F7.md" >}}) | [Gm7]({{< relref "Gm7.md" >}}) | | | [A♭dim]({{< relref "A♭dim.md" >}}) | F7/A<!-- link nie odnosił się do niczego: 'Blues jazzowy' ('content/książka/Blues_jazzowy.md') links to 'F7/A' ('content/książka/F7/A.md') and that does not exist --> | | |
-| | | [B♭7]({{< relref "B♭7.md" >}})                           |                                                 | | | B♭7                       |                         | | | [F9]({{< relref "F9.md" >}}) | [E9]({{< relref "E9.md" >}})   | | | [E♭9]({{< relref "E♭9.md" >}})     | [D9]({{< relref "D9.md" >}})     | | |
-| | | [Gm9]({{< relref "Gm9.md" >}}) [A♭dim]({{< relref "A♭dim.md" >}}) | [Am7]({{< relref "Am7.md" >}}) [B♭dim]({{< relref "B♭dim.md" >}}) | | | [C9sus]({{< relref "C9sus.md" >}}) |                         | | | [F7]({{< relref "F7.md" >}}) | [A♭7]({{< relref "A♭7.md" >}}) | | | [Gm7]({{< relref "Gm7.md" >}})     | [C9]({{< relref "C9.md" >}})     | | |
-
-**Zobacz też**
+| `____________`          | `____________`            | `____________`          | `____________`                 |
+| ----------------------- | ------------------------- | ----------------------- | ------------------------------ |
+[F7][F7] [F7/A][F7-A]     | [B♭7][B♭7] [Bdim][Bdim]   | [F7][F7] [Gm7][Gm7]     | [A♭dim][A♭dim]  [F7/A][F7-A]   |
+[B♭7][B♭7]                | B♭7                       | [F9][F9] [E9][E9]       | [E♭9][E♭9] [D9][D9]            |
+[Gm9][Gm9] [A♭dim][A♭dim] | [Am7][Am7] [B♭dim][B♭dim] | [C9sus][C9sus] [F7][F7] | [A♭7][A♭7] [Gm7][Gm7] [C9][C9] |
+| `‾‾‾‾‾‾‾‾‾‾‾‾`          | `‾‾‾‾‾‾‾‾‾‾‾‾`            | `‾‾‾‾‾‾‾‾‾‾‾‾`          | `‾‾‾‾‾‾‾‾‾‾‾‾`                 |
