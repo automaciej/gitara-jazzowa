@@ -1,3 +1,3 @@
 ---
-title: "Książka Gitara Jazzowa"
+title: "Gitara Jazzowa"
 ---
