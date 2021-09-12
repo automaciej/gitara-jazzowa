@@ -1,7 +1,8 @@
 <footer>
 
 <hr />
-{{ with .NextInSection }}
+{{ $pages := where .Site.RegularPages "Section" .Section }}
+{{ with ($pages.ByParam "toc").Reverse.Next . }}
 <p>
 Następna strona: <a href="{{ .RelPermalink }}">{{ .Title }} &raquo;</a>
 </p>

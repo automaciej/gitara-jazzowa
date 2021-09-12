@@ -2,6 +2,7 @@
 title: "Wstęp"
 date: 2001-09-12T13:16:15+01:00
 draft: false
+toc: 010
 ---
 
 Instynktem moim jest układać sobie w głowie każdy nowy temat. Tak było z teorią

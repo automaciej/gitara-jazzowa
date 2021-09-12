@@ -9,6 +9,7 @@ wikilinks: ['C', 'Cmaj96', 'G9', 'Grafika:GrafAkorduG9.png', 'akord', 'akord', '
 aliases: ['/gitara/Barwa_akordu']
 images:
   - path: "/images/GrafAkorduG9.png"
+toc: 100
 ---
 ## Czym jest barwa akordu
 

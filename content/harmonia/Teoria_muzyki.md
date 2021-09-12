@@ -7,6 +7,7 @@ draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['U%C5%BCytkownik:MaciejBlizinski']
 aliases: ['/gitara/Teoria_muzyki', 'książka/czym-jest-a-czym-nie-jest-teoria-muzyki']
+toc: 20
 ---
 <table>
 <tbody>

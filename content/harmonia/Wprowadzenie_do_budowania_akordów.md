@@ -9,6 +9,7 @@ wikilinks: ['C6', 'C7', 'Cm6', 'Cm7', 'Cmaj7', 'G6', 'G7', 'Gm7', 'Gmaj7', 'Graf
 aliases: ['/gitara/Wprowadzenie_do_budowania_akordów', 'wprowadzenie-do-budowania-akordow']
 images:
   - path: "/images/Chord-eb-major.png"
+toc: 050
 ---
 Nauka harmonii jest trudniejsza na gitarze niż na klawiaturze
 fortepianu. Jest tak głównie dlatego, że gryf [nie daje
