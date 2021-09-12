@@ -13,7 +13,7 @@ images:
 
 **Kostkę miękką** należy trzymać dość mocno, ponieważ moment ugięcia
 daje ona sama. Natomiast **kostkę twardą** chwytamy bardziej elastyczne,
-tak aby przy uderzeniu w [strunę]({{< relref "Struna.md" >}}) następowała
+tak aby przy uderzeniu w [strunę]({{< relref "Struny.md" >}}) następowała
 chwilowa zmiana jej położenia, w ramach sprężystości opuszków palców.
 
 **Zobacz też:**

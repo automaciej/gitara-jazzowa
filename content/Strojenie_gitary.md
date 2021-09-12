@@ -23,7 +23,7 @@ który zna najdrobniejsze niuanse intonacyjne i brzmieniowe swej gitary.
 
 Właściwie każdy gitarzysta ma inny sposób sprawdzania stroju swojego
 instrumentu. Sposobów tych jest bardzo dużo, ponieważ można porównywać
-wszystkie dźwięki na wszystkich [strunach]({{< relref "Struna.md" >}}). Będziemy
+wszystkie dźwięki na wszystkich [strunach]({{< relref "Struny.md" >}}). Będziemy
 omawiali strój włoski, ponieważ on jest używany w jazzie.
 
   - [Proste strojenie gitary]({{< relref "Proste_strojenie.md" >}})

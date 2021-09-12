@@ -13,7 +13,7 @@ images:
 
 Osobnym zjawiskiem jest gra Kenny Burrella. Polega na specyficznym
 brzmieniu instrumentu, na co duży wpływ ma sposób, w jaki atakuje on
-[struny]({{< relref "Struna.md" >}}) oraz artykułuje. Pomimo eksponowania skali
+[struny]({{< relref "Struny.md" >}}) oraz artykułuje. Pomimo eksponowania skali
 bluesowej, nie zatraca w swej grze elementów bebopu.
 
 Słuchając go, warto zwrócić uwagę na sposób, w jaki wykonuje

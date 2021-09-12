@@ -9,7 +9,7 @@ wikilinks: ['akord', 'gryf', 'menzura', 'strojenie_gitary', 'struny']
 Bywają też, choć mało popularne **sześciostrunowe gitary basowe** -
 brzmiące o oktawę niżej. W standardowym
 [strojeniu]({{< relref "Strojenie_gitary.md" >}}) puste
-[struny]({{< relref "Struna.md" >}}) posiadają następujące dźwięki:
+[struny]({{< relref "Struny.md" >}}) posiadają następujące dźwięki:
 
   - **c** (130,8 Hz)
   - **G** (98,0 Hz)

@@ -32,7 +32,7 @@ Futerały są wewnątrz wyłożone aksamitem lub pluszem, a w miejscach styku
 z instrumentem, dodatkowo miękką wykładziną, np. gąbką. Miejsca
 podparcia gitary powinny być tak rozplanowane, aby jej ciężar lub
 ewentualne wstrząsy nie współdziałały z siłą naciągu
-[strun]({{< relref "Struna.md" >}}) i nie mogły spowodować uszkodzenia szyjki.
+[strun]({{< relref "Struny.md" >}}) i nie mogły spowodować uszkodzenia szyjki.
 
 Futerał powinien trzymać korpus instrumentu dość ciasno, nie
 dopuszczając do przesunięć. [Szyjka]({{< relref "Gryf.md" >}}) natomiast nie

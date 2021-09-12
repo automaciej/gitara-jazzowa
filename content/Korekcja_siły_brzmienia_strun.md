@@ -20,7 +20,7 @@ W [gitarze elektrycznej]({{< relref "Gitara_elektryczna.md" >}}) lub
 [elektryczno-akustycznej]({{< relref "Gitara_elektryczno-akustyczna.md" >}})
 korekcja siły głosu poszczególnych strun jest możliwa pod warunkiem, że
 gitara jest zaopatrzona w odpowiednie przystawki. Nie znaczy to wcale,
-że nie musimy już dbać o dobór [strun]({{< relref "Struna.md" >}}). Zbyt duża
+że nie musimy już dbać o dobór [strun]({{< relref "Struny.md" >}}). Zbyt duża
 korekcja siły głosu robiona za pomocą ustawienia przystawek, powoduje
 niepotrzebne zróżnicowanie [barwy]({{< relref "Barwa_dźwięku.md" >}}) i
 właściwości dynamicznych poszczególnych strun, a do tego gitary

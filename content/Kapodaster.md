@@ -14,7 +14,7 @@ images:
 {{< image src="/images/Capo-on.jpg" width="1002" height="742" >}}
 
 **Kapodaster** (*capo*, *capotaso*) jest urządzeniem skracającym
-menzurę<!-- link nie odnosił się do niczego: 'Kapodaster' (PosixPath('Kapodaster.md')) links to 'menzura' (PosixPath('/no/path/exists')) and that does not exist --> [strun]({{< relref "Struna.md" >}}) w ten sposób,
+menzurę<!-- link nie odnosił się do niczego: 'Kapodaster' (PosixPath('Kapodaster.md')) links to 'menzura' (PosixPath('/no/path/exists')) and that does not exist --> [strun]({{< relref "Struny.md" >}}) w ten sposób,
 że można tworzyć siodełko<!-- link nie odnosił się do niczego: 'Kapodaster' (PosixPath('Kapodaster.md')) links to 'siodełko' (PosixPath('/no/path/exists')) and that does not exist --> w dowolnej pozycji
 [gryfu]({{< relref "Gryf.md" >}}). Kapodaster jest przydatny, kiedy gitarzysta
 chce używać pustych strun i jednocześnie poruszać się w

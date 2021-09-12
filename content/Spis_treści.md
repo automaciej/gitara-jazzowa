@@ -14,7 +14,7 @@ wikilinks: ['%C4%86wiczenia_techniczne', ':Kategoria:Rodzaje_gitar', 'Akcentowan
     akcesoriów]({{< relref "Wybieranie_instrumentu_i_akcesoriów.md" >}})
     1.  [Gitara]({{< relref "Gitara.md" >}})
     2.  [Wzmacniacz]({{< relref "Wzmacniacz.md" >}})
-    3.  [Struny]({{< relref "Struna.md" >}})
+    3.  [Struny]({{< relref "Struny.md" >}})
     4.  [Kostka]({{< relref "Kostka.md" >}})
     5.  [Pasek do gitary]({{< relref "Pasek_do_gitary.md" >}})
     6.  [Futerał]({{< relref "Futerał.md" >}})

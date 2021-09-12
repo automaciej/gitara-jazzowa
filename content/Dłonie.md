@@ -17,6 +17,6 @@ skórze nie wymaga on żadnych zabiegów, przy suchej - należy smarować
 kremem, tak jak i całe ręce.
 
 Ręce należy myć przed każdym graniem. Niezabrudzone
-[struny]({{< relref "Struna.md" >}}) będą wtedy lepiej stroiły, lepiej będzie się
+[struny]({{< relref "Struny.md" >}}) będą wtedy lepiej stroiły, lepiej będzie się
 prezentował lakier na instrumencie, a gitarzysta będzie miał lepsze
 samopoczucie.

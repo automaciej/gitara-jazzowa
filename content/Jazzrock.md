@@ -16,7 +16,7 @@ Technika i brzmienie gitary jazz-rockowej wywodzi się z muzyki rock. Aby
 określić bliżej technikę rock na gita­rze, trzeba zaznaczyć, że swój
 początek ma ona w muzyce bluesowej<!-- link nie odnosił się do niczego: 'Jazzrock' (PosixPath('Jazzrock.md')) links to 'blues' (PosixPath('/no/path/exists')) and that does not exist -->. Cechą
 charakterystyczną warsztatu gitarzysty rockowego są
-[struny]({{< relref "Struna.md" >}}), tak dobrane grubością, aby mogły być bez
+[struny]({{< relref "Struny.md" >}}), tak dobrane grubością, aby mogły być bez
 wysiłku podciągane palcami lewej ręki na gryfie, przynajmniej o sekundę
 wielką lub więcej, czasem o kwartę oraz wprowadzone w wibrację typu hl
 nosowego. Ta technika gry (omówiona w rozdziale

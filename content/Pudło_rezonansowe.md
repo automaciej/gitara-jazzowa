@@ -8,7 +8,7 @@ wikilinks: ['barwa_d%C5%BAwi%C4%99ku', 'gitara', 'struny']
 ---
 **Pudło rezonansowe** (*radiator*, *amplifikator*) to największa część
 [gitary]({{< relref "Gitara.md" >}}) w formie mniej lub bardziej ozdobnej
-skrzynki, która współgrając z wibratorem ([strunami]({{< relref "Struna.md" >}}))
+skrzynki, która współgrając z wibratorem ([strunami]({{< relref "Struny.md" >}}))
 powoduje wzmocnienie dźwięku (skuteczność jego promieniowania). Dzieje
 się to za sprawą dużej powierzchni drgań w stosunku do samych strun.
 

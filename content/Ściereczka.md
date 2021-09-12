@@ -10,5 +10,5 @@ wikilinks: ['struny']
 **Ściereczka** to rzecz, którą powinien zawsze mieć pod ręką każdy
 gitarzysta. Jedną - najlepiej irchową - służącą do utrzymywania
 instrumentu w czystości i drugą - z dobrze chłonnego materiału - do
-przecierania [strun]({{< relref "Struna.md" >}}).
+przecierania [strun]({{< relref "Struny.md" >}}).
 
