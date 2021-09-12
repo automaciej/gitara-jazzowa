@@ -9,7 +9,7 @@ aliases: ['/gitara/Pudło_rezonansowe']
 ---
 **Pudło rezonansowe** (*radiator*, *amplifikator*) to największa część
 [gitary]({{< relref "Gitara.md" >}}) w formie mniej lub bardziej ozdobnej
-skrzynki, która współgrając z wibratorem (strunami<!-- link nie odnosił się do niczego: 'Pudło rezonansowe' (PosixPath('Pudło_rezonansowe.md')) links to 'struny' (PosixPath('/no/path/exists')) and that does not exist -->)
+skrzynki, która współgrając z wibratorem ([strunami]({{< relref "Struna.md" >}}))
 powoduje wzmocnienie dźwięku (skuteczność jego promieniowania). Dzieje
 się to za sprawą dużej powierzchni drgań w stosunku do samych strun.
 

@@ -9,7 +9,7 @@ wikilinks: ['szyjka']
 aliases: ['/gitara/Jak_obchodzić_się_z_instrumentem']
 ---
 Jak obchodzić się z instrumentem? Wiadomo, że delikatnie, tak aby go nie
-uszkodzić. Podnosić zawsze i tylko za szyjkę<!-- link nie odnosił się do niczego: 'Jak obchodzić się z instrumentem' (PosixPath('Jak_obchodzić_się_z_instrumentem.md')) links to 'szyjka' (PosixPath('/no/path/exists')) and that does not exist -->. Kłaść
+uszkodzić. Podnosić zawsze i tylko za [szyjkę]({{< relref "Gryf.md" >}}). Kłaść
 i przechowywać w miejscach nie narażonych na wpływy atmosferyczne,
 uszkodzenia mechaniczne itp. (w mieszkaniach nie przy kaloryferze\!).
 
