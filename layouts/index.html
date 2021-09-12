@@ -7,8 +7,8 @@
   <p>Książka Marka Blizińskiego <i>Gitara Jazzowa</i> znajduje się pod adresem
   <a href="https://gitara-jazzowa.pl" style="appearance: button;">gitara-jazzowa.pl</a>.</p>
 
-  {{ with .Site.GetPage "harmonia" }}
-  {{ with .GetPage "Harmonia_jazzowa_na_gitarze.md" }}
+  {{ range .Pages }}
+  {{ if ne (.Param "skip") true }}
   <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   {{ .Content }}
   {{ end }}
