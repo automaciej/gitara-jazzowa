@@ -1,0 +1,18 @@
+<footer>
+
+<hr />
+{{ with .NextInSection }}
+<p>
+Następna strona: <a href="{{ .RelPermalink }}">{{ .Title }} &raquo;</a>
+</p>
+<hr />
+{{ end }}
+
+{{ with .GetPage "Harmonia_jazzowa_na_gitarze.md" }}
+<a class="button" href="{{ .RelPermalink }}">[ Spis treści &#9757; ]</a>
+{{ end }}
+
+{{ with .GetPage "gitara" }}
+<a href="{{ .RelPermalink }}">[ Wszystkie podstrony &#128450; ]</a>
+{{ end }}
+</footer>
