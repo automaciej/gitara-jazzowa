@@ -17,6 +17,7 @@ Poprzednia wersja jest dostępna pod tym adresem:
 
 ## Spis treści
 
+1.  [Wstęp]({{< relref "Na_końcu.md" >}})
 1.  Teoria muzyki
     1.  [Czym jest, a czym nie jest teoria
         muzyki]({{< relref "Teoria_muzyki" >}})
