@@ -19,16 +19,18 @@ Poprzednia wersja jest dostępna pod tym adresem:
 
 1.  [Wstęp]({{< relref "Na_końcu.md" >}})
 1.  Teoria muzyki
-    1.  [Czym jest, a czym nie jest teoria
-        muzyki]({{< relref "Teoria_muzyki" >}})
+    1.  [Czym jest, a czym nie jest teoria muzyki]({{< relref "Teoria_muzyki" >}})
     2.  [Po co jest teoria muzyki]({{< relref "Po_co_jest_teoria_muzyki.md" >}})
     3.  [Podstawy teorii muzyki]({{< relref "Podstawy_teorii_muzyki.md" >}})
 2.  [Wprowadzenie do budowania
     akordów]({{< relref "Wprowadzenie_do_budowania_akordów.md" >}})
 3.  [Oznaczenia akordów]({{< relref "Oznaczenia_akordów.md" >}})
 4.  [Funkcje harmoniczne]({{< relref "Funkcje_harmoniczne.md" >}})
-5.  [Chwytanie i łączenie
-    akordów]({{< relref "Chwytanie_i_łączenie_akordów.md" >}})
+5.  [Chwytanie i łączenie akordów]({{< relref "Chwytanie_i_łączenie_akordów.md" >}})
+    1. [Organiczenia gitary]({{< relref "Ograniczenia_gitary" >}})
+    1. [Łączenie najbliższą drogą]({{< relref "Łączenie_najbliższą_drogą" >}})
+    1. [Układ rozległy]({{< relref "Układ_rozległy" >}})
+    1. [Tabele chwytów](/kategorie/tabele-chwytów "Kategoria Tabele chwytów")
 6.  [Sztuczki harmoniczne]({{< relref "Sztuczki_harmoniczne.md" >}})
 7.  [Barwa akordu]({{< relref "Barwa_akordu.md" >}})
 
