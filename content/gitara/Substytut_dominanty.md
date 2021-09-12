@@ -33,18 +33,30 @@ bliskie.
 Użyjemy teraz tego *patentu* do lekkiego przerobienia [bluesa
 jazzowego]({{< relref "Blues_jazzowy.md" >}}).
 
-|   |                       |  |   |                         |                         |   |                     |                       |   |                       |                       |   |
-| - | --------------------- |  | - | ----------------------- | ----------------------- | - | ------------------- | --------------------- | - | --------------------- | --------------------- | - |
-| | | [F7]({{< relref "F7.md" >}})   |  | | | [B♭7]({{< relref "B♭7.md" >}})   | [Bdim]({{< relref "Bdim.md" >}}) | | | [F7]({{< relref "F7.md" >}}) |                       | | | [Cm7]({{< relref "Cm7.md" >}}) | B13<!-- link nie odnosił się do niczego: 'Substytut dominanty' ('content/książka/Substytut_dominanty.md') links to 'B13' ('content/książka/B13.md') and that does not exist --> | | |
-| | | [B♭7]({{< relref "B♭7.md" >}}) |  | | | [Bdim]({{< relref "Bdim.md" >}}) |                         | | | [F7]({{< relref "F7.md" >}}) |                       | | | [Am7]({{< relref "Am7.md" >}}) | [A♭7]({{< relref "A♭7.md" >}}) | | |
-| | | [Gm7]({{< relref "Gm7.md" >}}) |  | | | C13<!-- link nie odnosił się do niczego: 'Substytut dominanty' ('content/książka/Substytut_dominanty.md') links to 'C13' ('content/książka/C13.md') and that does not exist -->   |                         | | | [F7]({{< relref "F7.md" >}}) | [A♭7]({{< relref "A♭7.md" >}}) | | | [Gm7]({{< relref "Gm7.md" >}}) | G♭7<!-- link nie odnosił się do niczego: 'Substytut dominanty' ('content/książka/Substytut_dominanty.md') links to 'G♭7' ('content/książka/G♭7.md') and that does not exist --> | | |
+[A♭7]: {{< relref "A♭7.md" >}}
+[Am7]: {{< relref "Am7.md" >}} "A moll siedem"
+[B♭7]: {{< relref "B♭7.md" >}}
+[Bdim]: {{< relref "Bdim.md" >}}
+[C7]: {{< relref "C7.md" >}}
+[Cm7]: {{< relref "Cm7.md" >}}
+[Cmaj7]: {{< relref "Cmaj7.md" >}}
+[Cmaj9]: {{< relref "Cmaj9.md" >}}
+[D7]: {{< relref "D7.md" >}}
+[F7]: {{< relref "F7.md" >}}
+[Gm7]: {{< relref "Gm7.md" >}}
 
-W jednym miejscu zostawiłem [C7]({{< relref "C7.md" >}}), nie zamieniając go na
-substytut. Zrobiłem tak dlatego, żeby
+| `________`     | `________`                | `________`          | `________`                |
+| -------------- | ------------------------- | ------------------- | ------------------------- |
+| [F7][F7]       | [B♭7][B♭7]  [Bdim][Bdim]  | [F7][F7]            | [Cm7][Cm7] **B13**        |
+| [B♭7][B♭7]     | [Bdim][Bdim]              | [F7][F7]            | [Am7][Am7] **[A♭7][A♭7]** |
+| [Gm7][Gm7] C13 | [F7][F7]                  | [F7][F7] [A♭7][A♭7] | [Gm7][Gm7] **G♭7**        |
+| `________`     | `________`                | `________`          | `________`                |
+
+W jednym miejscu zostawiłem [C7][C7], nie zamieniając go na substytut. Zrobiłem
+tak dlatego, żeby:
 
 1.  Przypomnieć, że nie należy niewolniczo trzymać się schematów
 2.  Substytuty sprawdzają się dobrze w szybkich zmianach akordów.
-    Trzymanie G♭13<!-- link nie odnosił się do niczego: 'Substytut dominanty' ('content/książka/Substytut_dominanty.md') links to 'G♭13' ('content/książka/G♭13.md') and that does not exist --> przez cały takt nie brzmiałoby
+    Trzymanie G♭13 przez cały takt nie brzmiałoby
     zbyt dobrze. Lub, inaczej, ten blues nie jest na tyle *odjechany*,
     żeby tego typu zmiana pasowała do reszty.
-
