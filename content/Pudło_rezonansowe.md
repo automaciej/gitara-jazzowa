@@ -17,3 +17,5 @@ Największe znaczenie ma powierzchnia przedniej płyty, materiał, z
 którego jest wykonana, oraz jego jakość - wszystko to decyduje w
 największym stopniu o parametrach akustycznych gitary i o [barwie jej
 dźwięku]({{< relref "Barwa_dźwięku.md" >}}).
+
+

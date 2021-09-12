@@ -142,15 +142,4 @@ Potockiej w Warszawie, na sześć dni przed 42 urodzinami.
   - *Dla ciebie jestem sobą* (1987, Poljazz PSJ 140, duet z Ewą Bem)
   - *Constellation* (1988, Ryszard Szeremeta)
 
-## Linki zewnętrzne
-
-  - [Archiwum Polskiego Rocka: Marek
-    Bliziński](http://www.archiwumrocka.art.pl/132,muzyk.html)
-  - Festiwal gitarzystów jazzowych [Guitar
-    City](http://www.guitarcity.net)
-  - Księgarnia internetowa Merlin: album [Dla ciebie jestem
-    sobą](http://www.merlin.com.pl/frontend/towar/193070)
-  - nuty.pl: książka Marka Blizińskiego p.t. [Gitara
-    Jazzowa](http://nuty.pl/autorzy/autor-blizinski_marek.htm)
-
 Bliziński, Marek<!-- link nie odnosił się do niczego: 'Marek Bliziński' (PosixPath('Marek_Bliziński.md')) links to 'Kategoria:Gitarzyści_jazzowi' (PosixPath('/no/path/exists')) and that does not exist -->

@@ -18,10 +18,4 @@ Książka *Gitara Jazzowa* była wydana na papierze dwukrotnie. Drugie
 wydanie książki, obecnie dostępne w sprzedaży, zostało wydane przez
 Janusza Popławskiego.
 
-  - [książka Gitara
-    Jazzowa](http://www.poplawski.com.pl/pmp/nutyipodr/podrgit.htm) w
-    sprzedaży wydawnictwa Professional Music Press
-  - [książka Gitara
-    Jazzowa](http://nuty.pl/autorzy/autor-blizinski_marek.htm) w sklepie
-    internetowym nuty.pl
 

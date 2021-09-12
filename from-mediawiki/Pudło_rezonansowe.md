@@ -9,9 +9,4 @@ którego jest wykonana, oraz jego jakość - wszystko to decyduje w
 największym stopniu o parametrach akustycznych gitary i o [barwie jej
 dźwięku](barwa_dźwięku "wikilink").
 
-**Linki zewnętrzne**
-
-  - [Po co gitarze pudło
-    rezonansowe?](http://www.cft.edu.pl/~demko/Teksty/gitara.pdf)
-
 [Kategoria:Budowa gitary](Kategoria:Budowa_gitary "wikilink")
