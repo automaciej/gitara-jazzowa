@@ -8,7 +8,7 @@ contributor: 'MaciejBlizinski'
 wikilinks: ['akord']
 aliases: ['/gitara/Tryb']
 ---
-**Tryb** odnosi się do [akordu]({{< relref "Akord.md" >}}). Akord może mieć tryb
+**Tryb** odnosi się do [akordu]({{< relref "Akord" >}}). Akord może mieć tryb
 durowy lub mollowy.
 
 Akord jest w trybie durowym, kiedy składa się z tercji wielkiej i tercji

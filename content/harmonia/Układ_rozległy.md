@@ -11,7 +11,7 @@ aliases: ['/gitara/Układ_rozległy', 'uklad-rozlegly']
 **Układ rozległy** bywa czasami nazywany [drop
 two]({{< relref "Drop_two.md" >}}).
 
-Chcąc zagrać jakiś [akord]({{< relref "Akord.md" >}}) najpierw musimy wiedzieć,
+Chcąc zagrać jakiś [akord]({{< relref "Akord" >}}) najpierw musimy wiedzieć,
 jakie [dźwięki]({{< relref "Dźwięk.md" >}}) chcemy zagrać. Niech będą to {C, E,
 G, B} (czyli [Cmaj7]({{< relref "Cmaj7.md" >}})). To jednak nie wszystko. Musimy
 zadecydować, w jaki sposób rozłożyć je w oktawach (oraz na

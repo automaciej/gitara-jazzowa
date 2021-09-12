@@ -11,7 +11,7 @@ aliases: ['/gitara/Wtrącenie', 'książka/wtrącenia', 'wtracenie']
 Harmonię utworu, oprócz funkcji pobocznych, można uzupełniać o tzw.
 wtrącenia. Wtrącenie polega, najprościej to ujmując, na dodaniu
 [dominanty]({{< relref "Funkcje_harmoniczne.md" >}}) do któregoś z
-[akordów]({{< relref "Akord.md" >}}), które już są w utworze. Powiedzmy że nasz
+[akordów]({{< relref "Akord" >}}), które już są w utworze. Powiedzmy że nasz
 utwór ma następującą harmonię:
 
 |   |                           |  |   |                       |                     |   |

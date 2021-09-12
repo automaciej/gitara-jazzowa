@@ -11,7 +11,7 @@ aliases: ['/gitara/Funkcje_harmoniczne', 'książka/dominanta', 'książka/subdo
 Pojęcie [funkcji harmonicznej]({{< relref "Funkcja_harmoniczna.md" >}}) ma sens
 tylko w kontekście [tonacji]({{< relref "Tonacja.md" >}}). Zakładając, że
 poruszamy się w określonej tonacji, możemy wskazać pewne
-[akordy]({{< relref "Akord.md" >}}) jako funkcje harmoniczne. Na przykład, weźmy
+[akordy]({{< relref "Akord" >}}) jako funkcje harmoniczne. Na przykład, weźmy
 tonację F-dur. Możemy zapytać, jaką funkcją harmoniczną w F-dur jest
 akord C7. Dowiemy się, że dominantą. Jest więcej akordów, które są
 funkcjami harmonicznymi w F-dur, jednak nie wszystkie nimi są.

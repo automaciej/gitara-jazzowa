@@ -8,7 +8,7 @@ contributor: 'Ff'
 wikilinks: ['A%E2%99%AD7', 'A%E2%99%AD7', 'Am7', 'B%E2%99%AD7', 'B%E2%99%AD7', 'B13', 'Bdim', 'Bdim', 'C13', 'C7', 'C7', 'C7', 'Cm7', 'F7', 'F7', 'F7', 'F7', 'G%E2%99%AD13', 'G%E2%99%AD7', 'G%E2%99%AD7', 'Gm7', 'Gm7', 'akord', 'akord', 'barwa_akordu', 'blues_jazzowy', 'd%C5%BAwi%C4%99k', 'd%C5%BAwi%C4%99k', 'dominanta', 'septyma', 'tercja', 'tonika', 'tryb']
 aliases: ['/gitara/Substytut_dominanty']
 ---
-W [akordzie]({{< relref "Akord.md" >}}) nie wszystkie
+W [akordzie]({{< relref "Akord" >}}) nie wszystkie
 [dźwięki]({{< relref "Dźwięk.md" >}}) są jednakowo ważne. Z różnych przyczyn
 (niektóre są omówione szerzej na stronie [barwa
 akordu]({{< relref "Barwa_akordu.md" >}})) najważniejszymi dźwiękami akordu są
@@ -17,7 +17,7 @@ określa [tryb]({{< relref "Tryb.md" >}}) akordu (dur lub moll), natomiast
 septyma kontekst ([toniczny]({{< relref "Tonika.md" >}}) lub
 [dominantowy]({{< relref "Funkcje_harmoniczne.md" >}})).
 
-W [akordach]({{< relref "Akord.md" >}}) dominantowych można spotkać się z tym, że
+W [akordach]({{< relref "Akord" >}}) dominantowych można spotkać się z tym, że
 [gitarzyści](/kategorie/gitarzyści-jazzowi "Kategoria gitarzyści jazzowi") grają jedynie
 tercję i septymę\! Gitarzysta, poproszony o zagranie akordu C7 gra
 dźwięki E i B♭. Zróbmy teraz takie ćwiczenie: zagrajmy tercję i

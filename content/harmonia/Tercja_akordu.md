@@ -9,7 +9,7 @@ wikilinks: ['Septyma_akordu', 'Tercja_i_septyma', 'akord', 'tryb']
 aliases: ['/gitara/Tercja_akordu']
 ---
 **Tercja akordu** jest jednym z dwóch najważniejszych dźwięków w
-[akordzie]({{< relref "Akord.md" >}}). Tercja określa [tryb]({{< relref "Tryb.md" >}})
+[akordzie]({{< relref "Akord" >}}). Tercja określa [tryb]({{< relref "Tryb.md" >}})
 akordu (dur lub moll).
 
 Na przykład w akordzie C (c-dur) tercją jest dźwięk E.

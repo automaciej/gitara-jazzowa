@@ -23,7 +23,7 @@ wspominając o sześciodźwiękach. Czterodźwięk jest standardem.
 
 ### Liczba palców
 
-Czasami nie można zagrać jakiegoś [akordu]({{< relref "Akord.md" >}}), ponieważ
+Czasami nie można zagrać jakiegoś [akordu]({{< relref "Akord" >}}), ponieważ
 brakuje palca, którym można by przycisnąć strunę do progu.
 
 ### Odległości między strunami

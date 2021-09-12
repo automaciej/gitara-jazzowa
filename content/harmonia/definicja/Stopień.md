@@ -13,7 +13,7 @@ Stopień odnosi się do różnych pojęć w muzyce, będących zbiorami
 tego zbioru, który jest oddalony od bazy (tego czegoś) o podany
 [interwał]({{< relref "Interwał.md" >}}). Na przykład
 [tercja]({{< relref "Tercja_akordu.md" >}}) (trzeci stopień) akordu to ten dźwięk
-[akordu]({{< relref "Akord.md" >}}), który jest oddalony od podstawy akordu o
+[akordu]({{< relref "Akord" >}}), który jest oddalony od podstawy akordu o
 tercję.
 
 **Zobacz też**

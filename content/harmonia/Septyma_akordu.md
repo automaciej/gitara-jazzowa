@@ -8,7 +8,7 @@ wikilinks: ['Tercja_akordu', 'Tercja_i_septyma', 'akord', 'd%C5%BAwi%C4%99k', 'd
 aliases: ['/gitara/Septyma_akordu']
 ---
 **Septyma** akordu jest jednym z dwóch najważniejszych
-[dźwięków]({{< relref "Dźwięk.md" >}}) w [akordzie]({{< relref "Akord.md" >}}).
+[dźwięków]({{< relref "Dźwięk.md" >}}) w [akordzie]({{< relref "Akord" >}}).
 Septyma określa charakter akordu, który może być
 [toniczny]({{< relref "Tonika.md" >}}) lub dominantowy<!-- link nie odnosił się do niczego: 'Septyma akordu' ('content/książka/Septyma_akordu.md') links to 'dominantowy' ('content/książka/dominantowy.md') and that does not exist -->.
 

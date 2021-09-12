@@ -11,7 +11,7 @@ aliases: ['/gitara/Akordy_bez_prymy', 'książka/bez-prymy', 'książka/te-same-
 To, że [C7]({{< relref "C7.md" >}}) i G♭7<!-- link nie odnosił się do niczego: 'Akordy bez prymy' ('content/książka/Akordy_bez_prymy.md') links to 'G♭7' ('content/książka/G♭7.md') and that does not exist --> mają te same dźwięki
 jako tercję i septymę, jest pewnym szczególnym przypadkiem bardziej
 powszechnego zjawiska. Bardzo często zdarza się, że różne
-[akordy]({{< relref "Akord.md" >}}) mają bardzo wiele wspólnych dźwięków.
+[akordy]({{< relref "Akord" >}}) mają bardzo wiele wspólnych dźwięków.
 Przyjrzyjmy się akordowi Cmaj7. Składa się on z dźwięków C, E, G, B .
 Powiedzmy że jako oszczędni gitarzyści, opuścimy prymę (od grania prymy
 jest basista). Wtedy zostajemy z dźwiękami E, G, B. Jest to nic innego,
@@ -22,7 +22,7 @@ Em<!-- link nie odnosił się do niczego: 'Akordy bez prymy' ('content/książka
 Możemy uzupełnić Em<!-- link nie odnosił się do niczego: 'Akordy bez prymy' ('content/książka/Akordy_bez_prymy.md') links to 'Em' ('content/książka/Em.md') and that does not exist --> o septymę i zagrać
 [Em7]({{< relref "Em7.md" >}}). Basista wtedy gra C, my gramy
 [Em7]({{< relref "Em7.md" >}}). Co się wtedy dzieje? Cały
-[akord]({{< relref "Akord.md" >}}) składa się wtedy z dźwięków C, E, G, B, D ,
+[akord]({{< relref "Akord" >}}) składa się wtedy z dźwięków C, E, G, B, D ,
 czyli jest to [Cmaj9]({{< relref "Cmaj9.md" >}}).
 
 W ten sposób dostajemy do ręki proste narzędzie: chcąc zagrać akord

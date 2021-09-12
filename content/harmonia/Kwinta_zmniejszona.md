@@ -12,6 +12,6 @@ Termin **kwinta zmniejszona** może odnosić się do:
 
   - [interwału]({{< relref "Interwał.md" >}}) kwinty zmniejszonej, o jeden półton
     mniejszej od [kwinty]({{< relref "Kwinta.md" >}})
-  - składnika [akordu]({{< relref "Akord.md" >}}), będącego w odległości kwinty
+  - składnika [akordu]({{< relref "Akord" >}}), będącego w odległości kwinty
     zmniejszonej od prymy akordu
 

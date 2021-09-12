@@ -51,7 +51,7 @@ muzycznych:
   - [Interwał]({{< relref "Interwał.md" >}})
   - [Skala]({{< relref "Skala.md" >}})
   - [Skale kościelne]({{< relref "Skale_kościelne.md" >}})
-  - [Akord]({{< relref "Akord.md" >}})
+  - [Akord]({{< relref "Akord" >}})
   - [Stopień]({{< relref "Stopień.md" >}})
   - [Tryb]({{< relref "Tryb.md" >}})
   - [Tonacja]({{< relref "Tonacja.md" >}})

@@ -65,7 +65,7 @@ Są to wszystko dość *zwykłe* interwały, to znaczy wszystkie brzmią
 konsonansowo. Dlatego też cały akord C-dur, zagrany w ten sposób brzmi
 prosto i konsonansowo.
 
-Weźmy inny [akord]({{< relref "Akord.md" >}}), na przykład [G9]({{< relref "G9.md" >}}).
+Weźmy inny [akord]({{< relref "Akord" >}}), na przykład [G9]({{< relref "G9.md" >}}).
 Składa się on z dźwięków (G, B, D, F, A) . Wszystkie
 [interwały]({{< relref "Interwał.md" >}}), jakie występują w takim układzie
 dźwięków, czyli wszystkie możliwe pary dźwięków w tym akordzie
@@ -83,7 +83,7 @@ ma para B-F, natomiast najmniejszy wkład do brzmienia akordu ma dźwięk
 D, który nie jest związany właściwie żadnym silniejszym współbrzmieniem
 [interwałowym]({{< relref "Interwał.md" >}}). Można wysnuć stąd wniosek, że skoro
 wkład tego [dźwięku]({{< relref "Dźwięk.md" >}}) do brzmienia
-[akordu]({{< relref "Akord.md" >}}) jest tak niewielki, to można ten dźwięk
+[akordu]({{< relref "Akord" >}}) jest tak niewielki, to można ten dźwięk
 opuścić. Tak jest istotnie.
 
 ## Akordy o budowie kwartowej

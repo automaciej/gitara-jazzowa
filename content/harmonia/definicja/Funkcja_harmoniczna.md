@@ -8,7 +8,7 @@ contributor: 'MaciejBlizinski'
 wikilinks: ['akord', 'dominanta', 'subdominanta', 'tonacja', 'tonika']
 aliases: ['/gitara/Funkcja_harmoniczna']
 ---
-Funkcja harmoniczna jest [akordem]({{< relref "Akord.md" >}}), zbudowanym na
+Funkcja harmoniczna jest [akordem]({{< relref "Akord" >}}), zbudowanym na
 określonym stopniu [tonacji]({{< relref "Tonacja.md" >}}). Podstawowe funkcje
 harmoniczne to [tonika]({{< relref "Tonika.md" >}}),
 [dominanta]({{< relref "Funkcje_harmoniczne.md" >}}) i

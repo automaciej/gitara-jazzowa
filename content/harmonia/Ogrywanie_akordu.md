@@ -10,7 +10,7 @@ aliases: ['/gitara/Ogrywanie_akordu', 'książka/ogrywanie']
 ---
 **Ogrywanie akordu** podczas improwizacji polega na poruszaniu się po
 [dźwiękach]({{< relref "Dźwięk.md" >}}) odpowiednich dla
-[akordu]({{< relref "Akord.md" >}}) (np. granego w podkładzie). Najczęściej są to
+[akordu]({{< relref "Akord" >}}) (np. granego w podkładzie). Najczęściej są to
 dźwięki akordowe, czyli te same, z których składa się akord.
 
 Alternatywne podejście do improwizacji to granie po

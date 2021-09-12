@@ -13,6 +13,6 @@ Termin **septyma wielka** może odnosić się do:
   - [interwału]({{< relref "Interwał.md" >}}) septymy wielkiej, o jeden
     [półton]({{< relref "Półton.md" >}}) mniejszego od
     [oktawy]({{< relref "Oktawa.md" >}})
-  - składnika [akordu]({{< relref "Akord.md" >}}), będącego w odległości septymy
+  - składnika [akordu]({{< relref "Akord" >}}), będącego w odległości septymy
     wielkiej od prymy<!-- link nie odnosił się do niczego: 'Septyma wielka' ('content/książka/Septyma_wielka.md') links to 'pryma' ('content/książka/pryma.md') and that does not exist --> akordu
 
