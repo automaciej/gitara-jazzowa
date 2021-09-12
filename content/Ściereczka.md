@@ -6,7 +6,6 @@ kategorie: ['Akcesoria gitarzysty']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['struny']
-aliases: ['/gitara/Ściereczka']
 ---
 **Ściereczka** to rzecz, którą powinien zawsze mieć pod ręką każdy
 gitarzysta. Jedną - najlepiej irchową - służącą do utrzymywania

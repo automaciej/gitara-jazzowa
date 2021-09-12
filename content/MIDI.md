@@ -6,7 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['modu%C5%82_MIDI', 'syntezator_gitarowy']
-aliases: ['/gitara/MIDI']
 ---
 **Musical Instrument Digital Interface** - cyfrowy interfejs dla
 instrumentów muzycznych.

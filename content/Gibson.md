@@ -6,7 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:GibsonJ200.jpg']
-aliases: ['/gitara/Gibson']
 images:
   - path: "/images/GibsonJ200.jpg"
 ---

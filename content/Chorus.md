@@ -6,7 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: []
-aliases: ['/gitara/Chorus']
 ---
 Dodaje unison różniący się nieznacznie wysokością dźwięku z instrumentu
 i balansujący wokół niego.

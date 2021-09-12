@@ -6,7 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:MostekPrzyklejony.jpg', 'grafika:MostekSkosny.jpg', 'grafika:MostekZRegulacjaMenzuryStrun.jpg', 'grafika:MostekZRegulacjaWysokosci.jpg', 'regulacja_menzury', 'struna']
-aliases: ['/gitara/Mostek']
 images:
   - path: "/images/MostekPrzyklejony.jpg"
   - path: "/images/MostekSkosny.jpg"

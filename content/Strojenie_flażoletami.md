@@ -6,7 +6,6 @@ kategorie: ['Strojenie gitary']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Fla%C5%BColet', 'Grafika:NutyStrojenieFlazoletami.png', 'Grafika:StrojenieFlazoletami.png', 'fla%C5%BColet']
-aliases: ['/gitara/Strojenie_flażoletami']
 images:
   - path: "/images/NutyStrojenieFlazoletami.png"
   - path: "/images/StrojenieFlazoletami.png"

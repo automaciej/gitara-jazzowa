@@ -6,7 +6,6 @@ kategorie: ['Strona główna']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: []
-aliases: ['/gitara/Licencja']
 ---
 Treść serwisu **www.blizinski.pl** jest objęta licencją GNU FDL w wersji
 1.2.

@@ -6,7 +6,6 @@ kategorie: ['Harmonia jazzowa']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['D%C5%BAwi%C4%99ki_alterowane', 'Solmizacja', 'akord', 'bemol']
-aliases: ['/gitara/Alfabety_muzyczne']
 ---
 Pamiętać, że amerykański alfabet muzyczny nie zna litery H. W związku z
 tym:

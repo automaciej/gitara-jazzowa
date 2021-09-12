@@ -6,7 +6,6 @@ kategorie: ['Akcesoria gitarzysty']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['wzmacniacz']
-aliases: ['/gitara/Pogłos']
 ---
 ## Pogłos sprężynowy
 

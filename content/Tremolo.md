@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:NutyTremolo.png']
-aliases: ['/gitara/Tremolo']
 images:
   - path: "/images/NutyTremolo.png"
 ---

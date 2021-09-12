@@ -5,8 +5,7 @@ date: 2005-10-31T23:38:19Z
 kategorie: ['Strona główna']
 draft: false
 contributor: 'MaciejBlizinski'
-wikilinks: ['Janusz_Pop%C5%82awski', 'grafika:GitaraJazzowaDrugieWydanie.gif', 'grafika:GitaraJazzowaPierwszeWydanie.jpg']
-aliases: ['/gitara/Gitara_Jazzowa_(wydanie_papierowe)']
+wikilinks: ['grafika:GitaraJazzowaDrugieWydanie.gif', 'grafika:GitaraJazzowaPierwszeWydanie.jpg']
 images:
   - path: "/images/GitaraJazzowaDrugieWydanie.gif"
   - path: "/images/GitaraJazzowaPierwszeWydanie.jpg"
@@ -16,12 +15,6 @@ images:
 
 Książka *Gitara Jazzowa* była wydana na papierze dwukrotnie. Drugie
 wydanie książki, obecnie dostępne w sprzedaży, zostało wydane przez
-[Janusza Popławskiego]({{< relref "Janusz_Popławski.md" >}}).
+Janusza Popławskiego.
 
-  - [książka Gitara
-    Jazzowa](http://www.poplawski.com.pl/pmp/nutyipodr/podrgit.htm) w
-    sprzedaży wydawnictwa Professional Music Press
-  - [książka Gitara
-    Jazzowa](http://nuty.pl/autorzy/autor-blizinski_marek.htm) w sklepie
-    internetowym nuty.pl
 

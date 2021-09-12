@@ -6,7 +6,6 @@ kategorie: ['Gitarzyści jazzowi']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:NutySoloKennyBurrellSaturdayNiteBlues.png', 'legato', 'struna']
-aliases: ['/gitara/Kenny_Burrell']
 images:
   - path: "/images/NutySoloKennyBurrellSaturdayNiteBlues.png"
 ---

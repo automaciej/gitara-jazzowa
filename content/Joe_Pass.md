@@ -6,7 +6,6 @@ kategorie: ['Gitarzyści jazzowi']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Joe_Pass', 'gra_akordowa', 'grafika:NutySoloJoePassaSunny.png', 'kostka', 'kostka', 'linia_basowa', 'mainstream', 'pi%C4%99ciod%C5%BAwi%C4%99k', 'sekcja_rytmiczna', 'single_note', 'single_note']
-aliases: ['/gitara/Joe_Pass']
 images:
   - path: "/images/NutySoloJoePassaSunny.png"
 ---

@@ -6,7 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['gitara_basowa']
-aliases: ['/gitara/Sekcja_rytmiczna']
 ---
 **Sekcja rytmiczna** w zespole składa się z perkusji i [gitary
 basowej]({{< relref "Gitara_basowa.md" >}}) lub perkusji i kontrabasu.

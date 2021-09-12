@@ -6,7 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['d%C5%BAwi%C4%99k', 'kwinta', 'oktawa']
-aliases: ['/gitara/Fuzz']
 ---
 **Fuzz**, **Booster**, **Distortion**
 

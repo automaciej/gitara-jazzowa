@@ -6,7 +6,6 @@ kategorie: ['Konserwacja gitary', 'Strojenie gitary']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Strojenie_gitary', 'menzura', 'regulacja_menzury']
-aliases: ['/gitara/Odchylenia_od_stroju']
 ---
 Gitara, mimo właściwej pielęgnacji i okresowej korekty
 menzury<!-- link nie odnosił się do niczego: 'Odchylenia od stroju' (PosixPath('Odchylenia_od_stroju.md')) links to 'menzura' (PosixPath('/no/path/exists')) and that does not exist -->, cierpi na pewne minimalne odchylenia w

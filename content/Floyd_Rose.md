@@ -5,7 +5,6 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: ['Floyd_Rose']
-aliases: ['/gitara/Floyd_Rose']
 ---
 [Floyd Rose]({{< relref "Floyd_Rose.md" >}}) mostek "pływający" dwustronny z
 blokadą strun umożliwia uzyskanie efektu tremolo w obie strony tzn.można

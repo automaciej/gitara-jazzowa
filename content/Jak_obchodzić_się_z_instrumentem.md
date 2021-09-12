@@ -6,7 +6,6 @@ kategorie: ['Konserwacja gitary']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['szyjka']
-aliases: ['/gitara/Jak_obchodzić_się_z_instrumentem']
 ---
 Jak obchodzić się z instrumentem? Wiadomo, że delikatnie, tak aby go nie
 uszkodzić. Podnosić zawsze i tylko za [szyjkę]({{< relref "Gryf.md" >}}). Kłaść

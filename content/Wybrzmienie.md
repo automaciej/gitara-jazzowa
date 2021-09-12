@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Gitara_klasyczna', 'gitara_elektryczna', 'sprz%C4%99%C5%BCenie_zwrotne', 'sygna%C5%82']
-aliases: ['/gitara/Wybrzmienie']
 ---
 **Wybrzmienie** (ang. *sustain*) - czas, w którym struna drga,
 produkując sygnał<!-- link nie odnosił się do niczego: 'Wybrzmienie' (PosixPath('Wybrzmienie.md')) links to 'sygnał' (PosixPath('/no/path/exists')) and that does not exist -->. [Gitara

@@ -6,7 +6,6 @@ kategorie: ['Akcesoria gitarzysty']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['gitara_dwunastostrunowa', 'maszynka', 'struny']
-aliases: ['/gitara/Korbka']
 ---
 Wśród wielu akcesoriów ułatwiających życie gitarzyście, można wymienić
 **korbkę** zakładaną na uchwyt maszynki<!-- link nie odnosił się do niczego: 'Korbka' (PosixPath('Korbka.md')) links to 'maszynka' (PosixPath('/no/path/exists')) and that does not exist -->,

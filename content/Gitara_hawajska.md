@@ -6,7 +6,6 @@ kategorie: ['Rodzaje gitar']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['A', 'pud%C5%82o_rezonansowe', 'technika']
-aliases: ['/gitara/Gitara_hawajska']
 ---
 Bardzo specyficzną odmianą jest **gitara hawajska**, tzw. steelguitar. Z
 jazzem ma ona niewiele wspólnego, wykorzystywana jest na ogół w

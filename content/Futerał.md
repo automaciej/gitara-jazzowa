@@ -5,7 +5,6 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Akcesoria gitarzysty']
 draft: false
 wikilinks: ['Szyjka', 'gitara_elektryczna', 'grafika:Futeraly.jpg', 'gryf', 'pud%C5%82o_rezonansowe', 'struna']
-aliases: ['/gitara/Futerał']
 images:
   - path: "/images/Futeraly.jpg"
 ---

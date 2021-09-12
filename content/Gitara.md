@@ -6,7 +6,6 @@ kategorie: ['Strona główna']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Gibson', 'Pud%C5%82o_rezonansowe', 'Szyjka', 'gama_chromatyczna', 'gitara_dwunastostrunowa', 'gitara_elektryczno-akustyczna', 'grafika:PudloGitaryZPunktamiDoOpukiwania.png', 'pud%C5%82o_rezonansowe', 'strojenie_gitary']
-aliases: ['/gitara/Gitara']
 images:
   - path: "/images/PudloGitaryZPunktamiDoOpukiwania.png"
 ---

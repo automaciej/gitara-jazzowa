@@ -6,7 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['A_razkre%C5%9Blne', 'Akord', 'Akord_o_budowie_tercjowej', 'Cz%C4%99stotliwo%C5%9B%C4%87_drga%C5%84', 'Cz%C4%99stotliwo%C5%9Bci_d%C5%BAwi%C4%99k%C3%B3w', 'D%C5%BAwi%C4%99k_(w_rozumieniu_akustyki)', 'D%C5%BAwi%C4%99k_(w_rozumieniu_harmonii)', 'D%C5%BAwi%C4%99k_o_okre%C5%9Blonej_wysoko%C5%9Bci', 'Funkcja_harmoniczna', 'Interwa%C5%82', 'Nazwy_literowe_d%C5%BAwi%C4%99k%C3%B3w', 'Oktawowa_miara_odleg%C5%82o%C5%9Bci_mi%C4%99dzy_cz%C4%99stotliwo%C5%9Bciami', 'Pe%C5%82na_przestrze%C5%84_nazw_d%C5%BAwi%C4%99k%C3%B3w', 'Przestrze%C5%84_naturalnych_nazw_d%C5%BAwi%C4%99k%C3%B3w', 'Przestrze%C5%84_nazw_d%C5%BAwi%C4%99k%C3%B3w_bez_oktawy', 'Skala', 'Skale_ko%C5%9Bcielne', 'Stopie%C5%84', 'System_r%C3%B3wnomiernie_temperowany', 'Ton', 'Tonacja', 'Tryb', 'Wysoko%C5%9B%C4%87_d%C5%BAwi%C4%99ku', 'Zapis_ameryka%C5%84ski_i_niemiecki_(europejski)', 'Znaki_chromatyczne', 'interwa%C5%82']
-aliases: ['/gitara/Podstawy_teorii_muzyki']
 ---
 Niniejsza część jest próbą możliwie ścisłego zdefiniowania pojęć
 muzycznych i opisania ich językiem matematyki. Nie jest to wiedza

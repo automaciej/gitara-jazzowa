@@ -6,6 +6,5 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: []
-aliases: ['/gitara/Ring_modulator']
 ---
 Dodaje do każdego dźwięku inny towarzyszący mu ton.

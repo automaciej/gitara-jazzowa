@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:NutyArpeggio.png']
-aliases: ['/gitara/Arpeggio']
 images:
   - path: "/images/NutyArpeggio.png"
 ---

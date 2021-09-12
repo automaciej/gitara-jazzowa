@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:NutyTryl.png']
-aliases: ['/gitara/Tryl']
 images:
   - path: "/images/NutyTryl.png"
 ---

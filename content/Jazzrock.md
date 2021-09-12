@@ -6,7 +6,6 @@ kategorie: ['Style muzyczne']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['John_McLaughlin', 'John_McLaughlin', 'Larry_Coryell', 'Wibracja', 'blues', 'jazz', 'rock', 'sprz%C4%99%C5%BCenie_zwrotne', 'struna']
-aliases: ['/gitara/Jazzrock']
 ---
 Bardzo korzystny wpływ na rozwój jazzowej techniki gitarowej w latach
 siedemdziesiątych wywarli gitarzyści z kręgu muzyki jazz-rockowej:

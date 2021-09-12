@@ -6,7 +6,6 @@ kategorie: ['Akcesoria gitarzysty']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: []
-aliases: ['/gitara/Envelope_filter']
 ---
 ### Envelope Filter, Doctor Q, Mutron III
 

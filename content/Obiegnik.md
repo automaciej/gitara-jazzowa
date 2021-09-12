@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'Tomar'
 wikilinks: ['grafika:NutyObiegnik.png', 'grafika:NutyObiegnik2.png']
-aliases: ['/gitara/Obiegnik']
 images:
   - path: "/images/NutyObiegnik.png"
   - path: "/images/NutyObiegnik2.png"

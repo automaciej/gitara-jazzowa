@@ -6,7 +6,6 @@ kategorie: ['Rodzaje gitar']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Gibson', 'gitara_elektryczna', 'grafika:GitaraGibsonES-3451D.jpg', 'gryf', 'przetworniki_elektromagnetyczne', 'przystawka', 'pud%C5%82o_rezonansowe', 'pud%C5%82o_rezonansowe', 'pud%C5%82o_rezonansowe']
-aliases: ['/gitara/Gitara_elektryczno-akustyczna']
 images:
   - path: "/images/GitaraGibsonES-3451D.jpg"
 ---

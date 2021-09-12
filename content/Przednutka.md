@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:NutyPrzednutka.png']
-aliases: ['/gitara/Przednutka']
 images:
   - path: "/images/NutyPrzednutka.png"
 ---

@@ -6,7 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: []
-aliases: ['/gitara/Sustainer']
 ---
 ### Sustainer Compressor, Sustain Module, Dyna Comp
 

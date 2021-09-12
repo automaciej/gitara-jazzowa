@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Akcentowanie', 'Fla%C5%BColet', 'Legato', 'Ozdobniki', 'akcentowanie', 'legato', 'staccato']
-aliases: ['/gitara/Artykulacja']
 ---
 **Artykulacja** jest jednym z najważniejszych elementów muzycznych.
 Często decyduje o tym, czy daną muzykę możemy nazwać jazzem czy nie.

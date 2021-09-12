@@ -32,6 +32,5 @@ dawała najlepsze rezultaty.
   - [Wysokość stroju](Wysokość_stroju "wikilink")
   - [Odchylenia od stroju](Odchylenia_od_stroju "wikilink")
   - [Jak często stroić gitarę](Jak_często_stroić_gitarę "wikilink")
-  - [Instrument transponujący](Instrument_transponujący "wikilink")
 
 [kategoria:strojenie gitary](kategoria:strojenie_gitary "wikilink")
