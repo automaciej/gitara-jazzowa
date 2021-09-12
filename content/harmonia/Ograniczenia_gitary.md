@@ -13,7 +13,7 @@ musimy się pogodzić. Fortepian ma tu zdecydowaną przewagę i może grać
 układy [dźwięków]({{< relref "Dźwięk.md" >}}), o których gitara może tylko
 pomarzyć. Jednak nie martwiłbym sie tym zbytnio, ponieważ i on ma swoje
 ograniczenia, głównie na polu barwy dźwięku i
-[artykulacji]({{< relref "Artykulacja.md" >}}).
+artykulacji.
 
 ### Liczba strun
 
