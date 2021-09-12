@@ -94,13 +94,13 @@ akordu, żeby w miarę możliwości pomiędzy najbliższymi składnikami były
 kwarty. W takich akordach najczęściej w jednym miejscu jest jeszcze
 tercja wielka. Przykładowy układ akordu [Cmaj96]({{< relref "Cmaj96.md" >}}):
 
-`E ---O---|---|---|---|---|---`
-`B ---|---O---|---|---|---|---`
-`G ---O---|---|---|---|---|---`
-`D ---O---|---|---|---|---|---`
-`A ---O---|---|---|---|---|---`
-`E ---|---O---|---|---|---|---`
-`    VII VIII`
+    E ---O---|---|---|---|---|---
+    B ---|---O---|---|---|---|---
+    G ---O---|---|---|---|---|---
+    D ---O---|---|---|---|---|---
+    A ---O---|---|---|---|---|---
+    E ---|---O---|---|---|---|---
+        VII VIII
 
 Akord ten składa się z dźwięków: (C, E, A, D, G, B). Kwarty są pomiędzy
 parami dźwięków \(\Big\{ \{ E, A\}, \{ A, D\}, \{ D, G\} \Big\}\). Przy
