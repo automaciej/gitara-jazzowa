@@ -1,3 +1,3 @@
 ---
-title: "Akordy"
+title: "Chwyty akordowe"
 ---
