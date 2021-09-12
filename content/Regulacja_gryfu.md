@@ -27,7 +27,7 @@ Pokazuje to nieco przesadnie rysunek.
 Mając do dyspozycji [pręt regulacyjny]({{< relref "Pręt_regulacyjny.md" >}}),
 należy wówczas zwolnić trochę jego naciąg, odkręcając nakrętkę. Wejście
 do niej znajduje się na froncie główki lub na końcu drugiej strony
-gryfu. Po zwolnieniu naciągu [strun]({{< relref "Struna.md" >}}), nakrętką pręta
+gryfu. Po zwolnieniu naciągu [strun]({{< relref "Struny.md" >}}), nakrętką pręta
 regulacyjnego robimy zależnie od potrzeby od 0,2 do 1,5 obrotu
 przeciwnie do ruchu wskazówek zegara. Następnie stroimy gitarę i
 sprawdzamy, czy [gryf]({{< relref "Gryf.md" >}}) odzyskał swój właściwy kształt.

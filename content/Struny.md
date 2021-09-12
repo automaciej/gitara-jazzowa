@@ -1,11 +1,12 @@
 ---
-title: "Struna"
-slug: "struna"
-date: 2005-01-01T00:00:00+01:00
+title: "Struny"
+slug: "struny"
+date: 2005-01-21T10:51:47Z
 kategorie: ['Budowa gitary']
 draft: false
+contributor: 'MaciejBlizinski'
 wikilinks: ['Fender', 'Gibson', 'Kenny_Burrell', 'dynamika', 'gitara_akustyczna', 'gitara_akustyczna', 'gitara_dwunastostrunowa', 'gitara_klasyczna', 'grafika:StrunaNaKolku.jpg']
-aliases: ['/struny']
+aliases: ['/struna']
 images:
   - path: "/images/StrunaNaKolku.jpg"
 ---

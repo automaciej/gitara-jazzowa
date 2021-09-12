@@ -47,7 +47,7 @@ być znaczniejsze, a to usztywnia i powoduje zmęczenie.
 
 Instrument powinien być umieszczony tak, aby grający miał dobry dostęp
 do wszystkich pozycji na [gryfie]({{< relref "Gryf.md" >}}) i do wszystkich
-[strun]({{< relref "Struna.md" >}}) bez zasadniczych zmian w postawie. Gitara nie
+[strun]({{< relref "Struny.md" >}}) bez zasadniczych zmian w postawie. Gitara nie
 powinna uciskać grającego, gdyż może to spowodować drętwienie
 przylegających części ciała lub ograniczenie oddechu.
 

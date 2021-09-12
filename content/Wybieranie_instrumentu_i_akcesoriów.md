@@ -9,7 +9,7 @@ aliases: ['/kryteria-oceny-przy-wyborze-instrumentu-i-akcesoriow']
 ---
   - [Gitara]({{< relref "Gitara.md" >}})
   - [Wzmacniacz]({{< relref "Wzmacniacz.md" >}})
-  - [Struny]({{< relref "Struna.md" >}})
+  - [Struny]({{< relref "Struny.md" >}})
   - [Kostka]({{< relref "Kostka.md" >}})
   - [Pasek do gitary]({{< relref "Pasek_do_gitary.md" >}})
   - [Futerał]({{< relref "Futerał.md" >}})
@@ -18,7 +18,7 @@ aliases: ['/kryteria-oceny-przy-wyborze-instrumentu-i-akcesoriow']
 
 Wraz z instrumentem gitarzysta powinien mieć ze sobą przedmioty, które
 są, lub mogą się okazać niezbędne: kable, zapasowe
-[struny]({{< relref "Struna.md" >}}), ściereczkę do czyszczenia instrumentu,
+[struny]({{< relref "Struny.md" >}}), ściereczkę do czyszczenia instrumentu,
 pasek, zapasowe [kostki]({{< relref "Kostka.md" >}}), ewentualnie śrubokręt do
 regulacji przystawek i [mostka]({{< relref "Mostek.md" >}}) oraz przybory do
 mycia rąk. Dobrze jest też, gdy mamy zapasowe bezpieczniki do

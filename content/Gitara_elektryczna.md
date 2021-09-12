@@ -65,7 +65,7 @@ blokadę strun, zwiększająca stabilność stroju.
 
 # Przetworniki
 
-Pod [strunami]({{< relref "Struna.md" >}}) gitara elektryczna ma umieszczone
+Pod [strunami]({{< relref "Struny.md" >}}) gitara elektryczna ma umieszczone
 przeważnie trzy [przetworniki]({{< relref "Przetwornik.md" >}})
 elektromagnetyczne na ogół z regulowana wysokością i to często na każdą
 strunę z osobna. Na korpusie gitary zamocowane są

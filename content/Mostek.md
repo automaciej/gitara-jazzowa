@@ -13,7 +13,7 @@ images:
   - path: "/images/MostekZRegulacjaWysokosci.jpg"
 ---
 Mostek jest częścią instrumentu, do której przymocowane są
-[struny]({{< relref "Struna.md" >}}). Przy pomocy mostka można wykonać [regulację
+[struny]({{< relref "Struny.md" >}}). Przy pomocy mostka można wykonać [regulację
 menzury]({{< relref "Regulacja_menzury.md" >}}).
 
 {{< image src="/images/MostekZRegulacjaMenzuryStrun.jpg" width="401" height="185" >}}

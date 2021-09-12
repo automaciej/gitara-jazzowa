@@ -17,7 +17,7 @@ podręczniki do nauki gry. Polega ona na nastrojeniu struny E-1 na
 właściwy ton (do *a* wydobytego z kamertonu lub z innego instrumentu
 dostrajamy strunę E-1 dociśniętą w V pozycji), a następnie na
 porównywaniu i dostrajaniu dźwięków sąsiednich, niższych
-[strun]({{< relref "Struna.md" >}}) odpowiadających dźwiękom pustych strun
+[strun]({{< relref "Struny.md" >}}) odpowiadających dźwiękom pustych strun
 wyższych. Tak więc porównujemy dźwięk pustej struny E-1 z dźwiękiem e
 zagranym na strunie H-2 w pozycji V i dostrajamy strunę H-2.
 
@@ -52,7 +52,7 @@ Stroimy następnie gitarę poczynając od struny A-5, a więc:
     powtórzyć.
 
 Jak widać, sposób ten różni się od podanego poprzednio odwróconą
-kolejnością strojenia [strun]({{< relref "Struna.md" >}}). Na tym właśnie polega
+kolejnością strojenia [strun]({{< relref "Struny.md" >}}). Na tym właśnie polega
 ułatwienie, bo dzięki temu dostrajamy strunę pustą, która może brzmieć w
 trakcie podwyższania lub obniżania jej stroju. Jest to ważne, ponieważ
 nie robiąc tego „na ślepo", możemy bez wielokrotnych prób wyrównać
