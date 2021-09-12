@@ -32,25 +32,21 @@ muzycznych:
 
 ## Definicje
 
-  - Dźwięk (w rozumieniu
-    akustyki)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/książka/Podstawy_teorii_muzyki.md') links to 'Dźwięk_\\(w_rozumieniu_akustyki\\)' ('content/książka/Dźwięk_\\(w_rozumieniu_akustyki\\).md') and that does not exist -->
+
+
+  - [Dźwięk (w rozumieniu akustyki)]({{< relref "Dźwięk_(w_rozumieniu_akustyki).md" >}})
   - [Częstotliwość drgań]({{< relref "Częstotliwość_drgań.md" >}})
   - [Ton]({{< relref "Ton.md" >}})
-  - [Dźwięk o określonej
-    wysokości]({{< relref "Dźwięk_o_określonej_wysokości.md" >}})
-  - [Oktawowa miara odległości między
-    częstotliwościami]({{< relref "Oktawowa_miara_odległości_między_częstotliwościami.md" >}})
-  - [System równomiernie
-    temperowany]({{< relref "System_równomiernie_temperowany.md" >}})
+  - [Dźwięk o określonej wysokości]({{< relref "Dźwięk_o_określonej_wysokości.md" >}})
+  - [Oktawowa miara odległości między częstotliwościami]({{< relref "Oktawowa_miara_odległości_między_częstotliwościami.md" >}})
+  - [System równomiernie temperowany]({{< relref "System_równomiernie_temperowany.md" >}})
   - [Znaki chromatyczne]({{< relref "Znaki_chromatyczne.md" >}})
   - [Nazwy literowe dźwięków]({{< relref "Nazwy_literowe_dźwięków.md" >}})
-  - [Pełna przestrzeń nazw
-    dźwięków]({{< relref "Pełna_przestrzeń_nazw_dźwięków.md" >}})
-  - [Przestrzeń naturalnych nazw
-    dźwięków]({{< relref "Przestrzeń_naturalnych_nazw_dźwięków.md" >}})
-  - [Przestrzeń nazw dźwięków bez
-    oktawy]({{< relref "Przestrzeń_nazw_dźwięków_bez_oktawy.md" >}})
-  - Dźwięk (w rozumieniu harmonii)  - [A razkreślne]({{< relref "A_razkreślne.md" >}})
+  - [Pełna przestrzeń nazw dźwięków]({{< relref "Pełna_przestrzeń_nazw_dźwięków.md" >}})
+  - [Przestrzeń naturalnych nazw dźwięków]({{< relref "Przestrzeń_naturalnych_nazw_dźwięków.md" >}})
+  - [Przestrzeń nazw dźwięków bez oktawy]({{< relref "Przestrzeń_nazw_dźwięków_bez_oktawy.md" >}})
+  - [Dźwięk (w rozumieniu harmonii)]({{< relref "Dźwięk_(w_rozumieniu_harmonii).md" >}})
+  - [A razkreślne]({{< relref "A_razkreślne.md" >}})
   - [Częstotliwości dźwięków]({{< relref "Częstotliwości_dźwięków.md" >}})
   - [Interwał]({{< relref "Interwał.md" >}})
   - [Skala]({{< relref "Skala.md" >}})
@@ -61,5 +57,4 @@ muzycznych:
   - [Tonacja]({{< relref "Tonacja.md" >}})
   - [Akord o budowie tercjowej]({{< relref "Akord_o_budowie_tercjowej.md" >}})
   - [Funkcja harmoniczna]({{< relref "Funkcja_harmoniczna.md" >}})
-  - Zapis amerykański i niemiecki
-    (europejski)<!-- link nie odnosił się do niczego: 'Podstawy teorii muzyki' ('content/książka/Podstawy_teorii_muzyki.md') links to 'Zapis_amerykański_i_niemiecki_\\(europejski\\)' ('content/książka/Zapis_amerykański_i_niemiecki_\\(europejski\\).md') and that does not exist -->
+  - [Zapis amerykański i niemiecki (europejski)]({{< relref "Zapis_amerykański_i_niemiecki_(europejski).md" >}})
