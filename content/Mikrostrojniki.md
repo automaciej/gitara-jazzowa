@@ -6,7 +6,6 @@ kategorie: ['Budowa gitary', 'Strojenie gitary']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Floyd_Rose', 'Grafika:MostekZMikrostrojnikami.jpg', 'Grafika:NutyStrojenieMikrostrojnikami.png', 'Strojenie_gitary', 'gitara_elektryczno-akustyczna']
-aliases: ['/gitara/Mikrostrojniki']
 images:
   - path: "/images/MostekZMikrostrojnikami.jpg"
   - path: "/images/NutyStrojenieMikrostrojnikami.png"

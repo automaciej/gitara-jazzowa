@@ -6,7 +6,6 @@ kategorie: ['Gitarzyści jazzowi']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Al_Di_Meola', 'Mahavishnu_Orchestra', 'Paco_de_Lucia', 'Pat_Metheny', 'blues', 'gitara_akustyczna', 'gitara_elektryczna', 'jazzrock', 'syntezator_gitarowy']
-aliases: ['/gitara/John_McLaughlin']
 ---
 **John McLaughlin** to centralna postać jazzu lat siedem­dziesiątych,
 wielki improwizator gitary elektrycznej i aku­stycznej.

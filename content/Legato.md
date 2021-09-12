@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Allan_Holdsworth', 'Emmet_Chapman', 'Stick', 'Stick', 'Tapping', 'barwa_d%C5%BAwi%C4%99ku', 'gitara_klasyczna', 'gryf', 'gryf', 'kostka', 'kostka', 'lewa_r%C4%99ka', 'mostek', 'ozdobniki', 'rejestr_g%C5%82osowy', 'technika']
-aliases: ['/gitara/Legato']
 ---
 Jest kilka sposobów grania **legato** na gitarze. Zasadą jest **łączenie
 dźwięków**, tak aby nie robić między nimi nawet najkrótszej przerwy.

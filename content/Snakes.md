@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['fraza', 'improwizacj']
-aliases: ['/gitara/Snakes']
 ---
 **Snakes** (ang. *węże*) - pogardliwe określenie dla wyeksploatowanych i
 powta­rzanych stale tak samo fraz<!-- link nie odnosił się do niczego: 'Snakes' (PosixPath('Snakes.md')) links to 'fraza' (PosixPath('/no/path/exists')) and that does not exist --> w

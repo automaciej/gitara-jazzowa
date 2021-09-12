@@ -6,7 +6,6 @@ kategorie: ['Akcesoria gitarzysty']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Harmonizer']
-aliases: ['/gitara/Octaver']
 ---
 Dodaje do dźwięku z instrumentu oktawy (dolne). Są też urządzenia o
 wiele bardziej rozbudowane, które umożliwiają dodawanie różnych

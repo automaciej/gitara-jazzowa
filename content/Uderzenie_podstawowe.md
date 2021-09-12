@@ -5,7 +5,6 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Grafika:PrawaDlonPoUderzeniuWstruneD.jpg', 'Grafika:PrawaDlonPrzedUderzeniemWstruneD.jpg', 'Grafika:PrawaDlonWtrakcieUderzaniaWstruneD.jpg', 'Grafika:RuchKostki.png', 'Praca_prawej_r%C4%99ki', 'Ruch_kostki', 'kostka']
-aliases: ['/gitara/Uderzenie_podstawowe']
 images:
   - path: "/images/PrawaDlonPoUderzeniuWstruneD.jpg"
   - path: "/images/PrawaDlonPrzedUderzeniemWstruneD.jpg"

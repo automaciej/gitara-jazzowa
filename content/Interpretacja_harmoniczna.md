@@ -6,7 +6,6 @@ kategorie: ['Harmonia jazzowa']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['akord', 'd%C5%BAwi%C4%99k', 'dominanta', 'dominanta', 'funkcja_harmoniczna', 'schemat_harmoniczny', 'septyma_akordu', 'tonika']
-aliases: ['/gitara/Interpretacja_harmoniczna']
 ---
 Często schemat harmoniczny<!-- link nie odnosił się do niczego: 'Interpretacja harmoniczna' (PosixPath('Interpretacja_harmoniczna.md')) links to 'schemat_harmoniczny' (PosixPath('/no/path/exists')) and that does not exist --> utworu
 podawany jest w formie uproszczonej, aby wykonawca mógł się wykazać

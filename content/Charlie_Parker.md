@@ -6,7 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['bebop', 'kwinta_zmniejszona', 'tryton']
-aliases: ['/gitara/Charlie_Parker']
 ---
 **Charlie Parker**, pseudonim ***Bird*** (urodzony (29 sierpnia 1920 w
 Kansas City w USA - zmarł 12 marca 1955), saksofonista jazzowy, który

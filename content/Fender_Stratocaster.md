@@ -6,7 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: []
-aliases: ['/gitara/Fender_Stratocaster']
 ---
 Najsłynniejsza obecnie gitara elektryczna produkowana przez firme
 Fender.

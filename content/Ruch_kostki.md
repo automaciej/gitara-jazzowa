@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:NutyPracaPrawejReki.png', 'Grafika:NutyPrawaRekaTriola.png', 'Grafika:NutyPrawaRekaTriolki.png', 'Grafika:NutyPrzechodzenieZeStrunyNaStrune.png', 'Grafika:RuchKostki.png', 'Kostka', 'Praca_prawej_r%C4%99ki', 'artykulacja', 'gra_akordowa', 'kostka', 'legato']
-aliases: ['/gitara/Ruch_kostki']
 images:
   - path: "/images/NutyPracaPrawejReki.png"
   - path: "/images/NutyPrawaRekaTriola.png"

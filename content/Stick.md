@@ -5,7 +5,6 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Rodzaje gitar']
 draft: false
 wikilinks: ['Emmet_Chapman', 'Jim_Lampi', 'King_Crimson', 'MIDI', 'Tony_Levin', 'body', 'pickup', 'tapping', 'wzmacniacz']
-aliases: ['/gitara/Stick']
 ---
 Amerykanin Emmet Chapman<!-- link nie odnosił się do niczego: 'Stick' (PosixPath('Stick.md')) links to 'Emmet_Chapman' (PosixPath('/no/path/exists')) and that does not exist --> skonstruował i
 wprowadził do sprzedaży w 1974 roku specjalny instrument

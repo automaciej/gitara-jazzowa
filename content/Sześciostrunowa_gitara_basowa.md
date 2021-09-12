@@ -5,7 +5,6 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Rodzaje gitar']
 draft: false
 wikilinks: ['akord', 'gryf', 'menzura', 'strojenie_gitary', 'struny']
-aliases: ['/gitara/Sześciostrunowa_gitara_basowa']
 ---
 Bywają też, choć mało popularne **sześciostrunowe gitary basowe** -
 brzmiące o oktawę niżej. W standardowym

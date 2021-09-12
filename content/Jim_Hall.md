@@ -6,7 +6,6 @@ kategorie: ['Gitarzyści jazzowi']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Joe_Pass', 'Joe_Pass', 'Sekcja_rytmiczna', 'grafika:NutySoloJimaHallaTheWayYouLookTonight.png', 'improwizacja', 'instrument_harmoniczny']
-aliases: ['/gitara/Jim_Hall']
 images:
   - path: "/images/NutySoloJimaHallaTheWayYouLookTonight.png"
 ---

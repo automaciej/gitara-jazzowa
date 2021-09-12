@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Modulatory_i_filtry_d%C5%BAwi%C4%99ku', 'Pog%C5%82os', 'Sprz%C4%99%C5%BCenie_zwrotne', 'Wibracja']
-aliases: ['/gitara/Modulowanie_dźwięku']
 ---
   - [Wibracja]({{< relref "Wibracja.md" >}})
   - [Pogłos]({{< relref "Pogłos.md" >}})

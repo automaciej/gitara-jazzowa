@@ -6,7 +6,6 @@ kategorie: ['Akcesoria gitarzysty']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:autotuner.jpg', 'Strojenie_gitary']
-aliases: ['/gitara/Strojniki_elektroniczne']
 images:
   - path: "/images/Autotuner.jpg"
 ---

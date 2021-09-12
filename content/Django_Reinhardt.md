@@ -5,7 +5,6 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: []
 draft: false
 wikilinks: []
-aliases: ['/gitara/Django_Reinhardt']
 ---
 Pierwszy model gitary Maccaferriego powstał (z tego co wiem) w 1932
 roku. Gitara ta została stworzona przez firmę "Selmer" - znanej do

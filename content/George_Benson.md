@@ -6,7 +6,6 @@ kategorie: ['Gitarzyści jazzowi']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Wes_Montgomery']
-aliases: ['/gitara/George_Benson']
 ---
 Wpływy [Wes Montgomery]({{< relref "Wes_Montgomery.md" >}})'ego można usłyszeć w
 grze gitarzysty George'a Bensona. Benson posługuje się zarówno kostką

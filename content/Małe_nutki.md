@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:NutyMaleNutki.png']
-aliases: ['/gitara/Małe_nutki']
 images:
   - path: "/images/NutyMaleNutki.png"
 ---

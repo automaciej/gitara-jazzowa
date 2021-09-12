@@ -6,7 +6,6 @@ kategorie: ['Akcesoria gitarzysty']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:Capo-on.jpg', 'Grafika:capo.jpg', 'gryf', 'menzura', 'siode%C5%82ko', 'struny', 'tonacja']
-aliases: ['/gitara/Kapodaster']
 images:
   - path: "/images/Capo-on.jpg"
   - path: "/images/Capo.jpg"

@@ -6,7 +6,6 @@ kategorie: ['Akcesoria gitarzysty']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Chorus', 'Delay', 'Envelope_filter', 'Flanger', 'Fuzz', 'Grafika:Multiprocesor.jpg', 'John_McLaughlin', 'MIDI', 'Octaver', 'Pat_Metheny', 'Phaser', 'Ring_modulator', 'Sustainer', 'Tape_echo', 'Wahwah', 'bramka_szum%C3%B3w', 'gitara_elektryczna', 'sygna%C5%82', 'syntezator_gitarowy', 'wzmacniacz', 'wzmacniacz', 'wzmacniacz']
-aliases: ['/gitara/Modulatory_i_filtry_dźwięku']
 images:
   - path: "/images/Multiprocesor.jpg"
 ---

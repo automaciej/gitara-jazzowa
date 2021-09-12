@@ -6,7 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:GitaraLesPaulCustom.jpg']
-aliases: ['/gitara/Les_Paul']
 images:
   - path: "/images/GitaraLesPaulCustom.jpg"
 ---

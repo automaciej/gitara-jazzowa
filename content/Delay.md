@@ -6,7 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: []
-aliases: ['/gitara/Delay']
 ---
 **Delay**, **Echo**
 

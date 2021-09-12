@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:NutyMordent.png', 'kostka']
-aliases: ['/gitara/Mordent']
 images:
   - path: "/images/NutyMordent.png"
 ---

@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:NutyPracaLewejReki01.png', 'artykulacja', 'd%C5%BAwi%C4%99k', 'gra_akordowa', 'technika', 'wibracja']
-aliases: ['/gitara/Praca_lewej_ręki']
 images:
   - path: "/images/NutyPracaLewejReki01.png"
 ---

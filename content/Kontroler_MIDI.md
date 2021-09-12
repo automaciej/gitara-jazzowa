@@ -6,7 +6,6 @@ kategorie: []
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Syntezator_gitarowy', 'modu%C5%82_MIDI', 'modu%C5%82_MIDI', 'zdarzenie_MIDI']
-aliases: ['/gitara/Kontroler_MIDI']
 ---
 **Kontroler MIDI** - urządzenie, za pomocą którego można generować tzw.
 zdarzenia MIDI<!-- link nie odnosił się do niczego: 'Kontroler MIDI' (PosixPath('Kontroler_MIDI.md')) links to 'zdarzenie_MIDI' (PosixPath('/no/path/exists')) and that does not exist --> (MIDI events). Kontroler

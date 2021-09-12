@@ -6,7 +6,6 @@ kategorie: ['Strona główna']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Charlie_Christian', 'Gitara_Jazzowa_(wydanie_papierowe)', 'Grafika:MarekBlizinski.jpg', 'Jim_Hall', 'Joe_Pass', 'snakes', 'technika', 'technika']
-aliases: ['/gitara/Od_autora']
 images:
   - path: "/images/MarekBlizinski.jpg"
 ---

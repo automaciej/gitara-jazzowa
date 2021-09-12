@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:NutyPalcowanie.png', 'Grafika:NutyPracaLewejReki02.png', 'non_legato', 'staccato']
-aliases: ['/gitara/Palcowanie']
 images:
   - path: "/images/NutyPalcowanie.png"
   - path: "/images/NutyPracaLewejReki02.png"

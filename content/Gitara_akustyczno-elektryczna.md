@@ -6,7 +6,6 @@ kategorie: ['Rodzaje gitar']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['gitara_akustyczna', 'gitara_elektryczna', 'pud%C5%82o_rezonansowe', 'wzmacniacz']
-aliases: ['/gitara/Gitara_akustyczno-elektryczna']
 ---
 Jest to gitara akustyczna typu Flattop, której brzmienie [pudła
 rezonansowego]({{< relref "Pudło_rezonansowe.md" >}}) może być wzmacniane za

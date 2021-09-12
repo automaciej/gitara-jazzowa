@@ -6,7 +6,6 @@ kategorie: ['Budowa gitary']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Gibson', 'Grafika:MarekPatrzyNaGryfOdStronyGlowki.jpg', 'Les_Paul', 'pr%C4%99t_regulacyjny']
-aliases: ['/gitara/Ocena_gryfu']
 images:
   - path: "/images/MarekPatrzyNaGryfOdStronyGlowki.jpg"
 ---

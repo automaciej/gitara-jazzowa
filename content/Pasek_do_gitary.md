@@ -5,7 +5,6 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Akcesoria gitarzysty']
 draft: false
 wikilinks: ['Wes_Montgomery', 'gitara_akustyczna', 'postawa_z_instrumentem']
-aliases: ['/gitara/Pasek_do_gitary']
 ---
 Ma on duże znaczenie dla właściwej
 [postawy]({{< relref "Postawa_z_instrumentem.md" >}}). Zaczepia się go o

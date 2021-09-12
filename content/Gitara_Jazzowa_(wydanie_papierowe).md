@@ -6,7 +6,6 @@ kategorie: ['Strona główna']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['grafika:GitaraJazzowaDrugieWydanie.gif', 'grafika:GitaraJazzowaPierwszeWydanie.jpg']
-aliases: ['/gitara/Gitara_Jazzowa_(wydanie_papierowe)']
 images:
   - path: "/images/GitaraJazzowaDrugieWydanie.gif"
   - path: "/images/GitaraJazzowaPierwszeWydanie.jpg"

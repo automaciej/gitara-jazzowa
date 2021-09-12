@@ -5,7 +5,6 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['gryf', 'kostka', 'legato', 'legato', 'lewa_r%C4%99ka']
-aliases: ['/gitara/Staccato']
 ---
 **Staccato** jest przeciwieństwem [legata]({{< relref "Legato.md" >}}), a więc
 wskazuje na wykonywanie dźwięków krótko, z przerwami. Najprostszy i

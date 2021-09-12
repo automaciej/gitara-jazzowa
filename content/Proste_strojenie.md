@@ -6,7 +6,6 @@ kategorie: ['Strojenie gitary']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Grafika:StrojenieGitary.png', 'maszynka', 'metody_strojenia', 'oktawa', 'strojnik', 'struna', 'struna']
-aliases: ['/gitara/Proste_strojenie']
 images:
   - path: "/images/StrojenieGitary.png"
 ---

@@ -5,7 +5,7 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['alikwot', 'fla%C5%BColet', 'pud%C5%82o_rezonansowe', 'solid_body', 'wybrzmienie']
-aliases: ['/gitara/Sprzężenie_zwrotne', '/sprzezenia']
+aliases: ['/sprzezenia']
 ---
 Jest to efekt, który w praktyce pozwala na osiąganie dowolnie [długo
 brzmiących]({{< relref "Wybrzmienie.md" >}}) dźwięków.

@@ -6,7 +6,6 @@ kategorie: ['Harmonia jazzowa']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Cm7', 'Cm7', 'Cmaj7', 'Cmaj7', 'G7', 'G7%E2%99%AD5%E2%99%AD9', 'G7%E2%99%AD9', 'G9', 'akord', 'd%C5%BAwi%C4%99k', 'dominanta', 'grafika:NutyzmianaRoliDzwiekowBezZmianyWysokosci.png', 'harmonia_klasyczna']
-aliases: ['/gitara/Prowadzenie_głosów']
 images:
   - path: "/images/NutyzmianaRoliDzwiekowBezZmianyWysokosci.png"
 ---

@@ -5,7 +5,6 @@ date: 2005-01-01T00:00:00+01:00
 kategorie: ['Technika gry']
 draft: false
 wikilinks: ['Gibson', 'Jim_Hall', 'dynamika', 't%C5%82umik', 'wzmacniacz']
-aliases: ['/gitara/Ustawianie_barwy_dźwięku_w_gitarze']
 ---
 Ustawienie barwy dźwięku w samej gitarze uzależnione jest od jej układu
 elektrycznego. Najbardziej typowe i chyba najlepsze rozwiązanie dają

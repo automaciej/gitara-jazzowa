@@ -6,7 +6,6 @@ kategorie: ['Technika gry']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: [':Kategoria:gitarzy%C5%9Bci_jazzowi', 'Lewa_r%C4%99ka', 'Palcowanie', 'Prawa_r%C4%99ka']
-aliases: ['/gitara/Praca_rąk']
 ---
 Jak już pisałem, sławni
 [gitarzyści](/kategorie/gitarzyści-jazzowi "Kategoria gitarzyści jazzowi") stosują bardzo

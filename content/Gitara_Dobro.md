@@ -6,7 +6,6 @@ kategorie: ['Rodzaje gitar']
 draft: false
 contributor: 'MaciejBlizinski'
 wikilinks: ['Gitara_elektryczna', 'Gitara_hawajska', 'gitara_akustyczna', 'grafika:GitaraDobro.jpg', 'pud%C5%82o_rezonansowe']
-aliases: ['/gitara/Gitara_Dobro']
 images:
   - path: "/images/GitaraDobro.jpg"
 ---
