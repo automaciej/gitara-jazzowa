@@ -18,3 +18,7 @@ _Strona Macieja Blizińskiego_
 - [x] Oddzielenie stron o harmonii jazzowej
 - [x] Ułożenie stron w sekwencję
 - [ ] Nadanie stronie wyglądu
+- [x] Usunięcie przekierowań
+- [ ] Usunięcie zaślepek
+- [ ] Naprawienie tabelek
+- [ ] Usunięcie symboli matematycznych
