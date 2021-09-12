@@ -7,7 +7,7 @@ enableGitInfo = true
 [taxonomies]
   kategoria = "kategorie"
 [params]
-  description = "Chwyty akordowe, dlaczego akurat takie, oraz jak je łączyć ze sobą."
+  description = "akordy na gitarze jako takie, oraz jak je łączyć ze sobą"
   organization = "Maciej Bliziński"
   logo = "/images/android-chrome-192x192.png"
 [params.author]
